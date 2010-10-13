@@ -1,0 +1,46 @@
+"œ
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_75">
+      
+
+Macduff, this noble passion,
+Child of integrity, hath from my soul 
+
+<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_75', '/monologues/preview?monologue_id=75', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('w73Mme8a/82FdfmcO8pG7R8YPpSKiP5jr7SYpIAD388=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <div align='right'>Macduff, this noble passion,</div>
+Child of integrity, hath from my soul<br>
+Wiped the black scruples, reconciled my thoughts<br>
+To thy good truth and honour. Devilish Macbeth<br>
+By many of these trains hath sought to win me<br>
+Into his power, and modest wisdom plucks me<br>
+From over-credulous haste: but God above<br>
+Deal between thee and me! for even now <br>
+I put myself to thy direction, and<br>
+Unspeak mine own detraction, here abjure<br>
+The taints and blames I laid upon myself,<br>
+For strangers to my nature. I am yet<br>
+Unknown to woman, never was forsworn, <br>
+Scarcely have coveted what was mine own,<br>
+At no time broke my faith, would not betray<br>
+The devil to his fellow and delight<br>
+No less in truth than life: my first false speaking<br>
+Was this upon myself: what I am truly, <br>
+Is thine and my poor country's to command:<br>
+Whither indeed, before thy here-approach,<br>
+Old Siward, with ten thousand warlike men,<br>
+Already at a point, was setting forth.<br>
+Now we'll together; and the chance of goodness <br>
+Be like our warranted quarrel! 
+
+      </div>
+    </span>
+
+  
+

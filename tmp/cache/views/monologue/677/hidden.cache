@@ -1,0 +1,38 @@
+"�
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_677">
+      Put up thy gold: go on, here's gold, go on;<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_677', '/monologues/preview?monologue_id=677', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('wlGll5YBXLlbQSLiUtoIXCIyqPT09w7xlD0kKVPwBEE=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Put up thy gold: go on,—here's gold,—go on;<br>
+Be as a planetary plague, when Jove<br>
+Will o'er some high-viced city hang his poison<br>
+In the sick air: let not thy sword skip one: <br>
+Pity not honour'd age for his white beard;<br>
+He is an usurer: strike me the counterfeit matron;<br>
+It is her habit only that is honest,<br>
+Herself's a bawd: let not the virgin's cheek<br>
+Make soft thy trenchant sword; for those milk-paps, <br>
+That through the window-bars bore at men's eyes,<br>
+Are not within the leaf of pity writ,<br>
+But set them down horrible traitors: spare not the babe,<br>
+Whose dimpled smiles from fools exhaust their mercy;<br>
+Think it a bastard, whom the oracle <br>
+Hath doubtfully pronounced thy throat shall cut,<br>
+And mince it sans remorse: swear against objects;<br>
+Put armour on thine ears and on thine eyes;<br>
+Whose proof, nor yells of mothers, maids, nor babes,<br>
+Nor sight of priests in holy vestments bleeding, <br>
+Shall pierce a jot. There's gold to pay soldiers:<br>
+Make large confusion; and, thy fury spent,<br>
+Confounded be thyself! Speak not, be gone. 
+      </div>
+    </span>
+
+  
+

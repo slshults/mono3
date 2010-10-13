@@ -1,0 +1,10 @@
+"™
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_639">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_639', '/monologues/preview/639', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('XSZp99rm+8s500aOfxCWp2GV/dSK5ZiR8WQGH6xPOOM=')}); return false;">By nursing them, my lord. List a brief tale</a>
+    </span>
+  
+

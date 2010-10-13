@@ -1,0 +1,82 @@
+"Ò
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_231">
+      The king is kind; and well we know the king<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_231', '/monologues/preview?monologue_id=231', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('4yhW1+W5uRY88l2pz1NjLHs83udkE80Q0XFhkg21CJE=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Hotspur (Henry Percy).</b> <br>The king is kind; and well we know the king<br>
+      Knows at what time to promise, when to pay.<br>
+      My father and my uncle and myself<br>
+      Did give him that same royalty he wears;<br>
+      And when he was not six and twenty strong, <br>
+      Sick in the world's regard, wretched and low,<br>
+      A poor unminded outlaw sneaking home,<br>
+      My father gave him welcome to the shore;<br>
+      And when he heard him swear and vow to God<br>
+      He came but to be Duke of Lancaster, <br>
+      To sue his livery and beg his peace,<br>
+      With tears of innocency and terms of zeal,<br>
+      My father, in kind heart and pity moved,<br>
+      Swore him assistance and perform'd it too.<br>
+      Now when the lords and barons of the realm <br>
+      Perceived Northumberland did lean to him,<br>
+      The more and less came in with cap and knee;<br>
+      Met him in boroughs, cities, villages,<br>
+      Attended him on bridges, stood in lanes,<br>
+      Laid gifts before him, proffer'd him their oaths,<br>
+      Gave him their heirs, as pages follow'd him<br>
+      Even at the heels in golden multitudes.<br>
+      He presently, as greatness knows itself,<br>
+      Steps me a little higher than his vow<br>
+      Made to my father, while his blood was poor,<br>
+      Upon the naked shore at Ravenspurgh;<br>
+      And now, forsooth, takes on him to reform<br>
+      Some certain edicts and some strait decrees<br>
+      That lie too heavy on the commonwealth,<br>
+      Cries out upon abuses, seems to weep <br>
+      Over his country's wrongs; and by this face,<br>
+      This seeming brow of justice, did he win<br>
+      The hearts of all that he did angle for;<br>
+      Proceeded further; cut me off the heads<br>
+      Of all the favourites that the absent king <br>
+      In deputation left behind him here,<br>
+      When he was personal in the Irish war. <br><br>
+
+<del><b>Blunt.</b> Tut, I came not to hear this.</del> <br><br>
+
+<b>Hotspur (Henry Percy).</b> Then to the point.<br>
+      In short time after, he deposed the king; <br>
+      Soon after that, deprived him of his life;<br>
+      And in the neck of that, task'd the whole state:<br>
+      To make that worse, suffer'd his kinsman March,<br>
+      Who is, if every owner were well placed,<br>
+      Indeed his king, to be engaged in Wales, <br>
+      There without ransom to lie forfeited;<br>
+      Disgraced me in my happy victories,<br>
+      Sought to entrap me by intelligence;<br>
+      Rated mine uncle from the council-board;<br>
+      In rage dismiss'd my father from the court; <br>
+      Broke oath on oath, committed wrong on wrong,<br>
+      And in conclusion drove us to seek out<br>
+      This head of safety; and withal to pry<br>
+      Into his title, the which we find<br>
+      Too indirect for long continuance. <br><br>
+
+<del><b>Blunt.</b> Shall I return this answer to the king?</del> <br><br>
+
+<b>Hotspur (Henry Percy).</b> Not so, Sir Walter: we'll withdraw awhile.<br>
+      Go to the king; and let there be impawn'd<br>
+      Some surety for a safe return again,<br>
+      And in the morning early shall my uncle <br>
+      Bring him our purposes: and so farewell. 
+
+      </div>
+    </span>
+
+  
+

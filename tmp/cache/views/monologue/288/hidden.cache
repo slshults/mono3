@@ -1,0 +1,32 @@
+"‹
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_288">
+      Why, all his behaviors did make their retire<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_288', '/monologues/preview?monologue_id=288', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('jQNx2xWGPWMJdTmuxdecI1y4f0XHfi+gkLvB/uws+xw=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Why, all his behaviors did make their retire<br>
+To the court of his eye, peeping thorough desire:<br>
+His heart, like an agate, with your print impress'd,<br>
+Proud with his form, in his eye pride express'd:<br>
+His tongue, all impatient to speak and not see,<br>
+Did stumble with haste in his eyesight to be;<br>
+All senses to that sense did make their repair, <br>
+To feel only looking on fairest of fair:<br>
+Methought all his senses were lock'd in his eye,<br>
+As jewels in crystal for some prince to buy;<br>
+Who, tendering their own worth from where they were glass'd,<br>
+Did point you to buy them, along as you pass'd: <br>
+His face's own margent did quote such amazes<br>
+That all eyes saw his eyes enchanted with gazes.<br>
+I'll give you Aquitaine and all that is his,<br>
+An you give him for my sake but one loving kiss.<br> 
+      </div>
+    </span>
+
+  
+

@@ -1,0 +1,35 @@
+"Î
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_639">
+      By nursing them, my lord. List a brief tale<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_639', '/monologues/preview?monologue_id=639', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Usli2rnYmjdGg7C7v9YkP4+Sj9ty7VnIpQXs7zU28sE=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          By nursing them, my lord. List a brief tale; <br>
+And when 'tis told, O that my heart would burst!<br>
+The bloody proclamation to escape<br>
+That follow'd me so near (O, our lives' sweetness!<br>
+That with the pain of death would hourly die<br>
+Rather than die at once!) taught me to shift <br>
+Into a madman's rags, t' assume a semblance<br>
+That very dogs disdain'd; and in this habit<br>
+Met I my father with his bleeding rings,<br>
+Their precious stones new lost; became his guide,<br>
+Led him, begg'd for him, sav'd him from despair;<br>
+Never (O fault!) reveal'd myself unto him<br>
+Until some half hour past, when I was arm'd,<br>
+Not sure, though hoping of this good success,<br>
+I ask'd his blessing, and from first to last<br>
+Told him my pilgrimage. But his flaw'd heart <br>
+(Alack, too weak the conflict to support!)<br>
+'Twixt two extremes of passion, joy and grief,<br>
+Burst smilingly. 
+      </div>
+    </span>
+
+  
+

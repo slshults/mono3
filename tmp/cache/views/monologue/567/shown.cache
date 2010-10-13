@@ -1,0 +1,10 @@
+"£
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_567">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_567', '/monologues/preview/567', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('A5o4M+1Tz3Z/nkqmWktzx/c5fmEq7N07nL93q6U7rF0=')}); return false;">Noble Lord,Go to the rude ribs of that ancient castle</a>
+    </span>
+  
+

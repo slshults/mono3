@@ -1,0 +1,17 @@
+"6
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_501">
+      This battle fares like to the morning's war<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_501', '/monologues/preview?monologue_id=501', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('YUjtzC0kYnqa1BjK5u70z0ijM9EulbnTAUKR1C7Pp10=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+
+  
+

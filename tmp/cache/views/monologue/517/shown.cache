@@ -1,0 +1,11 @@
+"²
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_517">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_517', '/monologues/preview/517', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('n+Ac8vvtG4+AX3Qjnne1q0IrqA2dJrFyX1ATN83pTMA=')}); return false;">It grieves many: 
+The gentleman is learn'd, and a most rare speaker,</a>
+    </span>
+  
+

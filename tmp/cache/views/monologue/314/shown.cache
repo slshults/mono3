@@ -1,0 +1,10 @@
+"è
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_314">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_314', '/monologues/preview/314', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('V6RHXOz6wAGQLKmIzA9bWoYOzZ7Q+sNH65VTVRCZuBM=')}); return false;">Nay, you shall hear, Master Brook</a>
+    </span>
+  
+

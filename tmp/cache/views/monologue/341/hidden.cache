@@ -1,0 +1,49 @@
+"£
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_341">
+      Why should this change of thoughts<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_341', '/monologues/preview?monologue_id=341', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('LuIoUfKQ9VHr4CZm2N87/3UE0lFQWbEPJq4vmJOK6oU=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <div align="right">Why should this change of thoughts,</div>
+The sad companion, dull-eyed melancholy,<br>
+Be my so used a guest as not an hour,<br>
+In the day's glorious walk, or peaceful night, <br>
+The tomb where grief should sleep, can breed me quiet?<br>
+Here pleasures court mine eyes, and mine eyes shun them,<br>
+And danger, which I fear'd, is at Antioch,<br>
+Whose aim seems far too short to hit me here:<br>
+Yet neither pleasure's art can joy my spirits, <br>
+Nor yet the other's distance comfort me.<br>
+Then it is thus: the passions of the mind,<br>
+That have their first conception by mis-dread,<br>
+Have after-nourishment and life by care;<br>
+And what was first but fear what might be done,<br>
+Grows elder now and cares it be not done.<br>
+And so with me: the great Antiochus,<br>
+'Gainst whom I am too little to contend,<br>
+Since he's so great can make his will his act,<br>
+Will think me speaking, though I swear to silence;<br>
+Nor boots it me to say I honour him.<br>
+If he suspect I may dishonour him:<br>
+And what may make him blush in being known,<br>
+He'll stop the course by which it might be known;<br>
+With hostile forces he'll o'erspread the land, <br>
+And with the ostent of war will look so huge,<br>
+Amazement shall drive courage from the state;<br>
+Our men be vanquish'd ere they do resist,<br>
+And subjects punish'd that ne'er thought offence:<br>
+Which care of them, not pity of myself, <br>
+Who am no more but as the tops of trees,<br>
+Which fence the roots they grow by and defend them,<br>
+Makes both my body pine and soul to languish,<br>
+And punish that before that he would punish. 
+      </div>
+    </span>
+
+  
+

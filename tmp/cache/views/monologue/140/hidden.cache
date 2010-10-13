@@ -1,0 +1,42 @@
+"—
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_140">
+      Madam, your father here doth intimate<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_140', '/monologues/preview?monologue_id=140', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('scoQ7s3hsZpfC4XW+z8Vt7UkdEnUDlHcWxlQVVHPQ80=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Madam, your father here doth intimate<br>
+The payment of a hundred thousand crowns;<br>
+Being but the one half of an entire sum <br>
+Disbursed by my father in his wars.<br>
+But say that he or we, as neither have,<br>
+Received that sum, yet there remains unpaid<br>
+A hundred thousand more; in surety of the which,<br>
+One part of Aquitaine is bound to us, <br>
+Although not valued to the money's worth.<br>
+If then the king your father will restore<br>
+But that one half which is unsatisfied,<br>
+We will give up our right in Aquitaine,<br>
+And hold fair friendship with his majesty. <br>
+But that, it seems, he little purposeth,<br>
+For here he doth demand to have repaid<br>
+A hundred thousand crowns; and not demands,<br>
+On payment of a hundred thousand crowns,<br>
+To have his title live in Aquitaine; <br>
+Which we much rather had depart withal<br>
+And have the money by our father lent<br>
+Than Aquitaine so gelded as it is.<br>
+Dear Princess, were not his requests so far<br>
+From reason's yielding, your fair self should make<br>
+A yielding 'gainst some reason in my breast<br>
+And go well satisfied to France again. 
+
+      </div>
+    </span>
+
+  
+

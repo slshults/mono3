@@ -1,0 +1,10 @@
+"’
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_248">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_248', '/monologues/preview/248', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('qHadnmZ0EppM/Ayl+8DAg9wYaS7NR12IUWFsnaDXtY0=')}); return false;">Even or odd, of all days in the year</a>
+    </span>
+  
+

@@ -1,0 +1,10 @@
+"¡
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_116">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_116', '/monologues/preview/116', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Nbc+4XQlBP0yCxx/IZsnCwPXYfB039roIewpNxCw0sI=')}); return false;">Thou told'st me, when we came from horse, the place</a>
+    </span>
+  
+

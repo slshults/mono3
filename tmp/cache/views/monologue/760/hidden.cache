@@ -1,0 +1,43 @@
+"F
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_760">
+      A virtuous gentlewoman, mild and beautiful<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_760', '/monologues/preview?monologue_id=760', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('DauvSK3OV4Ba0hIQ3QihrlHc5CsSEkJReaBv8nmJLok=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          And she shall thank you for't, if e'er you know her. <br>
+A virtuous gentlewoman, mild and beautiful<br>
+I hope my master's suit will be but cold,<br>
+Since she respects my mistress' love so much.<br>
+Alas, how love can trifle with itself!<br>
+Here is her picture: let me see; I think, <br>
+If I had such a tire, this face of mine<br>
+Were full as lovely as is this of hers:<br>
+And yet the painter flatter'd her a little,<br>
+Unless I flatter with myself too much.<br>
+Her hair is auburn, mine is perfect yellow:<br>
+If that be all the difference in his love,<br>
+I'll get me such a colour'd periwig.<br>
+Her eyes are grey as glass, and so are mine:<br>
+Ay, but her forehead's low, and mine's as high.<br>
+What should it be that he respects in her <br>
+But I can make respective in myself,<br>
+If this fond Love were not a blinded god?<br>
+Come, shadow, come and take this shadow up,<br>
+For 'tis thy rival. O thou senseless form,<br>
+Thou shalt be worshipp'd, kiss'd, loved and adored! <br>
+And, were there sense in his idolatry,<br>
+My substance should be statue in thy stead.<br>
+I'll use thee kindly for thy mistress' sake,<br>
+That used me so; or else, by Jove I vow,<br>
+I should have scratch'd out your unseeing eyes <br>
+To make my master out of love with thee! 
+      </div>
+    </span>
+
+  
+

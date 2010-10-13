@@ -1,0 +1,52 @@
+" 
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_70">
+      
+
+
+If it were done when 'tis done, then 'twere well
+it were done quickly
+
+
+<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_70', '/monologues/preview?monologue_id=70', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('GBY7Z9S0MzwU/uDrU1yd87PQohLWbqM7Z6WLWOWtIIc=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          If it were done when 'tis done, then 'twere well<br>
+It were done quickly: if the assassination<br>
+Could trammel up the consequence, and catch<br>
+With his surcease success; that but this blow<br>
+Might be the be-all and the end-all here,<br>
+But here, upon this bank and shoal of time,<br>
+We'ld jump the life to come. But in these cases <br>
+We still have judgment here; that we but teach<br>
+Bloody instructions, which, being taught, return<br>
+To plague the inventor: this even-handed justice<br>
+Commends the ingredients of our poison'd chalice<br>
+To our own lips. He's here in double trust;<br>
+First, as I am his kinsman and his subject,<br>
+Strong both against the deed; then, as his host,<br>
+Who should against his murderer shut the door,<br>
+Not bear the knife myself. Besides, this Duncan<br>
+Hath borne his faculties so meek, hath been <br>
+So clear in his great office, that his virtues<br>
+Will plead like angels, trumpet-tongued, against<br>
+The deep damnation of his taking-off;<br>
+And pity, like a naked new-born babe,<br>
+Striding the blast, or heaven's cherubim, horsed <br>
+Upon the sightless couriers of the air,<br>
+Shall blow the horrid deed in every eye,<br>
+That tears shall drown the wind. I have no spur<br>
+To prick the sides of my intent, but only<br>
+Vaulting ambition, which o'erleaps itself <br>
+And falls on the other. 
+
+      </div>
+    </span>
+
+  
+

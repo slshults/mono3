@@ -1,0 +1,17 @@
+"6
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_550">
+      Your grace shall pardon me; I will not back<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_550', '/monologues/preview?monologue_id=550', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('FojndKDt70KOKb6WjPDPoeyL3/HNPP61hlzEzg9xT/U=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+
+  
+

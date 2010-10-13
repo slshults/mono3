@@ -1,0 +1,10 @@
+"—
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_556">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_556', '/monologues/preview/556', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('4Q2VzGtAGg0a9rpzWGx0XKP2+JiFYI8k/gWarmTk0aI=')}); return false;">Then, Bolingbroke, as low as to thy heart</a>
+    </span>
+  
+

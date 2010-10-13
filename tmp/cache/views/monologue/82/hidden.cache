@@ -1,0 +1,62 @@
+"M
+
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_82">
+      That you may well perceive I have not wrong'd you,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_82', '/monologues/preview?monologue_id=82', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('C/SmBoiwnaWSj4i4m66AoXImKVoyL10sQ9MJwppA6Rk=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Hel.<br> 
+That you may well perceive I have not wrong'd you,<br>	 
+One of the greatest in the Christian world  <br>
+Shall be my surety; 'fore whose throne 'tis needful,<br> 
+Ere I can perfect mine intents, to kneel. <br>
+Time was I did him a desired office, <br>
+Dear almost as his life; which gratitude <br>
+Through flinty Tartar's bosom would peep forth,<br> 
+And answer, thanks. I duly am inform'd <br>
+His Grace is at Marseilles; to which place <br>
+We have convenient convoy. You must know, <br>
+I am supposed dead: the army breaking, <br>
+My husband hies him home; where, heaven aiding,<br> 
+And by the leave of my good lord the king, <br>
+We'll be before our welcome. <p>
+<font size='-1' style='text-decoration: line-through;'>
+Wid.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gentle madam, <br>
+You never had a servant to whose trust<br> 
+Your business was more welcome.</font> <p>
+  Hel.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nor you, mistress, 
+Ever a friend whose thoughts more truly labour<br> 
+To recompense your love. Doubt not but heaven <br>
+Hath brought me up to be your daughter's dower, <br>
+As it hath fated her to be my motive <br>
+And helper to a husband. But, O strange men!<br> 
+That can such sweet use make of what they hate,<br> 
+When saucy trusting of the cozen'd thoughts <br>
+Defiles the pitchy night: so lust doth play  <br>
+With what it loathes for that which is away.   <br>
+But more of this hereafter. You, Diana, <br>
+Under my poor instructions yet must suffer <br>
+Something in my behalf. <p>
+
+<font size='-1' style='text-decoration: line-through;'>
+Dia.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Let death and honesty<br> 
+Go with your impositions, I am yours <br>
+Upon your will to suffer.  </font><p>
+  Hel.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yet, I pray you: <br>
+But with the word the time will bring on summer,<br>
+When briers shall have leaves as well as thorns,  <br>
+And be as sweet as sharp. We must away; <br>
+Our waggon is prepar'd, and time revives us:<br>
+All's well that ends well: still the fine's the crown;<br> 
+Whate'er the course, the end is the renown.
+
+      </div>
+    </span>
+
+  
+

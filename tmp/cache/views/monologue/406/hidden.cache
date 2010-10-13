@@ -1,0 +1,32 @@
+"H
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_406">
+      Cease to lament for that thou canst not help,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_406', '/monologues/preview?monologue_id=406', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Lbjr5SJNSZWQgzcC5Ot86DU/dguTVN0nlELyJylIVes=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Cease to lament for that thou canst not help, <br>
+And study help for that which thou lament'st.<br>
+Time is the nurse and breeder of all good.<br>
+Here if thou stay, thou canst not see thy love;<br>
+Besides, thy staying will abridge thy life.<br>
+Hope is a lover's staff; walk hence with that <br>
+And manage it against despairing thoughts.<br>
+Thy letters may be here, though thou art hence;<br>
+Which, being writ to me, shall be deliver'd<br>
+Even in the milk-white bosom of thy love.<br>
+The time now serves not to expostulate: <br>
+Come, I'll convey thee through the city-gate;<br>
+And, ere I part with thee, confer at large<br>
+Of all that may concern thy love-affairs.<br>
+As thou lovest Silvia, though not for thyself,<br>
+Regard thy danger, and along with me! 
+      </div>
+    </span>
+
+  
+

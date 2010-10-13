@@ -1,0 +1,10 @@
+"Ž
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_6">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_6', '/monologues/preview/6', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('oEBYgWL5jGZyQ7tjUgwvH3p6xFO/k+Ag30yPRgf1HrQ=')}); return false;">One woe doth tread upon another's heel</a>
+    </span>
+  
+

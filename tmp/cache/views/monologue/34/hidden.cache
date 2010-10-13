@@ -1,0 +1,33 @@
+"‰
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_34">
+      Over hill, over dale, through bush, through brier<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_34', '/monologues/preview?monologue_id=34', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('XepXdRF0+B2Q904t5astrG8Pc6zNNiVGQpajlQW/Ecw=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Over hill, over dale,<br>
+Thorough bush, thorough brier,<br>
+Over park, over pale,<br>
+Thorough flood, thorough fire,<br>
+I do wander everywhere,<br>
+Swifter than the moon's sphere;<br>
+And I serve the fairy queen, <br>
+To dew her orbs upon the green.<br>
+The cowslips tall her pensioners be:<br>
+In their gold coats spots you see;<br>
+Those be rubies, fairy favours,<br>
+In those freckles live their savours: <br>
+I must go seek some dewdrops here<br>
+And hang a pearl in every cowslip's ear.<br>
+Farewell, thou lob of spirits; I'll be gone:<br>
+Our queen and all our elves come here anon. 
+
+      </div>
+    </span>
+
+  
+

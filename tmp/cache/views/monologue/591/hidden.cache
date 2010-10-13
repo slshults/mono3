@@ -1,0 +1,71 @@
+"�
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_591">
+      I am known to be a humorous patrician<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_591', '/monologues/preview?monologue_id=591', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('7JRYQenap4X0tvDRBGp1D34pKeT3oRufzdTuVeFhzRo=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Menenius Agrippa.</b> I am known to be a humorous patrician, and one that<br>
+ loves a cup of hot wine with not a drop of allaying<br>
+ Tiber in't; said to be something imperfect in<br>
+ favouring the first complaint; hasty and tinder-like<br>
+ upon too trivial motion; one that converses more <br>
+ with the buttock of the night than with the forehead<br>
+ of the morning: what I think I utter, and spend my<br>
+ malice in my breath. Meeting two such wealsmen as<br>
+ you are—I cannot call you Lycurguses—if the drink<br>
+ you give me touch my palate adversely, I make a <br>
+ crooked face at it. I can't say your worships have<br>
+ delivered the matter well, when I find the ass in<br>
+ compound with the major part of your syllables: and<br>
+ though I must be content to bear with those that say<br>
+ you are reverend grave men, yet they lie deadly that <br>
+ tell you you have good faces. If you see this in<br>
+ the map of my microcosm, follows it that I am known<br>
+ well enough too? what barm can your bisson<br>
+ conspectuities glean out of this character, if I be<br>
+ known well enough too? <br>
+<br>
+<del><b>Junius Brutus.</b> Come, sir, come, we know you well enough.</del> <br>
+<br>
+<b>Menenius Agrippa.</b> You know neither me, yourselves nor any thing. You<br>
+ are ambitious for poor knaves' caps and legs: you<br>
+ wear out a good wholesome forenoon in hearing a<br>
+ cause between an orange wife and a fosset-seller; <br>
+ and then rejourn the controversy of three pence to a<br>
+ second day of audience. When you are hearing a<br>
+ matter between party and party, if you chance to be<br>
+ pinched with the colic, you make faces like<br>
+ mummers; set up the bloody flag against all <br>
+ patience; and, in roaring for a chamber-pot,<br>
+ dismiss the controversy bleeding the more entangled<br>
+ by your hearing: all the peace you make in their<br>
+ cause is, calling both the parties knaves. You are<br>
+ a pair of strange ones. <br>
+<br>
+<del><b>Junius Brutus.</b> Come, come, you are well understood to be a<br>
+ perfecter giber for the table than a necessary<br>
+ bencher in the Capitol. </del><br>
+<br>
+<b>Menenius Agrippa.</b> Our very priests must become mockers, if they shall<br>
+ encounter such ridiculous subjects as you are. When <br>
+ you speak best unto the purpose, it is not worth the<br>
+ wagging of your beards; and your beards deserve not<br>
+ so honourable a grave as to stuff a botcher's<br>
+ cushion, or to be entombed in an ass's pack-<br>
+ saddle. Yet you must be saying, CORIOLANUS is proud;<br>
+ who in a cheap estimation, is worth predecessors<br>
+ since Deucalion, though peradventure some of the<br>
+ best of 'em were hereditary hangmen. God-den to<br>
+ your worships: more of your conversation would<br>
+ infect my brain, being the herdsmen of the beastly <br>
+ plebeians: I will be bold to take my leave of you. 
+      </div>
+    </span>
+
+  
+

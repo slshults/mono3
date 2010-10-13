@@ -1,0 +1,43 @@
+"K
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_381">
+      Hear you, Patroclus We are too well acquainted with these answers:<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_381', '/monologues/preview?monologue_id=381', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('r0PX0LLjBoy7QTeNbkoScUy3qriufWz758SpqFrd04A=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Hear you, Patroclus: <br>
+We are too well acquainted with these answers:<br>
+But his evasion, wing'd thus swift with scorn,<br>
+Cannot outfly our apprehensions.<br>
+Much attribute he hath, and much the reason<br>
+Why we ascribe it to him; yet all his virtues, <br>
+Not virtuously on his own part beheld,<br>
+Do in our eyes begin to lose their gloss,<br>
+Yea, like fair fruit in an unwholesome dish,<br>
+Are like to rot untasted. Go and tell him,<br>
+We come to speak with him; and you shall not sin,<br>
+If you do say we think him over-proud<br>
+And under-honest, in self-assumption greater<br>
+Than in the note of judgment; and worthier than himself<br>
+Here tend the savage strangeness he puts on, <br>
+Disguise the holy strength of their command,<br>
+And underwrite in an observing kind<br>
+His humorous predominance; yea, watch<br>
+His pettish lunes, his ebbs, his flows, as if<br>
+The passage and whole carriage of this action <br>
+Rode on his tide. Go tell him this, and add,<br>
+That if he overhold his price so much,<br>
+We'll none of him; but let him, like an engine<br>
+Not portable, lie under this report:<br>
+'Bring action hither, this cannot go to war: <br>
+A stirring dwarf we do allowance give<br>
+Before a sleeping giant.' Tell him so. 
+      </div>
+    </span>
+
+  
+

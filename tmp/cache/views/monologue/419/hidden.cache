@@ -1,0 +1,40 @@
+"Å
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_419">
+      Let us on, And publish the occasion of our arms.<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_419', '/monologues/preview?monologue_id=419', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Co9XXBjgxqeaQxpWItZOKmOYVdrEpvEdndKXXdpe0BU=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <div align=right>Let us on,</div>
+And publish the occasion of our arms.<br>
+The commonwealth is sick of their own choice;<br>
+Their over-greedy love hath surfeited. <br>
+An habitation giddy and unsure<br>
+Hath he that buildeth on the vulgar heart.<br>
+O thou fond many, with what loud applause<br>
+Didst thou beat heaven with blessing Bolingbroke<br>
+Before he was what thou wouldst have him be! <br>
+And being now trimm'd in thine own desires,<br>
+Thou, beastly feeder, art so full of him<br>
+That thou provok'st thyself to cast him up.<br>
+So, so, thou common dog, didst thou disgorge<br>
+Thy glutton bosom of the royal Richard; <br>
+And now thou wouldst eat thy dead vomit up,<br>
+And howl'st to find it. What trust is in these times?<br>
+They that, when Richard liv'd, would have him die<br>
+Are now become enamour'd on his grave.<br>
+Thou that threw'st dust upon his goodly head, <br>
+When through proud London he came sighing on<br>
+After th' admired heels of Bolingbroke,<br>
+Criest now 'O earth, yield us that king again,<br>
+And take thou this!' O thoughts of men accurs'd!<br>
+Past and to come seems best; things present, worst. 
+      </div>
+    </span>
+
+  
+

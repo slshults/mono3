@@ -1,0 +1,10 @@
+"†
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_65">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_65', '/monologues/preview/65', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('TGps1Sr/uzVfTC2ElMaXLj5sg4i9a8Llwj3UprUlIds=')}); return false;">Now, until the break of day</a>
+    </span>
+  
+

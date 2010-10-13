@@ -1,0 +1,10 @@
+"–
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_59">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_59', '/monologues/preview/59', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('PfzLlqdc7U9gLxx3OXnzfE/A57gmmGEoD6F7iScG+JM=')}); return false;">More strange than true. I never may believe</a>
+    </span>
+  
+

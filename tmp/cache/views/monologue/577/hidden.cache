@@ -1,0 +1,17 @@
+"4
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_577">
+      A blessed labour, my most sovereign lord.<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_577', '/monologues/preview?monologue_id=577', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Owd50+452+Ip8WlGP62liuGDQYRITxLw4JNXCjHQOKg=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+
+  
+

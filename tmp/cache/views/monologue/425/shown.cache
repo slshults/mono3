@@ -1,0 +1,10 @@
+"Ÿ
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_425">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_425', '/monologues/preview/425', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('b3smiPxzew9O8UqLpwMnY/tsh3AXyr30pfTmQQTZfH8=')}); return false;">You are well encounter'd here, my cousin Mowbray:</a>
+    </span>
+  
+

@@ -1,0 +1,87 @@
+"¥
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_97">
+      When last the young Orlando parted from you<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_97', '/monologues/preview?monologue_id=97', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('zSsqVQd8nS5mYU7adHIhS71MqQFEV8MgjVaBeqvjX+Y=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          [Oli.]  When last the young Orlando parted from you<br>	 
+He left a promise to return again  <br>
+Within an hour; and, pacing through the forest,<br>
+Chewing the food of sweet and bitter fancy, <br>
+Lo, what befell! he threw his eye aside, <br>
+And mark what object did present itself:  <br>
+Under an oak, whose boughs were moss'd with age, <br>
+And high top bald with dry antiquity,<br> 
+A wretched ragged man, o'ergrown with hair,<br> 
+Lay sleeping on his back: about his neck <br>
+A green and gilded snake had wreath'd itself, <br>
+Who with her head nimble in threats approach'd  <br>
+The opening of his mouth; but suddenly, <br>
+Seeing Orlando, it unlink'd itself, <br>
+And with indented glides did slip away  <br>
+Into a bush; under which bush's shade <br>
+A lioness, with udders all drawn dry,  <br>
+Lay couching, head on ground, with catlike watch,<br> 
+When that the sleeping man should stir; for 'tis <br>
+The royal disposition of that beast <br>
+To prey on nothing that doth seem as dead: <br>
+This seen, Orlando did approach the man, <br>
+And found it was his brother, his elder brother. <br>
+<font size='-1' style='text-decoration: line-through;'> 
+[Cel.]  O! I have heard him speak of that same brother;<br>
+And he did render him the most unnatural <br>
+That liv'd 'mongst men. <br> 
+</font>
+  [Oli.]        And well he might so do,<br>
+For well I know he was unnatural. <br>
+<font size='-1' style='text-decoration: line-through;'>
+  [Ros.]  But, to Orlando: did he leave him there,<br> 
+Food to the suck'd and hungry lioness? <br>
+</font>
+  [Oli.]  Twice did he turn his back and purpos'd so;<br>
+But kindness, nobler ever than revenge, <br>
+And nature, stronger than his just occasion,<br> 
+Made him give battle to the lioness, <br>
+Who quickly fell before him: in which hurtling<br>
+From miserable slumber I awak'd. <br>
+<font size='-1' style='text-decoration: line-through;'>
+  [Cel.]  Are you his brother? <br>
+  [Ros.]        Was it you he rescu'd?<br> 
+  [Cel.]  Was't you that did so oft contrive to kill him?<br>
+</font>
+  [Oli.]  'Twas I; but 'tis not I. I do not shame <br>
+To tell you what I was, since my conversion <br>
+So sweetly tastes, being the thing I am. <br>
+<font size='-1' style='text-decoration: line-through;'>
+  [Ros.]  But, for the bloody napkin?<br>
+</font>
+  [Oli.]        By and by. <br>
+When from the first to last, betwixt us two, <br>
+Tears our recountments had most kindly bath'd, <br>
+As how I came into that desert place:. <br>
+In brief, he led me to the gentle duke,	 <br>
+Who gave me fresh array and entertainment, <br>
+Committing me unto my brother's love;<br> 
+Who led me instantly unto his cave,<br>
+There stripp'd himself; and here, upon his arm<br> 
+The lioness had torn some flesh away, <br>
+Which all this while had bled; and now he fainted,<br> 
+And cried, in fainting, upon Rosalind. <br>
+Brief, I recover'd him, bound up his wound; <br>
+And, after some small space, being strong at heart,<br> 
+He sent me hither, stranger as I am, <br>
+To tell this story, that you might excuse<br>
+His broken promise; and to give this napkin, <br>
+Dy'd in his blood, unto the shepherd youth <br>
+That he in sport doth call his Rosalind.<br>
+
+      </div>
+    </span>
+
+  
+

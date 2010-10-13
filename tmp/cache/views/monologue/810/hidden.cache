@@ -1,0 +1,36 @@
+"û
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_810">
+      Nor for yours neither. You've ungently, Brutus,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_810', '/monologues/preview?monologue_id=810', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('yOt+RgGphhjK/tl7L2dWT9yDV8MHFtwDX5C8s3YEyrI=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Nor for yours neither. You've ungently, Brutus,<br>
+Stole from my bed: and yesternight, at supper, <br>
+You suddenly arose, and walk'd about,<br>
+Musing and sighing, with your arms across,<br>
+And when I ask'd you what the matter was,<br>
+You stared upon me with ungentle looks;<br>
+I urged you further; then you scratch'd your head, <br>
+And too impatiently stamp'd with your foot;<br>
+Yet I insisted, yet you answer'd not,<br>
+But, with an angry wafture of your hand,<br>
+Gave sign for me to leave you: so I did;<br>
+Fearing to strengthen that impatience <br>
+Which seem'd too much enkindled, and withal<br>
+Hoping it was but an effect of humour,<br>
+Which sometime hath his hour with every man.<br>
+It will not let you eat, nor talk, nor sleep,<br>
+And could it work so much upon your shape <br>
+As it hath much prevail'd on your condition,<br>
+I should not know you, Brutus. Dear my lord,<br>
+Make me acquainted with your cause of grief. 
+      </div>
+    </span>
+
+  
+

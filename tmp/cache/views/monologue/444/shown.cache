@@ -1,0 +1,10 @@
+"—
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_444">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_444', '/monologues/preview/444', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OvPQzQkDxWFYoXJDy1AI91+WmiVXmEdtXhODeJDnuws=')}); return false;">From him; and thus he greets your majesty</a>
+    </span>
+  
+

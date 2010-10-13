@@ -1,0 +1,10 @@
+"›
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_688">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_688', '/monologues/preview/688', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('hlciT9xVQ+JDociH8q2a4HaSJEoLoM2+qmQDfyNjp2U=')}); return false;">Hail, Rome, victorious in thy mourning weeds!</a>
+    </span>
+  
+

@@ -1,0 +1,342 @@
+I"�;  
+    <div>
+      <h2>Women's Monologues in Shakespeare</h2>
+      <h2>Othello</h2>
+      <span>
+        <form action="javascript:void(0);" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="lcTR5/tmwCtOJRqrgln3NrKMvPBmTy6PZRreJjCwnZs=" /></div>
+          <b>Search:</b> <input type="text" id="search" size="40"/>
+          <img alt="Ajax-loader" id="spinner" src="/images/ajax-loader.gif?1278779332" style="display: none;" />
+        </form>
+        <div class="search_links">
+          <a href="/plays/34?g=3">Search Men</a> &nbsp;|&nbsp;
+          <a href="/plays/34">Search Othello</a> &nbsp;|&nbsp;
+          <a href="/plays">Search All Plays</a> &nbsp;|&nbsp;
+          
+            <a href="/plays/34?g=2">Collapse All</a>
+          
+        </div>
+      </span>
+    </div>
+    <script type="text/javascript">
+//<![CDATA[
+new Form.Element.Observer('search', 1.25, function(element, value) {Element.show('spinner'); new Ajax.Updater('ajaxResults', 'http://shakespeare-monologues.org/monologues/search', {asynchronous:true, evalScripts:true, onComplete:function(request){Element.hide('spinner')}, parameters:'g=2&p=34&search=' + encodeURIComponent(value) + '&authenticity_token=' + encodeURIComponent('lcTR5/tmwCtOJRqrgln3NrKMvPBmTy6PZRreJjCwnZs=')})})
+//]]>
+</script>
+  
+    <div id='ajaxResults'>
+      
+
+  
+
+      
+<div>
+  <table id='monologue_list'>
+    <tr>
+      <th>Character</th>
+      <th>First Line</th>
+      <th>Act & Sc</th>
+      <th>pdf</th>
+    </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Desdemona</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/34">Othello</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_820'>
+  
+    <span id="preview_mono_820">
+      My noble father, I do perceive here a divided duty<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_820', '/monologues/preview?monologue_id=820', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('lcTR5/tmwCtOJRqrgln3NrKMvPBmTy6PZRreJjCwnZs=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          My noble father,<br>
+I do perceive here a divided duty:<br>
+To you I am bound for life and education;<br>
+My life and education both do learn me<br>
+How to respect you; you are the lord of duty;<br>
+I am hitherto your daughter: but here's my husband,<br>
+And so much duty as my mother show'd<br>
+To you, preferring you before her father,<br>
+So much I challenge that I may profess<br>
+Due to the Moor my lord.<br>
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=othello&Act=1&Scene=3&Scope=scene&LineHighlight=528#522' target='_blank'>I iii 201</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/o-1-3-180-desdemona.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Desdemona</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/34">Othello</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_821'>
+  
+    <span id="preview_mono_821">
+      That I did love the Moor to live with him<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_821', '/monologues/preview?monologue_id=821', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('lcTR5/tmwCtOJRqrgln3NrKMvPBmTy6PZRreJjCwnZs=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          That I did love the Moor to live with him,<br>
+My downright violence and storm of fortunes<br>
+May trumpet to the world: my heart's subdued<br>
+Even to the very quality of my lord:<br>
+I saw Othello's visage in his mind,<br>
+And to his honour and his valiant parts<br>
+Did I my soul and fortunes consecrate.<br>
+So that, dear lords, if I be left behind,<br>
+A moth of peace, and he go to the war,<br>
+The rites for which I love him are bereft me,<br>
+And I a heavy interim shall support <br>
+By his dear absence. Let me go with him.<br>
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=othello&Act=1&Scene=3&Scope=scene&LineHighlight=600#593' target='_blank'>I iii 266</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/o-1-3-248-desdemona.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Desdemona</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/34">Othello</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_822'>
+  
+    <span id="preview_mono_822">
+      I prithee do so.  Something sure of state,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_822', '/monologues/preview?monologue_id=822', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('lcTR5/tmwCtOJRqrgln3NrKMvPBmTy6PZRreJjCwnZs=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          I prithee, do so.<br><i>[Exit IAGO]</i><br>
+Something, sure, of state, <br>
+Either from Venice, or some unhatch'd practise<br>
+Made demonstrable here in Cyprus to him,<br>
+Hath puddled his clear spirit: and in such cases<br>
+Men's natures wrangle with inferior things,<br>
+Though great ones are their object. 'Tis even so; <br>
+For let our finger ache, and it indues<br>
+Our other healthful members even to that sense<br>
+Of pain: nay, we must think men are not gods,<br>
+Nor of them look for such observances<br>
+As fit the bridal. Beshrew me much, Emilia,<br>
+I was, unhandsome warrior as I am,<br>
+Arraigning his unkindness with my soul;<br>
+But now I find I had suborn'd the witness,<br>
+And he's indicted falsely. <br>
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=othello&Act=3&Scene=4&Scope=scene&LineHighlight=2333#2327' target='_blank'>I iii 150</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/o-3-4-140-desdemona.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Desdemona</div>
+  <div class='monologue_detail'>
+  Verse - intercut <br/>
+  <a href="/plays/34">Othello</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_823'>
+  
+    <span id="preview_mono_823">
+      Why then, to-morrow night; or Tuesday morn<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_823', '/monologues/preview?monologue_id=823', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('lcTR5/tmwCtOJRqrgln3NrKMvPBmTy6PZRreJjCwnZs=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+              <b>Desdemona.</b><br> Why, then, to-morrow night; or Tuesday morn; <br>
+      On Tuesday noon, or night; on Wednesday morn:<br>
+      I prithee, name the time, but let it not<br>
+      Exceed three days: in faith, he's penitent;<br>
+      And yet his trespass, in our common reason—<br>
+      Save that, they say, the wars must make examples<br>
+      Out of their best—is not almost a fault<br>
+      To incur a private cheque. When shall he come?<br>
+      Tell me, Othello: I wonder in my soul,<br>
+      What you would ask me, that I should deny,<br>
+      Or stand so mammering on. What! Michael Cassio,<br>
+      That came a-wooing with you, and so many a time,<br>
+      When I have spoke of you dispraisingly,<br>
+      Hath ta'en your part; to have so much to do<br>
+      To bring him in! Trust me, I could do much,— <br>
+<br>
+    <del><b>Othello.</b> Prithee, no more: let him come when he will;<br>
+      I will deny thee nothing. </del><br>
+<br>
+    <b>Desdemona.</b> Why, this is not a boon;<br>
+      'Tis as I should entreat you wear your gloves,<br>
+      Or feed on nourishing dishes, or keep you warm,<br>
+      Or sue to you to do a peculiar profit <br>
+      To your own person: nay, when I have a suit<br>
+      Wherein I mean to touch your love indeed,<br>
+      It shall be full of poise and difficult weight<br>
+      And fearful to be granted. <br>
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=othello&Act=3&Scene=3&Scope=scene&LineHighlight=1695#1690' target='_blank'>III iii 71</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/o-3-3-71-desdemona.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Desdemona</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/34">Othello</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_824'>
+  
+    <span id="preview_mono_824">
+      Alas! thrice-gentle Cassio!<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_824', '/monologues/preview?monologue_id=824', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('lcTR5/tmwCtOJRqrgln3NrKMvPBmTy6PZRreJjCwnZs=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Alas, thrice-gentle Cassio!<br>
+My advocation is not now in tune;<br>
+My lord is not my lord; nor should I know him,<br>
+Were he in favour as in humour alter'd.<br>
+So help me every spirit sanctified,<br>
+As I have spoken for you all my best<br>
+And stood within the blank of his displeasure<br>
+For my free speech! you must awhile be patient:<br>
+What I can do I will; and more I will<br>
+Than for myself I dare: let that suffice you.<br> 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=othello&Act=3&Scene=4&Scope=scene&LineHighlight=2314#2300' target='_blank'>III iii 131</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/o-3-3-131-desdemona.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Desdemona</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/34">Othello</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_826'>
+  
+    <span id="preview_mono_826">
+      Alas Iago, what shall i do to win my lord again?<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_826', '/monologues/preview?monologue_id=826', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('lcTR5/tmwCtOJRqrgln3NrKMvPBmTy6PZRreJjCwnZs=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <div align=right>O good Iago,</div>
+What shall I do to win my lord again?<br>
+Good friend, go to him; for, by this light of heaven,<br>
+I know not how I lost him. Here I kneel: <br>
+If e'er my will did trespass 'gainst his love,<br>
+Either in discourse of thought or actual deed,<br>
+Or that mine eyes, mine ears, or any sense,<br>
+Delighted them in any other form;<br>
+Or that I do not yet, and ever did. <br>
+And ever will—though he do shake me off<br>
+To beggarly divorcement—love him dearly,<br>
+Comfort forswear me! Unkindness may do much;<br>
+And his unkindness may defeat my life,<br>
+But never taint my love. I cannot say 'whore:' <br>
+It does abhor me now I speak the word;<br>
+To do the act that might the addition earn<br>
+Not the world's mass of vanity could make me. <br>
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=othello&Act=4&Scene=2&Scope=scene&LineHighlight=2917#2913' target='_blank'>IV ii 175</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/o-4-2-148-desdemona.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Emilia</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/34">Othello</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_827'>
+  
+    <span id="preview_mono_827">
+      But I do think it is their husbands' faults<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_827', '/monologues/preview?monologue_id=827', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('lcTR5/tmwCtOJRqrgln3NrKMvPBmTy6PZRreJjCwnZs=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          But I do think it is their husbands' faults<br>
+If wives do fall: say that they slack their duties,<br>
+And pour our treasures into foreign laps,<br>
+Or else break out in peevish jealousies,<br>
+Throwing restraint upon us; or say they strike us,<br>
+Or scant our former having in despite;<br>
+Why, we have galls, and though we have some grace,<br>
+Yet have we some revenge. Let husbands know<br>
+Their wives have sense like them: they see and smell<br>
+And have their palates both for sweet and sour,<br>
+As husbands have. What is it that they do<br>
+When they change us for others? Is it sport? <br>
+I think it is: and doth affection breed it?<br>
+I think it doth: is't frailty that thus errs?<br>
+It is so too: and have not we affections,<br>
+Desires for sport, and frailty, as men have?<br>
+Then let them use us well: else let them know, <br>
+The ills we do, their ills instruct us so. <br>
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=othello&Act=4&Scene=3&Scope=scene&LineHighlight=3112#3112' target='_blank'>IV iii 72</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/o-4-3-85-emilia.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+</table></div>
+
+
+  
+
+
+
+
+    </div>
+:@_rails_html_safeF

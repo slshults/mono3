@@ -1,0 +1,1102 @@
+I"��  
+    <div>
+    <h2>Monologues in Shakespeare</h2>
+    <h2>Henry IV ii</h2>
+      <span>
+        <form action="javascript:void(0);" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="S7px9O5PmSio3a147yUF/jjl9VdYvL45vVtKlkaEWUw=" /></div>
+          <b>Search:</b> <input type="text" id="search" size="40"/>
+          <img alt="Ajax-loader" id="spinner" src="/images/ajax-loader.gif?1278779332" style="display: none;" />
+        </form>
+        <div class="search_links">
+          <a href="/plays/20?g=3">Search Men</a> &nbsp;|&nbsp;
+          <a href="/plays/20?g=2">Search Women</a> &nbsp;|&nbsp;
+          <a href="/plays">Search All Plays</a> &nbsp;|&nbsp;
+          
+            <a href="/plays/20">Collapse All</a>
+          
+        </div>
+      </span>
+    </div>
+    <script type="text/javascript">
+//<![CDATA[
+new Form.Element.Observer('search', 1.25, function(element, value) {Element.show('spinner'); new Ajax.Updater('ajaxResults', 'http://www.shakespeare-monologues.org/monologues/search', {asynchronous:true, evalScripts:true, onComplete:function(request){Element.hide('spinner')}, parameters:'p=20&search=' + encodeURIComponent(value) + '&authenticity_token=' + encodeURIComponent('S7px9O5PmSio3a147yUF/jjl9VdYvL45vVtKlkaEWUw=')})})
+//]]>
+</script>
+
+  
+    <div id='ajaxResults'>
+      
+
+  
+
+      
+<div>
+  <table id='monologue_list'>
+    <tr>
+      <th>Character</th>
+      <th>First Line</th>
+      <th>Act & Sc</th>
+      <th>pdf</th>
+    </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Morton</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/20">Henry IV ii</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_413'>
+  
+    <span id="preview_mono_413">
+      I am sorry I should force you to believe<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_413', '/monologues/preview?monologue_id=413', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('S7px9O5PmSio3a147yUF/jjl9VdYvL45vVtKlkaEWUw=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          I am sorry I should force you to believe<br>
+That which I would to God I had not seen;<br>
+But these mine eyes saw him in bloody state, <br>
+Rend'ring faint quittance, wearied and out-breath'd,<br>
+To Harry Monmouth, whose swift wrath beat down<br>
+The never-daunted Percy to the earth,<br>
+From whence with life he never more sprung up.<br>
+In few, his death—whose spirit lent a fire <br>
+Even to the dullest peasant in his camp—<br>
+Being bruited once, took fire and heat away<br>
+From the best-temper'd courage in his troops;<br>
+For from his metal was his party steeled;<br>
+Which once in him abated, all the rest <br>
+Turn'd on themselves, like dull and heavy lead.<br>
+And as the thing that's heavy in itself<br>
+Upon enforcement flies with greatest speed,<br>
+So did our men, heavy in Hotspur's loss,<br>
+Lend to this weight such lightness with their fear <br>
+That arrows fled not swifter toward their aim<br>
+Than did our soldiers, aiming at their safety,<br>
+Fly from the field. Then was that noble Worcester<br>
+Too soon ta'en prisoner; and that furious Scot,<br>
+The bloody Douglas, whose well-labouring sword <br>
+Had three times slain th' appearance of the King,<br>
+Gan vail his stomach and did grace the shame<br>
+Of those that turn'd their backs, and in his flight,<br>
+Stumbling in fear, was took. The sum of all<br>
+Is that the King hath won, and hath sent out <br>
+A speedy power to encounter you, my lord,<br>
+Under the conduct of young Lancaster<br>
+And Westmoreland. This is the news at full. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=henry4p2&Act=1&Scene=1&Scope=scene&LineHighlight=163#151' target='_blank'>I i 121</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h4p2-1-1-105-morton.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Northumberland</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/20">Henry IV ii</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_414'>
+  
+    <span id="preview_mono_414">
+      For this I shall have time enough to mourn.<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_414', '/monologues/preview?monologue_id=414', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('S7px9O5PmSio3a147yUF/jjl9VdYvL45vVtKlkaEWUw=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          For this I shall have time enough to mourn.<br>
+In poison there is physic; and these news, <br>
+Having been well, that would have made me sick,<br>
+Being sick, have in some measure made me well;<br>
+And as the wretch whose fever-weak'ned joints,<br>
+Like strengthless hinges, buckle under life,<br>
+Impatient of his fit, breaks like a fire <br>
+Out of his keeper's arms, even so my limbs,<br>
+Weak'ned with grief, being now enrag'd with grief,<br>
+Are thrice themselves. Hence, therefore, thou nice crutch!<br>
+A scaly gauntlet now with joints of steel<br>
+Must glove this hand; and hence, thou sickly coif! <br>
+Thou art a guard too wanton for the head<br>
+Which princes, flesh'd with conquest, aim to hit.<br>
+Now bind my brows with iron; and approach<br>
+The ragged'st hour that time and spite dare bring<br>
+To frown upon th' enrag'd Northumberland! <br>
+Let heaven kiss earth! Now let not Nature's hand<br>
+Keep the wild flood confin'd! Let order die!<br>
+And let this world no longer be a stage<br>
+To feed contention in a ling'ring act;<br>
+But let one spirit of the first-born Cain <br>
+Reign in all bosoms, that, each heart being set<br>
+On bloody courses, the rude scene may end<br>
+And darkness be the burier of the dead! 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=henry4p2&Act=1&Scene=1&Scope=scene&LineHighlight=194#194' target='_blank'>I i 152</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h4p2-1-1-136-northumberland.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Morton</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/20">Henry IV ii</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_415'>
+  
+    <span id="preview_mono_415">
+      Sweet earl, divorce not wisdom from your honour.<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_415', '/monologues/preview?monologue_id=415', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('S7px9O5PmSio3a147yUF/jjl9VdYvL45vVtKlkaEWUw=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Sweet Earl, divorce not wisdom from your honour. <br>
+The lives of all your loving complices<br>
+Lean on your health; the which, if you give o'er<br>
+To stormy passion, must perforce decay.<br>
+You cast th' event of war, my noble lord,<br>
+And summ'd the account of chance before you said <br>
+'Let us make head.' It was your pre-surmise<br>
+That in the dole of blows your son might drop.<br>
+You knew he walk'd o'er perils on an edge,<br>
+More likely to fall in than to get o'er;<br>
+You were advis'd his flesh was capable <br>
+Of wounds and scars, and that his forward spirit<br>
+Would lift him where most trade of danger rang'd;<br>
+Yet did you say 'Go forth'; and none of this,<br>
+Though strongly apprehended, could restrain<br>
+The stiff-borne action. What hath then befall'n, <br>
+Or what hath this bold enterprise brought forth<br>
+More than that being which was like to be? 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=henry4p2&Act=1&Scene=1&Scope=scene&LineHighlight=220#219' target='_blank'>I i 179</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h4p2-1-1-162-morton.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Morton</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/20">Henry IV ii</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_416'>
+  
+    <span id="preview_mono_416">
+      'Tis more than time: and, my most noble lord,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_416', '/monologues/preview?monologue_id=416', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('S7px9O5PmSio3a147yUF/jjl9VdYvL45vVtKlkaEWUw=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+           'Tis more than time. And, my most noble lord, <br>
+I hear for certain, and dare speak the truth:<br>
+The gentle Archbishop of York is up<br>
+With well-appointed pow'rs. He is a man<br>
+Who with a double surety binds his followers.<br>
+My lord your son had only but the corpse, <br>
+But shadows and the shows of men, to fight;<br>
+For that same word 'rebellion' did divide<br>
+The action of their bodies from their souls;<br>
+And they did fight with queasiness, constrain'd,<br>
+As men drink potions; that their weapons only<br>
+Seem'd on our side, but for their spirits and souls<br>
+This word 'rebellion'—it had froze them up,<br>
+As fish are in a pond. But now the Bishop<br>
+Turns insurrection to religion.<br>
+Suppos'd sincere and holy in his thoughts, <br>
+He's follow'd both with body and with mind;<br>
+And doth enlarge his rising with the blood<br>
+Of fair King Richard, scrap'd from Pomfret stones;<br>
+Derives from heaven his quarrel and his cause;<br>
+Tells them he doth bestride a bleeding land,<br>
+Gasping for life under great Bolingbroke;<br>
+And more and less do flock to follow him.
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=henry4p2&Act=1&Scene=1&Scope=scene&LineHighlight=245#238' target='_blank'>I i 203</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h4p2-1-1-187-morton.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Falstaff</div>
+  <div class='monologue_detail'>
+  Prose  <br/>
+  <a href="/plays/20">Henry IV ii</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_417'>
+  
+    <span id="preview_mono_417">
+      Men of all sorts take a pride to gird at me:<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_417', '/monologues/preview?monologue_id=417', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('S7px9O5PmSio3a147yUF/jjl9VdYvL45vVtKlkaEWUw=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+           Men of all sorts take a pride to gird at me. The
+this foolish-compounded clay, man, is not able to invent
+that intends to laughter, more than I invent or is invented
+me. I am not only witty in myself, but the cause that wit is
+other men. I do here walk before thee like a sow that hath
+overwhelm'd all her litter but one. If the Prince put thee
+my service for any other reason than to set me off, why then
+have no judgment. Thou whoreson mandrake, thou art fitter to
+worn in my cap than to wait at my heels. I was never mann'd
+an agate till now; but I will inset you neither in gold nor
+silver, but in vile apparel, and send you back again to your
+master, for a jewel—the juvenal, the Prince your master,
+chin is not yet fledge. I will sooner have a beard grow in
+palm of my hand than he shall get one off his cheek; and yet
+will not stick to say his face is a face-royal. God may
+when he will, 'tis not a hair amiss yet. He may keep it still
+a face-royal, for a barber shall never earn sixpence out of
+and yet he'll be crowing as if he had writ man ever since his
+father was a bachelor. He may keep his own grace, but he's
+out of mine, I can assure him. What said Master Dommelton
+the satin for my short cloak and my slops? 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=henry4p2&Act=1&Scene=2&Scope=scene&LineHighlight=281#275' target='_blank'>I ii 5</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h4p2-1-2-6-falstaff.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Bardolph</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/20">Henry IV ii</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_418'>
+  
+    <span id="preview_mono_418">
+      Yes, if this present quality of war,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_418', '/monologues/preview?monologue_id=418', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('S7px9O5PmSio3a147yUF/jjl9VdYvL45vVtKlkaEWUw=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Yes, if this present quality of war-<br>
+Indeed the instant action, a cause on foot-<br>
+Lives so in hope, as in an early spring<br>
+We see th' appearing buds; which to prove fruit<br>
+Hope gives not so much warrant, as despair 645<br>
+That frosts will bite them. When we mean to build,<br>
+We first survey the plot, then draw the model;<br>
+And when we see the figure of the house,<br>
+Then we must rate the cost of the erection;<br>
+Which if we find outweighs ability,<br>
+What do we then but draw anew the model<br>
+In fewer offices, or at least desist<br>
+To build at all? Much more, in this great work—<br>
+Which is almost to pluck a kingdom down<br>
+And set another up—should we survey<br>
+The plot of situation and the model,<br>
+Consent upon a sure foundation,<br>
+Question surveyors, know our own estate<br>
+How able such a work to undergo-<br>
+To weigh against his opposite; or else <br>
+We fortify in paper and in figures,<br>
+Using the names of men instead of men;<br>
+Like one that draws the model of a house<br>
+Beyond his power to build it; who, half through,<br>
+Gives o'er and leaves his part-created cost<br>
+A naked subject to the weeping clouds<br>
+And waste for churlish winter's tyranny. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=henry4p2&Act=1&Scene=3&Scope=scene&LineHighlight=641#632' target='_blank'>I iii 39</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h4p2-1-3-36-lordbardolph.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>ArchBishop of York</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/20">Henry IV ii</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_419'>
+  
+    <span id="preview_mono_419">
+      Let us on, And publish the occasion of our arms.<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_419', '/monologues/preview?monologue_id=419', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('S7px9O5PmSio3a147yUF/jjl9VdYvL45vVtKlkaEWUw=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <div align=right>Let us on,</div>
+And publish the occasion of our arms.<br>
+The commonwealth is sick of their own choice;<br>
+Their over-greedy love hath surfeited. <br>
+An habitation giddy and unsure<br>
+Hath he that buildeth on the vulgar heart.<br>
+O thou fond many, with what loud applause<br>
+Didst thou beat heaven with blessing Bolingbroke<br>
+Before he was what thou wouldst have him be! <br>
+And being now trimm'd in thine own desires,<br>
+Thou, beastly feeder, art so full of him<br>
+That thou provok'st thyself to cast him up.<br>
+So, so, thou common dog, didst thou disgorge<br>
+Thy glutton bosom of the royal Richard; <br>
+And now thou wouldst eat thy dead vomit up,<br>
+And howl'st to find it. What trust is in these times?<br>
+They that, when Richard liv'd, would have him die<br>
+Are now become enamour'd on his grave.<br>
+Thou that threw'st dust upon his goodly head, <br>
+When through proud London he came sighing on<br>
+After th' admired heels of Bolingbroke,<br>
+Criest now 'O earth, yield us that king again,<br>
+And take thou this!' O thoughts of men accurs'd!<br>
+Past and to come seems best; things present, worst. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=henry4p2&Act=1&Scene=3&Scope=scene&LineHighlight=692#687' target='_blank'>I iii 90</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h4p2-1-3-85-archbishopofyork.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Prince Hal</div>
+  <div class='monologue_detail'>
+  Prose - intercut <br/>
+  <a href="/plays/20">Henry IV ii</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_420'>
+  
+    <span id="preview_mono_420">
+      Before God, I am exceeding weary.<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_420', '/monologues/preview?monologue_id=420', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('S7px9O5PmSio3a147yUF/jjl9VdYvL45vVtKlkaEWUw=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Henry V.</b> Before God, I am exceeding weary.<br>
+<br>
+<del><b>Edward Poins.</b> Is't come to that? I had thought weariness durst not
+ attach'd one of so high blood.</del> <br>
+<br>
+<b>Henry V.</b> Faith, it does me; though it discolours the complexion
+ my greatness to acknowledge it. Doth it not show vilely in me
+ desire small beer? <br>
+<br>
+<del><b>Edward Poins.</b> Why, a prince should not be so loosely studied as to remember so weak a composition.</del><br>
+<br>
+<b>Henry V.</b> Belike then my appetite was not-princely got; for, by troth, I do now remember the poor creature, small beer. But
+indeed these humble considerations make me out of love with
+greatness. What a disgrace is it to me to remember thy name,
+to know thy face to-morrow, or to take note how many pair of
+stockings thou hast—viz., these, and those that were thy
+peach-colour'd ones—or to bear the inventory of thy shirts-
+one for superfluity, and another for use! But that the
+tennis-court-keeper knows better than I; for it is a low ebb
+linen with thee when thou keepest not racket there; as thou
+not done a great while, because the rest of thy low countries
+have made a shift to eat up thy holland. And God knows
+those that bawl out of the ruins of thy linen shall inherit
+kingdom; but the midwives say the children are not in the
+whereupon the world increases, and kindreds are mightily strengthened. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=henry4p2&Act=2&Scene=2&Scope=scene&LineHighlight=945' target='_blank'>II ii 1</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h4p2-2-2-1-princehal.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>King Henry IV</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/20">Henry IV ii</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_421'>
+  
+    <span id="preview_mono_421">
+      How many thousand of my poorest subjects<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_421', '/monologues/preview?monologue_id=421', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('S7px9O5PmSio3a147yUF/jjl9VdYvL45vVtKlkaEWUw=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          How many thousands of my poorest subjects<br>
+Are at this hour asleep! O sleep, O gentle sleep,<br>
+Nature's soft nurse, how have I frightened thee,<br>
+That thou no more will weigh my eyelids down,<br>
+And steep my senses in forgetfulness?<br>
+Why rather, sleep, liest thou in smoky cribs,<br>
+Upon uneasy pallets stretching thee,<br>
+And hush'd with buzzing night-flies to thy slumber,<br>
+Than in the perfum'd chambers of the great,<br>
+Under the canopies of costly state,<br>
+And lull'd with sound of sweetest melody?<br>
+O thou dull god, why liest thou with the vile<br>
+In loathsome beds, and leav'st the kingly couch<br>
+A watch-case or a common 'larum-bell?<br>
+Wilt thou upon the high and giddy mast<br>
+Seal up the ship-boy's eyes, and rock his brains<br>
+In cradle of the rude imperious surge,<br>
+And in the visitation of the winds,<br>
+Who take the ruffian billows by the top,<br>
+Curling their monstrous heads, and hanging them<br>
+With deafing clamour in the slippery clouds,<br>
+That with the hurly death itself awakes?<br>
+Canst thou, O partial sleep, give thy repose<br>
+To the wet sea-boy in an hour so rude;<br>
+And in the calmest and most stillest night,<br>
+With all appliances and means to boot,<br>
+Deny it to a king? Then, happy low, lie down!<br>
+Uneasy lies the head that wears a crown. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=henry4p2&Act=3&Scene=1&Scope=scene&LineHighlight=1705' target='_blank'>III i 6</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h4p2-3-1-4-kinghenryiv.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>King Henry IV</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/20">Henry IV ii</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_422'>
+  
+    <span id="preview_mono_422">
+      O God! that one might read the book of fate,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_422', '/monologues/preview?monologue_id=422', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('S7px9O5PmSio3a147yUF/jjl9VdYvL45vVtKlkaEWUw=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          O God! that one might read the book of fate,<br>
+And see the revolution of the times<br>
+Make mountains level, and the continent,<br>
+Weary of solid firmness, melt itself<br>
+Into the sea; and other times to see<br>
+The beachy girdle of the ocean<br>
+Too wide for Neptune's hips; how chances mock,<br>
+And changes fill the cup of alteration<br>
+With divers liquors! O, if this were seen,<br>
+The happiest youth, viewing his progress through,<br>
+What perils past, what crosses to ensue,<br>
+Would shut the book and sit him down and die.<br>
+'Tis not ten years gone<br>
+Since Richard and Northumberland, great friends,<br>
+Did feast together, and in two years after<br>
+Were they at wars. It is but eight years since<br>
+This Percy was the man nearest my soul;<br>
+Who like a brother toil'd in my affairs<br>
+And laid his love and life under my foot;<br>
+Yea, for my sake, even to the eyes of Richard<br>
+Gave him defiance. But which of you was by—<br>
+[To WARWICK] You, cousin Nevil, as I may remember—<br>
+When Richard, with his eye brim full of tears,<br>
+Then check'd and rated by Northumberland,<br>
+Did speak these words, now prov'd a prophecy?<br>
+'Northumberland, thou ladder by the which<br>
+My cousin Bolingbroke ascends my throne'—<br>
+Though then, God knows, I had no such intent<br>
+But that necessity so bow'd the state<br>
+That I and greatness were compell'd to kiss—<br>
+'The time shall come'—thus did he follow it—<br>
+'The time will come that foul sin, gathering head,<br>
+Shall break into corruption' so went on,<br>
+Foretelling this same time's condition<br>
+And the division of our amity. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=henry4p2&Act=3&Scene=1&Scope=scene&LineHighlight=1750#1743' target='_blank'>III i 48</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h4p2-3-1-45-kinghenryiv.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Falstaff</div>
+  <div class='monologue_detail'>
+  Prose  <br/>
+  <a href="/plays/20">Henry IV ii</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_423'>
+  
+    <span id="preview_mono_423">
+      As I return, I will fetch off these justices:<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_423', '/monologues/preview?monologue_id=423', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('S7px9O5PmSio3a147yUF/jjl9VdYvL45vVtKlkaEWUw=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          As I return, I will fetch off these justices. I do see the bottom of
+justice Shallow. Lord, Lord, how subject we old men are to this
+vice of lying! This same starv'd justice hath done nothing but
+prate to me of the wildness of his youth and the feats he hath
+done about Turnbull Street; and every third word a lie, duer paid
+to the hearer than the Turk's tribute. I do remember him at
+Clement's Inn, like a man made after supper of a cheese-paring.
+When 'a was naked, he was for all the world like a fork'd radish,
+with a head fantastically carved upon it with a knife. 'A was so
+forlorn that his dimensions to any thick sight were invisible. 'A
+was the very genius of famine; yet lecherous as a monkey, and the
+whores call'd him mandrake. 'A came ever in the rearward of the
+fashion, and sung those tunes to the overscutch'd huswifes that
+he heard the carmen whistle, and sware they were his fancies or
+his good-nights. And now is this Vice's dagger become a squire,
+and talks as familiarly of John a Gaunt as if he had been sworn
+brother to him; and I'll be sworn 'a ne'er saw him but once in
+the Tiltyard; and then he burst his head for crowding among the
+marshal's men. I saw it, and told John a Gaunt he beat his own
+name; for you might have thrust him and all his apparel into an
+eel-skin; the case of a treble hautboy was a mansion for him, a
+court—and now has he land and beeves. Well, I'll be acquainted
+with him if I return; and 't shall go hard but I'll make him a
+philosopher's two stones to me. If the young dace be a bait for
+the old pike, I see no reason in the law of nature but I may snap
+at him. Let time shape, and there an end.
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=henry4p2&Act=3&Scene=2&Scope=scene&LineHighlight=2172#2172' target='_blank'>III ii 130</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h4p2-3-2-301-falstaff.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Archbishop of York</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/20">Henry IV ii</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_424'>
+  
+    <span id="preview_mono_424">
+      Wherefore do I this? so the question stands.<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_424', '/monologues/preview?monologue_id=424', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('S7px9O5PmSio3a147yUF/jjl9VdYvL45vVtKlkaEWUw=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Wherefore do I this? So the question stands.<br>
+Briefly to this end: we are all diseas'd<br>
+And with our surfeiting and wanton hours<br>
+Have brought ourselves into a burning fever,<br>
+And we must bleed for it; of which disease<br>
+Our late King, Richard, being infected, died.<br>
+But, my most noble Lord of Westmoreland,<br>
+I take not on me here as a physician;<br>
+Nor do I as an enemy to peace<br>
+Troop in the throngs of military men;<br>
+But rather show awhile like fearful war<br>
+To diet rank minds sick of happiness,<br>
+And purge th' obstructions which begin to stop<br>
+Our very veins of life. Hear me more plainly.<br>
+I have in equal balance justly weigh'd<br>
+What wrongs our arms may do, what wrongs we suffer,<br>
+And find our griefs heavier than our offences.<br>
+We see which way the stream of time doth run<br>
+And are enforc'd from our most quiet there<br>
+By the rough torrent of occasion;<br>
+And have the summary of all our griefs,<br>
+When time shall serve, to show in articles;<br>
+Which long ere this we offer'd to the King,<br>
+And might by no suit gain our audience:<br>
+When we are wrong'd, and would unfold our griefs,<br>
+We are denied access unto his person,<br>
+Even by those men that most have done us wrong.<br>
+The dangers of the days but newly gone,<br>
+Whose memory is written on the earth<br>
+With yet appearing blood, and the examples<br>
+Of every minute's instance, present now,<br>
+Hath put us in these ill-beseeming arms;<br>
+Not to break peace, or any branch of it,<br>
+But to establish here a peace indeed,<br>
+Concurring both in name and quality. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=henry4p2&Act=4&Scene=1&Scope=scene&LineHighlight=2258#2258' target='_blank'>IV i 60</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h4p2-4-1-54-archbishopofyork.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Lancaster</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/20">Henry IV ii</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_425'>
+  
+    <span id="preview_mono_425">
+      You are well encounter'd here, my cousin Mowbray:<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_425', '/monologues/preview?monologue_id=425', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('S7px9O5PmSio3a147yUF/jjl9VdYvL45vVtKlkaEWUw=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          You are well encount'red here, my cousin Mowbray.<br>
+Good day to you, gentle Lord Archbishop;<br>
+And so to you, Lord Hastings, and to all.<br>
+My Lord of York, it better show'd with you<br>
+When that your flock, assembled by the bell,<br>
+Encircled you to hear with reverence<br>
+Your exposition on the holy text<br>
+Than now to see you here an iron man,<br>
+Cheering a rout of rebels with your drum,<br>
+Turning the word to sword, and life to death.<br>
+That man that sits within a monarch's heart<br>
+And ripens in the sunshine of his favour,<br>
+Would he abuse the countenance of the king,<br>
+Alack, what mischiefs might he set abroach<br>
+In shadow of such greatness! With you, Lord Bishop,<br>
+It is even so. Who hath not heard it spoken<br>
+How deep you were within the books of God?<br>
+To us the speaker in His parliament,<br>
+To us th' imagin'd voice of God himself,<br>
+The very opener and intelligencer<br>
+Between the grace, the sanctities of heaven,<br>
+And our dull workings. O, who shall believe<br>
+But you misuse the reverence of your place,<br>
+Employ the countenance and grace of heav'n<br>
+As a false favourite doth his prince's name,<br>
+In deeds dishonourable? You have ta'en up,<br>
+Under the counterfeited zeal of God,<br>
+The subjects of His substitute, my father,<br>
+And both against the peace of heaven and him<br>
+Have here up-swarm'd them. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=henry4p2&Act=4&Scene=2&Scope=scene&LineHighlight=2442' target='_blank'>IV ii 1</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h4p2-4-2-1-lancaster.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>King Henry</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/20">Henry IV ii</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_427'>
+  
+    <span id="preview_mono_427">
+      Nothing but well to thee, Thomas of Clarence.<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_427', '/monologues/preview?monologue_id=427', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('S7px9O5PmSio3a147yUF/jjl9VdYvL45vVtKlkaEWUw=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Nothing but well to thee, Thomas of Clarence.<br>
+How chance thou art not with the Prince thy brother?<br>
+He loves thee, and thou dost neglect him, Thomas.<br>
+Thou hast a better place in his affection <br>
+Than all thy brothers; cherish it, my boy,<br>
+And noble offices thou mayst effect<br>
+Of mediation, after I am dead,<br>
+Between his greatness and thy other brethren.<br>
+Therefore omit him not; blunt not his love,<br>
+Nor lose the good advantage of his grace<br>
+By seeming cold or careless of his will;<br>
+For he is gracious if he be observ'd.<br>
+He hath a tear for pity and a hand<br>
+Open as day for melting charity;<br>
+Yet notwithstanding, being incens'd, he is flint;<br>
+As humorous as winter, and as sudden<br>
+As flaws congealed in the spring of day.<br>
+His temper, therefore, must be well observ'd.<br>
+Chide him for faults, and do it reverently,<br>
+When you perceive his blood inclin'd to mirth;<br>
+But, being moody, give him line and scope<br>
+Till that his passions, like a whale on ground,<br>
+Confound themselves with working. Learn this, Thomas,<br>
+And thou shalt prove a shelter to thy friends,<br>
+A hoop of gold to bind thy brothers in,<br>
+That the united vessel of their blood,<br>
+Mingled with venom of suggestion—<br>
+As, force perforce, the age will pour it in—<br>
+Shall never leak, though it do work as strong<br>
+As aconitum or rash gunpowder. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=henry4p2&Act=4&Scene=4&Scope=scene&LineHighlight=2767#2764' target='_blank'>IV iv 23</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h4p2-4-4-19-kinghenryiv.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Prince Hal</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/20">Henry IV ii</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_428'>
+  
+    <span id="preview_mono_428">
+      O, pardon me, my liege! but for my tears,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_428', '/monologues/preview?monologue_id=428', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('S7px9O5PmSio3a147yUF/jjl9VdYvL45vVtKlkaEWUw=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.bartleby.com/70/2845.html#141' target='_blank'>IV v 146</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h4p2-4-5-138-princehal.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>King Henry</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/20">Henry IV ii</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_429'>
+  
+    <span id="preview_mono_429">
+      O my son, God put it in thy mind to take it hence,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_429', '/monologues/preview?monologue_id=429', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('S7px9O5PmSio3a147yUF/jjl9VdYvL45vVtKlkaEWUw=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.bartleby.com/70/2845.html#177' target='_blank'>IV v 185</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h4p2-4-5-177-kinghenryiv.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Prince Hal</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/20">Henry IV ii</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_430'>
+  
+    <span id="preview_mono_430">
+      Why doth the crown lie there upon his pillow,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_430', '/monologues/preview?monologue_id=430', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('S7px9O5PmSio3a147yUF/jjl9VdYvL45vVtKlkaEWUw=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.bartleby.com/70/2845.html#23' target='_blank'>IV v 25</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h4p2-4-5-21-princehal.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>King Henry</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/20">Henry IV ii</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_431'>
+  
+    <span id="preview_mono_431">
+      Thy wish was father, Harry, to that thought:<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_431', '/monologues/preview?monologue_id=431', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('S7px9O5PmSio3a147yUF/jjl9VdYvL45vVtKlkaEWUw=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.bartleby.com/70/2845.html#96' target='_blank'>IV v 100</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h4p2-4-5-91-kinghenryiv.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Henry V</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/20">Henry IV ii</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_432'>
+  
+    <span id="preview_mono_432">
+      You are right, justice, and you weigh this well;<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_432', '/monologues/preview?monologue_id=432', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('S7px9O5PmSio3a147yUF/jjl9VdYvL45vVtKlkaEWUw=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.bartleby.com/70/2852.html#100' target='_blank'>V ii 108</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h4p2-5-2-102-kinghenryv.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Epilogue</div>
+  <div class='monologue_detail'>
+  Prose  <br/>
+  <a href="/plays/20">Henry IV ii</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_434'>
+  
+    <span id="preview_mono_434">
+      First my fear; then my courtesy; last my speech.<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_434', '/monologues/preview?monologue_id=434', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('S7px9O5PmSio3a147yUF/jjl9VdYvL45vVtKlkaEWUw=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.bartleby.com/70/2855.html#90' target='_blank'>V v 92</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h4p2-epilogue.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Quickly</div>
+  <div class='monologue_detail'>
+  Prose  <br/>
+  <a href="/plays/20">Henry IV ii</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_762'>
+  
+    <span id="preview_mono_762">
+      I am undone by his going; I warrant you<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_762', '/monologues/preview?monologue_id=762', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('S7px9O5PmSio3a147yUF/jjl9VdYvL45vVtKlkaEWUw=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.bartleby.com/70/2821.html#15' target='_blank'>II i 16</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/h4p2-2-1-16-mistressquickly.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Quickly</div>
+  <div class='monologue_detail'>
+  Prose  <br/>
+  <a href="/plays/20">Henry IV ii</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_763'>
+  
+    <span id="preview_mono_763">
+      Marry, if thou wert an honest man<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_763', '/monologues/preview?monologue_id=763', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('S7px9O5PmSio3a147yUF/jjl9VdYvL45vVtKlkaEWUw=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.bartleby.com/70/2821.html#38' target='_blank'>II i 39</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/h4p2-2-1-39-mistressquickly.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Lady Percy</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/20">Henry IV ii</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_764'>
+  
+    <span id="preview_mono_764">
+      O yet, for God's sake, go not to these wars!<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_764', '/monologues/preview?monologue_id=764', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('S7px9O5PmSio3a147yUF/jjl9VdYvL45vVtKlkaEWUw=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.bartleby.com/70/2823.html#10' target='_blank'>II iii 11</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/h4p2-2-3-9-ladypercy.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Rumour</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/20">Henry IV ii</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_849'>
+  
+    <span id="preview_mono_849">
+      Open your ears; for which of you will stop <br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_849', '/monologues/preview?monologue_id=849', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('S7px9O5PmSio3a147yUF/jjl9VdYvL45vVtKlkaEWUw=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Open your ears; for which of you will stop<br>
+The vent of hearing when loud Rumour speaks?<br>
+I, from the orient to the drooping west,<br>
+Making the wind my post-horse, still unfold <br>
+The acts commenced on this ball of earth.<br>
+Upon my tongues continual slanders ride,<br>
+The which in every language I pronounce,<br>
+Stuffing the ears of men with false reports.<br>
+I speak of peace while covert emnity, <br>
+Under the smile of safety, wounds the world;<br>
+And who but Rumour, who but only I,<br>
+Make fearful musters and prepar'd defence,<br>
+Whiles the big year, swoln with some other grief,<br>
+Is thought with child by the stern tyrant war, <br>
+And no such matter? Rumour is a pipe<br>
+Blown by surmises, jealousies, conjectures,<br>
+And of so easy and so plain a stop<br>
+That the blunt monster with uncounted heads,<br>
+The still-discordant wav'ring multitude, <br>
+Can play upon it. But what need I thus<br>
+My well-known body to anatomize<br>
+Among my household? Why is Rumour here?<br>
+I run before King Harry's victory,<br>
+Who, in a bloody field by Shrewsbury, <br>
+Hath beaten down young Hotspur and his troops,<br>
+Quenching the flame of bold rebellion<br>
+Even with the rebels' blood. But what mean I<br>
+To speak so true at first? My office is<br>
+To noise abroad that Harry Monmouth fell <br>
+Under the wrath of noble Hotspur's sword,<br>
+And that the King before the Douglas' rage<br>
+Stoop'd his anointed head as low as death.<br>
+This have I rumour'd through the peasant towns<br>
+Between that royal field of Shrewsbury<br>
+And this worm-eaten hold of ragged stone,<br>
+Where Hotspur's father, old Northumberland,<br>
+Lies crafty-sick. The posts come tiring on,<br>
+And not a man of them brings other news<br>
+Than they have learnt of me. From Rumour's tongues <br>
+They bring smooth comforts false, worse than true wrongs. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=henry4p2&Act=0' target='_blank'>Prologue</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h4p2-induc-1-rumor.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+</table></div>
+
+
+  
+
+
+
+
+    </div>
+:@_rails_html_safeF

@@ -1,0 +1,17 @@
+"5
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_569">
+      What must the king do now? Must he submit?<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_569', '/monologues/preview?monologue_id=569', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('aBaZ2beGxDDUXz+nocYnv/tsCDOVtCtcxqqmT4dR9tQ=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+
+  
+

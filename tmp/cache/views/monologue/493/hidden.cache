@@ -1,0 +1,17 @@
+"3
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_493">
+      The army of the queen hath got the field<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_493', '/monologues/preview?monologue_id=493', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('F0S7Ulr+rSbO0FmcMG7rBxyPNZOfsFtUX+09v86pmtg=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+
+  
+

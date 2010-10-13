@@ -1,0 +1,17 @@
+"4
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_560">
+      How long shall I be patient? Ah! how long<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_560', '/monologues/preview?monologue_id=560', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('GWcv8hi7ad5zX+GMTPoxAVE5tdabe+PzE/HA5YPt3DI=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+
+  
+

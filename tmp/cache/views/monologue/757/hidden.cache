@@ -1,0 +1,31 @@
+"í
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_757">
+      The more thou damm'st it up, the more it burns<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_757', '/monologues/preview?monologue_id=757', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('qeWF6qepJKY5IPGjrKQFjWT52dQ7cRQNmQlKtykglss=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          The more thou damm'st it up, the more it burns.<br>
+The current that with gentle murmur glides,<br>
+Thou know'st, being stopp'd, impatiently doth rage;<br>
+But when his fair course is not hindered,<br>
+He makes sweet music with the enamell'ed stones,<br>
+Giving a gentle kiss to every sedge<br>
+He overtaketh in his pilgrimage, <br>
+And so by many winding nooks he strays<br>
+With willing sport to the wild ocean.<br>
+Then let me go and hinder not my course<br>
+I'll be as patient as a gentle stream<br>
+And make a pastime of each weary step, <br>
+Till the last step have brought me to my love;<br>
+And there I'll rest, as after much turmoil<br>
+A blessed soul doth in Elysium. 
+      </div>
+    </span>
+
+  
+

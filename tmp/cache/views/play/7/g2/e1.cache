@@ -1,0 +1,213 @@
+I"Î!  
+    <div>
+      <h2>Women's Monologues in Shakespeare</h2>
+      <h2>The Taming of the Shrew</h2>
+      <span>
+        <form action="javascript:void(0);" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="2IEhal+IZSpkOwEzL6DPo/UjN0WSmjoxbYjT+vRMweI=" /></div>
+          <b>Search:</b> <input type="text" id="search" size="40"/>
+          <img alt="Ajax-loader" id="spinner" src="/images/ajax-loader.gif?1278779332" style="display: none;" />
+        </form>
+        <div class="search_links">
+          <a href="/plays/7?g=3">Search Men</a> &nbsp;|&nbsp;
+          <a href="/plays/7">Search The Taming of the Shrew</a> &nbsp;|&nbsp;
+          <a href="/plays">Search All Plays</a> &nbsp;|&nbsp;
+          
+            <a href="/plays/7?g=2">Collapse All</a>
+          
+        </div>
+      </span>
+    </div>
+    <script type="text/javascript">
+//<![CDATA[
+new Form.Element.Observer('search', 1.25, function(element, value) {Element.show('spinner'); new Ajax.Updater('ajaxResults', 'http://mono.freeinternet.org/monologues/search', {asynchronous:true, evalScripts:true, onComplete:function(request){Element.hide('spinner')}, parameters:'g=2&p=7&search=' + encodeURIComponent(value) + '&authenticity_token=' + encodeURIComponent('2IEhal+IZSpkOwEzL6DPo/UjN0WSmjoxbYjT+vRMweI=')})})
+//]]>
+</script>
+  
+    <div id='ajaxResults'>
+      
+
+  
+
+      
+<div>
+  <table id='monologue_list'>
+    <tr>
+      <th>Character</th>
+      <th>First Line</th>
+      <th>Act & Sc</th>
+      <th>pdf</th>
+    </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Kate</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/7">The Taming of the Shrew</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_189'>
+  
+    <span id="preview_mono_189">
+      
+No shame but mine. I must forsooth be forc'd
+
+<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_189', '/monologues/preview?monologue_id=189', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('2IEhal+IZSpkOwEzL6DPo/UjN0WSmjoxbYjT+vRMweI=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          No shame but mine; I must, forsooth, be forc'd<br>
+To give my hand, oppos'd against my heart,<br>
+Unto a mad-brain rudesby, full of spleen,<br>
+Who woo'd in haste and means to wed at leisure.<br>
+I told you, I, he was a frantic fool,<br>
+Hiding his bitter jests in blunt behaviour;<br>
+And, to be noted for a merry man,<br>
+He'll woo a thousand, 'point the day of marriage,<br>
+Make friends invited, and proclaim the banns;<br>
+Yet never means to wed where he hath woo'd.<br>
+Now must the world point at poor Katherine,<br>
+And say 'Lo, there is mad Petruchio's wife,<br>
+If it would please him come and marry her!'
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=tamingshrew&Act=3&Scene=2&Scope=scene&LineHighlight=1371' target='_blank'>III ii 8</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/tots-3-2-8-katherina.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Kate</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/7">The Taming of the Shrew</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_190'>
+  
+    <span id="preview_mono_190">
+      
+The more my wrong, the more his spite appears
+
+<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_190', '/monologues/preview?monologue_id=190', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('2IEhal+IZSpkOwEzL6DPo/UjN0WSmjoxbYjT+vRMweI=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          The more my wrong, the more his spite appears.<br>
+What, did he marry me to famish me?<br>
+Beggars that come unto my father's door<br>
+Upon entreaty have a present alms;<br>
+If not, elsewhere they meet with charity;<br>
+But I, who never knew how to entreat,<br>
+Nor never needed that I should entreat,<br>
+Am starv'd for meat, giddy for lack of sleep; <br>
+With oaths kept waking, and with brawling fed;<br>
+And that which spites me more than all these wants-<br>
+He does it under name of perfect love;<br>
+As who should say, if I should sleep or eat,<br>
+'Twere deadly sickness or else present death. <br>
+I prithee go and get me some repast;<br>
+I care not what, so it be wholesome food. 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=tamingshrew&Act=4&Scene=3&Scope=scene&LineHighlight=1958' target='_blank'>IV iii 78</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/tots-4-3-78-katherina.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Kate</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/7">The Taming of the Shrew</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_191'>
+  
+    <span id="preview_mono_191">
+      
+Fie, fie! unknit that threatening unkind brow
+
+
+<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_191', '/monologues/preview?monologue_id=191', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('2IEhal+IZSpkOwEzL6DPo/UjN0WSmjoxbYjT+vRMweI=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Fie, fie! unknit that threatening unkind brow,<br>
+And dart not scornful glances from those eyes <br>
+To wound thy lord, thy king, thy governor.<br>
+It blots thy beauty as frosts do bite the meads,<br>
+Confounds thy fame as whirlwinds shake fair buds,<br>
+And in no sense is meet or amiable.<br>
+A woman mov'd is like a fountain troubled-<br>
+Muddy, ill-seeming, thick, bereft of beauty;<br>
+And while it is so, none so dry or thirsty<br>
+Will deign to sip or touch one drop of it.<br>
+Thy husband is thy lord, thy life, thy keeper,<br>
+Thy head, thy sovereign; one that cares for thee, <br>
+And for thy maintenance commits his body<br>
+To painful labour both by sea and land,<br>
+To watch the night in storms, the day in cold,<br>
+Whilst thou liest warm at home, secure and safe;<br>
+And craves no other tribute at thy hands<br>
+But love, fair looks, and true obedience-<br>
+Too little payment for so great a debt.<br>
+Such duty as the subject owes the prince,<br>
+Even such a woman oweth to her husband;<br>
+And when she is froward, peevish, sullen, sour,<br>
+And not obedient to his honest will,<br>
+What is she but a foul contending rebel<br>
+And graceless traitor to her loving lord?<br>
+I am asham'd that women are so simple<br>
+To offer war where they should kneel for peace;<br>
+Or seek for rule, supremacy, and sway,<br>
+When they are bound to serve, love, and obey.<br>
+Why are our bodies soft and weak and smooth,<br>
+Unapt to toil and trouble in the world,<br>
+But that our soft conditions and our hearts<br>
+Should well agree with our external parts?<br>
+Come, come, you forward and unable worms!<br>
+My mind hath been as big as one of yours,<br>
+My heart as great, my reason haply more,<br>
+To bandy word for word and frown for frown; <br>
+But now I see our lances are but straws,<br>
+Our strength as weak, our weakness past compare,<br>
+That seeming to be most which we indeed least are.<br>
+Then vail your stomachs, for it is no boot,<br>
+And place your hands below your husband's foot;<br>
+In token of which duty, if he please,<br>
+My hand is ready, may it do him ease. 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=tamingshrew&Act=5&Scene=2&Scope=scene&LineHighlight=2644#2640' target='_blank'>V ii 54</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/tots-5-2-141-katherina.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+</table></div>
+
+
+  
+
+
+
+
+    </div>
+:@_rails_html_safeF

@@ -1,0 +1,132 @@
+I"\  
+    <div>
+      <h2>Women's Monologues in Shakespeare</h2>
+      <h2>Henry VIII</h2>
+      <span>
+        <form action="javascript:void(0);" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="Rp7j6KGpnWnyD6peV2rchzh8ha/3dypUFqZNjA4gzek=" /></div>
+          <b>Search:</b> <input type="text" id="search" size="40"/>
+          <img alt="Ajax-loader" id="spinner" src="/images/ajax-loader.gif?1278779332" style="display: none;" />
+        </form>
+        <div class="search_links">
+          <a href="/plays/25?g=3">Search Men</a> &nbsp;|&nbsp;
+          <a href="/plays/25">Search Henry VIII</a> &nbsp;|&nbsp;
+          <a href="/plays">Search All Plays</a> &nbsp;|&nbsp;
+          
+            <a href="/plays/25?g=2">Collapse All</a>
+          
+        </div>
+      </span>
+    </div>
+    <script type="text/javascript">
+//<![CDATA[
+new Form.Element.Observer('search', 1.25, function(element, value) {Element.show('spinner'); new Ajax.Updater('ajaxResults', 'http://mono.freeinternet.org/monologues/search', {asynchronous:true, evalScripts:true, onComplete:function(request){Element.hide('spinner')}, parameters:'g=2&p=25&search=' + encodeURIComponent(value) + '&authenticity_token=' + encodeURIComponent('Rp7j6KGpnWnyD6peV2rchzh8ha/3dypUFqZNjA4gzek=')})})
+//]]>
+</script>
+  
+    <div id='ajaxResults'>
+      
+
+  
+
+      
+<div>
+  <table id='monologue_list'>
+    <tr>
+      <th>Character</th>
+      <th>First Line</th>
+      <th>Act & Sc</th>
+      <th>pdf</th>
+    </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Katherine</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/25">Henry VIII</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_784'>
+  
+    <span id="preview_mono_784">
+      Sir, I desire you do me right and justice<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_784', '/monologues/preview?monologue_id=784', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Rp7j6KGpnWnyD6peV2rchzh8ha/3dypUFqZNjA4gzek=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.bartleby.com/70/3424.html#13' target='_blank'>II iv 15</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/h8-2-4-12-queenkatherine.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Katherine</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/25">Henry VIII</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_785'>
+  
+    <span id="preview_mono_785">
+      My lord, my lord, 
+I am a simple woman, much too weak<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_785', '/monologues/preview?monologue_id=785', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Rp7j6KGpnWnyD6peV2rchzh8ha/3dypUFqZNjA4gzek=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.bartleby.com/70/3424.html#113' target='_blank'>II iv 115</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/h8-2-4-115-queenkatherine.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Katherine</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/25">Henry VIII</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_786'>
+  
+    <span id="preview_mono_786">
+      In which I have commended to his goodness<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_786', '/monologues/preview?monologue_id=786', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Rp7j6KGpnWnyD6peV2rchzh8ha/3dypUFqZNjA4gzek=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.bartleby.com/70/3442.html#153' target='_blank'>IV ii 156</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/h8-4-2-128-queenkatherine.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+</table></div>
+
+
+  
+
+
+
+
+    </div>
+:@_rails_html_safeF

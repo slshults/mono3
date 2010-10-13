@@ -1,0 +1,36 @@
+"5
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_139">
+      I do affect the very ground, which is base<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_139', '/monologues/preview?monologue_id=139', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('yzFCUfnFnWZxz3rl2AYoTrYWDBtruDIxs2hpzYCrkFU=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          I do affect the very ground, which is base, where<br>
+her shoe, which is baser, guided by her foot, which<br>
+is basest, doth tread. I shall be forsworn, which<br>
+is a great argument of falsehood, if I love. And<br>
+how can that be true love which is falsely<br>
+attempted? Love is a familiar; Love is a devil:<br>
+there is no evil angel but Love. Yet was Samson so<br>
+tempted, and he had an excellent strength; yet was<br>
+Solomon so seduced, and he had a very good wit.<br>
+Cupid's butt-shaft is too hard for Hercules' club;<br>
+and therefore too much odds for a Spaniard's rapier.<br>
+The first and second cause will not serve my turn;<br>
+the passado he respects not, the duello he regards<br>
+not: his disgrace is to be called boy; but his<br>
+glory is to subdue men. Adieu, valour! rust rapier!<br>
+be still, drum! for your manager is in love; yea,<br>
+he loveth. Assist me, some extemporal god of rhyme,<br>
+for I am sure I shall turn sonnet. Devise, wit; <br>
+write, pen; for I am for whole volumes in folio. <br>
+
+      </div>
+    </span>
+
+  
+

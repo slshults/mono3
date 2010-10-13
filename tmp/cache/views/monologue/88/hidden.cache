@@ -1,0 +1,46 @@
+"ß
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_88">
+      And why, I pray you? Who might be your mother,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_88', '/monologues/preview?monologue_id=88', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('500G0rFZWazHqDADZOBawoPMi/9EZUzBaXkmHsPJJTk=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          And why, I pray you? Who might be your mother,<br>
+That you insult, exult, and all at once, <br>
+Over the wretched? What though you have no beauty,-- <br>
+As by my faith, I see no more in you <br>
+Than without candle may go dark to bed,--<br>
+Must you be therefore proud and pitiless?  <br>
+Why, what means this? Why do you look on me? <br>
+I see no more in you than in the ordinary <br>
+Of nature's sale-work. Od's my little life!<br>
+I think she means to tangle my eyes too. <br>
+No, faith, proud mistress, hope not after it: <br>
+'Tis not your inky brows, your black silk hair, <br>
+Your bugle eyeballs, nor your cheek of cream,<br>
+That can entame my spirits to your worship. <br>
+You foolish shepherd, wherefore do you follow her,<br> 
+Like foggy south puffing with wind and rain? <br>
+You are a thousand times a properer man <br>
+Than she a woman: 'tis such fools as you  <br>
+That make the world full of ill-favour'd children:<br> 
+'Tis not her glass, but you, that flatters her; <br>
+And out of you she sees herself more proper<br>
+Than any of her lineaments can show her. <br>
+But, mistress, know yourself: down on your knees,<br> 
+And thank heaven, fasting, for a good man's love:  <br>
+For I must tell you friendly in your ear, <br>
+Sell when you can; you are not for all markets.<br> 
+Cry the man mercy; love him; take his offer: <br>
+Foul is most foul, being foul to be a scoffer. <br>
+So take her to thee, shepherd. Fare you well.<br>
+
+      </div>
+    </span>
+
+  
+

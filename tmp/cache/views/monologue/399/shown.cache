@@ -1,0 +1,10 @@
+"•
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_399">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_399', '/monologues/preview/399', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('5a+C/JAQcfgxO0uorItilYbCNhWdGGs6ZwX1kuXrUbg=')}); return false;">To leave my Julia, shall I be forsworn;</a>
+    </span>
+  
+

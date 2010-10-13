@@ -1,0 +1,48 @@
+"è
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_43">
+      My mistress with a monster is in love<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_43', '/monologues/preview?monologue_id=43', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Dq12td2bHTbyxedWuLZoyHRqbSRL7qvHpIzmrghD/hc=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          My mistress with a monster is in love.<br>
+Near to her close and consecrated bower,<br>
+While she was in her dull and sleeping hour,<br>
+A crew of patches, rude mechanicals,<br>
+That work for bread upon Athenian stalls,<br>
+Were met together to rehearse a play<br>
+Intended for great Theseus' nuptial-day.<br>
+The shallowest thick-skin of that barren sort,<br>
+Who Pyramus presented, in their sport<br>
+Forsook his scene and enter'd in a brake <br>
+When I did him at this advantage take,<br>
+An ass's nole I fixed on his head:<br>
+Anon his Thisbe must be answered,<br>
+And forth my mimic comes. When they him spy,<br>
+As wild geese that the creeping fowler eye, <br>
+Or russet-pated choughs, many in sort,<br>
+Rising and cawing at the gun's report,<br>
+Sever themselves and madly sweep the sky,<br>
+So, at his sight, away his fellows fly;<br>
+And, at our stamp, here o'er and o'er one falls;<br>
+He murder cries and help from Athens calls.<br>
+Their sense thus weak, lost with their fears
+thus strong,<br>
+Made senseless things begin to do them wrong;<br>
+For briers and thorns at their apparel snatch;<br>
+Some sleeves, some hats, from yielders all
+things catch.<br>
+I led them on in this distracted fear,<br>
+And left sweet Pyramus translated there:<br>
+When in that moment, so it came to pass, <br>
+Titania waked and straightway loved an ass. 
+
+      </div>
+    </span>
+
+  
+

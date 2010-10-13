@@ -1,0 +1,30 @@
+"ã
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_815">
+      Not only, sir, this your all-licens'd fool<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_815', '/monologues/preview?monologue_id=815', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Not only, sir, this your all-licens'd fool,<br>
+But other of your insolent retinue<br>
+Do hourly carp and quarrel, breaking forth<br>
+In rank and not-to-be-endured riots. Sir, <br>
+I had thought, by making this well known unto you,<br>
+To have found a safe redress, but now grow fearful,<br>
+By what yourself, too, late have spoke and done,<br>
+That you protect this course, and put it on<br>
+By your allowance; which if you should, the fault <br>
+Would not scape censure, nor the redresses sleep,<br>
+Which, in the tender of a wholesome weal,<br>
+Might in their working do you that offence<br>
+Which else were shame, that then necessity<br>
+Must call discreet proceeding. 
+      </div>
+    </span>
+
+  
+

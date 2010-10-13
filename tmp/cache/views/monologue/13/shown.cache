@@ -1,0 +1,11 @@
+"Ä
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_13">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_13', '/monologues/preview/13', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('A3OFSfOeviFPz2kIgtEIQgD0ZhebqbFd6nTs5m3XulU=')}); return false;">Yet here, Laertes! aboard, aboard, for shame!
+The wind sits in the shoulder of your sail,</a>
+    </span>
+  
+

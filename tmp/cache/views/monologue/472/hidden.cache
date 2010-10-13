@@ -1,0 +1,17 @@
+"0
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_472">
+      Thou ominous and fearful owl of death<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_472', '/monologues/preview?monologue_id=472', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Ir7Wl80TUzwAnantCrg1eSl5o1d1j1W/mCr8LMJ/e4s=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+
+  
+

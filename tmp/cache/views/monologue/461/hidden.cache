@@ -1,0 +1,50 @@
+"¢
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_461">
+      This note doth tell me of ten thousand French<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_461', '/monologues/preview?monologue_id=461', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('IVR8NLZmuG/BnI3gZptirhzxZOGZ2KK0b/bKkg9ZV9A=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          This note doth tell me of ten thousand French<br>
+That in the field lie slain: of princes, in this number,<br>
+And nobles bearing banners, there lie dead <br>
+One hundred twenty six: added to these,<br>
+Of knights, esquires, and gallant gentlemen,<br>
+Eight thousand and four hundred; of the which,<br>
+Five hundred were but yesterday dubb'd knights:<br>
+So that, in these ten thousand they have lost, <br>
+There are but sixteen hundred mercenaries;<br>
+The rest are princes, barons, lords, knights, squires,<br>
+And gentlemen of blood and quality.<br>
+The names of those their nobles that lie dead:<br>
+Charles Delabreth, high constable of France; <br>
+Jaques of Chatillon, admiral of France;<br>
+The master of the cross-bows, Lord Rambures;<br>
+Great Master of France, the brave Sir Guichard Dolphin,<br>
+John Duke of Alencon, Anthony Duke of Brabant,<br>
+The brother of the Duke of Burgundy, <br>
+And Edward Duke of Bar: of lusty earls,<br>
+Grandpre and Roussi, Fauconberg and Foix,<br>
+Beaumont and Marle, Vaudemont and Lestrale.<br>
+Here was a royal fellowship of death!<br>
+Where is the number of our English dead?<br>
+<i>[Herald shews him another paper]</i><br>
+Edward the Duke of York, the Earl of Suffolk,<br>
+Sir Richard Ketly, Davy Gam, esquire:<br>
+None else of name; and of all other men<br>
+But five and twenty. O God, thy arm was here; <br>
+And not to us, but to thy arm alone,<br>
+Ascribe we all! When, without stratagem,<br>
+But in plain shock and even play of battle,<br>
+Was ever known so great and little loss<br>
+On one part and on the other? Take it, God, <br>
+For it is none but thine! 
+      </div>
+    </span>
+
+  
+

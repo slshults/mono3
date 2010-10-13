@@ -1,0 +1,45 @@
+"¦
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_443">
+      God quit you in his mercy! Hear your sentence.<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_443', '/monologues/preview?monologue_id=443', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('3fa8SH3TLIQTNYY17yUJdrmYXy3yf/J1Og2xBBglUyM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          God quit you in his mercy! Hear your sentence.<br>
+You have conspired against our royal person,<br>
+Join'd with an enemy proclaim'd and from his coffers<br>
+Received the golden earnest of our death; <br>
+Wherein you would have sold your king to slaughter,<br>
+His princes and his peers to servitude,<br>
+His subjects to oppression and contempt<br>
+And his whole kingdom into desolation.<br>
+Touching our person seek we no revenge; <br>
+But we our kingdom's safety must so tender,<br>
+Whose ruin you have sought, that to her laws<br>
+We do deliver you. Get you therefore hence,<br>
+Poor miserable wretches, to your death:<br>
+The taste whereof, God of his mercy give<br>
+You patience to endure, and true repentance<br>
+Of all your dear offences! Bear them hence.<br>
+<i>[Exeunt CAMBRIDGE, SCROOP and GREY, guarded]</i><br>
+Now, lords, for France; the enterprise whereof<br>
+Shall be to you, as us, like glorious. <br>
+We doubt not of a fair and lucky war,<br>
+Since God so graciously hath brought to light<br>
+This dangerous treason lurking in our way<br>
+To hinder our beginnings. We doubt not now<br>
+But every rub is smoothed on our way. <br>
+Then forth, dear countrymen: let us deliver<br>
+Our puissance into the hand of God,<br>
+Putting it straight in expedition.<br>
+Cheerly to sea; the signs of war advance:<br>
+No king of England, if not king of France. 
+      </div>
+    </span>
+
+  
+

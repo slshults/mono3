@@ -1,0 +1,67 @@
+"
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_62">
+      If we offend, it is with our good will<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_62', '/monologues/preview?monologue_id=62', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Dq12td2bHTbyxedWuLZoyHRqbSRL7qvHpIzmrghD/hc=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Quince.</b> If we offend, it is with our good will.<br>
+      That you should think, we come not to offend,<br>
+      But with good will. To show our simple skill,<br>
+      That is the true beginning of our end.<br>
+      Consider then we come but in despite. <br>
+      We do not come as minding to contest you,<br>
+      Our true intent is. All for your delight<br>
+      We are not here. That you should here repent you,<br>
+      The actors are at hand and by their show<br>
+      You shall know all that you are like to know. <br><br>
+
+<del><b>Theseus.</b> This fellow doth not stand upon points. <br><br>
+
+<b>Lysander.</b> He hath rid his prologue like a rough colt; he knows<br>
+      not the stop. A good moral, my lord: it is not<br>
+      enough to speak, but to speak true. <br><br>
+
+<b>Hippolyta.</b> Indeed he hath played on his prologue like a child <br>
+      on a recorder; a sound, but not in government. <br><br>
+
+<b>Theseus.</b> His speech, was like a tangled chain; nothing<br>
+      impaired, but all disordered. Who is next? </del><br><br>
+
+[Enter Pyramus and Thisbe, Wall, Moonshine, and Lion]<br><br>
+
+<b>Quince.</b> Gentles, perchance you wonder at this show;<br>
+      But wonder on, till truth make all things plain.<br>
+      This man is Pyramus, if you would know;<br>
+      This beauteous lady Thisby is certain.<br>
+      This man, with lime and rough-cast, doth present<br>
+      Wall, that vile Wall which did these lovers sunder; <br>
+      And through Wall's chink, poor souls, they are content<br>
+      To whisper. At the which let no man wonder.<br>
+      This man, with lanthorn, dog, and bush of thorn,<br>
+      Presenteth Moonshine; for, if you will know,<br>
+      By moonshine did these lovers think no scorn<br>
+      To meet at Ninus' tomb, there, there to woo.<br>
+      This grisly beast, which Lion hight by name,<br>
+      The trusty Thisby, coming first by night,<br>
+      Did scare away, or rather did affright;<br>
+      And, as she fled, her mantle she did fall, <br>
+      Which Lion vile with bloody mouth did stain.<br>
+      Anon comes Pyramus, sweet youth and tall,<br>
+      And finds his trusty Thisby's mantle slain:<br>
+      Whereat, with blade, with bloody blameful blade,<br>
+      He bravely broach'd is boiling bloody breast;<br>
+      And Thisby, tarrying in mulberry shade,<br>
+      His dagger drew, and died. For all the rest,<br>
+      Let Lion, Moonshine, Wall, and lovers twain<br>
+      At large discourse, while here they do remain. 
+
+      </div>
+    </span>
+
+  
+

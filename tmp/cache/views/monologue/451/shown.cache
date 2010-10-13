@@ -1,0 +1,10 @@
+"ž
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_451">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_451', '/monologues/preview/451', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OvPQzQkDxWFYoXJDy1AI91+WmiVXmEdtXhODeJDnuws=')}); return false;">Thus says my king: Say thou to Harry of England:</a>
+    </span>
+  
+

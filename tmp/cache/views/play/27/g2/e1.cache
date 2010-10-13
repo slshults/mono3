@@ -1,0 +1,104 @@
+I"é  
+    <div>
+      <h2>Women's Monologues in Shakespeare</h2>
+      <h2>Richard II</h2>
+      <span>
+        <form action="javascript:void(0);" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="eqP8h72YTAjICMEkL9rUpdUAWEAAgVKEsrW6wUgeDX4=" /></div>
+          <b>Search:</b> <input type="text" id="search" size="40"/>
+          <img alt="Ajax-loader" id="spinner" src="/images/ajax-loader.gif?1278779332" style="display: none;" />
+        </form>
+        <div class="search_links">
+          <a href="/plays/27?g=3">Search Men</a> &nbsp;|&nbsp;
+          <a href="/plays/27">Search Richard II</a> &nbsp;|&nbsp;
+          <a href="/plays">Search All Plays</a> &nbsp;|&nbsp;
+          
+            <a href="/plays/27?g=2">Collapse All</a>
+          
+        </div>
+      </span>
+    </div>
+    <script type="text/javascript">
+//<![CDATA[
+new Form.Element.Observer('search', 1.25, function(element, value) {Element.show('spinner'); new Ajax.Updater('ajaxResults', 'http://www.shakespeare-monologues.org/monologues/search', {asynchronous:true, evalScripts:true, onComplete:function(request){Element.hide('spinner')}, parameters:'g=2&p=27&search=' + encodeURIComponent(value) + '&authenticity_token=' + encodeURIComponent('eqP8h72YTAjICMEkL9rUpdUAWEAAgVKEsrW6wUgeDX4=')})})
+//]]>
+</script>
+  
+    <div id='ajaxResults'>
+      
+
+  
+
+      
+<div>
+  <table id='monologue_list'>
+    <tr>
+      <th>Character</th>
+      <th>First Line</th>
+      <th>Act & Sc</th>
+      <th>pdf</th>
+    </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Duchess</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/27">Richard II</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_794'>
+  
+    <span id="preview_mono_794">
+      Yet one word more. Grief boundeth where it falls<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_794', '/monologues/preview?monologue_id=794', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('eqP8h72YTAjICMEkL9rUpdUAWEAAgVKEsrW6wUgeDX4=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.bartleby.com/70/2612.html#58' target='_blank'>II ii 60</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/r2-2-2-60-duchess.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Constance</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/27">Richard II</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_795'>
+  
+    <span id="preview_mono_795">
+      Finds brotherhood in thee no sharper spur?<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_795', '/monologues/preview?monologue_id=795', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('eqP8h72YTAjICMEkL9rUpdUAWEAAgVKEsrW6wUgeDX4=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.bartleby.com/70/2612.html#1' target='_blank'>I ii 11</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/r2-1-2-9-constance.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+</table></div>
+
+
+  
+
+
+
+
+    </div>
+:@_rails_html_safeF

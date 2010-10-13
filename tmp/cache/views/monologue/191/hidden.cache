@@ -1,0 +1,66 @@
+"d
+
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_191">
+      
+Fie, fie! unknit that threatening unkind brow
+
+
+<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_191', '/monologues/preview?monologue_id=191', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('XepXdRF0+B2Q904t5astrG8Pc6zNNiVGQpajlQW/Ecw=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Fie, fie! unknit that threatening unkind brow,<br>
+And dart not scornful glances from those eyes <br>
+To wound thy lord, thy king, thy governor.<br>
+It blots thy beauty as frosts do bite the meads,<br>
+Confounds thy fame as whirlwinds shake fair buds,<br>
+And in no sense is meet or amiable.<br>
+A woman mov'd is like a fountain troubled-<br>
+Muddy, ill-seeming, thick, bereft of beauty;<br>
+And while it is so, none so dry or thirsty<br>
+Will deign to sip or touch one drop of it.<br>
+Thy husband is thy lord, thy life, thy keeper,<br>
+Thy head, thy sovereign; one that cares for thee, <br>
+And for thy maintenance commits his body<br>
+To painful labour both by sea and land,<br>
+To watch the night in storms, the day in cold,<br>
+Whilst thou liest warm at home, secure and safe;<br>
+And craves no other tribute at thy hands<br>
+But love, fair looks, and true obedience-<br>
+Too little payment for so great a debt.<br>
+Such duty as the subject owes the prince,<br>
+Even such a woman oweth to her husband;<br>
+And when she is froward, peevish, sullen, sour,<br>
+And not obedient to his honest will,<br>
+What is she but a foul contending rebel<br>
+And graceless traitor to her loving lord?<br>
+I am asham'd that women are so simple<br>
+To offer war where they should kneel for peace;<br>
+Or seek for rule, supremacy, and sway,<br>
+When they are bound to serve, love, and obey.<br>
+Why are our bodies soft and weak and smooth,<br>
+Unapt to toil and trouble in the world,<br>
+But that our soft conditions and our hearts<br>
+Should well agree with our external parts?<br>
+Come, come, you forward and unable worms!<br>
+My mind hath been as big as one of yours,<br>
+My heart as great, my reason haply more,<br>
+To bandy word for word and frown for frown; <br>
+But now I see our lances are but straws,<br>
+Our strength as weak, our weakness past compare,<br>
+That seeming to be most which we indeed least are.<br>
+Then vail your stomachs, for it is no boot,<br>
+And place your hands below your husband's foot;<br>
+In token of which duty, if he please,<br>
+My hand is ready, may it do him ease. 
+
+      </div>
+    </span>
+
+  
+

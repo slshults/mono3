@@ -1,0 +1,10 @@
+"˜
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_449">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_449', '/monologues/preview/449', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('WhkswiUy7VwH4sqWVbZOyef3+0Y5w19TaVED8VsZqxU=')}); return false;">How yet resolves the governor of the town?</a>
+    </span>
+  
+

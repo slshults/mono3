@@ -1,0 +1,38 @@
+"]
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_678">
+      That nature, being sick of man's unkindness,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_678', '/monologues/preview?monologue_id=678', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('12310QwQgqMSZ/Vq0AXVdFoYHRbKBeqkNhjXlMg1emw=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          That nature, being sick of man's unkindness,<br>
+Should yet be hungry! Common mother, thou,<br>
+[Digging]<br>
+Whose womb unmeasurable, and infinite breast, <br>
+Teems, and feeds all; whose self-same mettle,<br>
+Whereof thy proud child, arrogant man, is puff'd,<br>
+Engenders the black toad and adder blue,<br>
+The gilded newt and eyeless venom'd worm,<br>
+With all the abhorred births below crisp heaven <br>
+Whereon Hyperion's quickening fire doth shine;<br>
+Yield him, who all thy human sons doth hate,<br>
+From forth thy plenteous bosom, one poor root!<br>
+Ensear thy fertile and conceptious womb,<br>
+Let it no more bring out ingrateful man! <br>
+Go great with tigers, dragons, wolves, and bears;<br>
+Teem with new monsters, whom thy upward face<br>
+Hath to the marbled mansion all above<br>
+Never presented!—O, a root,—dear thanks!—<br>
+Dry up thy marrows, vines, and plough-torn leas; <br>
+Whereof ungrateful man, with liquorish draughts<br>
+And morsels unctuous, greases his pure mind,<br>
+That from it all consideration slips! 
+      </div>
+    </span>
+
+  
+

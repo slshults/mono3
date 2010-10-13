@@ -1,0 +1,53 @@
+"Î	
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_223">
+      But for mine own part, my lord, I could be well contented<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_223', '/monologues/preview?monologue_id=223', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('4yhW1+W5uRY88l2pz1NjLHs83udkE80Q0XFhkg21CJE=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          'But for mine own part, my lord, I could be well<br>
+contented to be there, in respect of the love I bear<br>
+your house.' He could be contented: why is he not, <br>
+then? In respect of the love he bears our house:<br>
+he shows in this, he loves his own barn better than<br>
+he loves our house. Let me see some more. 'The<br>
+purpose you undertake is dangerous;'.why, that's<br>
+certain: 'tis dangerous to take a cold, to sleep, to <br>
+drink; but I tell you, my lord fool, out of this<br>
+nettle, danger, we pluck this flower, safety. 'The<br>
+purpose you undertake is dangerous; the friends you<br>
+have named uncertain; the time itself unsorted; and<br>
+your whole plot too light for the counterpoise of so <br>
+great an opposition.' Say you so, say you so? I say<br>
+unto you again, you are a shallow cowardly hind, and<br>
+you lie. What a lack-brain is this! By the Lord,<br>
+our plot is a good plot as ever was laid; our<br>
+friends true and constant: a good plot, good <br>
+friends, and full of expectation; an excellent plot,<br>
+very good friends. What a frosty-spirited rogue is<br>
+this! Why, my lord of York commends the plot and the<br>
+general course of action. 'Zounds, an I were now by<br>
+this rascal, I could brain him with his lady's fan. <br>
+Is there not my father, my uncle and myself? lord<br>
+Edmund Mortimer, My lord of York and Owen Glendower?<br>
+is there not besides the Douglas? have I not all<br>
+their letters to meet me in arms by the ninth of the<br>
+next month? and are they not some of them set <br>
+forward already? What a pagan rascal is this! an<br>
+infidel! Ha! you shall see now in very sincerity<br>
+of fear and cold heart, will he to the king and lay<br>
+open all our proceedings. O, I could divide myself<br>
+and go to buffets, for moving such a dish of <br>
+skim milk with so honourable an action! Hang him!<br>
+let him tell the king: we are prepared. I will set<br>
+forward to-night. 
+
+      </div>
+    </span>
+
+  
+

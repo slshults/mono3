@@ -1,0 +1,54 @@
+"¼
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_227">
+      For all the world,
+As thou art to this hour was Richard then<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_227', '/monologues/preview?monologue_id=227', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('6V7pLF9cqlGumXMSv2FUDDFqxTPNJXwx68XaXT0RojQ=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <div align="right">For all the world</div>
+As thou art to this hour was Richard then<br>
+When I from France set foot at Ravenspurgh,<br>
+And even as I was then is Percy now. <br>
+Now, by my sceptre and my soul to boot,<br>
+He hath more worthy interest to the state<br>
+Than thou the shadow of succession;<br>
+For of no right, nor colour like to right,<br>
+He doth fill fields with harness in the realm, <br>
+Turns head against the lion's armed jaws,<br>
+And, being no more in debt to years than thou,<br>
+Leads ancient lords and reverend bishops on<br>
+To bloody battles and to bruising arms.<br>
+What never-dying honour hath he got<br>
+Against renowned Douglas! whose high deeds,<br>
+Whose hot incursions and great name in arms<br>
+Holds from all soldiers chief majority<br>
+And military title capital<br>
+Through all the kingdoms that acknowledge Christ:<br>
+Thrice hath this Hotspur, Mars in swathling clothes,<br>
+This infant warrior, in his enterprises<br>
+Discomfited great Douglas, ta'en him once,<br>
+Enlarged him and made a friend of him,<br>
+To fill the mouth of deep defiance up <br>
+And shake the peace and safety of our throne.<br>
+And what say you to this? Percy, Northumberland,<br>
+The Archbishop's grace of York, Douglas, Mortimer,<br>
+Capitulate against us and are up.<br>
+But wherefore do I tell these news to thee?<br>
+Why, Harry, do I tell thee of my foes,<br>
+Which art my near'st and dearest enemy?<br>
+Thou that art like enough, through vassal fear,<br>
+Base inclination and the start of spleen<br>
+To fight against me under Percy's pay, <br>
+To dog his heels and curtsy at his frowns,<br>
+To show how much thou art degenerate. 
+
+      </div>
+    </span>
+
+  
+

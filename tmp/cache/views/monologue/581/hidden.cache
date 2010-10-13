@@ -1,0 +1,17 @@
+"3
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_581">
+      Look, what is done cannot be now amended<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_581', '/monologues/preview?monologue_id=581', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('lojIWmKStb5g2Xv0HfJ8eh8iHBGuv5970KcHJ4OQOi0=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+
+  
+

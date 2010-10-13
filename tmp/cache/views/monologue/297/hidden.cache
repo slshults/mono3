@@ -1,0 +1,52 @@
+"ˆ
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_297">
+      No; Holy Father, throw away that thought<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_297', '/monologues/preview?monologue_id=297', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('scoQ7s3hsZpfC4XW+z8Vt7UkdEnUDlHcWxlQVVHPQ80=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Vincentio.</b> No, holy father; throw away that thought; <br>
+ Believe not that the dribbling dart of love<br>
+ Can pierce a complete bosom. Why I desire thee<br>
+ To give me secret harbour, hath a purpose<br>
+ More grave and wrinkled than the aims and ends<br>
+ Of burning youth.<br>
+<br>
+<del><b>Friar Thomas.</b> May your grace speak of it?</del> <br>
+<br>
+<b>Vincentio.</b> My holy sir, none better knows than you<br>
+ How I have ever loved the life removed<br>
+ And held in idle price to haunt assemblies<br>
+ Where youth, and cost, and witless bravery keeps.<br>
+ I have deliver'd to Lord Angelo,<br>
+ A man of stricture and firm abstinence,<br>
+ My absolute power and place here in Vienna,<br>
+ And he supposes me travell'd to Poland;<br>
+ For so I have strew'd it in the common ear,<br>
+ And so it is received. Now, pious sir,<br>
+ You will demand of me why I do this? <br>
+<br>
+<del><b>Friar Thomas.</b> Gladly, my lord. </del><br>
+<br>
+<b>Vincentio.</b> We have strict statutes and most biting laws.<br>
+ The needful bits and curbs to headstrong weeds, <br>
+ Which for this nineteen years we have let slip;<br>
+ Even like an o'ergrown lion in a cave,<br>
+ That goes not out to prey. Now, as fond fathers,<br>
+ Having bound up the threatening twigs of birch,<br>
+ Only to stick it in their children's sight <br>
+ For terror, not to use, in time the rod<br>
+ Becomes more mock'd than fear'd; so our decrees,<br>
+ Dead to infliction, to themselves are dead;<br>
+ And liberty plucks justice by the nose;<br>
+ The baby beats the nurse, and quite athwart <br>
+ Goes all decorum. 
+      </div>
+    </span>
+
+  
+

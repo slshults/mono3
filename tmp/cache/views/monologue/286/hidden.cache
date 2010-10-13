@@ -1,0 +1,34 @@
+"
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_286">
+      I can but say their protestation over<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_286', '/monologues/preview?monologue_id=286', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('4yhW1+W5uRY88l2pz1NjLHs83udkE80Q0XFhkg21CJE=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          I can but say their protestation over; <br>
+So much, dear liege, I have already sworn,<br>
+That is, to live and study here three years.<br>
+But there are other strict observances;<br>
+As, not to see a woman in that term,<br>
+Which I hope well is not enrolled there;<br>
+And one day in a week to touch no food<br>
+And but one meal on every day beside,<br>
+The which I hope is not enrolled there;<br>
+
+And then, to sleep but three hours in the night,<br>
+And not be seen to wink of all the day.<br>
+When I was wont to think no harm all night<br>
+And make a dark night too of half the day.<br>
+Which I hope well is not enrolled there:<br>
+O, these are barren tasks, too hard to keep,<br>
+Not to see ladies, study, fast, not sleep!<br>
+
+      </div>
+    </span>
+
+  
+

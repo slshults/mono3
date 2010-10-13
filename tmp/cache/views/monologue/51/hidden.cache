@@ -1,0 +1,41 @@
+"Ž
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_51">
+      Full of vexation come I, with complaint<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_51', '/monologues/preview?monologue_id=51', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Dq12td2bHTbyxedWuLZoyHRqbSRL7qvHpIzmrghD/hc=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Full of vexation come I, with complaint<br>
+Against my child, my daughter Hermia.<br>
+Stand forth, Demetrius. My noble lord,<br>
+This man hath my consent to marry her.<br>
+Stand forth, Lysander: and my gracious duke,<br>
+This man hath bewitch'd the bosom of my child;<br>
+Thou, thou, Lysander, thou hast given her rhymes,<br>
+And interchanged love-tokens with my child:<br>
+Thou hast by moonlight at her window sung,<br>
+With feigning voice verses of feigning love, <br>
+And stolen the impression of her fantasy<br>
+With bracelets of thy hair, rings, gawds, conceits,<br>
+Knacks, trifles, nosegays, sweetmeats, messengers<br>
+Of strong prevailment in unharden'd youth:<br>
+With cunning hast thou filch'd my daughter's heart,<br>
+Turn'd her obedience, which is due to me,<br>
+To stubborn harshness: and, my gracious duke,<br>
+Be it so she; will not here before your grace<br>
+Consent to marry with Demetrius,<br>
+I beg the ancient privilege of Athens,<br>
+As she is mine, I may dispose of her:<br>
+Which shall be either to this gentleman<br>
+Or to her death, according to our law<br>
+Immediately provided in that case. 
+
+      </div>
+    </span>
+
+  
+

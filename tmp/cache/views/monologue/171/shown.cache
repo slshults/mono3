@@ -1,0 +1,11 @@
+"È
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_171">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_171', '/monologues/preview/171', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('oi8Jx33bxj2Ndvs3dNqMhcuAT4SE891UL9V/n2Rspw8=')}); return false;">Why, there, there, there, there! A diamond gone,
+cost me two thousand ducats in Frankford!</a>
+    </span>
+  
+

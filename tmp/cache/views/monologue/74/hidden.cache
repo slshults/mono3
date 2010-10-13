@@ -1,0 +1,43 @@
+"Ì
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_74">
+      My former speeches have but hit your thoughts<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_74', '/monologues/preview?monologue_id=74', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('reBxOvDBzwJy/LQlLQgNqtrbEFQGOejkh2HV5iqAY50=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          My former speeches have but hit your thoughts,<br>
+Which can interpret further: only, I say,<br>
+Things have been strangely borne. The
+gracious Duncan<br>
+Was pitied of Macbeth: marry, he was dead: <br>
+And the right-valiant Banquo walk'd too late;<br>
+Whom, you may say, if't please you, Fleance kill'd,<br>
+For Fleance fled: men must not walk too late.<br>
+Who cannot want the thought how monstrous<br>
+It was for Malcolm and for Donalbain <br>
+To kill their gracious father? damned fact!<br>
+How it did grieve Macbeth! did he not straight<br>
+In pious rage the two delinquents tear,<br>
+That were the slaves of drink and thralls of sleep?<br>
+Was not that nobly done? Ay, and wisely too; <br>
+For 'twould have anger'd any heart alive<br>
+To hear the men deny't. So that, I say,<br>
+He has borne all things well: and I do think<br>
+That had he Duncan's sons under his key--<br>
+As, an't please heaven, he shall not--they 
+should find<br>
+What 'twere to kill a father; so should Fleance.<br>
+But, peace! for from broad words and 'cause he fail'd<br>
+His presence at the tyrant's feast, I hear<br>
+Macduff lives in disgrace: sir, can you tell <br>
+Where he bestows himself? 
+
+      </div>
+    </span>
+
+  
+

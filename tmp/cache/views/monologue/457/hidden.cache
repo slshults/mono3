@@ -1,0 +1,39 @@
+"˜
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_457">
+      To horse, you gallant princes! straight to horse!<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_457', '/monologues/preview?monologue_id=457', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('17riroBF6Z4lsPAon7mJPKy4H9wkVNCytDYNFkSvu+s=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+           To horse, you gallant princes! straight to horse!<br>
+Do but behold yon poor and starved band, <br>
+And your fair show shall suck away their souls,<br>
+Leaving them but the shales and husks of men.<br>
+There is not work enough for all our hands;<br>
+Scarce blood enough in all their sickly veins<br>
+To give each naked curtle-axe a stain, <br>
+That our French gallants shall to-day draw out,<br>
+And sheathe for lack of sport: let us but blow on them,<br>
+The vapour of our valour will o'erturn them.<br>
+'Tis positive 'gainst all exceptions, lords,<br>
+That our superfluous lackeys and our peasants, <br>
+Who in unnecessary action swarm<br>
+About our squares of battle, were enow<br>
+To purge this field of such a hilding foe,<br>
+Though we upon this mountain's basis by<br>
+Took stand for idle speculation: <br>
+But that our honours must not. What's to say?<br>
+A very little little let us do.<br>
+And all is done. Then let the trumpets sound<br>
+The tucket sonance and the note to mount;<br>
+For our approach shall so much dare the field<br>
+That England shall couch down in fear and yield.
+      </div>
+    </span>
+
+  
+

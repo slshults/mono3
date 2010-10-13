@@ -1,0 +1,10 @@
+"š
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_452">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_452', '/monologues/preview/452', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('RAn4Q9OXsZGFhF0QOrrtsNqZ0kJo4TFfYqsFExAyNzE=')}); return false;">Thou dost thy office fairly. Turn thee back,</a>
+    </span>
+  
+

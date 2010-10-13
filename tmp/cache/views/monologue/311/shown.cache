@@ -1,0 +1,10 @@
+"‡
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_311">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_311', '/monologues/preview/311', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('xNekxdqXePmqdTlYrTXVINnl7izNO/eZaZc3r5XtRxM=')}); return false;">Reason, you rogue, reason</a>
+    </span>
+  
+

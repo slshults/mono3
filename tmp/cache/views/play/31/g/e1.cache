@@ -1,0 +1,1924 @@
+I"ÓU  
+    <div>
+    <h2>Monologues in Shakespeare</h2>
+    <h2>Hamlet</h2>
+      <span>
+        <form action="javascript:void(0);" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="y+ttzZQbrZXrUkxAFxUWk5RVk6vaM7oAt9UoDqoM4iY=" /></div>
+          <b>Search:</b> <input type="text" id="search" size="40"/>
+          <img alt="Ajax-loader" id="spinner" src="/images/ajax-loader.gif?1278779332" style="display: none;" />
+        </form>
+        <div class="search_links">
+          <a href="/plays/31?g=3">Search Men</a> &nbsp;|&nbsp;
+          <a href="/plays/31?g=2">Search Women</a> &nbsp;|&nbsp;
+          <a href="/plays">Search All Plays</a> &nbsp;|&nbsp;
+          
+            <a href="/plays/31">Collapse All</a>
+          
+        </div>
+      </span>
+    </div>
+    <script type="text/javascript">
+//<![CDATA[
+new Form.Element.Observer('search', 1.25, function(element, value) {Element.show('spinner'); new Ajax.Updater('ajaxResults', 'http://www.shakespeare-monologues.org/monologues/search', {asynchronous:true, evalScripts:true, onComplete:function(request){Element.hide('spinner')}, parameters:'p=31&search=' + encodeURIComponent(value) + '&authenticity_token=' + encodeURIComponent('y+ttzZQbrZXrUkxAFxUWk5RVk6vaM7oAt9UoDqoM4iY=')})})
+//]]>
+</script>
+
+  
+    <div id='ajaxResults'>
+      
+
+  
+
+      
+<div>
+  <table id='monologue_list'>
+    <tr>
+      <th>Character</th>
+      <th>First Line</th>
+      <th>Act & Sc</th>
+      <th>pdf</th>
+    </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Ophelia</div>
+  <div class='monologue_detail'>
+  Verse - intercut <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_1'>
+  
+    <span id="preview_mono_1">
+      O my lord, my lord, I have been so affrighted!<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_1', '/monologues/preview?monologue_id=1', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('y+ttzZQbrZXrUkxAFxUWk5RVk6vaM7oAt9UoDqoM4iY=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Ophelia.</b> O my lord, my lord, I have been so affrighted!<br><br> 
+
+<del><b>Polonius.</b> With what, i' th' name of God?<br><br></del> 
+
+<b>Ophelia.</b> My lord, as I was sewing in my closet,<br>
+      Lord Hamlet, with his doublet all unbrac'd,<br>
+      No hat upon his head, his stockings foul'd,<br>
+      Ungart'red, and down-gyved to his ankle;<br>
+      Pale as his shirt, his knees knocking each other,<br>
+      And with a look so piteous in purport<br>
+      As if he had been loosed out of hell <br>
+      To speak of horrors- he comes before me. <br><br>
+
+<del><b>Polonius.</b>Mad for thy love?</del><br><br>
+
+<b>Ophelia.</b> My lord, I do not know,<br>
+      But truly I do fear it. <br><br>
+
+<del><b>Polonius.</b> What said he?</del><br><br>
+
+<b>Ophelia.</b> He took me by the wrist and held me hard;<br>
+      Then goes he to the length of all his arm,<br>
+      And, with his other hand thus o'er his brow,<br>
+      He falls to such perusal of my face<br>
+      As he would draw it. Long stay'd he so.<br>
+      At last, a little shaking of mine arm,<br>
+      And thrice his head thus waving up and down,<br>
+      He rais'd a sigh so piteous and profound<br>
+      As it did seem to shatter all his bulk<br>
+      And end his being. That done, he lets me go,<br>
+      And with his head over his shoulder turn'd<br>
+      He seem'd to find his way without his eyes,<br>
+      For out o' doors he went without their help<br>
+      And to the last bended their light on me. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=2&Scene=1&Scope=scene&LineHighlight=1032#1025' target='_blank'>II i 87</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/h-2-1-77-ophelia.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Ophelia</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_2'>
+  
+    <span id="preview_mono_2">
+      O what a noble mind is here o'erthrown<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_2', '/monologues/preview?monologue_id=2', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('y+ttzZQbrZXrUkxAFxUWk5RVk6vaM7oAt9UoDqoM4iY=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          O, what a noble mind is here o'erthrown!<br>
+The courtier's, scholar's, soldier's, eye, tongue, sword,<br>
+Th' expectancy and rose of the fair state,<br>
+The glass of fashion and the mould of form,<br>
+Th' observ'd of all observers- quite, quite down!<br>
+And I, of ladies most deject and wretched,<br>
+That suck'd the honey of his music vows,<br>
+Now see that noble and most sovereign reason,<br>
+Like sweet bells jangled, out of tune and harsh;<br>
+That unmatch'd form and feature of blown youth<br>
+Blasted with ecstasy. O, woe is me<br>
+T' have seen what I have seen, see what I see! 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=3&Scene=1&Scope=scene&LineHighlight=1841#1833' target='_blank'>III i 132</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/h-3-1-150-ophelia.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Player Queen</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_3'>
+  
+    <span id="preview_mono_3">
+      So many journeys may the sun and moon<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_3', '/monologues/preview?monologue_id=3', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('y+ttzZQbrZXrUkxAFxUWk5RVk6vaM7oAt9UoDqoM4iY=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          So many journeys may the sun and moon<br>
+Make us again count o'er ere love be done!<br>
+But woe is me! you are so sick of late,<br>
+So far from cheer and from your former state.<br>
+That I distrust you. Yet, though I distrust,<br>
+Discomfort you, my lord, it nothing must;<br>
+For women's fear and love holds quantity,<br>
+In neither aught, or in extremity.<br>
+Now what my love is, proof hath made you know;<br>
+And as my love is siz'd, my fear is so.<br>
+Where love is great, the littlest doubts are fear;<br>
+Where little fears grow great, great love grows there. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=3&Scene=2&Scope=scene&LineHighlight=2052#2042' target='_blank'>III ii 110</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/h-3-2-110-playerqueen.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Ophelia</div>
+  <div class='monologue_detail'>
+  Verse &amp; Prose - intercut <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_4'>
+  
+    <span id="preview_mono_4">
+      How should I your true love know<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_4', '/monologues/preview?monologue_id=4', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('y+ttzZQbrZXrUkxAFxUWk5RVk6vaM7oAt9UoDqoM4iY=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Ophelia.</b> <i>[sings]</i><br>
+      How should I your true-love know<br>
+      From another one?<br>
+      By his cockle bat and' staff<br>
+      And his sandal shoon. <br><br>
+
+<del><b>Gertrude.</b>Alas, sweet lady, what imports this song? </del><br><br>
+
+<b>Ophelia.</b> Say you? Nay, pray You mark.<br>
+      <i>[Sings]</i> He is dead and gone, lady,<br>
+      He is dead and gone; <br>
+      At his head a grass-green turf,<br>
+      At his heels a stone.<br>
+      O, ho! <br><br>
+
+<del><b>Gertrude.</b> Nay, but Ophelia- </del><br><br>
+
+<b>Ophelia.</b> Pray you mark. <br>
+      <i>[Sings]</i> White his shroud as the mountain snow- <br><br>
+
+<i>Enter King.</i><br><br>
+
+<del><b>Gertrude.</b> Alas, look here, my lord! </del><br><br>
+
+<b>Ophelia.</b> <i>[Sings]</i><br>
+      Larded all with sweet flowers;<br>
+      Which bewept to the grave did not go<br>
+      With true-love showers. <br><br>
+
+<del><b>Claudius.</b> How do you, pretty lady? </del><br><br>
+
+<b>Ophelia.</b> Well, God dild you! They say the owl was a baker's daughter.
+      Lord, we know what we are, but know not what we may be. God be at
+      your table! <br><br>
+
+<del><b>Claudius.</b> Conceit upon her father. </del><br><br>
+
+<b>Ophelia.</b> Pray let's have no words of this; but when they ask, you what
+      it means, say you this:<br>
+      <i>[Sings]</i> To-morrow is Saint Valentine's day,<br>
+      All in the morning bedtime,<br>
+      And I a maid at your window,<br>
+      To be your Valentine.<br>
+      Then up he rose and donn'd his clo'es<br>
+      And dupp'd the chamber door, <br>
+      Let in the maid, that out a maid<br>
+      Never departed more. <br><br>
+
+<del><b>Claudius.</b> Pretty Ophelia!</del><br><br>
+
+<b>Ophelia.</b> Indeed, la, without an oath, I'll make an end on't!<br>
+      <i>[Sings]</i> By Gis and by Saint Charity,<br>
+      Alack, and fie for shame!<br>
+      Young men will do't if they come to't<br>
+      By Cock, they are to blame.<br>
+      Quoth she, 'Before you tumbled me,<br>
+      You promis'd me to wed.'<br>
+      He answers:<br>
+      'So would I 'a' done, by yonder sun,<br>
+      An thou hadst not come to my bed.' <br><br>
+
+<del><b>Claudius.</b> How long hath she been thus?</del><br><br> 
+
+<b>Ophelia.</b> I hope all will be well. We must be patient; but I cannot
+      choose but weep to think they would lay him i' th' cold ground.
+      My brother shall know of it; and so I thank you for your good
+      counsel. Come, my coach! Good night, ladies. Good night, sweet
+      ladies. Good night, good night. <i>[Exit]</i><br>
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=4&Scene=5&Scope=scene&LineHighlight=2882#2871' target='_blank'>IV v 27</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/h-4-5-27-ophelia.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Ophelia</div>
+  <div class='monologue_detail'>
+  Verse &amp; Prose - intercut <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_5'>
+  
+    <span id="preview_mono_5">
+      They bore him barefaced on the bier<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_5', '/monologues/preview?monologue_id=5', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('y+ttzZQbrZXrUkxAFxUWk5RVk6vaM7oAt9UoDqoM4iY=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Ophelia.</b> <i>[sings]</i><br>
+      They bore him barefac'd on the bier<br>
+      (Hey non nony, nony, hey nony)<br>
+      And in his grave rain'd many a tear. <br>
+      Fare you well, my dove! <br><br>
+
+<del><b>Laertes.</b> Hadst thou thy wits, and didst persuade revenge,
+      It could not move thus. </del><br><br>
+
+<b>Ophelia.</b> You must sing 'A-down a-down, and you call him a-down-a.' O,
+      how the wheel becomes it! It is the false steward, that stole his
+      master's daughter. <br><br>
+
+<del><b>Laertes.</b> This nothing's more than matter. </del><br><br>
+
+<b>Ophelia.</b> There's rosemary, that's for remembrance. Pray you, love,
+      remember. And there is pansies, that's for thoughts. <br><br>
+
+<del><b>Laertes.</b> A document in madness! Thoughts and remembrance fitted.</del><br><br>
+
+<b> Ophelia.</b> There's fennel for you, and columbines. There's rue for you,
+      and here's some for me. We may call it herb of grace o' Sundays.
+      O, you must wear your rue with a difference! There's a daisy. I
+      would give you some violets, but they wither'd all when my father
+      died. They say he made a good end. 
+      <i>[sings]</i> For bonny sweet Robin is all my joy. <br><br>
+
+<del><b>Laertes.</b> Thought and affliction, passion, hell itself,
+      She turns to favour and to prettiness.</del> <br><br>
+
+<b>Ophelia.</b> <i>[sings]</i><br>
+      And will he not come again? <br>
+      And will he not come again?<br>
+      No, no, he is dead;<br>
+      Go to thy deathbed;<br>
+      He never will come again.<br>
+      His beard was as white as snow,<br>
+      All flaxen was his poll.<br>
+      He is gone, he is gone,<br>
+      And we cast away moan.<br>
+      God 'a'mercy on his soul!<br>
+      And of all Christian souls, I pray God. God b' wi' you.<br>
+
+<i>[exit]</i>
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=4&Scene=5&Scope=scene&LineHighlight=3042#3029' target='_blank'>IV V 148</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/h-4-5-148-ophelia.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Gertrude</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_6'>
+  
+    <span id="preview_mono_6">
+      One woe doth tread upon another's heel<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_6', '/monologues/preview?monologue_id=6', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('y+ttzZQbrZXrUkxAFxUWk5RVk6vaM7oAt9UoDqoM4iY=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Gertrude.</b> One woe doth tread upon another's heel,<br>
+      So fast they follow. Your sister's drown'd, Laertes. <br><br>
+
+<del><b>Laertes.</b>Drown'd! O, where?</del><br><br>
+
+<b>Gertrude.</b> There is a willow grows aslant a brook,<br>
+      That shows his hoar leaves in the glassy stream.<br>
+      There with fantastic garlands did she come<br>
+      Of crowflowers, nettles, daisies, and long purples,<br>
+      That liberal shepherds give a grosser name,<br>
+      But our cold maids do dead men's fingers call them.<br>
+      There on the pendant boughs her coronet weeds<br>
+      Clamb'ring to hang, an envious sliver broke,<br>
+      When down her weedy trophies and herself<br>
+      Fell in the weeping brook. Her clothes spread wide<br>
+      And, mermaid-like, awhile they bore her up; <br>
+      Which time she chaunted snatches of old tunes,<br>
+      As one incapable of her own distress,<br>
+      Or like a creature native and indued<br>
+      Unto that element; but long it could not be<br>
+      Till that her garments, heavy with their drink,<br>
+      Pull'd the poor wretch from her melodious lay<br>
+      To muddy death. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=4&Scene=7&Scope=scene&LineHighlight=3312#3295' target='_blank'>IV vii 180</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/h-4-7-163-queengertrude.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Horatio</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_7'>
+  
+    <span id="preview_mono_7">
+      At least, the whisper goes so. Our last king<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_7', '/monologues/preview?monologue_id=7', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('y+ttzZQbrZXrUkxAFxUWk5RVk6vaM7oAt9UoDqoM4iY=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Horatio.</b> <div align="right">That can I.</div>
+      At least, the whisper goes so. Our last king,<br>
+      Whose image even but now appear'd to us,<br>
+      Was, as you know, by Fortinbras of Norway,<br>
+      Thereto prick'd on by a most emulate pride, 
+      Dar'd to the combat; in which our valiant Hamlet<br>
+      (For so this side of our known world esteem'd him)<br>
+      Did slay this Fortinbras; who, by a seal'd compact,<br>
+      Well ratified by law and heraldry,<br>
+      Did forfeit, with his life, all those his lands <br>
+      Which he stood seiz'd of, to the conqueror;<br>
+      Against the which a moiety competent<br>
+      Was gaged by our king; which had return'd<br>
+      To the inheritance of Fortinbras,<br>
+      Had he been vanquisher, as, by the same cov'nant <br>
+      And carriage of the article design'd,<br>
+      His fell to Hamlet. Now, sir, young Fortinbras,<br>
+      Of unimproved mettle hot and full,<br>
+      Hath in the skirts of Norway, here and there,<br>
+      Shark'd up a list of lawless resolutes,<br>
+      For food and diet, to some enterprise<br>
+      That hath a stomach in't; which is no other,<br>
+      As it doth well appear unto our state,<br>
+      But to recover of us, by strong hand<br>
+      And terms compulsatory, those foresaid lands<br>
+      So by his father lost; and this, I take it,<br>
+      Is the main motive of our preparations,<br>
+      The source of this our watch, and the chief head<br>
+      Of this post-haste and romage in the land. <br><br>
+
+<del><b>Bernardo.</b> I think it be no other but e'en so.<br>
+      Well may it sort that this portentous figure<br>
+      Comes armed through our watch, so like the King<br>
+      That was and is the question of these wars. </del><br><br>
+
+<B>Horatio.</b> A mote it is to trouble the mind's eye.<br>
+      In the most high and palmy state of Rome, <br>
+      A little ere the mightiest Julius fell,<br>
+      The graves stood tenantless, and the sheeted dead<br>
+      Did squeak and gibber in the Roman streets;<br>
+      As stars with trains of fire, and dews of blood,<br>
+      Disasters in the sun; and the moist star <br>
+      Upon whose influence Neptune's empire stands<br>
+      Was sick almost to doomsday with eclipse.<br>
+      And even the like precurse of fierce events,<br>
+      As harbingers preceding still the fates<br>
+      And prologue to the omen coming on, <br>
+      Have heaven and earth together demonstrated<br>
+      Unto our climature and countrymen.<br>
+      [<i>Enter Ghost again.</i>]<br>
+      But soft! behold! Lo, where it comes again!<br>
+      I'll cross it, though it blast me.- Stay illusion! <br>
+      [<i>Spreads his arms.</i>]<br>
+      If thou hast any sound, or use of voice,<br>
+      Speak to me.<br>
+      If there be any good thing to be done,<br>
+      That may to thee do ease, and, grace to me,<br>
+      Speak to me.<br>
+      If thou art privy to thy country's fate,<br>
+      Which happily foreknowing may avoid,<br>
+      O, speak!<br>
+      Or if thou hast uphoarded in thy life <br>
+      Extorted treasure in the womb of earth<br>
+      (For which, they say, you spirits oft walk in death),<br>
+      [<i>The cock crows.</i>]<br>
+      Speak of it! Stay, and speak!- Stop it, Marcellus!<br>
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=1&Scene=1&Scope=scene&LineHighlight=96#86' target='_blank'>I i 97</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-1-1-97-horatio.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Claudius</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_8'>
+  
+    <span id="preview_mono_8">
+      Though yet of Hamlet our dear brother's death<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_8', '/monologues/preview?monologue_id=8', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('y+ttzZQbrZXrUkxAFxUWk5RVk6vaM7oAt9UoDqoM4iY=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Though yet of Hamlet our dear brother's death<br>
+The memory be green, and that it us befitted<br>
+To bear our hearts in grief, and our whole kingdom<br>
+To be contracted in one brow of woe,<br>
+Yet so far hath discretion fought with nature<br>
+That we with wisest sorrow think on him<br>
+Together with remembrance of ourselves.<br>
+Therefore our sometime sister, now our queen,<br>
+Th' imperial jointress to this warlike state,<br>
+Have we, as 'twere with a defeated joy, <br>
+With an auspicious, and a dropping eye,<br>
+With mirth in funeral, and with dirge in marriage,<br>
+In equal scale weighing delight and dole,<br>
+Taken to wife; nor have we herein barr'd<br>
+Your better wisdoms, which have freely gone <br>
+With this affair along. For all, our thanks.<br>
+Now follows, that you know, young Fortinbras,<br>
+Holding a weak supposal of our worth,<br>
+Or thinking by our late dear brother's death<br>
+Our state to be disjoint and out of frame, <br>
+Colleagued with this dream of his advantage,<br>
+He hath not fail'd to pester us with message<br>
+Importing the surrender of those lands<br>
+Lost by his father, with all bands of law,<br>
+To our most valiant brother. So much for him. <br>
+Now for ourself and for this time of meeting.<br>
+Thus much the business is: we have here writ<br>
+To Norway, uncle of young Fortinbras,<br>
+Who, impotent and bedrid, scarcely hears<br>
+Of this his nephew's purpose, to suppress <br>
+His further gait herein, in that the levies,<br>
+The lists, and full proportions are all made<br>
+Out of his subject; and we here dispatch<br>
+You, good Cornelius, and you, Voltemand,<br>
+For bearers of this greeting to old Norway, <br>
+Giving to you no further personal power<br>
+To business with the King, more than the scope<br>
+Of These dilated articles allow. [<i>Gives a paper.</i>]
+Farewell, and let your haste commend your duty. <br>
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=1&Scene=2&Scope=scene&LineHighlight=201' target='_blank'>I ii 1</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-1-2-1-claudius.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Claudius</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_9'>
+  
+    <span id="preview_mono_9">
+      'Tis sweet and commendable in your nature Hamlet,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_9', '/monologues/preview?monologue_id=9', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('y+ttzZQbrZXrUkxAFxUWk5RVk6vaM7oAt9UoDqoM4iY=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          'Tis sweet and commendable in your nature, Hamlet, <br>
+To give these mourning duties to your father;<br>
+But you must know, your father lost a father;<br>
+That father lost, lost his, and the survivor bound<br>
+In filial obligation for some term<br>
+To do obsequious sorrow. But to persever<br>
+In obstinate condolement is a course<br>
+Of impious stubbornness. 'Tis unmanly grief;<br>
+It shows a will most incorrect to heaven,<br>
+A heart unfortified, a mind impatient,<br>
+An understanding simple and unschool'd; <br>
+For what we know must be, and is as common<br>
+As any the most vulgar thing to sense,<br>
+Why should we in our peevish opposition<br>
+Take it to heart? Fie! 'tis a fault to heaven,<br>
+A fault against the dead, a fault to nature, <br>
+To reason most absurd, whose common theme<br>
+Is death of fathers, and who still hath cried,<br>
+From the first corse till he that died to-day,<br>
+'This must be so.' We pray you throw to earth<br>
+This unprevailing woe, and think of us <br>
+As of a father; for let the world take note<br>
+You are the most immediate to our throne,<br>
+And with no less nobility of love<br>
+Than that which dearest father bears his son<br>
+Do I impart toward you. For your intent <br>
+In going back to school in Wittenberg,<br>
+It is most retrograde to our desire;<br>
+And we beseech you, bend you to remain<br>
+Here in the cheer and comfort of our eye,<br>
+Our chiefest courtier, cousin, and our son. <br>
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=1&Scene=2&Scope=scene&LineHighlight=290#279' target='_blank'>I ii 91</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-1-2-91-claudius.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Hamlet</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_10'>
+  
+    <span id="preview_mono_10">
+      O, that this too too solid flesh would melt.<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_10', '/monologues/preview?monologue_id=10', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('y+ttzZQbrZXrUkxAFxUWk5RVk6vaM7oAt9UoDqoM4iY=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          O that this too too solid flesh would melt,<br>
+Thaw, and resolve itself into a dew!<br>
+Or that the Everlasting had not fix'd <br>
+His canon 'gainst self-slaughter! O God! God!<br>
+How weary, stale, flat, and unprofitable<br>
+Seem to me all the uses of this world!<br>
+Fie on't! ah, fie! 'Tis an unweeded garden<br>
+That grows to seed; things rank and gross in nature <br>
+Possess it merely. That it should come to this!<br>
+But two months dead! Nay, not so much, not two.<br>
+So excellent a king, that was to this<br>
+Hyperion to a satyr; so loving to my mother<br>
+That he might not beteem the winds of heaven<br>
+Visit her face too roughly. Heaven and earth!<br>
+Must I remember? Why, she would hang on him<br>
+As if increase of appetite had grown<br>
+By what it fed on; and yet, within a month-<br>
+Let me not think on't! Frailty, thy name is woman!- <br>
+A little month, or ere those shoes were old<br>
+With which she followed my poor father's body<br>
+Like Niobe, all tears- why she, even she<br>
+(O God! a beast that wants discourse of reason<br>
+Would have mourn'd longer) married with my uncle;<br>
+My father's brother, but no more like my father<br>
+Than I to Hercules. Within a month,<br>
+Ere yet the salt of most unrighteous tears<br>
+Had left the flushing in her galled eyes,<br>
+She married. O, most wicked speed, to post<br>
+With such dexterity to incestuous sheets!<br>
+It is not, nor it cannot come to good.<br>
+But break my heart, for I must hold my tongue! <br>
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=1&Scene=2&Scope=scene&LineHighlight=333#323' target='_blank'>I ii 133</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-1-2-133-hamlet.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Horatio</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_11'>
+  
+    <span id="preview_mono_11">
+      Two nights together had these gentlemen<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_11', '/monologues/preview?monologue_id=11', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('y+ttzZQbrZXrUkxAFxUWk5RVk6vaM7oAt9UoDqoM4iY=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Two nights together had these gentlemen <br>
+(Marcellus and Bernardo) on their watch<br>
+In the dead vast and middle of the night<br>
+Been thus encount'red. A figure like your father,<br>
+Armed at point exactly, cap-a-pe,<br>
+Appears before them and with solemn march<br>
+Goes slow and stately by them. Thrice he walk'd<br>
+By their oppress'd and fear-surprised eyes,<br>
+Within his truncheon's length; whilst they distill'd<br>
+Almost to jelly with the act of fear,<br>
+Stand dumb and speak not to him. This to me<br>
+In dreadful secrecy impart they did,<br>
+And I with them the third night kept the watch;<br>
+Where, as they had deliver'd, both in time,<br>
+Form of the thing, each word made true and good,<br>
+The apparition comes. I knew your father.<br>
+These hands are not more like. <br>
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=1&Scene=2&Scope=scene&LineHighlight=405#396' target='_blank'>I ii 205</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-1-2-205-horatio.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Laertes</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_12'>
+  
+    <span id="preview_mono_12">
+      Think it no more
+For nature, crescent, does not grow alone<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_12', '/monologues/preview?monologue_id=12', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('y+ttzZQbrZXrUkxAFxUWk5RVk6vaM7oAt9UoDqoM4iY=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <div align=right>Think it no more.</div>
+For nature crescent does not grow alone<br>
+In thews and bulk; but as this temple waxes,<br>
+The inward service of the mind and soul<br>
+Grows wide withal. Perhaps he loves you now,<br>
+And now no soil nor cautel doth besmirch<br>
+The virtue of his will; but you must fear,<br>
+His greatness weigh'd, his will is not his own;<br>
+For he himself is subject to his birth.<br>
+He may not, as unvalued persons do,<br>
+Carve for himself, for on his choice depends<br>
+The safety and health of this whole state, <br>
+And therefore must his choice be circumscrib'd<br>
+Unto the voice and yielding of that body<br>
+Whereof he is the head. Then if he says he loves you,<br>
+It fits your wisdom so far to believe it<br>
+As he in his particular act and place <br>
+May give his saying deed; which is no further<br>
+Than the main voice of Denmark goes withal.<br>
+Then weigh what loss your honour may sustain<br>
+If with too credent ear you list his songs,<br>
+Or lose your heart, or your chaste treasure open <br>
+To his unmast'red importunity.<br>
+Fear it, Ophelia, fear it, my dear sister,<br>
+And keep you in the rear of your affection,<br>
+Out of the shot and danger of desire.<br>
+The chariest maid is prodigal enough <br>
+If she unmask her beauty to the moon.<br>
+Virtue itself scopes not calumnious strokes.<br>
+The canker galls the infants of the spring<br>
+Too oft before their buttons be disclos'd,<br>
+And in the morn and liquid dew of youth <br>
+Contagious blastments are most imminent.<br>
+Be wary then; best safety lies in fear.<br>
+Youth to itself rebels, though none else near.<br> 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=1&Scene=3&Scope=scene&LineHighlight=494#486' target='_blank'>I iii 15</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-1-3-115-laertes.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Polonius</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_13'>
+  
+    <span id="preview_mono_13">
+      Yet here, Laertes! aboard, aboard, for shame!
+The wind sits in the shoulder of your sail,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_13', '/monologues/preview?monologue_id=13', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('y+ttzZQbrZXrUkxAFxUWk5RVk6vaM7oAt9UoDqoM4iY=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Yet here, Laertes? Aboard, aboard, for shame!<br>
+The wind sits in the shoulder of your sail,<br>
+And you are stay'd for. There- my blessing with thee!<br>
+And these few precepts in thy memory<br>
+Look thou character. Give thy thoughts no tongue,<br>
+Nor any unproportion'd thought his act.<br>
+Be thou familiar, but by no means vulgar:<br>
+Those friends thou hast, and their adoption tried,<br>
+Grapple them unto thy soul with hoops of steel;<br>
+But do not dull thy palm with entertainment <br>
+Of each new-hatch'd, unfledg'd comrade. Beware<br>
+Of entrance to a quarrel; but being in,<br>
+Bear't that th' opposed may beware of thee.<br>
+Give every man thine ear, but few thy voice;<br>
+Take each man's censure, but reserve thy judgment.<br>
+Costly thy habit as thy purse can buy,<br>
+But not express'd in fancy; rich, not gaudy;<br>
+For the apparel oft proclaims the man,<br>
+And they in France of the best rank and station<br>
+Are most select and generous, chief in that. <br>
+Neither a borrower nor a lender be;<br>
+For loan oft loses both itself and friend,<br>
+And borrowing dulls the edge of husbandry.<br>
+This above all- to thine own self be true,<br>
+And it must follow, as the night the day, <br>
+Thou canst not then be false to any man.<br>
+Farewell. My blessing season this in thee!<br>
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=1&Scene=3&Scope=scene&LineHighlight=494#486' target='_blank'>I iii 62</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-1-3-62-polonius.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Polonius</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_14'>
+  
+    <span id="preview_mono_14">
+      Ay, springes to catch woodcocks. I do know<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_14', '/monologues/preview?monologue_id=14', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('y+ttzZQbrZXrUkxAFxUWk5RVk6vaM7oAt9UoDqoM4iY=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Ay, springes to catch woodcocks! I do know,<br>
+When the blood burns, how prodigal the soul<br>
+Lends the tongue vows. These blazes, daughter,<br>
+Giving more light than heat, extinct in both <br>
+Even in their promise, as it is a-making,<br>
+You must not take for fire. From this time<br>
+Be something scanter of your maiden presence.<br>
+Set your entreatments at a higher rate<br>
+Than a command to parley. For Lord Hamlet,<br>
+Believe so much in him, that he is young,<br>
+And with a larger tether may he walk<br>
+Than may be given you. In few, Ophelia,<br>
+Do not believe his vows; for they are brokers,<br>
+Not of that dye which their investments show, <br>
+But mere implorators of unholy suits,<br>
+Breathing like sanctified and pious bawds,<br>
+The better to beguile. This is for all:<br>
+I would not, in plain terms, from this time forth<br>
+Have you so slander any moment leisure <br>
+As to give words or talk with the Lord Hamlet.<br>
+Look to't, I charge you. Come your ways. <br>
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=1&Scene=3&Scope=scene&LineHighlight=602#597' target='_blank'>I iii 123</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-1-3-123-polonius.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Hamlet</div>
+  <div class='monologue_detail'>
+  Verse - intercut <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_15'>
+  
+    <span id="preview_mono_15">
+      But to my mind, though I am native here<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_15', '/monologues/preview?monologue_id=15', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('y+ttzZQbrZXrUkxAFxUWk5RVk6vaM7oAt9UoDqoM4iY=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <div align=right>Ay, marry, is't;</div>
+But to my mind, though I am native here<br>
+And to the manner born, it is a custom<br>
+More honour'd in the breach than the observance.<br>
+This heavy-headed revel east and west <br>
+Makes us traduc'd and tax'd of other nations;<br>
+They clip us drunkards and with swinish phrase<br>
+Soil our addition; and indeed it takes<br>
+From our achievements, though perform'd at height,<br>
+The pith and marrow of our attribute. <br>
+So oft it chances in particular men<br>
+That, for some vicious mole of nature in them,<br>
+As in their birth,- wherein they are not guilty,<br>
+Since nature cannot choose his origin,-<br>
+By the o'ergrowth of some complexion, <br>
+Oft breaking down the pales and forts of reason,<br>
+Or by some habit that too much o'erleavens<br>
+The form of plausive manners, that these men<br>
+Carrying, I say, the stamp of one defect,<br>
+Being nature's livery, or fortune's star, <br>
+Their virtues else- be they as pure as grace,<br>
+As infinite as man may undergo-<br>
+Shall in the general censure take corruption<br>
+From that particular fault. The dram of e'il<br>
+Doth all the noble substance often dout To his own scandal. <br>
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=1&Scene=4&Scope=scene&LineHighlight=641#629' target='_blank'>I iv 18</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-1-4-18-hamlet.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Ghost</div>
+  <div class='monologue_detail'>
+  Verse - intercut <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_16'>
+  
+    <span id="preview_mono_16">
+      I am thy father's spirit.<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_16', '/monologues/preview?monologue_id=16', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('y+ttzZQbrZXrUkxAFxUWk5RVk6vaM7oAt9UoDqoM4iY=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Fathers' Ghost.</b>    * I am thy father's spirit, <br>
+      Doom'd for a certain term to walk the night,<br>
+      And for the day confin'd to fast in fires,<br>
+      Till the foul crimes done in my days of nature<br>
+      Are burnt and purg'd away. But that I am forbid<br>
+      To tell the secrets of my prison house, <br>
+      I could a tale unfold whose lightest word<br>
+      Would harrow up thy soul, freeze thy young blood,<br>
+      Make thy two eyes, like stars, start from their spheres,<br>
+      Thy knotted and combined locks to part,<br>
+      And each particular hair to stand on end <br>
+      Like quills upon the fretful porcupine.<br>
+      But this eternal blazon must not be<br>
+      To ears of flesh and blood. List, list, O, list!<br>
+      If thou didst ever thy dear father love- <br><br>
+
+    <del><b>Hamlet.</b> O God!</del><br><br>
+
+    <B>Father's Ghost.</b> Revenge his foul and most unnatural murther. <br><br>
+
+    <del><b>Hamlet.</b> Murther?</del><br><br> 
+
+    <b>Father's Ghost.</b> Murther most foul, as in the best it is;<br>
+      But this most foul, strange, and unnatural. <br><br>
+
+    <del><b>Hamlet.</b> Haste me to know't, that I, with wings as swift<br>
+      As meditation or the thoughts of love,<br>
+      May sweep to my revenge. </del><br><br>
+
+    <b>Father's Ghost.</b> I find thee apt;<br>
+      And duller shouldst thou be than the fat weed<br>
+      That rots itself in ease on Lethe wharf, <br>
+      Wouldst thou not stir in this. Now, Hamlet, hear.<br>
+      'Tis given out that, sleeping in my orchard,<br>
+      A serpent stung me. So the whole ear of Denmark<br>
+      Is by a forged process of my death<br>
+      Rankly abus'd. But know, thou noble youth,<br>
+      The serpent that did sting thy father's life<br>
+      Now wears his crown. <br><br>
+
+    <del><b>Hamlet.</b> O my prophetic soul!<br>
+      My uncle? </del><br><br>
+
+    <b>Father's Ghost.</b> Ay, that incestuous, that adulterate beast,<br>
+      With witchcraft of his wit, with traitorous gifts-<br>
+      O wicked wit and gifts, that have the power<br>
+      So to seduce!- won to his shameful lust<br>
+      The will of my most seeming-virtuous queen.<br>
+      O Hamlet, what a falling-off was there,<br>
+      From me, whose love was of that dignity<br>
+      That it went hand in hand even with the vow<br>
+      I made to her in marriage, and to decline<br>
+      Upon a wretch whose natural gifts were poor<br>
+      To those of mine! <br>
+      But virtue, as it never will be mov'd,<br>
+      Though lewdness court it in a shape of heaven,<br>
+      So lust, though to a radiant angel link'd,<br>
+      Will sate itself in a celestial bed<br>
+      And prey on garbage. <br>
+      But soft! methinks I scent the morning air.<br>
+      Brief let me be. Sleeping within my orchard,<br>
+      My custom always of the afternoon,<br>
+      Upon my secure hour thy uncle stole,<br>
+      With juice of cursed hebona in a vial, <br>
+      And in the porches of my ears did pour<br>
+      The leperous distilment; whose effect<br>
+      Holds such an enmity with blood of man<br>
+      That swift as quicksilver it courses through<br>
+      The natural gates and alleys of the body,<br>
+      And with a sudden vigour it doth posset<br>
+      And curd, like eager droppings into milk,<br>
+      The thin and wholesome blood. So did it mine;<br>
+      And a most instant tetter bark'd about,<br>
+      Most lazar-like, with vile and loathsome crust<br>
+      All my smooth body.<br>
+      Thus was I, sleeping, by a brother's hand<br>
+      Of life, of crown, of queen, at once dispatch'd;<br>
+      Cut off even in the blossoms of my sin,<br>
+      Unhous'led, disappointed, unanel'd, <br>
+      No reckoning made, but sent to my account<br>
+      With all my imperfections on my head. <br><br>
+
+    <del><B>Hamlet.</b> O, horrible! O, horrible! most horrible! </b></del><br><br>
+
+     <b>Father's Ghost.</b> If thou hast nature in thee, bear it not.<br>
+      Let not the royal bed of Denmark be <br>
+      A couch for luxury and damned incest.<br>
+      But, howsoever thou pursuest this act,<br>
+      Taint not thy mind, nor let thy soul contrive<br>
+      Against thy mother aught. Leave her to heaven,<br>
+      And to those thorns that in her bosom lodge <br>
+      To prick and sting her. Fare thee well at once.<br>
+      The glowworm shows the matin to be near<br>
+      And gins to pale his uneffectual fire.<br>
+      Adieu, adieu, adieu! Remember me. <br><br>
+
+<i>[Exit]</i> 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=1&Scene=5&Scope=scene&LineHighlight=745#739' target='_blank'>I v 15</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-1-5-15-ghost.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Hamlet</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_17'>
+  
+    <span id="preview_mono_17">
+      O all you host of heaven! O earth! What else?<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_17', '/monologues/preview?monologue_id=17', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('y+ttzZQbrZXrUkxAFxUWk5RVk6vaM7oAt9UoDqoM4iY=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          O all you host of heaven! O earth! What else? <br>
+And shall I couple hell? Hold, hold, my heart!<br>
+And you, my sinews, grow not instant old,<br>
+But bear me stiffly up. Remember thee?<br>
+Ay, thou poor ghost, while memory holds a seat<br>
+In this distracted globe. Remember thee? <br>
+Yea, from the table of my memory<br>
+I'll wipe away all trivial fond records,<br>
+All saws of books, all forms, all pressures past<br>
+That youth and observation copied there,<br>
+And thy commandment all alone shall live <br>
+Within the book and volume of my brain,<br>
+Unmix'd with baser matter. Yes, by heaven!<br>
+O most pernicious woman!<br>
+O villain, villain, smiling, damned villain!<br>
+My tables! Meet it is I set it down <br>
+That one may smile, and smile, and be a villain<br>
+At least I am sure it may be so in Denmark. [<i>Writes.</i>]<br>
+So, uncle, there you are. Now to my word:<br>
+It is 'Adieu, adieu! Remember me.'<br>
+I have sworn't. <br>
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=1&Scene=5&Scope=scene&LineHighlight=830#818' target='_blank'>I v 100</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-1-5-100-hamlet.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Hamlet</div>
+  <div class='monologue_detail'>
+  Prose  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_18'>
+  
+    <span id="preview_mono_18">
+      I will tell you why; so shall my anticipation prevent your discovery<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_18', '/monologues/preview?monologue_id=18', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('y+ttzZQbrZXrUkxAFxUWk5RVk6vaM7oAt9UoDqoM4iY=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          I will tell you why. So shall my anticipation prevent your
+discovery, and your secrecy to the King and Queen moult no
+feather. I have of late- but wherefore I know not- lost all my
+mirth, forgone all custom of exercises; and indeed, it goes so
+heavily with my disposition that this goodly frame, the earth,
+seems to me a sterile promontory; this most excellent canopy, the
+air, look you, this brave o'erhanging firmament, this majestical 
+roof fretted with golden fire- why, it appeareth no other thing
+to me than a foul and pestilent congregation of vapours. What a
+piece of work is a man! how noble in reason! how infinite in
+faculties! in form and moving how express and admirable! in
+action how like an angel! in apprehension how like a god! the 
+beauty of the world, the paragon of animals! And yet to me what
+is this quintessence of dust? Man delights not me- no, nor woman
+neither, though by your smiling you seem to say so. 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=2&Scene=2&Scope=scene&LineHighlight=1389#1375' target='_blank'>II ii 250</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-2-2-250-hamlet.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>1st Player</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_19'>
+  
+    <span id="preview_mono_19">
+      Anon, he finds him
+Striking too short at Greeks; his antique sword,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_19', '/monologues/preview?monologue_id=19', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('y+ttzZQbrZXrUkxAFxUWk5RVk6vaM7oAt9UoDqoM4iY=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          'Anon he finds him,<br>
+Striking too short at Greeks. His antique sword,<br>
+Rebellious to his arm, lies where it falls,<br>
+Repugnant to command. Unequal match'd, <br>
+Pyrrhus at Priam drives, in rage strikes wide;<br>
+But with the whiff and wind of his fell sword<br>
+Th' unnerved father falls. Then senseless Ilium,<br>
+Seeming to feel this blow, with flaming top<br>
+Stoops to his base, and with a hideous crash <br>
+Takes prisoner Pyrrhus' ear. For lo! his sword,<br>
+Which was declining on the milky head<br>
+Of reverend Priam, seem'd i' th' air to stick.<br>
+So, as a painted tyrant, Pyrrhus stood,<br>
+And, like a neutral to his will and matter,<br>
+Did nothing.<br>
+But, as we often see, against some storm,<br>
+A silence in the heavens, the rack stand still,<br>
+The bold winds speechless, and the orb below<br>
+As hush as death- anon the dreadful thunder <br>
+Doth rend the region; so, after Pyrrhus' pause,<br>
+Aroused vengeance sets him new awork;<br>
+And never did the Cyclops' hammers fall<br>
+On Mars's armour, forg'd for proof eterne,<br>
+With less remorse than Pyrrhus' bleeding sword<br>
+Now falls on Priam.<br>
+Out, out, thou strumpet Fortune! All you gods,<br>
+In general synod take away her power;<br>
+Break all the spokes and fellies from her wheel,<br>
+And bowl the round nave down the hill of heaven,<br>
+As low as to the fiends! <br>
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=2&Scene=2&Scope=scene&LineHighlight=1542#1541' target='_blank'>III ii 132</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-2-2-321-firstplayer.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Hamlet</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_20'>
+  
+    <span id="preview_mono_20">
+      O, what a rogue and peasant slave am I<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_20', '/monologues/preview?monologue_id=20', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('y+ttzZQbrZXrUkxAFxUWk5RVk6vaM7oAt9UoDqoM4iY=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          O what a rogue and peasant slave am I!<br>
+Is it not monstrous that this player here,<br>
+But in a fiction, in a dream of passion, <br>
+Could force his soul so to his own conceit<br>
+That, from her working, all his visage wann'd,<br>
+Tears in his eyes, distraction in's aspect,<br>
+A broken voice, and his whole function suiting<br>
+With forms to his conceit? And all for nothing!<br>
+For Hecuba!<br>
+What's Hecuba to him, or he to Hecuba,<br>
+That he should weep for her? What would he do,<br>
+Had he the motive and the cue for passion<br>
+That I have? He would drown the stage with tears<br>
+And cleave the general ear with horrid speech;<br>
+Make mad the guilty and appal the free,<br>
+Confound the ignorant, and amaze indeed<br>
+The very faculties of eyes and ears.<br>
+Yet I, <br>
+A dull and muddy-mettled rascal, peak<br>
+Like John-a-dreams, unpregnant of my cause,<br>
+And can say nothing! No, not for a king,<br>
+Upon whose property and most dear life<br>
+A damn'd defeat was made. Am I a coward? <br>
+Who calls me villain? breaks my pate across?<br>
+Plucks off my beard and blows it in my face?<br>
+Tweaks me by th' nose? gives me the lie i' th' throat<br>
+As deep as to the lungs? Who does me this, ha?<br>
+'Swounds, I should take it! for it cannot be <br>
+But I am pigeon-liver'd and lack gall<br>
+To make oppression bitter, or ere this<br>
+I should have fatted all the region kites<br>
+With this slave's offal. Bloody bawdy villain!<br>
+Remorseless, treacherous, lecherous, kindless villain! <br>
+O, vengeance!<br>
+Why, what an ass am I! This is most brave,<br>
+That I, the son of a dear father murther'd,<br>
+Prompted to my revenge by heaven and hell,<br>
+Must (like a whore) unpack my heart with words <br>
+And fall a-cursing like a very drab,<br>
+A scullion!<br>
+Fie upon't! foh! About, my brain! Hum, I have heard<br>
+That guilty creatures, sitting at a play,<br>
+Have by the very cunning of the scene <br>
+Been struck so to the soul that presently<br>
+They have proclaim'd their malefactions;<br>
+For murther, though it have no tongue, will speak<br>
+With most miraculous organ, I'll have these Players<br>
+Play something like the murther of my father <br>
+Before mine uncle. I'll observe his looks;<br>
+I'll tent him to the quick. If he but blench,<br>
+I know my course. The spirit that I have seen<br>
+May be a devil; and the devil hath power<br>
+T' assume a pleasing shape; yea, and perhaps<br>
+Out of my weakness and my melancholy,<br>
+As he is very potent with such spirits,<br>
+Abuses me to damn me. I'll have grounds<br>
+More relative than this. The play's the thing<br>
+Wherein I'll catch the conscience of the King. <br>
+[<i>Exit</i>]<br>
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=2&Scene=2&Scope=scene&LineHighlight=1620#1615' target='_blank'>II ii 382</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-2-2-550-hamlet.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Hamlet</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_21'>
+  
+    <span id="preview_mono_21">
+      To be, or not to be, that is the question<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_21', '/monologues/preview?monologue_id=21', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('y+ttzZQbrZXrUkxAFxUWk5RVk6vaM7oAt9UoDqoM4iY=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          To be, or not to be- that is the question:<br>
+Whether 'tis nobler in the mind to suffer<br>
+The slings and arrows of outrageous fortune<br>
+Or to take arms against a sea of troubles,<br>
+And by opposing end them. To die- to sleep-<br>
+No more; and by a sleep to say we end<br>
+The heartache, and the thousand natural shocks<br>
+That flesh is heir to. 'Tis a consummation<br>
+Devoutly to be wish'd. To die- to sleep.<br>
+To sleep- perchance to dream: ay, there's the rub!<br>
+For in that sleep of death what dreams may come<br>
+When we have shuffled off this mortal coil,<br>
+Must give us pause. There's the respect<br>
+That makes calamity of so long life.<br>
+For who would bear the whips and scorns of time,<br>
+Th' oppressor's wrong, the proud man's contumely,<br>
+The pangs of despis'd love, the law's delay, <br>
+The insolence of office, and the spurns<br>
+That patient merit of th' unworthy takes,<br>
+When he himself might his quietus make<br>
+With a bare bodkin? Who would these fardels bear,<br>
+To grunt and sweat under a weary life, <br>
+But that the dread of something after death-<br>
+The undiscover'd country, from whose bourn<br>
+No traveller returns- puzzles the will,<br>
+And makes us rather bear those ills we have<br>
+Than fly to others that we know not of? <br>
+Thus conscience does make cowards of us all,<br>
+And thus the native hue of resolution<br>
+Is sicklied o'er with the pale cast of thought,<br>
+And enterprises of great pith and moment<br>
+With this regard their currents turn awry <br>
+And lose the name of action.- Soft you now!<br>
+The fair Ophelia!- Nymph, in thy orisons<br>
+Be all my sins rememb'red. <br>
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=3&Scene=1&Scope=scene&LineHighlight=1749#1740' target='_blank'>III i 64</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-3-1-55-hamlet.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Hamlet</div>
+  <div class='monologue_detail'>
+  Prose - intercut <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_22'>
+  
+    <span id="preview_mono_22">
+      Get thee to a nunnery<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_22', '/monologues/preview?monologue_id=22', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('y+ttzZQbrZXrUkxAFxUWk5RVk6vaM7oAt9UoDqoM4iY=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Hamlet.</b> Get thee to a nunnery! Why wouldst thou be a breeder of
+      sinners? I am myself indifferent honest, but yet I could accuse 
+      me of such things that it were better my mother had not borne me.
+      I am very proud, revengeful, ambitious; with more offences at my
+      beck than I have thoughts to put them in, imagination to give
+      them shape, or time to act them in. What should such fellows as I
+      do, crawling between earth and heaven? We are arrant knaves all;
+      believe none of us. Go thy ways to a nunnery. Where's your
+      father? <br><br>
+
+<del><b>Ophelia.</b> At home, my lord.</del><br><br> 
+
+<b>Hamlet.</b> Let the doors be shut upon him, that he may play the fool
+      nowhere but in's own house. Farewell.<br><br>
+
+<del><b>Ophelia.</b> O, help him, you sweet heavens!</del> <br><br>
+
+<b>Hamlet.</b> If thou dost marry, I'll give thee this plague for thy dowry:
+      be thou as chaste as ice, as pure as snow, thou shalt not escape
+      calumny. Get thee to a nunnery. Go, farewell. Or if thou wilt
+      needs marry, marry a fool; for wise men know well enough what 
+      monsters you make of them. To a nunnery, go; and quickly too.
+      Farewell. <br><br>
+
+<del><b> Ophelia.</b> O heavenly powers, restore him! </del><br><br>
+
+<b>Hamlet.</b> I have heard of your paintings too, well enough. God hath
+      given you one face, and you make yourselves another. You jig, you 
+      amble, and you lisp; you nickname God's creatures and make your
+      wantonness your ignorance. Go to, I'll no more on't! it hath made
+      me mad. I say, we will have no moe marriages. Those that are
+      married already- all but one- shall live; the rest shall keep as
+      they are. To a nunnery, go.<br><br>
+[<i>Exit</i>]
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=3&Scene=1&Scope=scene&LineHighlight=1814#1810' target='_blank'>III i 125</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-3-1-125-hamlet.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Hamlet</div>
+  <div class='monologue_detail'>
+  Prose  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_23'>
+  
+    <span id="preview_mono_23">
+      Speak the speech, I pray you<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_23', '/monologues/preview?monologue_id=23', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('y+ttzZQbrZXrUkxAFxUWk5RVk6vaM7oAt9UoDqoM4iY=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Hamlet.</b> Speak the speech, I pray you, as I pronounc'd it to you,
+      trippingly on the tongue. But if you mouth it, as many of our
+      players do, I had as live the town crier spoke my lines. Nor do 
+      not saw the air too much with your hand, thus, but use all
+      gently; for in the very torrent, tempest, and (as I may say)
+      whirlwind of your passion, you must acquire and beget a
+      temperance that may give it smoothness. O, it offends me to the
+      soul to hear a robustious periwig-pated fellow tear a passion to
+      tatters, to very rags, to split the cars of the groundlings, who
+      (for the most part) are capable of nothing but inexplicable dumb
+      shows and noise. I would have such a fellow whipp'd for o'erdoing
+      Termagant. It out-herods Herod. Pray you avoid it. <br><br>
+
+ <del><b> First Player.</b> I warrant your honour. </del><br><br>
+
+<b> Hamlet.</b> Be not too tame neither; but let your own discretion be your
+      tutor. Suit the action to the word, the word to the action; with
+      this special observance, that you o'erstep not the modesty of
+      nature: for anything so overdone is from the purpose of playing,
+      whose end, both at the first and now, was and is, to hold, as
+      'twere, the mirror up to nature; to show Virtue her own feature,
+      scorn her own image, and the very age and body of the time his
+      form and pressure. Now this overdone, or come tardy off, though
+      it make the unskilful laugh, cannot but make the judicious
+      grieve; the censure of the which one must in your allowance 
+      o'erweigh a whole theatre of others. O, there be players that I
+      have seen play, and heard others praise, and that highly (not to
+      speak it profanely), that, neither having the accent of
+      Christians, nor the gait of Christian, pagan, nor man, have so
+      strutted and bellowed that I have thought some of Nature's 
+      journeymen had made men, and not made them well, they imitated
+      humanity so abominably. <br><br>
+
+<del><b> First Player.</b> I hope we have reform'd that indifferently with us, sir. </del><br><br>
+
+<b>Hamlet.</b> O, reform it altogether! And let those that play your clowns
+      speak no more than is set down for them. For there be of them 
+      that will themselves laugh, to set on some quantity of barren
+      spectators to laugh too, though in the mean time some necessary
+      question of the play be then to be considered. That's villanous
+      and shows a most pitiful ambition in the fool that uses it. Go
+      make you ready. <br><br>
+      [<i>Exeunt Players</i>.] 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=3&Scene=2&Scope=scene&LineHighlight=1883' target='_blank'>III ii 1</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-3-2-1-hamlet.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Hamlet</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_24'>
+  
+    <span id="preview_mono_24">
+      Since my dear soul was mistress of her choice<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_24', '/monologues/preview?monologue_id=24', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('y+ttzZQbrZXrUkxAFxUWk5RVk6vaM7oAt9UoDqoM4iY=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Since my dear soul was mistress of her choice<br>
+And could of men distinguish, her election<br>
+Hath seal'd thee for herself. For thou hast been<br>
+As one, in suff'ring all, that suffers nothing;<br>
+A man that Fortune's buffets and rewards<br>
+Hast ta'en with equal thanks; and blest are those<br>
+Whose blood and judgment are so well commingled<br>
+That they are not a pipe for Fortune's finger<br>
+To sound what stop she please. Give me that man <br>
+That is not passion's slave, and I will wear him<br>
+In my heart's core, ay, in my heart of heart,<br>
+As I do thee. Something too much of this I<br>
+There is a play to-night before the King.<br>
+One scene of it comes near the circumstance, <br>
+Which I have told thee, of my father's death.<br>
+I prithee, when thou seest that act afoot,<br>
+Even with the very comment of thy soul<br>
+Observe my uncle. If his occulted guilt<br>
+Do not itself unkennel in one speech, <br>
+It is a damned ghost that we have seen,<br>
+And my imaginations are as foul<br>
+As Vulcan's stithy. Give him heedful note;<br>
+For I mine eyes will rivet to his face,<br>
+And after we will both our judgments join<br>
+In censure of his seeming. <br>
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=3&Scene=2&Scope=scene&LineHighlight=1935#1929' target='_blank'>III ii 27</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-3-2-27-hamlet.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Player King</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_25'>
+  
+    <span id="preview_mono_25">
+      I do believe you think what now you speak<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_25', '/monologues/preview?monologue_id=25', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('y+ttzZQbrZXrUkxAFxUWk5RVk6vaM7oAt9UoDqoM4iY=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          I do believe you think what now you speak;<br>
+But what we do determine oft we break.<br>
+Purpose is but the slave to memory, <br>
+Of violent birth, but poor validity;<br>
+Which now, like fruit unripe, sticks on the tree,<br>
+But fall unshaken when they mellow be.<br>
+Most necessary 'tis that we forget<br>
+To pay ourselves what to ourselves is debt.<br>
+What to ourselves in passion we propose,<br>
+The passion ending, doth the purpose lose.<br>
+The violence of either grief or joy<br>
+Their own enactures with themselves destroy.<br>
+Where joy most revels, grief doth most lament; <br>
+Grief joys, joy grieves, on slender accident.<br>
+This world is not for aye, nor 'tis not strange<br>
+That even our loves should with our fortunes change;<br>
+For 'tis a question left us yet to prove,<br>
+Whether love lead fortune, or else fortune love.<br>
+The great man down, you mark his favourite flies,<br>
+The poor advanc'd makes friends of enemies;<br>
+And hitherto doth love on fortune tend,<br>
+For who not needs shall never lack a friend,<br>
+And who in want a hollow friend doth try, <br>
+Directly seasons him his enemy.<br>
+But, orderly to end where I begun,<br>
+Our wills and fates do so contrary run<br>
+That our devices still are overthrown;<br>
+Our thoughts are ours, their ends none of our own.<br>
+So think thou wilt no second husband wed;<br>
+But die thy thoughts when thy first lord is dead.<br> 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=3&Scene=2&Scope=scene&LineHighlight=2078#2069' target='_blank'>III ii 134</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-3-2-134-playerking.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Claudius</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_26'>
+  
+    <span id="preview_mono_26">
+      O, my offence is rank, it smells to heaven<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_26', '/monologues/preview?monologue_id=26', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('y+ttzZQbrZXrUkxAFxUWk5RVk6vaM7oAt9UoDqoM4iY=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          O, my offence is rank, it smells to heaven;<br>
+It hath the primal eldest curse upon't,<br>
+A brother's murther! Pray can I not, <br>
+Though inclination be as sharp as will.<br>
+My stronger guilt defeats my strong intent,<br>
+And, like a man to double business bound,<br>
+I stand in pause where I shall first begin,<br>
+And both neglect. What if this cursed hand <br>
+Were thicker than itself with brother's blood,<br>
+Is there not rain enough in the sweet heavens<br>
+To wash it white as snow? Whereto serves mercy<br>
+But to confront the visage of offence?<br>
+And what's in prayer but this twofold force,<br>
+To be forestalled ere we come to fall,<br>
+Or pardon'd being down? Then I'll look up;<br>
+My fault is past. But, O, what form of prayer<br>
+Can serve my turn? 'Forgive me my foul murther'?<br>
+That cannot be; since I am still possess'd <br>
+Of those effects for which I did the murther-<br>
+My crown, mine own ambition, and my queen.<br>
+May one be pardon'd and retain th' offence?<br>
+In the corrupted currents of this world<br>
+Offence's gilded hand may shove by justice,<br>
+And oft 'tis seen the wicked prize itself<br>
+Buys out the law; but 'tis not so above.<br>
+There is no shuffling; there the action lies<br>
+In his true nature, and we ourselves compell'd,<br>
+Even to the teeth and forehead of our faults, <br>
+To give in evidence. What then? What rests?<br>
+Try what repentance can. What can it not?<br>
+Yet what can it when one cannot repent?<br>
+O wretched state! O bosom black as death!<br>
+O limed soul, that, struggling to be free, <br>
+Art more engag'd! Help, angels! Make assay.<br>
+Bow, stubborn knees; and heart with strings of steel,<br>
+Be soft as sinews of the new-born babe!<br>
+All may be well. He kneels. <br>
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=3&Scene=3&Scope=scene&LineHighlight=2316#2307' target='_blank'>III iii 142</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-3-3-142-claudius.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Hamlet</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_27'>
+  
+    <span id="preview_mono_27">
+      Now might I do it pat, now he is praying<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_27', '/monologues/preview?monologue_id=27', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('y+ttzZQbrZXrUkxAFxUWk5RVk6vaM7oAt9UoDqoM4iY=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Now might I do it pat, now he is praying;<br>
+And now I'll do't. And so he goes to heaven,<br>
+And so am I reveng'd. That would be scann'd.<br>
+A villain kills my father; and for that,<br>
+I, his sole son, do this same villain send <br>
+To heaven.<br>
+Why, this is hire and salary, not revenge!<br>
+He took my father grossly, full of bread,<br>
+With all his crimes broad blown, as flush as May;<br>
+And how his audit stands, who knows save heaven? <br>
+But in our circumstance and course of thought,<br>
+'Tis heavy with him; and am I then reveng'd,<br>
+To take him in the purging of his soul,<br>
+When he is fit and seasoned for his passage?<br>
+No. Up, sword, and know thou a more horrid hent.<br>
+When he is drunk asleep; or in his rage;<br>
+Or in th' incestuous pleasure of his bed;<br>
+At gaming, swearing, or about some act<br>
+That has no relish of salvation in't- <br>
+Then trip him, that his heels may kick at heaven,<br>
+And that his soul may be as damn'd and black<br>
+As hell, whereto it goes. My mother stays.<br>
+This physic but prolongs thy sickly days.<br><br> 
+
+[<i>Exit.</i>] 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=3&Scene=3&Scope=scene&LineHighlight=2356#2356' target='_blank'>III iii 80</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-3-3-80-hamlet.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Hamlet</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_28'>
+  
+    <span id="preview_mono_28">
+      Look here, upon this picture, and on this<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_28', '/monologues/preview?monologue_id=28', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('y+ttzZQbrZXrUkxAFxUWk5RVk6vaM7oAt9UoDqoM4iY=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Look here upon th's picture, and on this, <br>
+The counterfeit presentment of two brothers.<br>
+See what a grace was seated on this brow;<br>
+Hyperion's curls; the front of Jove himself;<br>
+An eye like Mars, to threaten and command;<br>
+A station like the herald Mercury <br>
+New lighted on a heaven-kissing hill:<br>
+A combination and a form indeed<br>
+Where every god did seem to set his seal<br>
+To give the world assurance of a man.<br>
+This was your husband. Look you now what follows.<br>
+Here is your husband, like a mildew'd ear<br>
+Blasting his wholesome brother. Have you eyes?<br>
+Could you on this fair mountain leave to feed,<br>
+And batten on this moor? Ha! have you eyes<br>
+You cannot call it love; for at your age<br>
+The heyday in the blood is tame, it's humble,<br>
+And waits upon the judgment; and what judgment<br>
+Would step from this to this? Sense sure you have,<br>
+Else could you not have motion; but sure that sense<br>
+Is apoplex'd; for madness would not err, <br>
+Nor sense to ecstacy was ne'er so thrall'd<br>
+But it reserv'd some quantity of choice<br>
+To serve in such a difference. What devil was't<br>
+That thus hath cozen'd you at hoodman-blind?<br>
+Eyes without feeling, feeling without sight, <br>
+Ears without hands or eyes, smelling sans all,<br>
+Or but a sickly part of one true sense<br>
+Could not so mope.<br>
+O shame! where is thy blush? Rebellious hell,<br>
+If thou canst mutine in a matron's bones, <br>
+To flaming youth let virtue be as wax<br>
+And melt in her own fire. Proclaim no shame<br>
+When the compulsive ardour gives the charge,<br>
+Since frost itself as actively doth burn,<br>
+And reason panders will. <br>
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=3&Scene=4&Scope=scene&LineHighlight=2445#2443' target='_blank'>III iv 63</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-3-4-63-hamlet.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Hamlet</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_29'>
+  
+    <span id="preview_mono_29">
+      How all occasions do inform against me<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_29', '/monologues/preview?monologue_id=29', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('y+ttzZQbrZXrUkxAFxUWk5RVk6vaM7oAt9UoDqoM4iY=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          How all occasions do inform against me<br>
+And spur my dull revenge! What is a man,<br>
+If his chief good and market of his time<br>
+Be but to sleep and feed? A beast, no more.<br>
+Sure he that made us with such large discourse,<br>
+Looking before and after, gave us not<br>
+That capability and godlike reason<br>
+To fust in us unus'd. Now, whether it be<br>
+Bestial oblivion, or some craven scruple<br>
+Of thinking too precisely on th' event,- <br>
+A thought which, quarter'd, hath but one part wisdom<br>
+And ever three parts coward,- I do not know<br>
+Why yet I live to say 'This thing's to do,'<br>
+Sith I have cause, and will, and strength, and means<br>
+To do't. Examples gross as earth exhort me. <br>
+Witness this army of such mass and charge,<br>
+Led by a delicate and tender prince,<br>
+Whose spirit, with divine ambition puff'd,<br>
+Makes mouths at the invisible event,<br>
+Exposing what is mortal and unsure <br>
+To all that fortune, death, and danger dare,<br>
+Even for an eggshell. Rightly to be great<br>
+Is not to stir without great argument,<br>
+But greatly to find quarrel in a straw<br>
+When honour's at the stake. How stand I then,<br>
+That have a father kill'd, a mother stain'd,<br>
+Excitements of my reason and my blood,<br>
+And let all sleep, while to my shame I see<br>
+The imminent death of twenty thousand men<br>
+That for a fantasy and trick of fame <br>
+Go to their graves like beds, fight for a plot<br>
+Whereon the numbers cannot try the cause,<br>
+Which is not tomb enough and continent<br>
+To hide the slain? O, from this time forth,<br>
+My thoughts be bloody, or be nothing worth! <br><br>
+[<i>Exit.</i>] 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=4&Scene=4&Scope=scene&LineHighlight=2819#2819' target='_blank'>IV iv 35</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-4-4-35-hamlet.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Claudius</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_30'>
+  
+    <span id="preview_mono_30">
+      O! this is the poison of deep grief;<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_30', '/monologues/preview?monologue_id=30', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('y+ttzZQbrZXrUkxAFxUWk5RVk6vaM7oAt9UoDqoM4iY=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          O, this is the poison of deep grief; it springs<br>
+All from her father's death. O Gertrude, Gertrude,<br>
+When sorrows come, they come not single spies.<br>
+But in battalions! First, her father slain; <br>
+Next, your son gone, and he most violent author<br>
+Of his own just remove; the people muddied,<br>
+Thick and and unwholesome in their thoughts and whispers<br>
+For good Polonius' death, and we have done but greenly<br>
+In hugger-mugger to inter him; poor Ophelia <br>
+Divided from herself and her fair judgment,<br>
+Without the which we are pictures or mere beasts;<br>
+Last, and as much containing as all these,<br>
+Her brother is in secret come from France;<br>
+Feeds on his wonder, keeps, himself in clouds,<br>
+And wants not buzzers to infect his ear<br>
+With pestilent speeches of his father's death,<br>
+Wherein necessity, of matter beggar'd,<br>
+Will nothing stick our person to arraign<br>
+In ear and ear. O my dear Gertrude, this,<br>
+Like to a murd'ring piece, in many places<br>
+Give me superfluous death.<br>
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=4&Scene=5&Scope=scene&LineHighlight=2935#2929' target='_blank'>IV v 45</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-4-5-45-claudius.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Hamlet</div>
+  <div class='monologue_detail'>
+  Prose  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_31'>
+  
+    <span id="preview_mono_31">
+      Alas! poor Yorick. I knew him, Horatio<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_31', '/monologues/preview?monologue_id=31', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('y+ttzZQbrZXrUkxAFxUWk5RVk6vaM7oAt9UoDqoM4iY=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Alas, poor Yorick! I knew him,
+Horatio. A fellow of infinite jest, of most excellent fancy. He
+hath borne me on his back a thousand times. And now how abhorred
+in my imagination it is! My gorge rises at it. Here hung those
+lips that I have kiss'd I know not how oft. Where be your gibes
+now? your gambols? your songs? your flashes of merriment that 
+were wont to set the table on a roar? Not one now, to mock your
+own grinning? Quite chap- fall'n? Now get you to my lady's
+chamber, and tell her, let her paint an inch thick, to this
+favour she must come. Make her laugh at that. <br>
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=5&Scene=1&Scope=scene&LineHighlight=3515#3508' target='_blank'>V 1 80</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-5-1-80-hamlet.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+</table></div>
+
+
+  
+
+
+
+
+    </div>
+:@_rails_html_safeF

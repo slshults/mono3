@@ -1,0 +1,10 @@
+"£
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_519">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_519', '/monologues/preview/519', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('w4ODHwnvM8SUfaoRalGd+eZdBABLuOqWp/+kWZDKkVc=')}); return false;">All good peopleYou that thus far have come to pity me</a>
+    </span>
+  
+

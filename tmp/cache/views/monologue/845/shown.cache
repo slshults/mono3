@@ -1,0 +1,10 @@
+"¹
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_845">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_845', '/monologues/preview/845', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('/7MG0CzQhtFUzCE4IAmNJxPugVpcPFcQMJvnZBJZYFk=')}); return false;">Sir, spare your threats:     The bug which you would fright me with I seek.</a>
+    </span>
+  
+

@@ -1,0 +1,10 @@
+"œ
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_373">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_373', '/monologues/preview/373', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('VZsbL44P1qSXdg9f19bptrR0PBqxeEYJ4GmC9Ma+tNo=')}); return false;">Yes, 'tis most meet: whom may you else oppose,</a>
+    </span>
+  
+

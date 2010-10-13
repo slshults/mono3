@@ -1,0 +1,10 @@
+"›
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_543">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_543', '/monologues/preview/543', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('J1rmJk9aAX4bBPmDGSKw33V2Ccgey/JdjSHYR58KCyc=')}); return false;">Good friend, thou hast no cause to say so yet</a>
+    </span>
+  
+

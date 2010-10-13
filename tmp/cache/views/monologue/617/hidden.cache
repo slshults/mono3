@@ -1,0 +1,48 @@
+""
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_617">
+      Are not you mov'd, when all the sway of earth<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_617', '/monologues/preview?monologue_id=617', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('tlVp16668uihY10zk5qspGiVgDGk2IrOCwaS2tHj0BI=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Casca.</b> Are not you moved, when all the sway of earth<br>
+ Shakes like a thing unfirm? O Cicero, <br>
+ I have seen tempests, when the scolding winds<br>
+ Have rived the knotty oaks, and I have seen<br>
+ The ambitious ocean swell and rage and foam,<br>
+ To be exalted with the threatening clouds:<br>
+ But never till to-night, never till now,<br>
+ Did I go through a tempest dropping fire.<br>
+ Either there is a civil strife in heaven,<br>
+ Or else the world, too saucy with the gods,<br>
+ Incenses them to send destruction. <br>
+<br>
+<del><b>Cicero.</b> Why, saw you any thing more wonderful? <br></del>
+<br>
+<b>Casca.</b> A common slave—you know him well by sight—<br>
+ Held up his left hand, which did flame and burn<br>
+ Like twenty torches join'd, and yet his hand,<br>
+ Not sensible of fire, remain'd unscorch'd.<br>
+ Besides—I ha' not since put up my sword— <br>
+ Against the Capitol I met a lion,<br>
+ Who glared upon me, and went surly by,<br>
+ Without annoying me: and there were drawn<br>
+ Upon a heap a hundred ghastly women,<br>
+ Transformed with their fear; who swore they saw <br>
+ Men all in fire walk up and down the streets.<br>
+ And yesterday the bird of night did sit<br>
+ Even at noon-day upon the market-place,<br>
+ Hooting and shrieking. When these prodigies<br>
+ Do so conjointly meet, let not men say <br>
+ 'These are their reasons; they are natural;'<br>
+ For, I believe, they are portentous things<br>
+ Unto the climate that they point upon. 
+      </div>
+    </span>
+
+  
+

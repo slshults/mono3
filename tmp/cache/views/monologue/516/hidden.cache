@@ -1,0 +1,18 @@
+">
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_516">
+      And for me, 
+I have no further gone in this than by<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_516', '/monologues/preview?monologue_id=516', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('kP3wV+evQx9a+46yVxXqg+6dWZOrpx9zWlpGu4N+T/8=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+
+  
+

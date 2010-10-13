@@ -1,0 +1,10 @@
+"›
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_192">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_192', '/monologues/preview/192', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('pJwQJuPB8ii+TQeD7R/f3tmRZuavSv7ciifI2BD4ihQ=')}); return false;">Even as a flatt'ring dream or worthless fancy</a>
+    </span>
+  
+

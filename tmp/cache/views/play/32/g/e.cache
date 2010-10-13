@@ -1,0 +1,279 @@
+I"ã6  
+    <div>
+    <h2>Monologues in Shakespeare</h2>
+    <h2>King Lear</h2>
+      <span>
+        <form action="javascript:void(0);" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=" /></div>
+          <b>Search:</b> <input type="text" id="search" size="40"/>
+          <img alt="Ajax-loader" id="spinner" src="/images/ajax-loader.gif?1278779332" style="display: none;" />
+        </form>
+        <div class="search_links">
+          <a href="/plays/32?g=3">Search Men</a> &nbsp;|&nbsp;
+          <a href="/plays/32?g=2">Search Women</a> &nbsp;|&nbsp;
+          <a href="/plays">Search All Plays</a> &nbsp;|&nbsp;
+          
+            <a href="/plays/32?expand=1">Expand All</a>
+          
+        </div>
+      </span>
+    </div>
+    <script type="text/javascript">
+//<![CDATA[
+new Form.Element.Observer('search', 1.25, function(element, value) {Element.show('spinner'); new Ajax.Updater('ajaxResults', 'http://shakespeare-monologues.org/monologues/search', {asynchronous:true, evalScripts:true, onComplete:function(request){Element.hide('spinner')}, parameters:'p=32&search=' + encodeURIComponent(value) + '&authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')})})
+//]]>
+</script>
+
+  
+    <div id='ajaxResults'>
+      
+
+  
+
+      
+<div>
+  <table id='monologue_list'>
+    <tr>
+      <th>Character</th>
+      <th>First Line</th>
+      <th>Act & Sc</th>
+      <th>pdf</th>
+    </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Edmund</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/32">King Lear</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_632'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_632', '/monologues/preview/632', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">Thou, Nature, art my goddess, to thy law</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=kinglear&Act=1&Scene=2&Scope=scene&LineHighlight=334' target='_blank'>I ii 1</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/kl-1-2-1-edmund.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Edmund</div>
+  <div class='monologue_detail'>
+  Prose  <br/>
+  <a href="/plays/32">King Lear</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_633'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_633', '/monologues/preview/633', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">This is the excellent foppery of the world</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=kinglear&Act=1&Scene=2&Scope=scene&LineHighlight=442#442' target='_blank'>I ii 58</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/kl-1-2-58-edmund.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Edgar</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/32">King Lear</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_634'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_634', '/monologues/preview/634', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">I heard myself proclaim'd</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=kinglear&Act=2&Scene=3&Scope=scene&LineHighlight=1252#1252' target='_blank'>II iii 1</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/kl-2-3-1-edmund.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Fool</div>
+  <div class='monologue_detail'>
+  Verse &amp; Prose  <br/>
+  <a href="/plays/32">King Lear</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_635'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_635', '/monologues/preview/635', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">We'll set thee to school to an ant</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=kinglear&Act=2&Scene=4&Scope=scene&LineHighlight=1345#1339' target='_blank'>II iv 68</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/kl-2-4-68-fool.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Lear</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/32">King Lear</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_636'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_636', '/monologues/preview/636', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">O, reason not the need!  Our basest beggars</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=kinglear&Act=2&Scene=4&Scope=scene&LineHighlight=1565#1560' target='_blank'>II iv 274</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/kl-2-4-264-kinglear.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Lear</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/32">King Lear</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_637'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_637', '/monologues/preview/637', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">Blow, winds, and crack your cheeks! rage! blow!</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=kinglear&Act=3&Scene=2&Scope=scene&LineHighlight=1678' target='_blank'>III ii 1</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/kl-3-2-1-kinglear.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Edgar</div>
+  <div class='monologue_detail'>
+  Prose  <br/>
+  <a href="/plays/32">King Lear</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_638'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_638', '/monologues/preview/638', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">A servingman, proud in heart and mind</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=kinglear&Act=3&Scene=4&Scope=scene&LineHighlight=1881#1875' target='_blank'>III iv 73</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/kl-3-4-73-edgar.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Edgar</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/32">King Lear</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_639'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_639', '/monologues/preview/639', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">By nursing them, my lord. List a brief tale</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=kinglear&Act=5&Scene=3&Scope=scene&LineHighlight=3340#3333' target='_blank'>V iii 210</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/kl-5-3-210-edgar.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Cordelia</div>
+  <div class='monologue_detail'>
+  Verse - intercut <br/>
+  <a href="/plays/32">King Lear</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_813'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_813', '/monologues/preview/813', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">Unhappy that I am, I cannot heave my heart into my mouth</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=kinglear&Act=1&Scene=1&Scope=scene&LineHighlight=93#89' target='_blank'>I i 76</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/kl-1-1-90-cordelia.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Goneril</div>
+  <div class='monologue_detail'>
+  Verse - intercut <br/>
+  <a href="/plays/32">King Lear</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_814'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_814', '/monologues/preview/814', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">By day and night he wrongs me, every hour</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=kinglear&Act=1&Scene=3&Scope=scene&LineHighlight=507' target='_blank'>I iii 5</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/kl-1-3-3-goneril.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Goneril</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/32">King Lear</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_815'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_815', '/monologues/preview/815', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">Not only, sir, this your all-licens'd fool</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=kinglear&Act=1&Scene=4&Scope=scene&LineHighlight=722#711' target='_blank'>I iv 114</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/kl-1-4-191-goneril.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Goneril</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/32">King Lear</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_816'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_816', '/monologues/preview/816', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">This admiration, sir, is much o' th' favour</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=kinglear&Act=1&Scene=4&Scope=scene&LineHighlight=759#754' target='_blank'>I iv 147</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/kl-1-4-227-goneril.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+</table></div>
+
+
+  
+
+
+
+
+    </div>
+:@_rails_html_safeF

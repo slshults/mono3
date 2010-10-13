@@ -1,0 +1,10 @@
+"˜
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_568">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_568', '/monologues/preview/568', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('aBaZ2beGxDDUXz+nocYnv/tsCDOVtCtcxqqmT4dR9tQ=')}); return false;">We are amaz'd; and thus long have we stood</a>
+    </span>
+  
+

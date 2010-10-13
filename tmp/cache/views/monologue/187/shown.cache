@@ -1,0 +1,10 @@
+"‹
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_187">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_187', '/monologues/preview/187', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('oi8Jx33bxj2Ndvs3dNqMhcuAT4SE891UL9V/n2Rspw8=')}); return false;">I pray thee cease thy counsel</a>
+    </span>
+  
+

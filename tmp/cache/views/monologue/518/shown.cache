@@ -1,0 +1,10 @@
+"š
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_518">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_518', '/monologues/preview/518', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('bJonZUHYimU5emWxzJeoVdfaU2cp4whAjpb2LPp2YS8=')}); return false;">Not long before your highness sped to France</a>
+    </span>
+  
+

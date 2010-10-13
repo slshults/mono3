@@ -1,0 +1,33 @@
+"
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_242">
+      I have done enough; a lower place, note well<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_242', '/monologues/preview?monologue_id=242', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('+hvDGg85Q0brcKSD9Bou9ugsF2+slYEe+z2mXR1zvuc=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          I have done enough; a lower place, note well,<br>
+May make too great an act: for learn this, Silius;<br>
+Better to leave undone, than by our deed<br>
+Acquire too high a fame when him we serve's away.<br>
+Caesar and Antony have ever won<br>
+More in their officer than person: Sossius,<br>
+One of my place in Syria, his lieutenant,<br>
+For quick accumulation of renown,<br>
+Which he achieved by the minute, lost his favour.<br>
+Who does i' the wars more than his captain can<br>
+Becomes his captain's captain: and ambition,<br>
+The soldier's virtue, rather makes choice of loss,<br>
+Than gain which darkens him.<br>
+I could do more to do Antonius good,<br>
+But 'twould offend him; and in his offence<br>
+Should my performance perish. 
+
+      </div>
+    </span>
+
+  
+

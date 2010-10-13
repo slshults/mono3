@@ -1,0 +1,79 @@
+"
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_438">
+      Then hear me, gracious sovereign, and you peers,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_438', '/monologues/preview?monologue_id=438', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('3fa8SH3TLIQTNYY17yUJdrmYXy3yf/J1Og2xBBglUyM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Then hear me, gracious sovereign, and you peers,<br>
+That owe yourselves, your lives and services<br>
+To this imperial throne. There is no bar<br>
+To make against your highness' claim to France<br>
+But this, which they produce from Pharamond,<br>
+'In terram Salicam mulieres ne succedant:'<br>
+'No woman shall succeed in Salique land:'<br>
+Which Salique land the French unjustly gloze <br>
+To be the realm of France, and Pharamond<br>
+The founder of this law and female bar.<br>
+Yet their own authors faithfully affirm<br>
+That the land Salique is in Germany,<br>
+Between the floods of Sala and of Elbe; <br>
+Where Charles the Great, having subdued the Saxons,<br>
+There left behind and settled certain French;<br>
+Who, holding in disdain the German women<br>
+For some dishonest manners of their life,<br>
+Establish'd then this law; to wit, no female <br>
+Should be inheritrix in Salique land:<br>
+Which Salique, as I said, 'twixt Elbe and Sala,<br>
+Is at this day in Germany call'd Meisen.<br>
+Then doth it well appear that Salique law<br>
+Was not devised for the realm of France: <br>
+Nor did the French possess the Salique land<br>
+Until four hundred one and twenty years<br>
+After defunction of King Pharamond,<br>
+Idly supposed the founder of this law;<br>
+Who died within the year of our redemption <br>
+Four hundred twenty-six; and Charles the Great<br>
+Subdued the Saxons, and did seat the French<br>
+Beyond the river Sala, in the year<br>
+Eight hundred five. Besides, their writers say,<br>
+King Pepin, which deposed Childeric, <br>
+Did, as heir general, being descended<br>
+Of Blithild, which was daughter to King Clothair,<br>
+Make claim and title to the crown of France.<br>
+Hugh Capet also, who usurped the crown<br>
+Of Charles the duke of Lorraine, sole heir male <br>
+Of the true line and stock of Charles the Great,<br>
+To find his title with some shows of truth,<br>
+'Through, in pure truth, it was corrupt and naught,<br>
+Convey'd himself as heir to the Lady Lingare,<br>
+Daughter to Charlemain, who was the son <br>
+To Lewis the emperor, and Lewis the son<br>
+Of Charles the Great. Also King Lewis the Tenth,<br>
+Who was sole heir to the usurper Capet,<br>
+Could not keep quiet in his conscience,<br>
+Wearing the crown of France, till satisfied <br>
+That fair Queen Isabel, his grandmother,<br>
+Was lineal of the Lady Ermengare,<br>
+Daughter to Charles the foresaid duke of Lorraine:<br>
+By the which marriage the line of Charles the Great<br>
+Was re-united to the crown of France. <br>
+So that, as clear as is the summer's sun.<br>
+King Pepin's title and Hugh Capet's claim,<br>
+King Lewis his satisfaction, all appear<br>
+To hold in right and title of the female:<br>
+So do the kings of France unto this day; <br>
+Howbeit they would hold up this Salique law<br>
+To bar your highness claiming from the female,<br>
+And rather choose to hide them in a net<br>
+Than amply to imbar their crooked titles<br>
+Usurp'd from you and your progenitors. 
+      </div>
+    </span>
+
+  
+

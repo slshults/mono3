@@ -1,0 +1,41 @@
+"
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_184">
+      Wherefore? Why, doth not every earthly thing<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_184', '/monologues/preview?monologue_id=184', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('gKELbbc6sjaj56bYeX5sz4gRjjhVNniktzUTLoBZp5M=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Wherefore! Why, doth not every earthly thing<br>
+Cry shame upon her? Could she here deny<br>
+The story that is printed in her blood?<br>
+Do not live, Hero; do not ope thine eyes:<br>
+For, did I think thou wouldst not quickly die,<br>
+Thought I thy spirits were stronger than thy shames,<br>
+Myself would, on the rearward of reproaches, <br>
+Strike at thy life. Grieved I, I had but one?<br>
+Chid I for that at frugal nature's frame?<br>
+O, one too much by thee! Why had I one?<br>
+Why ever wast thou lovely in my eyes?<br>
+Why had I not with charitable hand <br>
+Took up a beggar's issue at my gates,<br>
+Who smirch'd thus and mired with infamy,<br>
+I might have said 'No part of it is mine;<br>
+This shame derives itself from unknown loins'?<br>
+But mine and mine I loved and mine I praised <br>
+And mine that I was proud on, mine so much<br>
+That I myself was to myself not mine,<br>
+Valuing of her,.why, she, O, she is fallen<br>
+Into a pit of ink, that the wide sea<br>
+Hath drops too few to wash her clean again <br>
+And salt too little which may season give<br>
+To her foul-tainted flesh! 
+
+      </div>
+    </span>
+
+  
+

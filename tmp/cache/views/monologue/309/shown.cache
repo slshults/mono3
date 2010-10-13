@@ -1,0 +1,10 @@
+"ž
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_309">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_309', '/monologues/preview/309', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Y4FGe3y5fkQgPcXZYZaB0c5jqYL/oW58xP640MERguM=')}); return false;">She, Claudio, that you wrong'd, look you restore</a>
+    </span>
+  
+

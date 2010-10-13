@@ -1,0 +1,41 @@
+"÷
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_645">
+      I follow him to serve my turn upon him;<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_645', '/monologues/preview?monologue_id=645', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('fZUf7XLA7ho6RcEQYy+FYUb5XjZTF4Nu/a1DqpOfARo=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <div align=right>O, sir, content you;</div>
+I follow him to serve my turn upon him:<br>
+We cannot all be masters, nor all masters<br>
+Cannot be truly follow'd. You shall mark <br>
+Many a duteous and knee-crooking knave,<br>
+That, doting on his own obsequious bondage,<br>
+Wears out his time, much like his master's ass,<br>
+For nought but provender, and when he's old, cashier'd:<br>
+Whip me such honest knaves. Others there are <br>
+Who, trimm'd in forms and visages of duty,<br>
+Keep yet their hearts attending on themselves,<br>
+And, throwing but shows of service on their lords,<br>
+Do well thrive by them and when they have lined their coats<br>
+Do themselves homage: these fellows have some soul;<br>
+And such a one do I profess myself. For, sir,<br>
+It is as sure as you are Roderigo,<br>
+Were I the Moor, I would not be Iago:<br>
+In following him, I follow but myself; <br>
+Heaven is my judge, not I for love and duty,<br>
+But seeming so, for my peculiar end:<br>
+For when my outward action doth demonstrate<br>
+The native act and figure of my heart<br>
+In compliment extern, 'tis not long after<br>
+But I will wear my heart upon my sleeve<br>
+For daws to peck at: I am not what I am. <br>
+      </div>
+    </span>
+
+  
+

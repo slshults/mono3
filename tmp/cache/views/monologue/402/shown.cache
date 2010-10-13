@@ -1,0 +1,10 @@
+"ù
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_402">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_402', '/monologues/preview/402', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('F0S7Ulr+rSbO0FmcMG7rBxyPNZOfsFtUX+09v86pmtg=')}); return false;">A woman sometime scorns what best contents her.</a>
+    </span>
+  
+

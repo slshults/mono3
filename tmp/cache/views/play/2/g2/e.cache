@@ -1,0 +1,164 @@
+I"  
+    <div>
+      <h2>Women's Monologues in Shakespeare</h2>
+      <h2>The Comedy of Errors</h2>
+      <span>
+        <form action="javascript:void(0);" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="7XPKKdT2I0/XsKx1gZUpJl111pTPAkAR++SwVB3vItM=" /></div>
+          <b>Search:</b> <input type="text" id="search" size="40"/>
+          <img alt="Ajax-loader" id="spinner" src="/images/ajax-loader.gif?1278779332" style="display: none;" />
+        </form>
+        <div class="search_links">
+          <a href="/plays/2?g=3">Search Men</a> &nbsp;|&nbsp;
+          <a href="/plays/2">Search The Comedy of Errors</a> &nbsp;|&nbsp;
+          <a href="/plays">Search All Plays</a> &nbsp;|&nbsp;
+          
+            <a href="/plays/2?expand=1&amp;g=2">Expand All</a>
+          
+        </div>
+      </span>
+    </div>
+    <script type="text/javascript">
+//<![CDATA[
+new Form.Element.Observer('search', 1.25, function(element, value) {Element.show('spinner'); new Ajax.Updater('ajaxResults', 'http://www.shakespeare-monologues.org/monologues/search', {asynchronous:true, evalScripts:true, onComplete:function(request){Element.hide('spinner')}, parameters:'g=2&p=2&search=' + encodeURIComponent(value) + '&authenticity_token=' + encodeURIComponent('7XPKKdT2I0/XsKx1gZUpJl111pTPAkAR++SwVB3vItM=')})})
+//]]>
+</script>
+  
+    <div id='ajaxResults'>
+      
+
+  
+
+      
+<div>
+  <table id='monologue_list'>
+    <tr>
+      <th>Character</th>
+      <th>First Line</th>
+      <th>Act & Sc</th>
+      <th>pdf</th>
+    </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Adriana</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/2">The Comedy of Errors</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_99'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_99', '/monologues/preview/99', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('7XPKKdT2I0/XsKx1gZUpJl111pTPAkAR++SwVB3vItM=')}); return false;">His company must do his minions grace</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=comedyerrors&Act=2&Scene=1&Scope=scene&LineHighlight=361#355' target='_blank'>II i 79</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/tcoe-2-1-87-adriana.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Adriana</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/2">The Comedy of Errors</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_100'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_100', '/monologues/preview/100', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('7XPKKdT2I0/XsKx1gZUpJl111pTPAkAR++SwVB3vItM=')}); return false;">Ay, ay, Antipholus, look strange and frown</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=comedyerrors&Act=2&Scene=2&Scope=scene&LineHighlight=499#492' target='_blank'>II ii 86</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/tcoe-2-2-113-adriana.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Luciana</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/2">The Comedy of Errors</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_101'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_101', '/monologues/preview/101', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('7XPKKdT2I0/XsKx1gZUpJl111pTPAkAR++SwVB3vItM=')}); return false;">And may it be that you have quite forgot</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=comedyerrors&Act=3&Scene=2&Scope=scene&LineHighlight=763' target='_blank'>III ii 4</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/tcoe-3-2-1-luciana.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Courtesan</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/2">The Comedy of Errors</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_102'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_102', '/monologues/preview/102', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('7XPKKdT2I0/XsKx1gZUpJl111pTPAkAR++SwVB3vItM=')}); return false;">Now, out of doubt Antipholus is mad,</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=comedyerrors&Act=4&Scene=3&Scope=scene&LineHighlight=1231#1231' target='_blank'>IV iii 56</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/tcoe-4-3-81-courtesan.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Abbess</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/2">The Comedy of Errors</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_103'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_103', '/monologues/preview/103', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('7XPKKdT2I0/XsKx1gZUpJl111pTPAkAR++SwVB3vItM=')}); return false;">And thereof came it that the man was mad.</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=comedyerrors&Act=5&Scene=1&Scope=scene&LineHighlight=1499#1490' target='_blank'>V i 75</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/tcoe-5-1-24-ladyabbess.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Adriana</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/2">The Comedy of Errors</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_104'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_104', '/monologues/preview/104', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('7XPKKdT2I0/XsKx1gZUpJl111pTPAkAR++SwVB3vItM=')}); return false;">May it please your grace, Antipholus, my husband,</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=comedyerrors&Act=5&Scene=1&Scope=scene&LineHighlight=1570#1560' target='_blank'>V i 144</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/tcoe-5-1-137-adriana.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+</table></div>
+
+
+  
+
+
+
+
+    </div>
+:@_rails_html_safeF

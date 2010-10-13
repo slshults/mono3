@@ -1,0 +1,42 @@
+"�
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_758">
+      O Eglamour, thou art a gentleman<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_758', '/monologues/preview?monologue_id=758', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('qeWF6qepJKY5IPGjrKQFjWT52dQ7cRQNmQlKtykglss=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          O Eglamour, thou art a gentleman—<br>
+Think not I flatter, for I swear I do not—<br>
+Valiant, wise, remorseful, well accomplish'd:<br>
+Thou art not ignorant what dear good will<br>
+I bear unto the banish'd Valentine,<br>
+Nor how my father would enforce me marry<br>
+Vain Thurio, whom my very soul abhors. <br>
+Thyself hast loved; and I have heard thee say<br>
+No grief did ever come so near thy heart<br>
+As when thy lady and thy true love died,<br>
+Upon whose grave thou vow'dst pure chastity.<br>
+Sir Eglamour, I would to Valentine, <br>
+To Mantua, where I hear he makes abode;<br>
+And, for the ways are dangerous to pass,<br>
+I do desire thy worthy company,<br>
+Upon whose faith and honour I repose.<br>
+Urge not my father's anger, Eglamour, <br>
+But think upon my grief, a lady's grief,<br>
+And on the justice of my flying hence,<br>
+To keep me from a most unholy match,<br>
+Which heaven and fortune still rewards with plagues.<br>
+I do desire thee, even from a heart <br>
+As full of sorrows as the sea of sands,<br>
+To bear me company and go with me:<br>
+If not, to hide what I have said to thee,<br>
+That I may venture to depart alone. 
+      </div>
+    </span>
+
+  
+

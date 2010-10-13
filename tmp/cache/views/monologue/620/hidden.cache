@@ -1,0 +1,43 @@
+"&
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_620">
+      No, not an oath: if not the face of men,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_620', '/monologues/preview?monologue_id=620', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('3S3yVgpBQXiwLwvYRDEKtTc8VeDYMNUnRPsX5W/V0BA=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          No, not an oath: if not the face of men,<br>
+The sufferance of our souls, the time's abuse,—<br>
+If these be motives weak, break off betimes,<br>
+And every man hence to his idle bed; <br>
+So let high-sighted tyranny range on,<br>
+Till each man drop by lottery. But if these,<br>
+As I am sure they do, bear fire enough<br>
+To kindle cowards and to steel with valour<br>
+The melting spirits of women, then, countrymen, <br>
+What need we any spur but our own cause,<br>
+To prick us to redress? what other bond<br>
+Than secret Romans, that have spoke the word,<br>
+And will not palter? and what other oath<br>
+Than honesty to honesty engaged, <br>
+That this shall be, or we will fall for it?<br>
+Swear priests and cowards and men cautelous,<br>
+Old feeble carrions and such suffering souls<br>
+That welcome wrongs; unto bad causes swear<br>
+Such creatures as men doubt; but do not stain <br>
+The even virtue of our enterprise,<br>
+Nor the insuppressive mettle of our spirits,<br>
+To think that or our cause or our performance<br>
+Did need an oath; when every drop of blood<br>
+That every Roman bears, and nobly bears, <br>
+Is guilty of a several bastardy,<br>
+If he do break the smallest particle<br>
+Of any promise that hath pass'd from him. 
+      </div>
+    </span>
+
+  
+

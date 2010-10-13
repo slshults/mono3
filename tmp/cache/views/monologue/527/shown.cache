@@ -1,0 +1,11 @@
+"¥
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_527">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_527', '/monologues/preview/527', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('267jLFYMBQ1w0U13X98JEwD19sUhT95a/kB6HGK3PKU=')}); return false;">This cardinal, 
+Though from a humble stock, undoubtedly</a>
+    </span>
+  
+

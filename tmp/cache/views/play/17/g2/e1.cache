@@ -1,0 +1,364 @@
+I"@  
+    <div>
+      <h2>Women's Monologues in Shakespeare</h2>
+      <h2>The Winter's Tale</h2>
+      <span>
+        <form action="javascript:void(0);" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="C0bMhoYCS8+iNk0jwSRcJ/Y7UU8lRvw0PYNZU1YJalM=" /></div>
+          <b>Search:</b> <input type="text" id="search" size="40"/>
+          <img alt="Ajax-loader" id="spinner" src="/images/ajax-loader.gif?1278779332" style="display: none;" />
+        </form>
+        <div class="search_links">
+          <a href="/plays/17?g=3">Search Men</a> &nbsp;|&nbsp;
+          <a href="/plays/17">Search The Winter's Tale</a> &nbsp;|&nbsp;
+          <a href="/plays">Search All Plays</a> &nbsp;|&nbsp;
+          
+            <a href="/plays/17?g=2">Collapse All</a>
+          
+        </div>
+      </span>
+    </div>
+    <script type="text/javascript">
+//<![CDATA[
+new Form.Element.Observer('search', 1.25, function(element, value) {Element.show('spinner'); new Ajax.Updater('ajaxResults', 'http://mono.freeinternet.org/monologues/search', {asynchronous:true, evalScripts:true, onComplete:function(request){Element.hide('spinner')}, parameters:'g=2&p=17&search=' + encodeURIComponent(value) + '&authenticity_token=' + encodeURIComponent('C0bMhoYCS8+iNk0jwSRcJ/Y7UU8lRvw0PYNZU1YJalM=')})})
+//]]>
+</script>
+  
+    <div id='ajaxResults'>
+      
+
+  
+
+      
+<div>
+  <table id='monologue_list'>
+    <tr>
+      <th>Character</th>
+      <th>First Line</th>
+      <th>Act & Sc</th>
+      <th>pdf</th>
+    </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Hermione</div>
+  <div class='monologue_detail'>
+  Verse - intercut <br/>
+  <a href="/plays/17">The Winter's Tale</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_842'>
+  
+    <span id="preview_mono_842">
+      There's some ill planet reigns I must be patient till the heavens look<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_842', '/monologues/preview?monologue_id=842', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('C0bMhoYCS8+iNk0jwSRcJ/Y7UU8lRvw0PYNZU1YJalM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Hermione.</b> There's some ill planet reigns:<br>
+ I must be patient till the heavens look<br>
+ With an aspect more favourable. Good my lords,<br>
+ I am not prone to weeping, as our sex<br>
+ Commonly are; the want of which vain dew<br>
+ Perchance shall dry your pities: but I have<br>
+ That honourable grief lodged here which burns<br>
+ Worse than tears drown: beseech you all, my lords,<br>
+ With thoughts so qualified as your charities<br>
+ Shall best instruct you, measure me; and so<br>
+ The king's will be perform'd!<br>
+<br>
+<del><b>Leontes.</b> Shall I be heard? </del><br>
+<br>
+<b>Hermione.</b> Who is't that goes with me? Beseech your highness,<br>
+ My women may be with me; for you see<br>
+ My plight requires it. Do not weep, good fools;<br>
+ There is no cause: when you shall know your mistress 740<br>
+ Has deserved prison, then abound in tears<br>
+ As I come out: this action I now go on<br>
+ Is for my better grace. Adieu, my lord:<br>
+ I never wish'd to see you sorry; now<br>
+ I trust I shall. My women, come; you have leave. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=winterstale&Act=2&Scene=1&Scope=scene&LineHighlight=725#719' target='_blank'>II i 130</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/twt-2-1-130-hermione.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Paulina</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/17">The Winter's Tale</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_843'>
+  
+    <span id="preview_mono_843">
+      I dare be sworn     These dangerous unsafe lunes i' the king,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_843', '/monologues/preview?monologue_id=843', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('C0bMhoYCS8+iNk0jwSRcJ/Y7UU8lRvw0PYNZU1YJalM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          I dare be sworn<br>
+These dangerous unsafe lunes i' the king,<br>
+beshrew them!<br>
+He must be told on't, and he shall: the office<br>
+Becomes a woman best; I'll take't upon me:<br>
+If I prove honey-mouth'd let my tongue blister<br>
+And never to my red-look'd anger be<br>
+The trumpet any more. Pray you, Emilia,<br>
+Commend my best obedience to the queen:<br>
+If she dares trust me with her little babe,<br>
+I'll show't the king and undertake to be <br>
+Her advocate to the loud'st. We do not know<br>
+How he may soften at the sight o' the child:<br>
+The silence often of pure innocence<br>
+Persuades when speaking fails. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=winterstale&Act=2&Scene=2&Scope=scene&LineHighlight=880#871' target='_blank'>II ii 42</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/twt-2-2-42-paulina.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Hermione</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/17">The Winter's Tale</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_844'>
+  
+    <span id="preview_mono_844">
+      Since what I am to say must be but that     Which contradicts my accusation and<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_844', '/monologues/preview?monologue_id=844', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('C0bMhoYCS8+iNk0jwSRcJ/Y7UU8lRvw0PYNZU1YJalM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Since what I am to say must be but that<br>
+Which contradicts my accusation and <br>
+The testimony on my part no other<br>
+But what comes from myself, it shall scarce boot me<br>
+To say 'not guilty:' mine integrity<br>
+Being counted falsehood, shall, as I express it,<br>
+Be so received. But thus: if powers divine<br>
+Behold our human actions, as they do,<br>
+I doubt not then but innocence shall make<br>
+False accusation blush and tyranny<br>
+Tremble at patience. You, my lord, best know,<br>
+Who least will seem to do so, my past life<br>
+Hath been as continent, as chaste, as true,<br>
+As I am now unhappy; which is more<br>
+Than history can pattern, though devised<br>
+And play'd to take spectators. For behold me<br>
+A fellow of the royal bed, which owe <br>
+A moiety of the throne a great king's daughter,<br>
+The mother to a hopeful prince, here standing<br>
+To prate and talk for life and honour 'fore<br>
+Who please to come and hear. For life, I prize it<br>
+As I weigh grief, which I would spare: for honour, <br>
+'Tis a derivative from me to mine,<br>
+And only that I stand for. I appeal<br>
+To your own conscience, sir, before Polixenes<br>
+Came to your court, how I was in your grace,<br>
+How merited to be so; since he came, <br>
+With what encounter so uncurrent I<br>
+Have strain'd to appear thus: if one jot beyond<br>
+The bound of honour, or in act or will<br>
+That way inclining, harden'd be the hearts<br>
+Of all that hear me, and my near'st of kin <br>
+Cry fie upon my grave! 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=winterstale&Act=3&Scene=2&Scope=scene&LineHighlight=1234#1224' target='_blank'>III ii 16</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/twt-3-2-20-hermione.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Hermione</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/17">The Winter's Tale</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_845'>
+  
+    <span id="preview_mono_845">
+      Sir, spare your threats:     The bug which you would fright me with I seek.<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_845', '/monologues/preview?monologue_id=845', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('C0bMhoYCS8+iNk0jwSRcJ/Y7UU8lRvw0PYNZU1YJalM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <div align="right">Sir, spare your threats:</div>
+The bug which you would fright me with I seek.<br>
+To me can life be no commodity: <br>
+The crown and comfort of my life, your favour,<br>
+I do give lost; for I do feel it gone,<br>
+But know not how it went. My second joy<br>
+And first-fruits of my body, from his presence<br>
+I am barr'd, like one infectious. My third comfort <br>
+Starr'd most unluckily, is from my breast,<br>
+The innocent milk in its most innocent mouth,<br>
+Haled out to murder: myself on every post<br>
+Proclaimed a strumpet: with immodest hatred<br>
+The child-bed privilege denied, which 'longs <br>
+To women of all fashion; lastly, hurried<br>
+Here to this place, i' the open air, before<br>
+I have got strength of limit. Now, my liege,<br>
+Tell me what blessings I have here alive,<br>
+That I should fear to die? Therefore proceed.<br>
+But yet hear this: mistake me not; no life,<br>
+I prize it not a straw, but for mine honour,<br>
+Which I would free, if I shall be condemn'd<br>
+Upon surmises, all proofs sleeping else<br>
+But what your jealousies awake, I tell you <br>
+'Tis rigor and not law. Your honours all,<br>
+I do refer me to the oracle:<br>
+Apollo be my judge! 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=winterstale&Act=3&Scene=2&Scope=scene&LineHighlight=1308#1298' target='_blank'>III ii 90</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/twt-3-2-90-hermione.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Paulina</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/17">The Winter's Tale</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_846'>
+  
+    <span id="preview_mono_846">
+      What studied torments, tyrant, hast for me?<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_846', '/monologues/preview?monologue_id=846', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('C0bMhoYCS8+iNk0jwSRcJ/Y7UU8lRvw0PYNZU1YJalM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          What studied torments, tyrant, hast for me? <br>
+What wheels? racks? fires? what flaying? boiling?<br>
+In leads or oils? what old or newer torture<br>
+Must I receive, whose every word deserves<br>
+To taste of thy most worst? Thy tyranny<br>
+Together working with thy jealousies, <br>
+Fancies too weak for boys, too green and idle<br>
+For girls of nine, O, think what they have done<br>
+And then run mad indeed, stark mad! for all<br>
+Thy by-gone fooleries were but spices of it.<br>
+That thou betray'dst Polixenes,'twas nothing; <br>
+That did but show thee, of a fool, inconstant<br>
+And damnable ingrateful: nor was't much,<br>
+Thou wouldst have poison'd good Camillo's honour,<br>
+To have him kill a king: poor trespasses,<br>
+More monstrous standing by: whereof I reckon <br>
+The casting forth to crows thy baby-daughter<br>
+To be or none or little; though a devil<br>
+Would have shed water out of fire ere done't:<br>
+Nor is't directly laid to thee, the death<br>
+Of the young prince, whose honourable thoughts, <br>
+Thoughts high for one so tender, cleft the heart<br>
+That could conceive a gross and foolish sire<br>
+Blemish'd his gracious dam: this is not, no,<br>
+Laid to thy answer: but the last,—O lords,<br>
+When I have said, cry 'woe!' the queen, the queen, <br>
+The sweet'st, dear'st creature's dead,<br>
+and vengeance for't<br>
+Not dropp'd down yet. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=winterstale&Act=3&Scene=2&Scope=scene&LineHighlight=1410#1405' target='_blank'>III ii 185</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/twt-3-2-173-hermione.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Time (Chorus)</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/17">The Winter's Tale</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_847'>
+  
+    <span id="preview_mono_847">
+      I, that please some, try all, both joy and terror<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_847', '/monologues/preview?monologue_id=847', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('C0bMhoYCS8+iNk0jwSRcJ/Y7UU8lRvw0PYNZU1YJalM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          I, that please some, try all, both joy and terror<br>
+Of good and bad, that makes and unfolds error,<br>
+Now take upon me, in the name of Time, <br>
+To use my wings. Impute it not a crime<br>
+To me or my swift passage, that I slide<br>
+O'er sixteen years and leave the growth untried<br>
+Of that wide gap, since it is in my power<br>
+To o'erthrow law and in one self-born hour <br>
+To plant and o'erwhelm custom. Let me pass<br>
+The same I am, ere ancient'st order was<br>
+Or what is now received: I witness to<br>
+The times that brought them in; so shall I do<br>
+To the freshest things now reigning and make stale <br>
+The glistering of this present, as my tale<br>
+Now seems to it. Your patience this allowing,<br>
+I turn my glass and give my scene such growing<br>
+As you had slept between: Leontes leaving,<br>
+The effects of his fond jealousies so grieving <br>
+That he shuts up himself, imagine me,<br>
+Gentle spectators, that I now may be<br>
+In fair Bohemia, and remember well,<br>
+I mentioned a son o' the king's, which Florizel<br>
+I now name to you; and with speed so pace <br>
+To speak of Perdita, now grown in grace<br>
+Equal with wondering: what of her ensues<br>
+I list not prophecy; but let Time's news<br>
+Be known when 'tis brought forth. A shepherd's daughter, <br>
+And what to her adheres, which follows after,<br>
+Is the argument of Time. Of this allow,<br>
+If ever you have spent time worse ere now;<br>
+If never, yet that Time himself doth say<br>
+He wishes earnestly you never may. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=winterstale&Act=4&Scene=1&Scope=scene&LineHighlight=1633' target='_blank'>IV 0 1</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/twt-4-1-1-time.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+</table></div>
+
+
+  
+
+
+
+
+    </div>
+:@_rails_html_safeF

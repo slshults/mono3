@@ -1,0 +1,10 @@
+"´
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_842">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_842', '/monologues/preview/842', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('tcnCTiVtgBnBvHQvOfWOcmJQE77rCuegIw3lcM+ZAw8=')}); return false;">There's some ill planet reigns I must be patient till the heavens look</a>
+    </span>
+  
+

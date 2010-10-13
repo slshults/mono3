@@ -1,0 +1,10 @@
+"œ
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_130">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_130', '/monologues/preview/130', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('oi8Jx33bxj2Ndvs3dNqMhcuAT4SE891UL9V/n2Rspw8=')}); return false;">Still going? - This is a lord! O noble misery!</a>
+    </span>
+  
+

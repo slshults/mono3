@@ -1,0 +1,10 @@
+"”
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_313">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_313', '/monologues/preview/313', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('JODt0WDX83Rv/+sMmWZo2+88HrSsjeKQck46BH3S/MA=')}); return false;">Have I liv'd to be carried in a basket</a>
+    </span>
+  
+

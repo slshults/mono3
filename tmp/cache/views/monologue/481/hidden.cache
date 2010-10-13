@@ -1,0 +1,17 @@
+"2
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_481">
+      Anjou and Maine are given to the French<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_481', '/monologues/preview?monologue_id=481', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('d4GPtdCdKZpPfpCxOWwdG2/C68KGvSuQS7eYUBiyG4k=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+
+  
+

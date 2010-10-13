@@ -1,0 +1,10 @@
+"•
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_442">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_442', '/monologues/preview/442', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('RAn4Q9OXsZGFhF0QOrrtsNqZ0kJo4TFfYqsFExAyNzE=')}); return false;">The mercy that was quick in us but late</a>
+    </span>
+  
+

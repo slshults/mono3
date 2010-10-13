@@ -1,0 +1,17 @@
+"5
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_772">
+      Why droops my lord, like over-ripen'd corn<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_772', '/monologues/preview?monologue_id=772', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('H/u1SVLsN0UkOhvN3gwRQumlSoyRYHDo9fSeBDQG0xg=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+
+  
+

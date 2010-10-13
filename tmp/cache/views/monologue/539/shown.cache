@@ -1,0 +1,10 @@
+"›
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_539">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_539', '/monologues/preview/539', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('7JRYQenap4X0tvDRBGp1D34pKeT3oRufzdTuVeFhzRo=')}); return false;">That daughter there of Spain, the Lady Blanch</a>
+    </span>
+  
+

@@ -1,0 +1,39 @@
+"„
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_705">
+      Then, noble auditory, be it known to you<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_705', '/monologues/preview?monologue_id=705', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('a4B/yZjMkNLDdA+PN8U18QP+SlHyhKKPrQjnq1vaCeQ=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Then, noble auditory, be it known to you, <br>
+That cursed Chiron and Demetrius<br>
+Were they that murdered our emperor's brother;<br>
+And they it were that ravished our sister:<br>
+For their fell faults our brothers were beheaded;<br>
+Our father's tears despised, and basely cozen'd <br>
+Of that true hand that fought Rome's quarrel out,<br>
+And sent her enemies unto the grave.<br>
+Lastly, myself unkindly banished,<br>
+The gates shut on me, and turn'd weeping out,<br>
+To beg relief among Rome's enemies: <br>
+Who drown'd their enmity in my true tears.<br>
+And oped their arms to embrace me as a friend.<br>
+I am the turned forth, be it known to you,<br>
+That have preserved her welfare in my blood;<br>
+And from her bosom took the enemy's point, <br>
+Sheathing the steel in my adventurous body.<br>
+Alas, you know I am no vaunter, I;<br>
+My scars can witness, dumb although they are,<br>
+That my report is just and full of truth.<br>
+But, soft! methinks I do digress too much, <br>
+Citing my worthless praise: O, pardon me;<br>
+For when no friends are by, men praise themselves. 
+      </div>
+    </span>
+
+  
+

@@ -1,0 +1,10 @@
+"¨
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_749">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_749', '/monologues/preview/749', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('hqyGckG4QdegcerbB5tIzFcEV0BHXbd9h3A8QJN4R48=')}); return false;">Abhorred slave,  which any print of goodness wilt not take</a>
+    </span>
+  
+

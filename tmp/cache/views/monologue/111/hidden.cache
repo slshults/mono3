@@ -1,0 +1,63 @@
+"J
+
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_111">
+      Weeps she still, sayst thou? Dost thou think in time<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_111', '/monologues/preview?monologue_id=111', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Mj35iF/tkYvjBX/c4ml/DtVdvh37oKByA/WuLznlZyo=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Weeps she still, sayst thou? Dost thou think in time	 <br>
+She will not quench, and let instructions enter	 <br>
+Where folly now possesses? Do thou work:<br> 
+When thou shalt bring me word she loves my son,<br>
+I'll tell thee on the instant thou art then <br>
+As great as is thy master; greater, for <br>
+His fortunes all lie speechless, and his name <br>
+Is at last gasp; return he cannot, nor <br>
+Continue where he is; to shift his being <br>
+Is to exchange one misery with another, <br>
+And every day that comes comes to decay	 <br>
+A day's work in him. What shalt thou expect, <br>
+To be depender on a thing that leans, <br>
+Who cannot be new built, nor has no friends,<br> 
+So much as but to prop him? <br> 
+[The QUEEN drops the box; PISANIO takes it up.]<br> 
+Thou tak'st up
+Thou know'st not what; but take it for thy labour:<br> 
+It is a thing I made, which hath the king <br>
+Five times redeem'd from death; I do not know <br>
+What is more cordial: nay, I prithee, take it; <br>
+It is an earnest of a further good <br>
+That I mean to thee. Tell thy mistress how <br>
+The case stands with her; do 't as from thyself. <br>
+Think what a chance thou changest on, but think <br>
+Thou hast thy mistress still, to boot, my son, <br>
+Who shall take notice of thee. I'll move the king <br>
+To any shape of thy preferment such  <br>
+As thou'lt desire; and then myself, I chiefly,<br>
+That set thee on to this desert, am bound <br>
+To load thy merit richly. Call my women; <br>
+Think on my words.  [Exit PISANIO.]<br> 
+A sly and constant knave,   <br>
+Not to be shak'd; the agent for his master,<br> 
+And the remembrancer of her to hold  <br>
+The hand-fast to her lord. I have given him that <br>
+Which, if he take, shall quite unpeople her <br>
+Of leigers for her sweet, and which she after, <br>
+Except she bend her humour, shall be assur'd <br>
+To taste of too' <br>
+[Re-Enter PISANIO and Ladies']<br>
+So, so;'well done, well done. <br>
+The violets, cowslips, and the prime-roses<br> 
+Bear to my closet. Fare thee well, Pisanio: <br>
+Think on my words. <br>
+
+      </div>
+    </span>
+
+  
+

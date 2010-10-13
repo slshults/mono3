@@ -1,0 +1,17 @@
+"5
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_544">
+      Your mind is all as youthful as your blood<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_544', '/monologues/preview?monologue_id=544', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Gjn73nYDzMGmFvzAwAWY+8ZMVGC5KC1r+m2v+Li5G9A=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+
+  
+

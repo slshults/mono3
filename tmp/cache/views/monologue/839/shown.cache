@@ -1,0 +1,10 @@
+"§
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_839">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_839', '/monologues/preview/839', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('hpnwsd/4ZnT1syKp0tgtPQ56d3eukOGaB6WCFIXbx7A=')}); return false;">Apollo, pardon My great profaneness 'gainst thine oracle!</a>
+    </span>
+  
+

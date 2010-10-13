@@ -1,0 +1,38 @@
+"3
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_651">
+      Thus do I ever make my fool my purse;<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_651', '/monologues/preview?monologue_id=651', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('fZUf7XLA7ho6RcEQYy+FYUb5XjZTF4Nu/a1DqpOfARo=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Thus do I ever make my fool my purse: <br>
+For I mine own gain'd knowledge should profane,<br>
+If I would time expend with such a snipe.<br>
+But for my sport and profit. I hate the Moor:<br>
+And it is thought abroad, that 'twixt my sheets<br>
+He has done my office: I know not if't be true; <br>
+But I, for mere suspicion in that kind,<br>
+Will do as if for surety. He holds me well;<br>
+The better shall my purpose work on him.<br>
+Cassio's a proper man: let me see now:<br>
+To get his place and to plume up my will <br>
+In double knavery—How, how? Let's see:—<br>
+After some time, to abuse Othello's ear<br>
+That he is too familiar with his wife.<br>
+He hath a person and a smooth dispose<br>
+To be suspected, framed to make women false.<br>
+The Moor is of a free and open nature,<br>
+That thinks men honest that but seem to be so,<br>
+And will as tenderly be led by the nose
+As asses are.<br>
+I have't. It is engender'd. Hell and night <br>
+Must bring this monstrous birth to the world's light.<br> 
+      </div>
+    </span>
+
+  
+

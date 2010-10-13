@@ -1,0 +1,39 @@
+"l
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_252">
+      Thou knowest the mask of night is on my face<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_252', '/monologues/preview?monologue_id=252', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('i1Iu9XaJcvZwcrlOEq4NzFS+20Y365S+DVrCoFeGNwc=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Thou know'st the mask of night is on my face,<br>
+Else would a maiden blush bepaint my cheek <br>
+For that which thou hast heard me speak to-night<br>
+Fain would I dwell on form, fain, fain deny<br>
+What I have spoke: but farewell compliment!<br>
+Dost thou love me? I know thou wilt say 'Ay,'<br>
+And I will take thy word: yet if thou swear'st, <br>
+Thou mayst prove false; at lovers' perjuries<br>
+Then say, Jove laughs. O gentle Romeo,<br>
+If thou dost love, pronounce it faithfully:<br>
+Or if thou think'st I am too quickly won,<br>
+I'll frown and be perverse an say thee nay, <br>
+So thou wilt woo; but else, not for the world.<br>
+In truth, fair Montague, I am too fond,<br>
+And therefore thou mayst think my 'havior light:<br>
+But trust me, gentleman, I'll prove more true<br>
+Than those that have more cunning to be strange. <br>
+I should have been more strange, I must confess,<br>
+But that thou overheard'st, ere I was ware,<br>
+My true love's passion: therefore pardon me,<br>
+And not impute this yielding to light love,<br>
+Which the dark night hath so discovered. 
+
+      </div>
+    </span>
+
+  
+

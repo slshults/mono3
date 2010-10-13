@@ -1,0 +1,17 @@
+":
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_555">
+      Look, what I speak, my life shall prove it true<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_555', '/monologues/preview?monologue_id=555', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('82S2higJVqrZ3VKC5MglO0zvKdoMKEHdciQnoW020dk=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+
+  
+

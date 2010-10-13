@@ -1,0 +1,41 @@
+"W
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_194">
+      Tranio, since for the great desire I had<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_194', '/monologues/preview?monologue_id=194', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('V0vMTYMQjgOX68R9UtQgyKNlWf9/6J7mMpYrkZ+1mvM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Tranio, since for the great desire I had<br>
+To see fair Padua, nursery of arts,<br>
+I am arriv'd for fruitful Lombardy,<br>
+The pleasant garden of great Italy,<br>
+And by my father's love and leave am arm'd<br>
+With his good will and thy good company,<br>
+My trusty servant well approv'd in all, <br>
+Here let us breathe, and haply institute<br>
+A course of learning and ingenious studies.<br>
+Pisa, renowned for grave citizens,<br>
+Gave me my being and my father first,<br>
+A merchant of great traffic through the world,<br>
+Vincentio, come of the Bentivolii;<br>
+Vincentio's son, brought up in Florence,<br>
+It shall become to serve all hopes conceiv'd,<br>
+To deck his fortune with his virtuous deeds.<br>
+And therefore, Tranio, for the time I study,<br>
+Virtue and that part of philosophy<br>
+Will I apply that treats of happiness<br>
+By virtue specially to be achiev'd.<br>
+Tell me thy mind; for I have Pisa left<br>
+And am to Padua come as he that leaves <br>
+A shallow plash to plunge him in the deep,<br>
+And with satiety seeks to quench his thirst. 
+
+      </div>
+    </span>
+
+  
+

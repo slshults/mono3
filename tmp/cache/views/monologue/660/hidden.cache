@@ -1,0 +1,40 @@
+"ž
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_660">
+      Behold! I have a weapon A better never did itself sustain<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_660', '/monologues/preview?monologue_id=660', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('0x7jTYSz3mg2BCywTpfxa6KKrbdP/Yp0cqMBqm2k8F4=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <div align=right>Behold, I have a weapon;</div>
+A better never did itself sustain<br>
+Upon a soldier's thigh: I have seen the day,<br>
+That, with this little arm and this good sword,<br>
+I have made my way through more impediments <br>
+Than twenty times your stop: but, O vain boast!<br>
+Who can control his fate? 'tis not so now.<br>
+Be not afraid, though you do see me weapon'd;<br>
+Here is my journey's end, here is my butt,<br>
+And very sea-mark of my utmost sail. <br>
+Do you go back dismay'd? 'tis a lost fear;<br>
+Man but a rush against Othello's breast,<br>
+And he retires. Where should Othello go?<br>
+Now, how dost thou look now? O ill-starr'd wench!<br>
+Pale as thy smock! when we shall meet at compt, <br>
+This look of thine will hurl my soul from heaven,<br>
+And fiends will snatch at it. Cold, cold, my girl!<br>
+Even like thy chastity. O cursed slave!<br>
+Whip me, ye devils,<br>
+From the possession of this heavenly sight! <br>
+Blow me about in winds! roast me in sulphur!<br>
+Wash me in steep-down gulfs of liquid fire!<br>
+O Desdemona! Desdemona! dead!<br>
+Oh! Oh! Oh! <br>
+      </div>
+    </span>
+
+  
+

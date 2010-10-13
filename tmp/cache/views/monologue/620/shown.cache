@@ -1,0 +1,10 @@
+"–
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_620">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_620', '/monologues/preview/620', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('3S3yVgpBQXiwLwvYRDEKtTc8VeDYMNUnRPsX5W/V0BA=')}); return false;">No, not an oath: if not the face of men,</a>
+    </span>
+  
+

@@ -1,0 +1,35 @@
+"â
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_648">
+      Most potent, grave, and reverend signiors<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_648', '/monologues/preview?monologue_id=648', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('1feUldcPYh8+55WCvim71mNPmoOywt3v3xKQ/w5r8XQ=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Most potent, grave, and reverend signiors,<br>
+My very noble and approved good masters,<br>
+That I have ta'en away this old man's daughter,<br>
+It is most true; true, I have married her:<br>
+The very head and front of my offending <br>
+Hath this extent, no more. Rude am I in my speech,<br>
+And little bless'd with the soft phrase of peace:<br>
+For since these arms of mine had seven years' pith,<br>
+Till now some nine moons wasted, they have used<br>
+Their dearest action in the tented field, <br>
+And little of this great world can I speak,<br>
+More than pertains to feats of broil and battle,<br>
+And therefore little shall I grace my cause<br>
+In speaking for myself. Yet, by your gracious patience,<br>
+I will a round unvarnish'd tale deliver <br>
+Of my whole course of love; what drugs, what charms,<br>
+What conjuration and what mighty magic,<br>
+For such proceeding I am charged withal,<br>
+I won his daughter. <br>
+      </div>
+    </span>
+
+  
+

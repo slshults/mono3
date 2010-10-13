@@ -1,0 +1,76 @@
+"—
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_20">
+      O, what a rogue and peasant slave am I<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_20', '/monologues/preview?monologue_id=20', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('SLgGMdfhmiC4L3YIr3H9ARMzPOA8LcEcGLXGrvOdZSA=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          O what a rogue and peasant slave am I!<br>
+Is it not monstrous that this player here,<br>
+But in a fiction, in a dream of passion, <br>
+Could force his soul so to his own conceit<br>
+That, from her working, all his visage wann'd,<br>
+Tears in his eyes, distraction in's aspect,<br>
+A broken voice, and his whole function suiting<br>
+With forms to his conceit? And all for nothing!<br>
+For Hecuba!<br>
+What's Hecuba to him, or he to Hecuba,<br>
+That he should weep for her? What would he do,<br>
+Had he the motive and the cue for passion<br>
+That I have? He would drown the stage with tears<br>
+And cleave the general ear with horrid speech;<br>
+Make mad the guilty and appal the free,<br>
+Confound the ignorant, and amaze indeed<br>
+The very faculties of eyes and ears.<br>
+Yet I, <br>
+A dull and muddy-mettled rascal, peak<br>
+Like John-a-dreams, unpregnant of my cause,<br>
+And can say nothing! No, not for a king,<br>
+Upon whose property and most dear life<br>
+A damn'd defeat was made. Am I a coward? <br>
+Who calls me villain? breaks my pate across?<br>
+Plucks off my beard and blows it in my face?<br>
+Tweaks me by th' nose? gives me the lie i' th' throat<br>
+As deep as to the lungs? Who does me this, ha?<br>
+'Swounds, I should take it! for it cannot be <br>
+But I am pigeon-liver'd and lack gall<br>
+To make oppression bitter, or ere this<br>
+I should have fatted all the region kites<br>
+With this slave's offal. Bloody bawdy villain!<br>
+Remorseless, treacherous, lecherous, kindless villain! <br>
+O, vengeance!<br>
+Why, what an ass am I! This is most brave,<br>
+That I, the son of a dear father murther'd,<br>
+Prompted to my revenge by heaven and hell,<br>
+Must (like a whore) unpack my heart with words <br>
+And fall a-cursing like a very drab,<br>
+A scullion!<br>
+Fie upon't! foh! About, my brain! Hum, I have heard<br>
+That guilty creatures, sitting at a play,<br>
+Have by the very cunning of the scene <br>
+Been struck so to the soul that presently<br>
+They have proclaim'd their malefactions;<br>
+For murther, though it have no tongue, will speak<br>
+With most miraculous organ, I'll have these Players<br>
+Play something like the murther of my father <br>
+Before mine uncle. I'll observe his looks;<br>
+I'll tent him to the quick. If he but blench,<br>
+I know my course. The spirit that I have seen<br>
+May be a devil; and the devil hath power<br>
+T' assume a pleasing shape; yea, and perhaps<br>
+Out of my weakness and my melancholy,<br>
+As he is very potent with such spirits,<br>
+Abuses me to damn me. I'll have grounds<br>
+More relative than this. The play's the thing<br>
+Wherein I'll catch the conscience of the King. <br>
+[<i>Exit</i>]<br>
+
+      </div>
+    </span>
+
+  
+

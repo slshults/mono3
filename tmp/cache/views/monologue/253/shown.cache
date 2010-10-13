@@ -1,0 +1,10 @@
+"ù
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_253">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_253', '/monologues/preview/253', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('/7MG0CzQhtFUzCE4IAmNJxPugVpcPFcQMJvnZBJZYFk=')}); return false;">The clock strook nine when I did send the nurse</a>
+    </span>
+  
+

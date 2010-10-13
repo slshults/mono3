@@ -1,0 +1,10 @@
+"—
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_486">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_486', '/monologues/preview/486', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('/r39JdFG0jJSChTzU9FVQMUFksfV0+AGRak30/OdhQg=')}); return false;">What! doth my Lord of Suffolk comfort me?</a>
+    </span>
+  
+

@@ -1,0 +1,17 @@
+"@
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_519">
+      All good peopleYou that thus far have come to pity me<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_519', '/monologues/preview?monologue_id=519', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('565zaxecD8aC5A4Z90WWHwuUBC5inyCENUIywJrjY/k=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+
+  
+

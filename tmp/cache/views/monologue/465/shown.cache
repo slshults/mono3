@@ -1,0 +1,10 @@
+" 
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_465">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_465', '/monologues/preview/465', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('BecNP/6HSMDghWc8RGxm9fkd/tfi+w/KJzhirNJL4+s=')}); return false;">What chance is this that suddenly hath cross'd us?</a>
+    </span>
+  
+

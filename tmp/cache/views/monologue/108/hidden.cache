@@ -1,0 +1,41 @@
+"ã
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_108">
+      Sweet mistress--what your name is else, I know not<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_108', '/monologues/preview?monologue_id=108', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('F0S7Ulr+rSbO0FmcMG7rBxyPNZOfsFtUX+09v86pmtg=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Sweet mistress,'what your name is else, I know not,<br>
+  Nor by what wonder you do hit of mine,'  <br>
+Less in your knowledge and your grace you show not<br> 
+  Than our earth's wonder; more than earth divine.  <br>
+Teach me, dear creature, how to think and speak: <br>
+  Lay open to my earthy-gross conceit, <br>
+Smother'd in errors, feeble, shallow, weak, <br>
+  The folded meaning of your words' deceit.  <br>
+Against my soul's pure truth why labour you   <br>
+  To make it wander in an unknown field?<br>
+Are you a god? would you create me new? <br>
+  Transform me then, and to your power I'll yield. <br>
+But if that I am I, then well I know <br>
+  Your weeping sister is no wife of mine,<br>
+Nor to her bed no homage do I owe: <br>
+  Far more, far more, to you do I decline.<br> 
+O! train me not, sweet mermaid, with thy note, <br>
+  To drown me in thy sister flood of tears: <br>
+Sing, siren, for thyself, and I will dote: <br>
+  Spread o'er the silver waves thy golden hairs, <br>
+And as a bed I'll take them and there lie; <br>
+  And, in that glorious supposition think <br>
+He gains by death that hath such means to die: <br>  
+Let Love, being light, be drowned if she sink!<br>
+
+      </div>
+    </span>
+
+  
+

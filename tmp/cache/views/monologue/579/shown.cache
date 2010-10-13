@@ -1,0 +1,10 @@
+"”
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_579">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_579', '/monologues/preview/579', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('0SrN8WDBolrg9B9aV71MkXyT29/4eeCUaq6IikA5Obo=')}); return false;">I cannot tell, if to depart in silence</a>
+    </span>
+  
+

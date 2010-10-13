@@ -1,0 +1,10 @@
+"•
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_244">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_244', '/monologues/preview/244', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Lh/FJ9C9fDWUJ3b/pMnquZyaQ5C91jo5oTyF4UCqcTI=')}); return false;">If that thy father live, let him repent</a>
+    </span>
+  
+

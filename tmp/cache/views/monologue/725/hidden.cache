@@ -1,0 +1,28 @@
+"s
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_725">
+      In brief, to set the needless process by<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_725', '/monologues/preview?monologue_id=725', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('2L1dBc5w8urEiztZEBe4fMVsxI94W+2RJ1SAvSXmmFE=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          In brief, to set the needless process by,<br>
+How I persuaded, how I pray'd, and kneel'd,<br>
+How he refell'd me, and how I replied,—<br>
+For this was of much length,—the vile conclusion<br>
+I now begin with grief and shame to utter:<br>
+He would not, but by gift of my chaste body<br>
+To his concupiscible intemperate lust,<br>
+Release my brother; and, after much debatement,<br>
+My sisterly remorse confutes mine honour,<br>
+And I did yield to him: but the next morn betimes,<br>
+His purpose surfeiting, he sends a warrant<br>
+For my poor brother's head. <br>
+      </div>
+    </span>
+
+  
+

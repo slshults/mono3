@@ -1,0 +1,38 @@
+"&
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_114">
+      That opportunity
+Which then they had to take from 's, to resume<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_114', '/monologues/preview?monologue_id=114', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Nbc+4XQlBP0yCxx/IZsnCwPXYfB039roIewpNxCw0sI=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          That opportunity,	 <br>
+Which then they had to take from 's, to resume, <br>
+We have again. Remember, sir, my liege,	 <br>
+The kings your ancestors, together with	  <br>
+The natural bravery of your isle, which stands <br> 
+As Neptune's park, ribbed and paled in <br>
+With rocks unscaleable and roaring waters, <br>
+With sands, that will not bear your enemies. boats, <br> 
+But suck them up to the topmast. A kind of conquest <br>
+Caesar's made here, but made not here his brag <br>
+Of 'came, and saw, and overcame:' with shame-- <br>
+The first that ever touch'd him--he was carried <br>
+From off our coast, twice beaten; and his shipping-- <br>
+Poor ignorant baubles!--on our terrible seas, <br>
+Like egg-shells mov'd upon their surges, crack'd <br>
+As easily 'gainst our rocks: for joy whereof <br>
+The fam'd Cassibelan, who was once at point--  <br>
+O giglot fortune!--to master Caesar's sword, <br>
+Made Lud's town with rejoicing-fires bright, <br>
+And Britons strut with courage.<br>
+
+      </div>
+    </span>
+
+  
+

@@ -1,0 +1,45 @@
+"�
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_342">
+      Thou speak'st like a physician, Helicanus<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_342', '/monologues/preview?monologue_id=342', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('oi8Jx33bxj2Ndvs3dNqMhcuAT4SE891UL9V/n2Rspw8=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Thou speak'st like a physician, Helicanus,<br>
+That minister'st a potion unto me<br>
+That thou wouldst tremble to receive thyself.<br>
+Attend me, then: I went to Antioch,<br>
+Where as thou know'st, against the face of death,<br>
+I sought the purchase of a glorious beauty.<br>
+From whence an issue I might propagate,<br>
+Are arms to princes, and bring joys to subjects.<br>
+Her face was to mine eye beyond all wonder;<br>
+The rest—hark in thine ear—as black as incest: <br>
+Which by my knowledge found, the sinful father<br>
+Seem'd not to strike, but smooth: but thou know'st this,<br>
+'Tis time to fear when tyrants seem to kiss.<br>
+Such fear so grew in me, I hither fled, <br>
+Under the covering of a careful night,<br>
+Who seem'd my good protector; and, being here,<br>
+Bethought me what was past, what might succeed.<br>
+I knew him tyrannous; and tyrants' fears<br>
+Decrease not, but grow faster than the years: <br>
+And should he doubt it, as no doubt he doth,<br>
+That I should open to the listening air<br>
+How many worthy princes' bloods were shed,<br>
+To keep his bed of blackness unlaid ope,<br>
+To lop that doubt, he'll fill this land with arms,<br>
+And make pretence of wrong that I have done him:<br>
+When all, for mine, if I may call offence,<br>
+Must feel war's blow, who spares not innocence:<br>
+Which love to all, of which thyself art one,<br>
+Who now reprovest me for it,— 
+      </div>
+    </span>
+
+  
+

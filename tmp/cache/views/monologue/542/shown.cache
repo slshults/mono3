@@ -1,0 +1,10 @@
+"”
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_542">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_542', '/monologues/preview/542', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('npZl2C6MZ04cdEDrKQ0kf+HWs5HKl2O+9CIjBFBM4tM=')}); return false;">So mak'st thou faith an enemy to faith</a>
+    </span>
+  
+

@@ -1,0 +1,10 @@
+"—
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_271">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_271', '/monologues/preview/271', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('a4B/yZjMkNLDdA+PN8U18QP+SlHyhKKPrQjnq1vaCeQ=')}); return false;">In faith, I will. Let me peruse this face</a>
+    </span>
+  
+

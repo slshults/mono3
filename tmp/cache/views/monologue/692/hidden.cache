@@ -1,0 +1,63 @@
+";
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_692">
+      Who is this?  My niece, that flies away so fast?<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_692', '/monologues/preview?monologue_id=692', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('0x7jTYSz3mg2BCywTpfxa6KKrbdP/Yp0cqMBqm2k8F4=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Who is this? my niece, that flies away so fast! <br>
+Cousin, a word; where is your husband?<br>
+If I do dream, would all my wealth would wake me!<br>
+If I do wake, some planet strike me down,<br>
+That I may slumber in eternal sleep!<br>
+Speak, gentle niece, what stern ungentle hands <br>
+Have lopp'd and hew'd and made thy body bare<br>
+Of her two branches, those sweet ornaments,<br>
+Whose circling shadows kings have sought to sleep in,<br>
+And might not gain so great a happiness<br>
+As have thy love? Why dost not speak to me? <br>
+Alas, a crimson river of warm blood,<br>
+Like to a bubbling fountain stirr'd with wind,<br>
+Doth rise and fall between thy rosed lips,<br>
+Coming and going with thy honey breath.<br>
+But, sure, some Tereus hath deflowered thee,<br>
+And, lest thou shouldst detect him, cut thy tongue.<br>
+Ah, now thou turn'st away thy face for shame!<br>
+And, notwithstanding all this loss of blood,<br>
+As from a conduit with three issuing spouts,<br>
+Yet do thy cheeks look red as Titan's face <br>
+Blushing to be encountered with a cloud.<br>
+Shall I speak for thee? shall I say 'tis so?<br>
+O, that I knew thy heart; and knew the beast,<br>
+That I might rail at him, to ease my mind!<br>
+Sorrow concealed, like an oven stopp'd, <br>
+Doth burn the heart to cinders where it is.<br>
+Fair Philomela, she but lost her tongue,<br>
+And in a tedious sampler sew'd her mind:<br>
+But, lovely niece, that mean is cut from thee;<br>
+A craftier Tereus, cousin, hast thou met,<br>
+And he hath cut those pretty fingers off,<br>
+That could have better sew'd than Philomel.<br>
+O, had the monster seen those lily hands<br>
+Tremble, like aspen-leaves, upon a lute,<br>
+And make the silken strings delight to kiss them, <br>
+He would not then have touch'd them for his life!<br>
+Or, had he heard the heavenly harmony<br>
+Which that sweet tongue hath made,<br>
+He would have dropp'd his knife, and fell asleep<br>
+As Cerberus at the Thracian poet's feet. <br>
+Come, let us go, and make thy father blind;<br>
+For such a sight will blind a father's eye:<br>
+One hour's storm will drown the fragrant meads;<br>
+What will whole months of tears thy father's eyes?<br>
+Do not draw back, for we will mourn with thee <br>
+O, could our mourning ease thy misery! 
+      </div>
+    </span>
+
+  
+

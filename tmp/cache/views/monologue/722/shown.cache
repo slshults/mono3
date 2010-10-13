@@ -1,0 +1,10 @@
+"˜
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_722">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_722', '/monologues/preview/722', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Nbc+4XQlBP0yCxx/IZsnCwPXYfB039roIewpNxCw0sI=')}); return false;">To whom should I complain? Did I tell this</a>
+    </span>
+  
+

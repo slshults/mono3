@@ -1,0 +1,10 @@
+"’
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_165">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_165', '/monologues/preview/165', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('/3siLRVv3nEbQ/auLoAxg1V35bxOIBg4sFKkC/cb1z0=')}); return false;">Signior Antonio, many a time and oft</a>
+    </span>
+  
+

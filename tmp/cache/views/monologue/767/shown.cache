@@ -1,0 +1,10 @@
+"š
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_767">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_767', '/monologues/preview/767', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Nbc+4XQlBP0yCxx/IZsnCwPXYfB039roIewpNxCw0sI=')}); return false;">Dauphin, I am by birth a shepherd's daughter</a>
+    </span>
+  
+

@@ -1,0 +1,10 @@
+"–
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_581">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_581', '/monologues/preview/581', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('GWcv8hi7ad5zX+GMTPoxAVE5tdabe+PzE/HA5YPt3DI=')}); return false;">Look, what is done cannot be now amended</a>
+    </span>
+  
+

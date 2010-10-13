@@ -1,0 +1,12 @@
+"µ
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_132">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_132', '/monologues/preview/132', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('0Z/t13+LSIkFnadcmEeJ14FwmAymRQGteFB0zBkdVaE=')}); return false;">O rare instinct!
+
+When shall I hear all through? This fierce abridgment</a>
+    </span>
+  
+

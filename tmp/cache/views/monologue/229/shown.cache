@@ -1,0 +1,10 @@
+"™
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_229">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_229', '/monologues/preview/229', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('JLrAo7KSKk9Eee1+7kngYDRWyu6DgC9BtTtoPCjw58I=')}); return false;">No, I'll be sworn; I make as good use of it</a>
+    </span>
+  
+

@@ -1,0 +1,264 @@
+I"�,  
+    <div>
+      <h2>Women's Monologues in Shakespeare</h2>
+      <h2>Measure for Measure</h2>
+      <span>
+        <form action="javascript:void(0);" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="Z0uWb5uqYiDarXloL/lgfBAS2t+P0gYvx5SNoq/i3tk=" /></div>
+          <b>Search:</b> <input type="text" id="search" size="40"/>
+          <img alt="Ajax-loader" id="spinner" src="/images/ajax-loader.gif?1278779332" style="display: none;" />
+        </form>
+        <div class="search_links">
+          <a href="/plays/10?g=3">Search Men</a> &nbsp;|&nbsp;
+          <a href="/plays/10">Search Measure for Measure</a> &nbsp;|&nbsp;
+          <a href="/plays">Search All Plays</a> &nbsp;|&nbsp;
+          
+            <a href="/plays/10?g=2">Collapse All</a>
+          
+        </div>
+      </span>
+    </div>
+    <script type="text/javascript">
+//<![CDATA[
+new Form.Element.Observer('search', 1.25, function(element, value) {Element.show('spinner'); new Ajax.Updater('ajaxResults', 'http://mono.freeinternet.org/monologues/search', {asynchronous:true, evalScripts:true, onComplete:function(request){Element.hide('spinner')}, parameters:'g=2&p=10&search=' + encodeURIComponent(value) + '&authenticity_token=' + encodeURIComponent('Z0uWb5uqYiDarXloL/lgfBAS2t+P0gYvx5SNoq/i3tk=')})})
+//]]>
+</script>
+  
+    <div id='ajaxResults'>
+      
+
+  
+
+      
+<div>
+  <table id='monologue_list'>
+    <tr>
+      <th>Character</th>
+      <th>First Line</th>
+      <th>Act & Sc</th>
+      <th>pdf</th>
+    </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Isabella</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/10">Measure for Measure</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_721'>
+  
+    <span id="preview_mono_721">
+      Could great men thunder<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_721', '/monologues/preview?monologue_id=721', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Z0uWb5uqYiDarXloL/lgfBAS2t+P0gYvx5SNoq/i3tk=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Could great men thunder <br>
+As Jove himself does, Jove would ne'er be quiet,<br>
+For every pelting, petty officer<br>
+Would use his heaven for thunder;<br>
+Nothing but thunder! Merciful Heaven,<br>
+Thou rather with thy sharp and sulphurous bolt<br>
+Split'st the unwedgeable and gnarled oak<br>
+Than the soft myrtle: but man, proud man,<br>
+Drest in a little brief authority,<br>
+Most ignorant of what he's most assured,<br>
+His glassy essence, like an angry ape,<br>
+Plays such fantastic tricks before high heaven<br>
+As make the angels weep; who, with our spleens,<br>
+Would all themselves laugh mortal. <br>
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=measure&Act=2&Scene=2&Scope=scene&LineHighlight=875#864' target='_blank'>II ii 137</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/mfm-2-2-110-isabella.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Isabella</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/10">Measure for Measure</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_722'>
+  
+    <span id="preview_mono_722">
+      To whom should I complain? Did I tell this<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_722', '/monologues/preview?monologue_id=722', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Z0uWb5uqYiDarXloL/lgfBAS2t+P0gYvx5SNoq/i3tk=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+           To whom should I complain? Did I tell this,<br>
+Who would believe me? O perilous mouths,<br>
+That bear in them one and the self-same tongue,<br>
+Either of condemnation or approof;<br>
+Bidding the law make court'sy to their will:<br>
+Hooking both right and wrong to the appetite,<br>
+To follow as it draws! I'll to my brother:<br>
+Though he hath fallen by prompture of the blood,<br>
+Yet hath he in him such a mind of honour.<br>
+That, had he twenty heads to tender down<br>
+On twenty bloody blocks, he'ld yield them up,<br>
+Before his sister should her body stoop<br>
+To such abhorr'd pollution. <br>
+Then, Isabel, live chaste, and, brother, die:<br>
+More than our brother is our chastity.<br>
+I'll tell him yet of Angelo's request,<br>
+And fit his mind to death, for his soul's rest. <br>
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=measure&Act=2&Scene=4&Scope=scene&LineHighlight=1203#1185' target='_blank'>II iv 170</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/mfm-2-4-170-isabella.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Isabella</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/10">Measure for Measure</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_723'>
+  
+    <span id="preview_mono_723">
+      O faithless coward!  O dishonest wretch!<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_723', '/monologues/preview?monologue_id=723', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Z0uWb5uqYiDarXloL/lgfBAS2t+P0gYvx5SNoq/i3tk=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          O faithless coward! O dishonest wretch!<br>
+Wilt thou be made a man out of my vice? <br>
+Is't not a kind of incest, to take life<br>
+From thine own sister's shame? What should I think?<br>
+Heaven shield my mother play'd my father fair!<br>
+For such a warped slip of wilderness<br>
+Ne'er issued from his blood. Take my defiance! <br>
+Die, perish! Might but my bending down<br>
+Reprieve thee from thy fate, it should proceed:<br>
+I'll pray a thousand prayers for thy death,<br>
+No word to save thee. <bR>
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=measure&Act=3&Scene=1&Scope=scene&LineHighlight=1373#1369' target='_blank'>III i 151</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/mfm-3-1-135-isabella.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Isabella</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/10">Measure for Measure</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_724'>
+  
+    <span id="preview_mono_724">
+      Most strange but yet most truly will I speak<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_724', '/monologues/preview?monologue_id=724', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Z0uWb5uqYiDarXloL/lgfBAS2t+P0gYvx5SNoq/i3tk=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Isabella.</b> Most strange, but yet most truly, will I speak:<br>
+ That Angelo's forsworn; is it not strange?<br>
+ That Angelo's a murderer; is 't not strange?<br>
+ That Angelo is an adulterous thief, <br>
+ An hypocrite, a virgin-violator;<br>
+ Is it not strange and strange? <br>
+<br>
+<del><b>Vincentio.</b> Nay, it is ten times strange. </del><br>
+<br>
+<b>Isabella.</b> It is not truer he is Angelo<br>
+ Than this is all as true as it is strange: <br>
+ Nay, it is ten times true; for truth is truth<br>
+ To the end of reckoning. <br>
+<br>
+<del><b>Vincentio.</b> Away with her! Poor soul,<br>
+ She speaks this in the infirmity of sense. </del><br>
+<br>
+<B>Isabella.</b> O prince, I conjure thee, as thou believest <br>
+ There is another comfort than this world,<br>
+ That thou neglect me not, with that opinion<br>
+ That I am touch'd with madness! Make not impossible<br>
+ That which but seems unlike: 'tis not impossible<br>
+ But one, the wicked'st caitiff on the ground, <br>
+ May seem as shy, as grave, as just, as absolute<br>
+ As Angelo; even so may Angelo,<br>
+ In all his dressings, characts, titles, forms,<br>
+ Be an arch-villain; believe it, royal prince:<br>
+ If he be less, he's nothing; but he's more,<br>
+ Had I more name for badness. <br>
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=measure&Act=5&Scene=1&Scope=scene&LineHighlight=2427#2422' target='_blank'>V i 42</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/mfm-5-1-37-isabella.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Isabella</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/10">Measure for Measure</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_725'>
+  
+    <span id="preview_mono_725">
+      In brief, to set the needless process by<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_725', '/monologues/preview?monologue_id=725', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Z0uWb5uqYiDarXloL/lgfBAS2t+P0gYvx5SNoq/i3tk=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          In brief, to set the needless process by,<br>
+How I persuaded, how I pray'd, and kneel'd,<br>
+How he refell'd me, and how I replied,—<br>
+For this was of much length,—the vile conclusion<br>
+I now begin with grief and shame to utter:<br>
+He would not, but by gift of my chaste body<br>
+To his concupiscible intemperate lust,<br>
+Release my brother; and, after much debatement,<br>
+My sisterly remorse confutes mine honour,<br>
+And I did yield to him: but the next morn betimes,<br>
+His purpose surfeiting, he sends a warrant<br>
+For my poor brother's head. <br>
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=measure&Act=5&Scene=1&Scope=scene&LineHighlight=2494#2486' target='_blank'>V i 110</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/mfm-5-1-91-isabella.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+</table></div>
+
+
+  
+
+
+
+
+    </div>
+:@_rails_html_safeF

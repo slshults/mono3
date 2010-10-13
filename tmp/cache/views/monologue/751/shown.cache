@@ -1,0 +1,10 @@
+"¤
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_751">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_751', '/monologues/preview/751', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('ecWjzKJ0+IAEiyN0ZYr4B28NBtlUTf6cc8RZAGxskKs=')}); return false;">I do not know One of my sex; no woman's face remember,</a>
+    </span>
+  
+

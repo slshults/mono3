@@ -1,0 +1,39 @@
+"€
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_612">
+      Wherefore rejoice?  What conquest brings he home?<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_612', '/monologues/preview?monologue_id=612', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('tlVp16668uihY10zk5qspGiVgDGk2IrOCwaS2tHj0BI=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Wherefore rejoice? What conquest brings he home?<br>
+What tributaries follow him to Rome,<br>
+To grace in captive bonds his chariot-wheels? 35<br>
+You blocks, you stones, you worse than senseless things!<br>
+O you hard hearts, you cruel men of Rome,<br>
+Knew you not Pompey? Many a time and oft<br>
+Have you climb'd up to walls and battlements,<br>
+To towers and windows, yea, to chimney-tops,<br>
+Your infants in your arms, and there have sat<br>
+The livelong day, with patient expectation,<br>
+To see great Pompey pass the streets of Rome:<br>
+And when you saw his chariot but appear,<br>
+Have you not made an universal shout,<br>
+That Tiber trembled underneath her banks,<br>
+To hear the replication of your sounds<br>
+Made in her concave shores?<br>
+And do you now put on your best attire?<br>
+And do you now cull out a holiday?<br>
+And do you now strew flowers in his way<br>
+That comes in triumph over Pompey's blood? Be gone!<br>
+Run to your houses, fall upon your knees,<br>
+Pray to the gods to intermit the plague<br>
+That needs must light on this ingratitude. 
+      </div>
+    </span>
+
+  
+

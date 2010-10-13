@@ -1,0 +1,35 @@
+"È
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_339">
+      Great King, few love to hear the sins<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_339', '/monologues/preview?monologue_id=339', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('SyYnz4wxPVFBplNN6xmSWrIMAmm0H7VEy8BVMP2+5yw=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Great king,<br>
+Few love to hear the sins they love to act;<br>
+'Twould braid yourself too near for me to tell it.<br>
+Who has a book of all that monarchs do,<br>
+He's more secure to keep it shut than shown:<br>
+For vice repeated is like the wandering wind.<br>
+Blows dust in other's eyes, to spread itself;<br>
+And yet the end of all is bought thus dear,<br>
+The breath is gone, and the sore eyes see clear:<br>
+To stop the air would hurt them. The blind mole casts<br>
+Copp'd hills towards heaven, to tell the earth is throng'd <br>
+By man's oppression; and the poor worm doth die for't.<br>
+Kings are earth's gods; in vice their law's
+their will;<br>
+And if Jove stray, who dares say Jove doth ill?<br>
+It is enough you know; and it is fit, <br>
+What being more known grows worse, to smother it.<br>
+All love the womb that their first being bred,<br>
+Then give my tongue like leave to love my head. 
+      </div>
+    </span>
+
+  
+

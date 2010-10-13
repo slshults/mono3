@@ -1,0 +1,10 @@
+"š
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_242">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_242', '/monologues/preview/242', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('y+ttzZQbrZXrUkxAFxUWk5RVk6vaM7oAt9UoDqoM4iY=')}); return false;">I have done enough; a lower place, note well</a>
+    </span>
+  
+

@@ -1,0 +1,17 @@
+"=
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_429">
+      O my son, God put it in thy mind to take it hence,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_429', '/monologues/preview?monologue_id=429', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('fn68a9mGsDX4MfbsE9CWWb8313c9WtdrHCufP0h4P/A=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+
+  
+

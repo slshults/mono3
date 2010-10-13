@@ -1,0 +1,190 @@
+I"/   
+    <div>
+      <h2>Women's Monologues in Shakespeare</h2>
+      <h2>Troilus and Cressida</h2>
+      <span>
+        <form action="javascript:void(0);" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="CmUzDnjzW4CcEftPchn+Hq6ZxDZFgAQAf6zSG4x4Uk8=" /></div>
+          <b>Search:</b> <input type="text" id="search" size="40"/>
+          <img alt="Ajax-loader" id="spinner" src="/images/ajax-loader.gif?1278779332" style="display: none;" />
+        </form>
+        <div class="search_links">
+          <a href="/plays/15?g=3">Search Men</a> &nbsp;|&nbsp;
+          <a href="/plays/15">Search Troilus and Cressida</a> &nbsp;|&nbsp;
+          <a href="/plays">Search All Plays</a> &nbsp;|&nbsp;
+          
+            <a href="/plays/15?g=2">Collapse All</a>
+          
+        </div>
+      </span>
+    </div>
+    <script type="text/javascript">
+//<![CDATA[
+new Form.Element.Observer('search', 1.25, function(element, value) {Element.show('spinner'); new Ajax.Updater('ajaxResults', 'http://www.shakespeare-monologues.org/monologues/search', {asynchronous:true, evalScripts:true, onComplete:function(request){Element.hide('spinner')}, parameters:'g=2&p=15&search=' + encodeURIComponent(value) + '&authenticity_token=' + encodeURIComponent('CmUzDnjzW4CcEftPchn+Hq6ZxDZFgAQAf6zSG4x4Uk8=')})})
+//]]>
+</script>
+  
+    <div id='ajaxResults'>
+      
+
+  
+
+      
+<div>
+  <table id='monologue_list'>
+    <tr>
+      <th>Character</th>
+      <th>First Line</th>
+      <th>Act & Sc</th>
+      <th>pdf</th>
+    </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Chorus</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/15">Troilus and Cressida</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_752'>
+  
+    <span id="preview_mono_752">
+      In Troy there lies the scene. From isles of Greece<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_752', '/monologues/preview?monologue_id=752', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('CmUzDnjzW4CcEftPchn+Hq6ZxDZFgAQAf6zSG4x4Uk8=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          In Troy, there lies the scene. From isles of Greece<br>
+The princes orgulous, their high blood chafed,<br>
+Have to the port of Athens sent their ships,<br>
+Fraught with the ministers and instruments<br>
+Of cruel war: sixty and nine, that wore<br>
+Their crownets regal, from the Athenian bay<br>
+Put forth toward Phrygia; and their vow is made<br>
+To ransack Troy, within whose strong immures<br>
+The ravish'd Helen, Menelaus' queen,<br>
+With wanton Paris sleeps; and that's the quarrel.<br>
+To Tenedos they come;<br>
+And the deep-drawing barks do there disgorge<br>
+Their warlike fraughtage: now on Dardan plains<br>
+The fresh and yet unbruised Greeks do pitch<br>
+Their brave pavilions: Priam's six-gated city,<br>
+Dardan, and Tymbria, Helias, Chetas, Troien,<br>
+And Antenorides, with massy staples<br>
+And corresponsive and fulfilling bolts,<br>
+Sperr up the sons of Troy.<br>
+Now expectation, tickling skittish spirits,<br>
+On one and other side, Trojan and Greek,<br>
+Sets all on hazard: and hither am I come<br>
+A prologue arm'd, but not in confidence<br>
+Of author's pen or actor's voice, but suited<br>
+In like conditions as our argument,<br>
+To tell you, fair beholders, that our play<br>
+Leaps o'er the vaunt and firstlings of those broils,<br>
+Beginning in the middle, starting thence away<br>
+To what may be digested in a play.<br>
+Like or find fault; do as your pleasures are:<br>
+Now good or bad, 'tis but the chance of war. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=troilus&Act=1&Scene=0&Scope=scene&LineHighlight=1' target='_blank'>Prologue</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/tac-1-prologue.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Cressida</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/15">Troilus and Cressida</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_753'>
+  
+    <span id="preview_mono_753">
+      Words, vows, gifts, tears, and love's full sacrifice<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_753', '/monologues/preview?monologue_id=753', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('CmUzDnjzW4CcEftPchn+Hq6ZxDZFgAQAf6zSG4x4Uk8=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Words, vows, gifts, tears, and love's full sacrifice,<br>
+He offers in another's enterprise; <br>
+But more in Troilus thousand fold I see<br>
+Than in the glass of Pandar's praise may be;<br>
+Yet hold I off. Women are angels, wooing:<br>
+Things won are done; joy's soul lies in the doing.<br>
+That she beloved knows nought that knows not this:<br>
+Men prize the thing ungain'd more than it is:<br>
+That she was never yet that ever knew<br>
+Love got so sweet as when desire did sue.<br>
+Therefore this maxim out of love I teach:<br>
+Achievement is command; ungain'd, beseech:<br>
+Then though my heart's content firm love doth bear,<br>
+Nothing of that shall from mine eyes appear. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=troilus&Act=1&Scene=2&Scope=scene&LineHighlight=432#432' target='_blank'>I ii 169</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/tac-1-2-169-cressida.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Cressida</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/15">Troilus and Cressida</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_754'>
+  
+    <span id="preview_mono_754">
+      Hard to seem won: but I was won, my lord<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_754', '/monologues/preview?monologue_id=754', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('CmUzDnjzW4CcEftPchn+Hq6ZxDZFgAQAf6zSG4x4Uk8=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Hard to seem won: but I was won, my lord,<br>
+With the first glance that ever—pardon me—<br>
+If I confess much, you will play the tyrant.<br>
+I love you now; but not, till now, so much<br>
+But I might master it: in faith, I lie;<br>
+My thoughts were like unbridled children, grown<br>
+Too headstrong for their mother. See, we fools!<br>
+Why have I blabb'd? who shall be true to us,<br>
+When we are so unsecret to ourselves? <br>
+But, though I loved you well, I woo'd you not;<br>
+And yet, good faith, I wish'd myself a man,<br>
+Or that we women had men's privilege<br>
+Of speaking first. Sweet, bid me hold my tongue,<br>
+For in this rapture I shall surely speak <br>
+The thing I shall repent. See, see, your silence,<br>
+Cunning in dumbness, from my weakness draws<br>
+My very soul of counsel! stop my mouth. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=troilus&Act=3&Scene=2&Scope=scene&LineHighlight=1767#1759' target='_blank'>III ii 64</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/tac-3-2-107-cressida.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+</table></div>
+
+
+  
+
+
+
+
+    </div>
+:@_rails_html_safeF

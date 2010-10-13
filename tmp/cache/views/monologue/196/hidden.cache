@@ -1,0 +1,31 @@
+"£
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_196">
+      Pardon me, sir, the boldness is mine own<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_196', '/monologues/preview?monologue_id=196', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('V0vMTYMQjgOX68R9UtQgyKNlWf9/6J7mMpYrkZ+1mvM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Pardon me, sir, the boldness is mine own<br>
+That, being a stranger in this city here,<br>
+Do make myself a suitor to your daughter, <br>
+Unto Bianca, fair and virtuous.<br>
+Nor is your firm resolve unknown to me<br>
+In the preferment of the eldest sister.<br>
+This liberty is all that I request-<br>
+That, upon knowledge of my parentage, <br>
+I may have welcome 'mongst the rest that woo,<br>
+And free access and favour as the rest.<br>
+And toward the education of your daughters<br>
+I here bestow a simple instrument,<br>
+And this small packet of Greek and Latin books.<br>
+If you accept them, then their worth is great. 
+
+      </div>
+    </span>
+
+  
+

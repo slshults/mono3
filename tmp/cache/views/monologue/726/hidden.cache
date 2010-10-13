@@ -1,0 +1,47 @@
+"�
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_726">
+      What, have I scaped love-letters in the holiday-time of my beauty,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_726', '/monologues/preview?monologue_id=726', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('3QpHWdyrH8adB/FL5XOwurOEzjF2y/AE74uNaSTYEnE=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          What, have I scaped love-letters in the holiday-<br>
+time of my beauty, and am I now a subject for them?<br>
+Let me see.<br>
+[Reads]<br>
+'Ask me no reason why I love you; for though<br>
+Love use Reason for his physician, he admits him<br>
+not for his counsellor. You are not young, no more<br>
+am I; go to then, there's sympathy: you are merry, <br>
+so am I; ha, ha! then there's more sympathy: you<br>
+love sack, and so do I; would you desire better<br>
+sympathy? Let it suffice thee, Mistress Page,—at<br>
+the least, if the love of soldier can suffice,—<br>
+that I love thee. I will not say, pity me; 'tis <br>
+not a soldier-like phrase: but I say, love me. By me,<br>
+Thine own true knight,<br>
+By day or night,<br>
+Or any kind of light,<br>
+With all his might <br>
+For thee to fight, JOHN FALSTAFF'<br>
+What a Herod of Jewry is this! O wicked<br>
+world! One that is well-nigh worn to pieces with<br>
+age to show himself a young gallant! What an<br>
+unweighed behavior hath this Flemish drunkard<br>
+picked—with the devil's name!—out of my<br>
+conversation, that he dares in this manner assay me?<br>
+Why, he hath not been thrice in my company! What<br>
+should I say to him? I was then frugal of my<br>
+mirth: Heaven forgive me! Why, I'll exhibit a bill<br>
+in the parliament for the putting down of men. How<br>
+shall I be revenged on him? for revenged I will be,<br>
+as sure as his guts are made of puddings. 
+      </div>
+    </span>
+
+  
+

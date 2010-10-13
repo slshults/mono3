@@ -1,0 +1,10 @@
+"”
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_622">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_622', '/monologues/preview/622', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('aPjNddWdjsjFvbUZY6uNTJZ/xv/1QNtqkOP/DjouaRg=')}); return false;">O mighty Caesar! dost thou lie so low?</a>
+    </span>
+  
+

@@ -1,0 +1,32 @@
+"#
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_401">
+      Proteus, I thank thee for thine honest care,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_401', '/monologues/preview?monologue_id=401', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('5a+C/JAQcfgxO0uorItilYbCNhWdGGs6ZwX1kuXrUbg=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Proteus, I thank thee for thine honest care; <br>
+Which to requite, command me while I live.<br>
+This love of theirs myself have often seen,<br>
+Haply when they have judged me fast asleep,<br>
+And oftentimes have purposed to forbid<br>
+Sir Valentine her company and my court: <br>
+But fearing lest my jealous aim might err<br>
+And so unworthily disgrace the man,<br>
+A rashness that I ever yet have shunn'd,<br>
+I gave him gentle looks, thereby to find<br>
+That which thyself hast now disclosed to me. <br>
+And, that thou mayst perceive my fear of this,<br>
+Knowing that tender youth is soon suggested,<br>
+I nightly lodge her in an upper tower,<br>
+The key whereof myself have ever kept;<br>
+And thence she cannot be convey'd away. 
+      </div>
+    </span>
+
+  
+

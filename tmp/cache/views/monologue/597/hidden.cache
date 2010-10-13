@@ -1,0 +1,32 @@
+"
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_597">
+      You common cry of curs! whose breath I hate<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_597', '/monologues/preview?monologue_id=597', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('iVLSkzUBGlJ2kFEuOA6RGCcxwe+49iFpPyLFbfffLI0=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          You common cry of curs! whose breath I hate<br>
+As reek o' the rotten fens, whose loves I prize<br>
+As the dead carcasses of unburied men<br>
+That do corrupt my air, I banish you;<br>
+And here remain with your uncertainty!<br>
+Let every feeble rumour shake your hearts!<br>
+Your enemies, with nodding of their plumes,<br>
+Fan you into despair! Have the power still<br>
+To banish your defenders; till at length <br>
+Your ignorance, which finds not till it feels,<br>
+Making not reservation of yourselves,<br>
+Still your own foes, deliver you as most<br>
+Abated captives to some nation<br>
+That won you without blows! Despising, <br>
+For you, the city, thus I turn my back:<br>
+There is a world elsewhere. 
+      </div>
+    </span>
+
+  
+

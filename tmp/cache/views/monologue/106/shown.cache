@@ -1,0 +1,10 @@
+"˜
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_106">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_106', '/monologues/preview/106', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('F0S7Ulr+rSbO0FmcMG7rBxyPNZOfsFtUX+09v86pmtg=')}); return false;">A heavier task could not have been impos'd</a>
+    </span>
+  
+

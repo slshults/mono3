@@ -1,0 +1,17 @@
+"8
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_547">
+      But wherefore do you droop? why look you sad?<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_547', '/monologues/preview?monologue_id=547', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('zhtSPBS7zDOn92yQarZpbhGbJ3hBoY+RJzTejkiROlA=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+
+  
+

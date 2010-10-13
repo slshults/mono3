@@ -1,0 +1,30 @@
+"í
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_376">
+      You are for dreams and slumbers, brother priest;<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_376', '/monologues/preview?monologue_id=376', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('fZUf7XLA7ho6RcEQYy+FYUb5XjZTF4Nu/a1DqpOfARo=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          You are for dreams and slumbers, brother priest;<br>
+You fur your gloves with reason. Here are your reasons:<br>
+You know an enemy intends you harm; <br>
+You know a sword employ'd is perilous,<br>
+And reason flies the object of all harm:<br>
+Who marvels then, when Helenus beholds<br>
+A Grecian and his sword, if he do set<br>
+The very wings of reason to his heels <br>
+And fly like chidden Mercury from Jove,<br>
+Or like a star disorb'd? Nay, if we talk of reason,<br>
+Let's shut our gates and sleep: manhood and honour<br>
+Should have hare-hearts, would they but fat their thoughts <br>
+With this cramm'd reason: reason and respect<br>
+Make livers pale and lustihood deject. 
+      </div>
+    </span>
+
+  
+

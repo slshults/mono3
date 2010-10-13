@@ -1,0 +1,281 @@
+I"B8  
+    <div>
+    <h2>Monologues in Shakespeare</h2>
+    <h2>Antony &amp; Cleopatra</h2>
+      <span>
+        <form action="javascript:void(0);" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=" /></div>
+          <b>Search:</b> <input type="text" id="search" size="40"/>
+          <img alt="Ajax-loader" id="spinner" src="/images/ajax-loader.gif?1278779332" style="display: none;" />
+        </form>
+        <div class="search_links">
+          <a href="/plays/29?g=3">Search Men</a> &nbsp;|&nbsp;
+          <a href="/plays/29?g=2">Search Women</a> &nbsp;|&nbsp;
+          <a href="/plays">Search All Plays</a> &nbsp;|&nbsp;
+          
+            <a href="/plays/29?expand=1">Expand All</a>
+          
+        </div>
+      </span>
+    </div>
+    <script type="text/javascript">
+//<![CDATA[
+new Form.Element.Observer('search', 1.25, function(element, value) {Element.show('spinner'); new Ajax.Updater('ajaxResults', 'http://shakespeare-monologues.org/monologues/search', {asynchronous:true, evalScripts:true, onComplete:function(request){Element.hide('spinner')}, parameters:'p=29&search=' + encodeURIComponent(value) + '&authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')})})
+//]]>
+</script>
+
+  
+    <div id='ajaxResults'>
+      
+
+  
+
+      
+<div>
+  <table id='monologue_list'>
+    <tr>
+      <th>Character</th>
+      <th>First Line</th>
+      <th>Act & Sc</th>
+      <th>pdf</th>
+    </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Cleopatra</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/29">Antony &amp; Cleopatra</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_236'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_236', '/monologues/preview/236', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">Where think'st thou he is now? Stands he, or sits he?</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=antonycleo&Act=1&Scene=5&Scope=scene&LineHighlight=543#533' target='_blank'>I v 26</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/aac-1-5-26-cleopatra.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Cleopatra</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/29">Antony &amp; Cleopatra</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_237'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_237', '/monologues/preview/237', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">No more, but e'en a woman, and commanded</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=antonycleo&Act=4&Scene=15&Scope=scene&LineHighlight=3255#3255' target='_blank'>IV xiii 91</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/aac-4-15-107-cleopatra.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Cleopatra</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/29">Antony &amp; Cleopatra</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_238'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_238', '/monologues/preview/238', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">Sir, I will eat no meat, I'll not drink, sir</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=antonycleo&Act=5&Scene=2&Scope=scene&LineHighlight=3445#3434' target='_blank'>V ii 194</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/aac-5-2-49-cleopatra.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Cleopatra</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/29">Antony &amp; Cleopatra</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_239'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_239', '/monologues/preview/239', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">O Caesar what a wounding shame is this</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=antonycleo&Act=5&Scene=2&Scope=scene&LineHighlight=3583#3573' target='_blank'>V ii 194</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/aac-5-2-194-cleopatra.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Cleopatra</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/29">Antony &amp; Cleopatra</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_240'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_240', '/monologues/preview/240', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">Give me my robe, put on my crown; I have</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=antonycleo&Act=5&Scene=2&Scope=scene&LineHighlight=3738#3725' target='_blank'>V ii 315</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/aac-5-2-279-cleopatra.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Enobarbus</div>
+  <div class='monologue_detail'>
+  Verse - intercut <br/>
+  <a href="/plays/29">Antony &amp; Cleopatra</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_241'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_241', '/monologues/preview/241', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">The barge she sat in, like a burnish'd throne</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=antonycleo&Act=2&Scene=2&Scope=scene&LineHighlight=914#906' target='_blank'>II ii 223</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/aac-2-2-223-enobarbus.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Ventidius</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/29">Antony &amp; Cleopatra</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_242'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_242', '/monologues/preview/242', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">I have done enough; a lower place, note well</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=antonycleo&Act=3&Scene=1&Scope=scene&LineHighlight=1560' target='_blank'>III i 16</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/aac-3-1-16-ventidius.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Antony</div>
+  <div class='monologue_detail'>
+  Verse - intercut <br/>
+  <a href="/plays/29">Antony &amp; Cleopatra</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_243'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_243', '/monologues/preview/243', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">Hark! the land bids me tread no more upon 't</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=antonycleo&Act=3&Scene=11&Scope=scene&LineHighlight=2111' target='_blank'>III ix 3</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/aac-3-9-3-markantony.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Antony</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/29">Antony &amp; Cleopatra</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_244'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_244', '/monologues/preview/244', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">If that thy father live, let him repent</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=antonycleo&Act=3&Scene=13&Scope=scene&LineHighlight=2417#2402' target='_blank'>III xi 171</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/aac-3-11-171-markantony.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Antony</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/29">Antony &amp; Cleopatra</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_245'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_245', '/monologues/preview/245', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">All is lost!
+This foul Egytian hath betrayed me.</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=antonycleo&Act=4&Scene=12&Scope=scene&LineHighlight=2913#2904' target='_blank'>IV x 29</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/aac-4-12-9-antony.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Antony</div>
+  <div class='monologue_detail'>
+  Verse - intercut <br/>
+  <a href="/plays/29">Antony &amp; Cleopatra</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_246'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_246', '/monologues/preview/246', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">Unarm, Eros; the long day's task is done</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=antonycleo&Act=4&Scene=14&Scope=scene&LineHighlight=3021#3011' target='_blank'>IV xii 46</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/aac-4-12-46-markantony.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Antony</div>
+  <div class='monologue_detail'>
+  Verse - intercut <br/>
+  <a href="/plays/29">Antony &amp; Cleopatra</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_247'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_247', '/monologues/preview/247', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">Since Cleopatra died,
+I have liv'd in such dishonour, that the gods</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=antonycleo&Act=4&Scene=14&Scope=scene&LineHighlight=3048#3046' target='_blank'>IV xii 69</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/aac-4-14-55-antony.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+</table></div>
+
+
+  
+
+
+
+
+    </div>
+:@_rails_html_safeF

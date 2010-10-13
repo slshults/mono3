@@ -1,0 +1,11 @@
+"°
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_546">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_546', '/monologues/preview/546', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('5T5pFCm4em51RW1L75MNzYjm79VKeX/GFiF3OOmszQ0=')}); return false;">Go, bear him in thine arms.
+I am amaz'd, methinks, and lose my way</a>
+    </span>
+  
+

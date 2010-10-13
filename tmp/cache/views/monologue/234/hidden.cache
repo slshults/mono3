@@ -1,0 +1,41 @@
+"E
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_234">
+      Then are we all undone.
+It is not possible, it cannot be<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_234', '/monologues/preview?monologue_id=234', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('b3smiPxzew9O8UqLpwMnY/tsh3AXyr30pfTmQQTZfH8=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Then are we all undone.<br>
+It is not possible, it cannot be,<br>
+The king should keep his word in loving us;<br>
+He will suspect us still and find a time<br>
+To punish this offence in other faults:<br>
+Suspicion all our lives shall be stuck full of eyes;<br>
+For treason is but trusted like the fox,<br>
+Who, ne'er so tame, so cherish'd and lock'd up,<br>
+Will have a wild trick of his ancestors.<br>
+Look how we can, or sad or merrily,<br>
+Interpretation will misquote our looks,<br>
+And we shall feed like oxen at a stall,
+The better cherish'd, still the nearer death. <br>
+My nephew's trespass may be well forgot;<br>
+it hath the excuse of youth and heat of blood,<br>
+And an adopted name of privilege,<br>
+A hair-brain'd Hotspur, govern'd by a spleen:<br>
+All his offences live upon my head <br>
+And on his father's; we did train him on,<br>
+And, his corruption being ta'en from us,<br>
+We, as the spring of all, shall pay for all.<br>
+Therefore, good cousin, let not Harry know,<br>
+In any case, the offer of the king. 
+
+      </div>
+    </span>
+
+  
+

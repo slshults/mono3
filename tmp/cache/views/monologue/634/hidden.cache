@@ -1,0 +1,38 @@
+"$
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_634">
+      I heard myself proclaim'd<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_634', '/monologues/preview?monologue_id=634', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('dRGqtsjslle8p/rqftTwfBJ8InIZFWCo7INhp4Zs5Wk=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          I heard myself proclaim'd,<br>
+And by the happy hollow of a tree<br>
+Escap'd the hunt. No port is free, no place<br>
+That guard and most unusual vigilance <br>
+Does not attend my taking. Whiles I may scape,<br>
+I will preserve myself; and am bethought<br>
+To take the basest and most poorest shape<br>
+That ever penury, in contempt of man,<br>
+Brought near to beast. My face I'll grime with filth, <br>
+Blanket my loins, elf all my hair in knots,<br>
+And with presented nakedness outface<br>
+The winds and persecutions of the sky.<br>
+The country gives me proof and precedent<br>
+Of Bedlam beggars, who, with roaring voices, <br>
+Strike in their numb'd and mortified bare arms<br>
+Pins, wooden pricks, nails, sprigs of rosemary;<br>
+And with this horrible object, from low farms,<br>
+Poor pelting villages, sheepcotes, and mills,<br>
+Sometime with lunatic bans, sometime with prayers, <br>
+Enforce their charity. 'Poor Turlygod! poor Tom!'<br>
+That's something yet! Edgar I nothing am.<br>
+<i>[Exit]</i>
+      </div>
+    </span>
+
+  
+

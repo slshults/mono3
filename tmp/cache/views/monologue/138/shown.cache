@@ -1,0 +1,10 @@
+"š
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_138">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_138', '/monologues/preview/138', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('fRPVnwME8pgZJOEhp+jCgAnqXoL0NUF9L7IdDp/JoaQ=')}); return false;">Let fame, that all hunt after in their lives</a>
+    </span>
+  
+

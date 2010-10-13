@@ -1,0 +1,48 @@
+"­
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_224">
+      With three or four loggerheads<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_224', '/monologues/preview?monologue_id=224', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('oi8Jx33bxj2Ndvs3dNqMhcuAT4SE891UL9V/n2Rspw8=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          With three or four loggerheads amongst three or four<br>
+score hogsheads. I have sounded the very<br>
+base-string of humility. Sirrah, I am sworn brother<br>
+to a leash of drawers; and can call them all by<br>
+their christen names, as Tom, Dick, and Francis.<br>
+They take it already upon their salvation, that<br>
+though I be but the prince of Wales, yet I am king<br>
+of courtesy; and tell me flatly I am no proud Jack,<br>
+like Falstaff, but a Corinthian, a lad of mettle, a<br>
+good boy, by the Lord, so they call me, and when I<br>
+am king of England, I shall command all the good<br>
+lads in Eastcheap. They call drinking deep, dyeing<br>
+scarlet; and when you breathe in your watering, they<br>
+cry 'hem!' and bid you play it off. To conclude, I<br>
+am so good a proficient in one quarter of an hour,<br>
+that I can drink with any tinker in his own language<br>
+during my life. I tell thee, Ned, thou hast lost<br>
+much honour, that thou wert not with me in this sweet<br>
+action. But, sweet Ned,.to sweeten which name of<br>
+Ned, I give thee this pennyworth of sugar, clapped<br>
+even now into my hand by an under-skinker, one that<br>
+never spake other English in his life than 'Eight<br>
+shillings and sixpence' and 'You are welcome,' with<br>
+this shrill addition, 'Anon, anon, sir! Score a pint<br>
+of bastard in the Half-Moon,' or so. But, Ned, to<br>
+drive away the time till Falstaff come, I prithee,<br>
+do thou stand in some by-room, while I question my<br>
+puny drawer to what end he gave me the sugar; and do<br>
+thou never leave calling 'Francis,' that his tale<br>
+to me may be nothing but 'Anon.' Step aside, and<br>
+I'll show thee a precedent. 
+
+      </div>
+    </span>
+
+  
+

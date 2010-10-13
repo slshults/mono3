@@ -1,0 +1,10 @@
+"™
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_251">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_251', '/monologues/preview/251', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('qHadnmZ0EppM/Ayl+8DAg9wYaS7NR12IUWFsnaDXtY0=')}); return false;">O serpent heart, hid with a flowering face!</a>
+    </span>
+  
+

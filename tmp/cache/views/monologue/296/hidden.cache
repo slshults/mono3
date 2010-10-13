@@ -1,0 +1,46 @@
+"z
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_296">
+      Thus it stands with me; upon a true contract<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_296', '/monologues/preview?monologue_id=296', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('V0vMTYMQjgOX68R9UtQgyKNlWf9/6J7mMpYrkZ+1mvM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Claudio.</b> Thus stands it with me: upon a true contract<br>
+ I got possession of Julietta's bed:<br>
+ You know the lady; she is fast my wife,<br>
+ Save that we do the denunciation lack<br>
+ Of outward order: this we came not to, <br>
+ Only for propagation of a dower<br>
+ Remaining in the coffer of her friends,<br>
+ From whom we thought it meet to hide our love<br>
+ Till time had made them for us. But it chances<br>
+ The stealth of our most mutual entertainment<br>
+ With character too gross is writ on Juliet. <br>
+<br>
+<del><b> Lucio.</b> With child, perhaps? </del><br>
+<br>
+<b>Claudio.</b> Unhappily, even so.<br>
+ And the new deputy now for the duke—<br>
+ Whether it be the fault and glimpse of newness,<br>
+ Or whether that the body public be<br>
+ A horse whereon the governor doth ride,<br>
+ Who, newly in the seat, that it may know<br>
+ He can command, lets it straight feel the spur;<br>
+ Whether the tyranny be in his place, <br>
+ Or in his emmence that fills it up,<br>
+ I stagger in:—but this new governor<br>
+ Awakes me all the enrolled penalties<br>
+ Which have, like unscour'd armour, hung by the wall<br>
+ So long that nineteen zodiacs have gone round <br>
+ And none of them been worn; and, for a name,<br>
+ Now puts the drowsy and neglected act<br>
+ Freshly on me: 'tis surely for a name. 
+      </div>
+    </span>
+
+  
+

@@ -1,0 +1,16 @@
+"­
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_173">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_173', '/monologues/preview/173', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('birUmjBDrEgcLqgWFTCRf1Ptt5Ou+jsp7Fai6l8lHuk=')}); return false;">
+
+
+
+What find I here?
+Fair Portia's counterfeit! What demigod 
+</a>
+    </span>
+  
+

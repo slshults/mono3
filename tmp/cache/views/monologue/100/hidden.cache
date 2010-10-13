@@ -1,0 +1,54 @@
+"þ
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_100">
+      Ay, ay, Antipholus, look strange and frown<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_100', '/monologues/preview?monologue_id=100', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('MRvMM7fdn7+S3odRBj3oXjBbX4QkvXc+3MT5H2YlZK8=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Ay, ay, Antipholus, look strange, and frown:<br>	 
+Some other mistress hath thy sweet aspects, <br>
+I am not Adriana, nor thy wife. <br>
+The time was once when thou unurg'd wouldst vow<br> 
+That never words were music to thine ear, <br>
+That never object pleasing in thine eye, <br>
+That never touch well welcome to thy hand, <br>
+That never meat sweet-savour'd in thy taste, <br>
+Unless I spake, or look'd, or touch'd, or carv'd to thee.<br> 
+How comes it now, my husband, O! how comes it, <br>
+That thou art thus estranged from thyself?  <br>
+Thyself I call it, being strange to me,<br> 
+That, undividable, incorporate, <br>
+Am better than thy dear self's better part.<br> 
+Ah! do not tear away thyself from me, <br>
+For know, my love, as easy mayst thou fall <br>
+A drop of water in the breaking gulf,  <br>
+And take unmingled thence that drop again, <br>
+Without addition or diminishing,<br>
+As take from me thyself and not me too. <br>
+How dearly would it touch thee to the quick, <br>
+Shouldst thou but hear I were licentious,<br> 
+And that this body, consecrate to thee,<br>
+By ruffian lust should be contaminate! <br>
+Wouldst thou not spit at me and spurn at me,<br> 
+And hurl the name of husband in my face,  <br>
+And tear the stain'd skin off my harlot-brow,<br>
+And from my false hand cut the wedding-ring <br>
+And break it with a deep-divorcing vow? <br>
+I know thou canst; and therefore, see thou do it.<br> 
+I am possess'd with an adulterate blot;<br>
+My blood is mingled with the crime of lust: <br>
+For if we two be one and thou play false, <br>
+I do digest the poison of thy flesh, <br>
+Being strumpeted by thy contagion.<br>
+Keep then fair league and truce with thy true bed;<br> 
+I live unstain'd, thou undishonoured.
+
+      </div>
+    </span>
+
+  
+

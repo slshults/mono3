@@ -1,0 +1,98 @@
+"U
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_172">
+      So may the outward shows be least themselves<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_172', '/monologues/preview?monologue_id=172', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('V0vMTYMQjgOX68R9UtQgyKNlWf9/6J7mMpYrkZ+1mvM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Bassanio.</b><br>
+      So may the outward shows be least themselves:<br>
+      The world is still deceived with ornament.<br>
+      In law, what plea so tainted and corrupt,<br>
+      But, being seasoned with a gracious voice,<br>
+      Obscures the show of evil? In religion,<br>
+      What damned error, but some sober brow <br>
+      Will bless it and approve it with a text,<br>
+      Hiding the grossness with fair ornament?<br>
+      There is no vice so simple but assumes<br>
+      Some mark of virtue on his outward parts:<br>
+      How many cowards, whose hearts are all as false <br>
+      As stairs of sand, wear yet upon their chins<br>
+      The beards of Hercules and frowning Mars;<br>
+      Who, inward search'd, have livers white as milk;<br>
+      And these assume but valour's excrement<br>
+      To render them redoubted! Look on beauty,<br>
+      And you shall see 'tis purchased by the weight;<br>
+      Which therein works a miracle in nature,<br>
+      Making them lightest that wear most of it:<br>
+      So are those crisped snaky golden locks<br>
+      Which make such wanton gambols with the wind, <br>
+      Upon supposed fairness, often known<br>
+      To be the dowry of a second head,<br>
+      The skull that bred them in the sepulchre.<br>
+      Thus ornament is but the guiled shore<br>
+      To a most dangerous sea; the beauteous scarf<br>
+      Veiling an Indian beauty; in a word,<br>
+      The seeming truth which cunning times put on<br>
+      To entrap the wisest. Therefore, thou gaudy gold,<br>
+      Hard food for Midas, I will none of thee;<br>
+      Nor none of thee, thou pale and common drudge <br>
+      'Tween man and man: but thou, thou meagre lead,<br>
+      Which rather threatenest than dost promise aught,<br>
+      Thy paleness moves me more than eloquence;<br>
+      And here choose I; joy be the consequence! <br><br>
+
+<del>  <b>Portia.</b> [Aside] How all the other passions fleet to air, <br>
+      As doubtful thoughts, and rash-embraced despair,<br>
+      And shuddering fear, and green-eyed jealousy! O love,<br>
+      Be moderate; allay thy ecstasy,<br>
+      In measure rein thy joy; scant this excess.<br>
+      I feel too much thy blessing: make it less, <br>
+      For fear I surfeit. </del><br><br>
+
+    <b>Bassanio.</b> What find I here?<br>
+     <i> [Opening the leaden casket]</i><br>
+      Fair Portia's counterfeit! What demi-god<br>
+      Hath come so near creation? Move these eyes? <br>
+      Or whether, riding on the balls of mine,<br>
+      Seem they in motion? Here are sever'd lips,<br>
+      Parted with sugar breath: so sweet a bar<br>
+      Should sunder such sweet friends. Here in her hairs<br>
+      The painter plays the spider and hath woven <br>
+      A golden mesh to entrap the hearts of men,<br>
+      Faster than gnats in cobwebs; but her eyes,--<br>
+      How could he see to do them? having made one,<br>
+      Methinks it should have power to steal both his<br>
+      And leave itself unfurnish'd. Yet look, how far <br>
+      The substance of my praise doth wrong this shadow<br>
+      In underprizing it, so far this shadow<br>
+      Doth limp behind the substance. Here's the scroll,<br>
+      The continent and summary of my fortune.<br>
+      <i>[Reads]</i><br>
+      You that choose not by the view,<br>
+      Chance as fair and choose as true!<br>
+      Since this fortune falls to you,<br>
+      Be content and seek no new,<br>
+      If you be well pleased with this <br>
+      And hold your fortune for your bliss,<br>
+      Turn you where your lady is<br>
+      And claim her with a loving kiss.<br>
+      A gentle scroll. Fair lady, by your leave;<br>
+      I come by note, to give and to receive.<br>
+      Like one of two contending in a prize,<br>
+      That thinks he hath done well in people's eyes,<br>
+      Hearing applause and universal shout,<br>
+      Giddy in spirit, still gazing in a doubt<br>
+      Whether these pearls of praise be his or no; <br>
+      So, thrice fair lady, stand I, even so;<br>
+      As doubtful whether what I see be true,<br>
+      Until confirm'd, sign'd, ratified by you. 
+      </div>
+    </span>
+
+  
+

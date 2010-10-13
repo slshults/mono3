@@ -1,0 +1,28 @@
+"T
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_751">
+      I do not know One of my sex; no woman's face remember,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_751', '/monologues/preview?monologue_id=751', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('CleaxT+8rWEe4CDkbgx43qylAewdHd9HJrYvwcA7D+U=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <div align="right" I do not know</div>
+One of my sex; no woman's face remember,<br>
+Save, from my glass, mine own; nor have I seen<br>
+More that I may call men than you, good friend,<br>
+And my dear father: how features are abroad,<br>
+I am skilless of; but, by my modesty,<br>
+The jewel in my dower, I would not wish<br>
+Any companion in the world but you,<br>
+Nor can imagination form a shape,<br>
+Besides yourself, to like of. But I prattle <br>
+Something too wildly and my father's precepts<br>
+I therein do forget. 
+      </div>
+    </span>
+
+  
+

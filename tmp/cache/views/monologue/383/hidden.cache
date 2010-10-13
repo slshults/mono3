@@ -1,0 +1,37 @@
+"ø
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_383">
+      What! am I poor of late?<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_383', '/monologues/preview?monologue_id=383', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('3fa8SH3TLIQTNYY17yUJdrmYXy3yf/J1Og2xBBglUyM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          What, am I poor of late?<br>
+'Tis certain, greatness, once fall'n out with fortune,<br>
+Must fall out with men too: what the declined is<br>
+He shall as soon read in the eyes of others<br>
+As feel in his own fall; for men, like butterflies, <br>
+Show not their mealy wings but to the summer,<br>
+And not a man, for being simply man,<br>
+Hath any honour, but honour for those honours<br>
+That are without him, as place, riches, favour,<br>
+Prizes of accident as oft as merit: <br>
+Which when they fall, as being slippery standers,<br>
+The love that lean'd on them as slippery too,<br>
+Do one pluck down another and together<br>
+Die in the fall. But 'tis not so with me:<br>
+Fortune and I are friends: I do enjoy <br>
+At ample point all that I did possess,<br>
+Save these men's looks; who do, methinks, find out<br>
+Something not worth in me such rich beholding<br>
+As they have often given. Here is Ulysses;<br>
+I'll interrupt his reading. <br>
+How now Ulysses! 
+      </div>
+    </span>
+
+  
+

@@ -1,0 +1,32 @@
+"
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_822">
+      I prithee do so.  Something sure of state,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_822', '/monologues/preview?monologue_id=822', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          I prithee, do so.<br><i>[Exit IAGO]</i><br>
+Something, sure, of state, <br>
+Either from Venice, or some unhatch'd practise<br>
+Made demonstrable here in Cyprus to him,<br>
+Hath puddled his clear spirit: and in such cases<br>
+Men's natures wrangle with inferior things,<br>
+Though great ones are their object. 'Tis even so; <br>
+For let our finger ache, and it indues<br>
+Our other healthful members even to that sense<br>
+Of pain: nay, we must think men are not gods,<br>
+Nor of them look for such observances<br>
+As fit the bridal. Beshrew me much, Emilia,<br>
+I was, unhandsome warrior as I am,<br>
+Arraigning his unkindness with my soul;<br>
+But now I find I had suborn'd the witness,<br>
+And he's indicted falsely. <br>
+      </div>
+    </span>
+
+  
+

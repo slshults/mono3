@@ -1,0 +1,36 @@
+"ý
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_450">
+      Where is Montjoy the herald? speed him hence<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_450', '/monologues/preview?monologue_id=450', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('eAbzVSzn2ZOnihkrKdPrGSiijFHeIvVJGN+7HycgO0Y=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Where is Montjoy the herald? speed him hence:<br>
+Let him greet England with our sharp defiance.<br>
+Up, princes! and, with spirit of honour edged<br>
+More sharper than your swords, hie to the field:<br>
+Charles Delabreth, high constable of France; <br>
+You Dukes of Orleans, Bourbon, and of Berri,<br>
+Alencon, Brabant, Bar, and Burgundy;<br>
+Jaques Chatillon, Rambures, Vaudemont,<br>
+Beaumont, Grandpre, Roussi, and Fauconberg,<br>
+Foix, Lestrale, Bouciqualt, and Charolois; <br>
+High dukes, great princes, barons, lords and knights,<br>
+For your great seats now quit you of great shames.<br>
+Bar Harry England, that sweeps through our land<br>
+With pennons painted in the blood of Harfleur:<br>
+Rush on his host, as doth the melted snow <br>
+Upon the valleys, whose low vassal seat<br>
+The Alps doth spit and void his rheum upon:<br>
+Go down upon him, you have power enough,<br>
+And in a captive chariot into Rouen<br>
+Bring him our prisoner. 
+      </div>
+    </span>
+
+  
+

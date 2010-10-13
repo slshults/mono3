@@ -1,0 +1,10 @@
+"›
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_466">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_466', '/monologues/preview/466', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('BecNP/6HSMDghWc8RGxm9fkd/tfi+w/KJzhirNJL4+s=')}); return false;">My thoughts are whirled like a potter's wheel</a>
+    </span>
+  
+

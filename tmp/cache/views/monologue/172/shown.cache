@@ -1,0 +1,10 @@
+"š
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_172">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_172', '/monologues/preview/172', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('birUmjBDrEgcLqgWFTCRf1Ptt5Ou+jsp7Fai6l8lHuk=')}); return false;">So may the outward shows be least themselves</a>
+    </span>
+  
+

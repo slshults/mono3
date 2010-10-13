@@ -1,0 +1,38 @@
+"˜
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_589">
+      He that will give good words to thee will flatter<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_589', '/monologues/preview?monologue_id=589', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('rjhxI++xmK0WfV1xxVQtWoaOKS4/P7G6ptsw5f/165g=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          He that will give good words to thee will flatter<br>
+Beneath abhorring. What would you have, you curs,<br>
+That like nor peace nor war? the one affrights you, <br>
+The other makes you proud. He that trusts to you,<br>
+Where he should find you lions, finds you hares;<br>
+Where foxes, geese: you are no surer, no,<br>
+Than is the coal of fire upon the ice,<br>
+Or hailstone in the sun. Your virtue is <br>
+To make him worthy whose offence subdues him<br>
+And curse that justice did it. Who deserves greatness<br>
+Deserves your hate; and your affections are<br>
+A sick man's appetite, who desires most that <br>
+Which would increase his evil. He that depends<br>
+Upon your favours swims with fins of lead<br>
+And hews down oaks with rushes. Hang ye! Trust Ye?<br>
+With every minute you do change a mind,<br>
+And call him noble that was now your hate, <br>
+Him vile that was your garland. What's the matter,<br>
+That in these several places of the city<br>
+You cry against the noble senate, who,<br>
+Under the gods, keep you in awe, which else<br>
+Would feed on one another? What's their seeking? 
+      </div>
+    </span>
+
+  
+

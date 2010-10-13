@@ -1,0 +1,88 @@
+"<
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_444">
+      From him; and thus he greets your majesty<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_444', '/monologues/preview?monologue_id=444', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('AgINiwXLFm1XKNSE/c9gaG/wG1ZMseIkMsNS9qmzE5s=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Duke of Exeter.</b> From him; and thus he greets your majesty.<br>
+ He wills you, in the name of God Almighty,<br>
+ That you divest yourself, and lay apart<br>
+ The borrow'd glories that by gift of heaven,<br>
+ By law of nature and of nations, 'long<br>
+ To him and to his heirs; namely, the crown<br>
+ And all wide-stretched honours that pertain<br>
+ By custom and the ordinance of times<br>
+ Unto the crown of France. That you may know<br>
+ 'Tis no sinister nor no awkward claim,<br>
+ Pick'd from the worm-holes of long-vanish'd days,<br>
+ Nor from the dust of old oblivion raked, <br>
+ He sends you this most memorable line,<br>
+ In every branch truly demonstrative;<br>
+ Willing to overlook this pedigree:<br>
+ And when you find him evenly derived<br>
+ From his most famed of famous ancestors, <br>
+ Edward the Third, he bids you then resign<br>
+ Your crown and kingdom, indirectly held<br>
+ From him the native and true challenger. <br>
+<br>
+<del><b>King of France.</b> Or else what follows?</del> <br>
+<br>
+<b>Duke of Exeter.</b> Bloody constraint; for if you hide the crown <br>
+ Even in your hearts, there will he rake for it:<br>
+ Therefore in fierce tempest is he coming,<br>
+ In thunder and in earthquake, like a Jove,<br>
+ That, if requiring fail, he will compel;<br>
+ And bids you, in the bowels of the Lord, <br>
+ Deliver up the crown, and to take mercy<br>
+ On the poor souls for whom this hungry war<br>
+ Opens his vasty jaws; and on your head<br>
+ Turning the widows' tears, the orphans' cries<br>
+ The dead men's blood, the pining maidens groans, <br>
+ For husbands, fathers and betrothed lovers,<br>
+ That shall be swallow'd in this controversy.<br>
+ This is his claim, his threatening and my message;<br>
+ Unless the Dauphin be in presence here,<br>
+ To whom expressly I bring greeting too. <br>
+<br>
+<del><b>King of France.</b> For us, we will consider of this further:<br>
+ To-morrow shall you bear our full intent<br>
+ Back to our brother England. <br>
+<br>
+<b>Lewis the Dauphin.</b> For the Dauphin,<br>
+ I stand here for him: what to him from England?</del> <br>
+<br>
+<b>Duke of Exeter.</b> Scorn and defiance; slight regard, contempt,<br>
+ And any thing that may not misbecome<br>
+ The mighty sender, doth he prize you at.<br>
+ Thus says my king; an' if your father's highness<br>
+ Do not, in grant of all demands at large, <br>
+ Sweeten the bitter mock you sent his majesty,<br>
+ He'll call you to so hot an answer of it,<br>
+ That caves and womby vaultages of France<br>
+ Shall chide your trespass and return your mock<br>
+ In second accent of his ordnance. <br>
+<br>
+<del><b>Lewis the Dauphin.</b> Say, if my father render fair return,<br>
+ It is against my will; for I desire<br>
+ Nothing but odds with England: to that end,<br>
+ As matching to his youth and vanity,<br>
+ I did present him with the Paris balls.</del> <br>
+<br>
+<b>Duke of Exeter.</b> He'll make your Paris Louvre shake for it,<br>
+ Were it the mistress-court of mighty Europe:<br>
+ And, be assured, you'll find a difference,<br>
+ As we his subjects have in wonder found,<br>
+ Between the promise of his greener days <br>
+ And these he masters now: now he weighs time<br>
+ Even to the utmost grain: that you shall read<br>
+ In your own losses, if he stay in France. 
+      </div>
+    </span>
+
+  
+

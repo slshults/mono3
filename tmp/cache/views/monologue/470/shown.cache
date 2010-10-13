@@ -1,0 +1,10 @@
+"•
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_470">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_470', '/monologues/preview/470', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('ZogX5XaSDVmLvVg/gd28mmIdHf0bCmGu/HYE4obnH0k=')}); return false;">Shame to the Duke of Burgundy and thee!</a>
+    </span>
+  
+

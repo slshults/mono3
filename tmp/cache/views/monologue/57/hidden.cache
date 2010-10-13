@@ -1,0 +1,34 @@
+"
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_57">
+      My lord, fair Helen told me of their stealth<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_57', '/monologues/preview?monologue_id=57', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('TGps1Sr/uzVfTC2ElMaXLj5sg4i9a8Llwj3UprUlIds=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          My lord, fair Helen told me of their stealth,<br>
+Of this their purpose hither to this wood;<br>
+And I in fury hither follow'd them, <br>
+Fair Helena in fancy following me.<br>
+But, my good lord, I wot not by what power,.<br>
+But by some power it is,.my love to Hermia,<br>
+Melted as the snow, seems to me now<br>
+As the remembrance of an idle gaud <br>
+Which in my childhood I did dote upon;<br>
+And all the faith, the virtue of my heart,<br>
+The object and the pleasure of mine eye,<br>
+Is only Helena. To her, my lord,<br>
+Was I betroth'd ere I saw Hermia: <br>
+But, like in sickness, did I loathe this food;<br>
+But, as in health, come to my natural taste,<br>
+Now I do wish it, love it, long for it,<br>
+And will for evermore be true to it. 
+
+      </div>
+    </span>
+
+  
+

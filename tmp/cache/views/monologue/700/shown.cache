@@ -1,0 +1,10 @@
+"ê
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_700">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_700', '/monologues/preview/700', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('/YSVTdoaIVMidDShqK/lbMRhE17ENqWyQZ6yzYr5nW8=')}); return false;">Why, lords, what wrongs are these!</a>
+    </span>
+  
+

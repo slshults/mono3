@@ -1,0 +1,44 @@
+"_
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_89">
+      Think not I love him, though I ask for him.<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_89', '/monologues/preview?monologue_id=89', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('5oFsED4E7GVSqKCmOZzDqDS9K9+qkwMZ0pyyH+dpjiw=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Think not I love him, though I ask for him.<br>
+'Tis but a peevish boy; yet he talks well; <br>
+But what care I for words? yet words do well, <br>
+When he that speaks them pleases those that hear. <br>
+It is a pretty youth: not very pretty: <br>
+But, sure, he's proud; and yet his pride becomes him:<br> 
+He'll make a proper man: the best thing in him <br>
+Is his complexion; and faster than his tongue <br>
+Did make offence his eye did heal it up.<br>
+He is not very tall; yet for his years he's tall:<br> 
+His leg is but so so; and yet 'tis well: <br>
+There was a pretty redness in his lip, <br>
+A little riper and more lusty red <br>
+Than that mix'd in his cheek; 'twas just the difference<br> 
+Betwixt the constant red and mingled damask.  <br>
+There be some women, Silvius, had they mark'd him <br>
+In parcels as I did, would have gone near<br>
+To fall in love with him; but, for my part, <br>
+I love him not nor hate him not; and yet <br>
+Have more cause to hate him than to love him: <br>
+For what had he to do to chide at me?<br>
+He said mine eyes were black and my hair black;<br> 
+And, now I am remember'd, scorn'd at me.  <br>
+I marvel why I answer'd not again: <br>
+But that's all one; omittance is no quittance.<br>
+I'll write to him a very taunting letter, <br>
+And thou shalt bear it: wilt thou, Silvius?<br>
+
+      </div>
+    </span>
+
+  
+

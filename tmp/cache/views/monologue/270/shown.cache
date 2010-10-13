@@ -1,0 +1,10 @@
+"ž
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_270">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_270', '/monologues/preview/270', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('0FIiGlVEkfhAoO4NycRETQFFdewoRUP73TjwWWa7ATQ=')}); return false;">Peace, ho! for shame! confusion's cure lives not</a>
+    </span>
+  
+

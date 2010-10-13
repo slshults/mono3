@@ -1,0 +1,17 @@
+">
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_574">
+      Those eyes of thine from mine have drawn salt tears<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_574', '/monologues/preview?monologue_id=574', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('tfHDJuiL2WteldMiCAhB57rk0B46EWnx1EMsuwtI1xw=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+
+  
+

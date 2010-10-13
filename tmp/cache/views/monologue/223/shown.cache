@@ -1,0 +1,10 @@
+"§
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_223">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_223', '/monologues/preview/223', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('JeaXQlwsAa8WdrtsBDS7CEoiiMTfeLoKVuPRog89DxM=')}); return false;">But for mine own part, my lord, I could be well contented</a>
+    </span>
+  
+

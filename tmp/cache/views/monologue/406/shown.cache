@@ -1,0 +1,10 @@
+"›
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_406">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_406', '/monologues/preview/406', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OMlhEXjSn53kQuRdBwAM5mNPq+hc1VUI9P2G9HkcNTs=')}); return false;">Cease to lament for that thou canst not help,</a>
+    </span>
+  
+

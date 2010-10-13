@@ -1,0 +1,866 @@
+I"��  
+    <div>
+    <h2>Monologues in Shakespeare</h2>
+    <h2>The Tempest</h2>
+      <span>
+        <form action="javascript:void(0);" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="8e+t74MWzqueMPFq5ray8DrdHYj0qFEGFmbQRbrSwGM=" /></div>
+          <b>Search:</b> <input type="text" id="search" size="40"/>
+          <img alt="Ajax-loader" id="spinner" src="/images/ajax-loader.gif?1278779332" style="display: none;" />
+        </form>
+        <div class="search_links">
+          <a href="/plays/14?g=3">Search Men</a> &nbsp;|&nbsp;
+          <a href="/plays/14?g=2">Search Women</a> &nbsp;|&nbsp;
+          <a href="/plays">Search All Plays</a> &nbsp;|&nbsp;
+          
+            <a href="/plays/14">Collapse All</a>
+          
+        </div>
+      </span>
+    </div>
+    <script type="text/javascript">
+//<![CDATA[
+new Form.Element.Observer('search', 1.25, function(element, value) {Element.show('spinner'); new Ajax.Updater('ajaxResults', 'http://shakespeare-monologues.org/monologues/search', {asynchronous:true, evalScripts:true, onComplete:function(request){Element.hide('spinner')}, parameters:'p=14&search=' + encodeURIComponent(value) + '&authenticity_token=' + encodeURIComponent('8e+t74MWzqueMPFq5ray8DrdHYj0qFEGFmbQRbrSwGM=')})})
+//]]>
+</script>
+
+  
+    <div id='ajaxResults'>
+      
+
+  
+
+      
+<div>
+  <table id='monologue_list'>
+    <tr>
+      <th>Character</th>
+      <th>First Line</th>
+      <th>Act & Sc</th>
+      <th>pdf</th>
+    </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Prospero</div>
+  <div class='monologue_detail'>
+  Verse - intercut <br/>
+  <a href="/plays/14">The Tempest</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_353'>
+  
+    <span id="preview_mono_353">
+      My brother and thy uncle, call'd Antonio,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_353', '/monologues/preview?monologue_id=353', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('8e+t74MWzqueMPFq5ray8DrdHYj0qFEGFmbQRbrSwGM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Prospero.</b> My brother and thy uncle, call'd Antonio— <br>
+ I pray thee, mark me—that a brother should<br>
+ Be so perfidious!—he whom next thyself<br>
+ Of all the world I loved and to him put<br>
+ The manage of my state; as at that time<br>
+ Through all the signories it was the first <br>
+ And Prospero the prime duke, being so reputed<br>
+ In dignity, and for the liberal arts<br>
+ Without a parallel; those being all my study,<br>
+ The government I cast upon my brother<br>
+ And to my state grew stranger, being transported <br>
+ And rapt in secret studies. Thy false uncle—<br>
+ Dost thou attend me? <br>
+<br>
+<del><b>Miranda.</b> Sir, most heedfully.</del> <br>
+<br>
+<b>Prospero.</b> Being once perfected how to grant suits,<br>
+ How to deny them, who to advance and who <br>
+ To trash for over-topping, new created<br>
+ The creatures that were mine, I say, or changed 'em,<br>
+ Or else new form'd 'em; having both the key<br>
+ Of officer and office, set all hearts i' the state<br>
+ To what tune pleased his ear; that now he was<br>
+ The ivy which had hid my princely trunk,<br>
+ And suck'd my verdure out on't. Thou attend'st not. <br>
+<br>
+<del><b>Miranda.</b> O, good sir, I do.</del> <br>
+<br>
+<b>Prospero.</b> I pray thee, mark me.<br>
+ I, thus neglecting worldly ends, all dedicated <br>
+ To closeness and the bettering of my mind<br>
+ With that which, but by being so retired,<br>
+ O'er-prized all popular rate, in my false brother<br>
+ Awaked an evil nature; and my trust,<br>
+ Like a good parent, did beget of him <br>
+ A falsehood in its contrary as great<br>
+ As my trust was; which had indeed no limit,<br>
+ A confidence sans bound. He being thus lorded,<br>
+ Not only with what my revenue yielded,<br>
+ But what my power might else exact, like one <br>
+ Who having into truth, by telling of it,<br>
+ Made such a sinner of his memory,<br>
+ To credit his own lie, he did believe<br>
+ He was indeed the duke; out o' the substitution<br>
+ And executing the outward face of royalty, <br>
+ With all prerogative: hence his ambition growing—<br>
+ Dost thou hear? <br>
+<br>
+ * Miranda. Your tale, sir, would cure deafness. <br>
+<br>
+ * Prospero. To have no screen between this part he play'd<br>
+ And him he play'd it for, he needs will be <br>
+ Absolute Milan. Me, poor man, my library<br>
+ Was dukedom large enough: of temporal royalties<br>
+ He thinks me now incapable; confederates—<br>
+ So dry he was for sway—wi' the King of Naples<br>
+ To give him annual tribute, do him homage, <br>
+ Subject his coronet to his crown and bend<br>
+ The dukedom yet unbow'd—alas, poor Milan!—<br>
+ To most ignoble stooping. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=tempest&Act=1&Scene=2&Scope=scene&LineHighlight=165#156' target='_blank'>I ii 82</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tt-1-2-82-prospero.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Ariel</div>
+  <div class='monologue_detail'>
+  Verse - intercut <br/>
+  <a href="/plays/14">The Tempest</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_354'>
+  
+    <span id="preview_mono_354">
+      I boarded the king's ship; now on the beak,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_354', '/monologues/preview?monologue_id=354', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('8e+t74MWzqueMPFq5ray8DrdHYj0qFEGFmbQRbrSwGM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Ariel.</b> To every article.<br>
+ I boarded the king's ship; now on the beak,<br>
+ Now in the waist, the deck, in every cabin,<br>
+ I flamed amazement: sometime I'ld divide,<br>
+ And burn in many places; on the topmast,<br>
+ The yards and bowsprit, would I flame distinctly,<br>
+ Then meet and join. Jove's lightnings, the precursors<br>
+ O' the dreadful thunder-claps, more momentary<br>
+ And sight-outrunning were not; the fire and cracks<br>
+ Of sulphurous roaring the most mighty Neptune<br>
+ Seem to besiege and make his bold waves tremble,<br>
+ Yea, his dread trident shake. <br>
+<br>
+<del><b>Prospero.</b> My brave spirit!<br>
+ Who was so firm, so constant, that this coil<br>
+ Would not infect his reason? <br></del>
+<br>
+<b>Ariel.</b> Not a soul<br>
+ But felt a fever of the mad and play'd <br>
+ Some tricks of desperation. All but mariners<br>
+ Plunged in the foaming brine and quit the vessel,<br>
+ Then all afire with me: the king's son, Ferdinand,<br>
+ With hair up-staring,—then like reeds, not hair,—<br>
+ Was the first man that leap'd; cried, 'Hell is empty <br>
+ And all the devils are here.' 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=tempest&Act=1&Scene=2&Scope=scene&LineHighlight=314#307' target='_blank'>I ii 230</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tt-1-2-230-ariel.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Caliban</div>
+  <div class='monologue_detail'>
+  Verse - intercut <br/>
+  <a href="/plays/14">The Tempest</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_355'>
+  
+    <span id="preview_mono_355">
+      This island's mine, by Sycorax my mother,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_355', '/monologues/preview?monologue_id=355', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('8e+t74MWzqueMPFq5ray8DrdHYj0qFEGFmbQRbrSwGM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Caliban.</b> I must eat my dinner.<br>
+ This island's mine, by Sycorax my mother,<br>
+ Which thou takest from me. When thou camest first,<br>
+ Thou strokedst me and madest much of me, wouldst give me<br>
+ Water with berries in't, and teach me how <br>
+ To name the bigger light, and how the less,<br>
+ That burn by day and night: and then I loved thee<br>
+ And show'd thee all the qualities o' the isle,<br>
+ The fresh springs, brine-pits, barren place and fertile:<br>
+ Cursed be I that did so! All the charms <br>
+ Of Sycorax, toads, beetles, bats, light on you!<br>
+ For I am all the subjects that you have,<br>
+ Which first was mine own king: and here you sty me<br>
+ In this hard rock, whiles you do keep from me<br>
+ The rest o' the island. <br>
+<br>
+<del><b>Prospero.</b> Thou most lying slave,<br>
+ Whom stripes may move, not kindness! I have used thee,<br>
+ Filth as thou art, with human care, and lodged thee<br>
+ In mine own cell, till thou didst seek to violate<br>
+ The honour of my child. </del><br>
+<br>
+<b>Caliban.</b> O ho, O ho! would't had been done!<br>
+ Thou didst prevent me; I had peopled else<br>
+ This isle with Calibans. <bR>
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=tempest&Act=1&Scene=2&Scope=scene&LineHighlight=481#471' target='_blank'>I ii 396</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tt-1-2-396-caliban.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Caliban</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/14">The Tempest</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_356'>
+  
+    <span id="preview_mono_356">
+      All the infections that the sun sucks up<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_356', '/monologues/preview?monologue_id=356', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('8e+t74MWzqueMPFq5ray8DrdHYj0qFEGFmbQRbrSwGM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          All the infections that the sun sucks up<br>
+From bogs, fens, flats, on Prosper fall and make him<br>
+By inch-meal a disease! His spirits hear me<br>
+And yet I needs must curse. But they'll nor pinch, <br>
+Fright me with urchin—shows, pitch me i' the mire,<br>
+Nor lead me, like a firebrand, in the dark<br>
+Out of my way, unless he bid 'em; but<br>
+For every trifle are they set upon me;<br>
+Sometime like apes that mow and chatter at me <br>
+And after bite me, then like hedgehogs which<br>
+Lie tumbling in my barefoot way and mount<br>
+Their pricks at my footfall; sometime am I<br>
+All wound with adders who with cloven tongues<br>
+Do hiss me into madness. <br>
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=tempest&Act=2&Scene=2&Scope=scene&LineHighlight=1082' target='_blank'>II ii 1</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tt-2-2-1-caliban.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Trinculo</div>
+  <div class='monologue_detail'>
+  Prose  <br/>
+  <a href="/plays/14">The Tempest</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_357'>
+  
+    <span id="preview_mono_357">
+      Here's neither bush nor shrub to bear off any weather<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_357', '/monologues/preview?monologue_id=357', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('8e+t74MWzqueMPFq5ray8DrdHYj0qFEGFmbQRbrSwGM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Here's neither bush nor shrub, to bear off
+any weather at all, and another storm brewing;
+I hear it sing i' the wind: yond same black
+cloud, yond huge one, looks like a foul
+bombard that would shed his liquor. If it should thunder as it did before, I know not
+where to hide my head: yond same cloud cannot
+choose but fall by pailfuls. What have we
+here? a man or a fish? dead or alive? A fish:
+he smells like a fish; a very ancient and fish-like smell; a kind of not of the newest Poor-John. A strange fish! Were I in England now,
+as once I was, and had but this fish painted,
+not a holiday fool there but would give a piece
+of silver: there would this monster make a 
+man; any strange beast there makes a man:
+when they will not give a doit to relieve a lame
+beggar, they will lazy out ten to see a dead
+Indian. Legged like a man and his fins like
+arms! Warm o' my troth! I do now let loose 
+my opinion; hold it no longer: this is no fish,
+but an islander, that hath lately suffered by a
+thunderbolt.
+[Thunder]
+Alas, the storm is come again! my best way is to 
+creep under his gaberdine; there is no other
+shelter hereabouts: misery acquaints a man with
+strange bed-fellows. I will here shroud till the
+dregs of the storm be past. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=tempest&Act=2&Scene=2&Scope=scene&LineHighlight=1101#1082' target='_blank'>II ii 23</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tt-2-2-18-trinculo.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Ferdinand</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/14">The Tempest</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_358'>
+  
+    <span id="preview_mono_358">
+      There be some sports are painful and their labor<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_358', '/monologues/preview?monologue_id=358', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('8e+t74MWzqueMPFq5ray8DrdHYj0qFEGFmbQRbrSwGM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          There be some sports are painful, and their labour<br>
+Delight in them sets off: some kinds of baseness<br>
+Are nobly undergone and most poor matters <br>
+Point to rich ends. This my mean task<br>
+Would be as heavy to me as odious, but<br>
+The mistress which I serve quickens what's dead<br>
+And makes my labours pleasures: O, she is<br>
+Ten times more gentle than her father's crabbed,<br>
+And he's composed of harshness. I must remove<br>
+Some thousands of these logs and pile them up,<br>
+Upon a sore injunction: my sweet mistress<br>
+Weeps when she sees me work, and says, such baseness<br>
+Had never like executor. I forget: <br>
+But these sweet thoughts do even refresh my labours,<br>
+Most busy lest, when I do it. <br>
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=tempest&Act=3&Scene=1&Scope=scene&LineHighlight=1278' target='_blank'>III i 4</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tt-3-1-1-ferdinand.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Caliban</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/14">The Tempest</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_359'>
+  
+    <span id="preview_mono_359">
+      Why, as I told thee, 'tis a custom with him<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_359', '/monologues/preview?monologue_id=359', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('8e+t74MWzqueMPFq5ray8DrdHYj0qFEGFmbQRbrSwGM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Why, as I told thee, 'tis a custom with him,<br>
+I' th' afternoon to sleep: there thou mayst brain him,<br>
+Having first seized his books, or with a log<br>
+Batter his skull, or paunch him with a stake,<br>
+Or cut his wezand with thy knife. Remember<br>
+First to possess his books; for without them<br>
+He's but a sot, as I am, nor hath not<br>
+One spirit to command: they all do hate him<br>
+As rootedly as I. Burn but his books. <br>
+He has brave utensils,—for so he calls them—<br>
+Which when he has a house, he'll deck withal<br>
+And that most deeply to consider is<br>
+The beauty of his daughter; he himself<br>
+Calls her a nonpareil: I never saw a woman, <br>
+But only Sycorax my dam and she;<br>
+But she as far surpasseth Sycorax<br>
+As great'st does least. <bR>
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=tempest&Act=3&Scene=2&Scope=scene&LineHighlight=1482#1476' target='_blank'>III ii 57</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tt-3-2-87-caliban.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Ariel</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/14">The Tempest</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_360'>
+  
+    <span id="preview_mono_360">
+      You are three men of sin, whom Destiny<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_360', '/monologues/preview?monologue_id=360', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('8e+t74MWzqueMPFq5ray8DrdHYj0qFEGFmbQRbrSwGM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          You are three men of sin, whom Destiny,<br>
+That hath to instrument this lower world <br>
+And what is in't, the never-surfeited sea<br>
+Hath caused to belch up you; and on this island<br>
+Where man doth not inhabit; you 'mongst men<br>
+Being most unfit to live. I have made you mad;<br>
+And even with such-like valour men hang and drown <br>
+Their proper selves.<br>
+<i>[ALONSO, SEBASTIAN &c. draw their swords]</i><br>
+You fools! I and my fellows<br>
+Are ministers of Fate: the elements,<br>
+Of whom your swords are temper'd, may as well <br>
+Wound the loud winds, or with bemock'd-at stabs<br>
+Kill the still-closing waters, as diminish<br>
+One dowle that's in my plume: my fellow-ministers<br>
+Are like invulnerable. If you could hurt,<br>
+Your swords are now too massy for your strengths <br>
+And will not be uplifted. But remember—<br>
+For that's my business to you—that you three<br>
+From Milan did supplant good Prospero;<br>
+Exposed unto the sea, which hath requit it,<br>
+Him and his innocent child: for which foul deed <br>
+The powers, delaying, not forgetting, have<br>
+Incensed the seas and shores, yea, all the creatures,<br>
+Against your peace. Thee of thy son, Alonso,<br>
+They have bereft; and do pronounce by me:<br>
+Lingering perdition, worse than any death <br>
+Can be at once, shall step by step attend<br>
+You and your ways; whose wraths to guard you from—<br>
+Which here, in this most desolate isle, else falls<br>
+Upon your heads—is nothing but heart-sorrow<br>
+And a clear life ensuing. <br>
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=tempest&Act=3&Scene=3&Scope=scene&LineHighlight=1629#1622' target='_blank'>III iii 69</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tt-3-3-69-ariel.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Prospero</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/14">The Tempest</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_361'>
+  
+    <span id="preview_mono_361">
+      Ye elves of hills, brooks, standing lakes, and groves<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_361', '/monologues/preview?monologue_id=361', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('8e+t74MWzqueMPFq5ray8DrdHYj0qFEGFmbQRbrSwGM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Ye elves of hills, brooks, standing lakes and groves,<br>
+And ye that on the sands with printless foot <br>
+Do chase the ebbing Neptune and do fly him<br>
+When he comes back; you demi-puppets that<br>
+By moonshine do the green sour ringlets make,<br>
+Whereof the ewe not bites, and you whose pastime<br>
+Is to make midnight mushrooms, that rejoice <br>
+To hear the solemn curfew; by whose aid,<br>
+Weak masters though ye be, I have bedimm'd<br>
+The noontide sun, call'd forth the mutinous winds,<br>
+And 'twixt the green sea and the azured vault<br>
+Set roaring war: to the dread rattling thunder<br>
+Have I given fire and rifted Jove's stout oak<br>
+With his own bolt; the strong-based promontory<br>
+Have I made shake and by the spurs pluck'd up<br>
+The pine and cedar: graves at my command<br>
+Have waked their sleepers, oped, and let 'em forth <br>
+By my so potent art. But this rough magic<br>
+I here abjure, and, when I have required<br>
+Some heavenly music, which even now I do,<br>
+To work mine end upon their senses that<br>
+This airy charm is for, I'll break my staff, <br>
+Bury it certain fathoms in the earth,<br>
+And deeper than did ever plummet sound<br>
+I'll drown my book. <br>
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=tempest&Act=5&Scene=1&Scope=scene&LineHighlight=2054#2038' target='_blank'>V i 40</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tt-5-1-33-prospero.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Prospero</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/14">The Tempest</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_362'>
+  
+    <span id="preview_mono_362">
+      You do look, my son, in a mov'd sort<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_362', '/monologues/preview?monologue_id=362', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('8e+t74MWzqueMPFq5ray8DrdHYj0qFEGFmbQRbrSwGM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          You do look, my son, in a moved sort,<br>
+As if you were dismay'd: be cheerful, sir.<br>
+Our revels now are ended. These our actors,<br>
+As I foretold you, were all spirits and <br>
+Are melted into air, into thin air:<br>
+And, like the baseless fabric of this vision,<br>
+The cloud-capp'd towers, the gorgeous palaces,<br>
+The solemn temples, the great globe itself,<br>
+Ye all which it inherit, shall dissolve 1885<br>
+And, like this insubstantial pageant faded,<br>
+Leave not a rack behind. We are such stuff<br>
+As dreams are made on, and our little life<br>
+Is rounded with a sleep. Sir, I am vex'd;<br>
+Bear with my weakness; my, brain is troubled: <br>
+Be not disturb'd with my infirmity:<br>
+If you be pleased, retire into my cell<br>
+And there repose: a turn or two I'll walk,<br>
+To still my beating mind. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=tempest&Act=4&Scene=1&Scope=scene&LineHighlight=1877#1867' target='_blank'>IV i 158</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tt-4-1-158-prospero.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Ariel</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/14">The Tempest</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_363'>
+  
+    <span id="preview_mono_363">
+      I told you, sir, they were red-hot with drinking<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_363', '/monologues/preview?monologue_id=363', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('8e+t74MWzqueMPFq5ray8DrdHYj0qFEGFmbQRbrSwGM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+           I told you, sir, they were red-hot with drinking;<br>
+So fun of valour that they smote the air<br>
+For breathing in their faces; beat the ground<br>
+For kissing of their feet; yet always bending<br>
+Towards their project. Then I beat my tabour; <br>
+At which, like unback'd colts, they prick'd their ears,<br>
+Advanced their eyelids, lifted up their noses<br>
+As they smelt music: so I charm'd their ears<br>
+That calf-like they my lowing follow'd through<br>
+Tooth'd briers, sharp furzes, pricking goss and thorns,<br>
+Which entered their frail shins: at last I left them<br>
+I' the filthy-mantled pool beyond your cell,<br>
+There dancing up to the chins, that the foul lake<br>
+O'erstunk their feet. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=tempest&Act=4&Scene=1&Scope=scene&LineHighlight=1906#1897' target='_blank'>IV i 186</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tt-4-1-186-ariel.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Prospero</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/14">The Tempest</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_364'>
+  
+    <span id="preview_mono_364">
+      In this last tempest. I perceive, these lords<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_364', '/monologues/preview?monologue_id=364', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('8e+t74MWzqueMPFq5ray8DrdHYj0qFEGFmbQRbrSwGM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+           In this last tempest. I perceive these lords<br>
+At this encounter do so much admire<br>
+That they devour their reason and scarce think<br>
+Their eyes do offices of truth, their words<br>
+Are natural breath: but, howsoe'er you have<br>
+Been justled from your senses, know for certain<br>
+That I am Prospero and that very duke<br>
+Which was thrust forth of Milan, who most strangely<br>
+Upon this shore, where you were wreck'd, was landed,<br>
+To be the lord on't. No more yet of this;<br>
+For 'tis a chronicle of day by day,<br>
+Not a relation for a breakfast nor<br>
+Befitting this first meeting. Welcome, sir;<br>
+This cell's my court: here have I few attendants<br>
+And subjects none abroad: pray you, look in.<br>
+My dukedom since you have given me again,<br>
+I will requite you with as good a thing;<br>
+At least bring forth a wonder, to content ye<br>
+As much as me my dukedom. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=tempest&Act=5&Scene=1&Scope=scene&LineHighlight=2197#2187' target='_blank'>V i 168</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tt-5-1-168-prospero.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Prospero</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/14">The Tempest</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_365'>
+  
+    <span id="preview_mono_365">
+      Now my charms are all o'erthrown,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_365', '/monologues/preview?monologue_id=365', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('8e+t74MWzqueMPFq5ray8DrdHYj0qFEGFmbQRbrSwGM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Now my charms are all o'erthrown,<br>
+And what strength I have's mine own, <br>
+Which is most faint: now, 'tis true,<br>
+I must be here confined by you,<br>
+Or sent to Naples. Let me not,<br>
+Since I have my dukedom got<br>
+And pardon'd the deceiver, dwell <br>
+In this bare island by your spell;<br>
+But release me from my bands<br>
+With the help of your good hands:<br>
+Gentle breath of yours my sails<br>
+Must fill, or else my project fails,<br>
+Which was to please. Now I want<br>
+Spirits to enforce, art to enchant,<br>
+And my ending is despair,<br>
+Unless I be relieved by prayer,<br>
+Which pierces so that it assaults <br>
+Mercy itself and frees all faults.<br>
+As you from crimes would pardon'd be,<br>
+Let your indulgence set me free.
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=tempest&Act=5&Scene=1&Scope=scene&LineHighlight=2404#2404' target='_blank'>Epilogue</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tt-epilogue-prospero.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Miranda</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/14">The Tempest</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_748'>
+  
+    <span id="preview_mono_748">
+      If by your art, my dearest father, you have<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_748', '/monologues/preview?monologue_id=748', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('8e+t74MWzqueMPFq5ray8DrdHYj0qFEGFmbQRbrSwGM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+           If by your art, my dearest father, you have <br>
+Put the wild waters in this roar, allay them.<br>
+The sky, it seems, would pour down stinking pitch,<br>
+But that the sea, mounting to the welkin's cheek,<br>
+Dashes the fire out. O, I have suffered<br>
+With those that I saw suffer: a brave vessel,<br>
+Who had, no doubt, some noble creature in her,<br>
+Dash'd all to pieces. O, the cry did knock<br>
+Against my very heart. Poor souls, they perish'd.<br>
+Had I been any god of power, I would<br>
+Have sunk the sea within the earth or ere <br>
+It should the good ship so have swallow'd and<br>
+The fraughting souls within her. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=tempest&Act=1&Scene=2&Scope=scene&LineHighlight=85' target='_blank'>I ii 1</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/tt-1-2-1-miranda.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>*Miranda</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/14">The Tempest</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_749'>
+  
+    <span id="preview_mono_749">
+      Abhorred slave,  which any print of goodness wilt not take<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_749', '/monologues/preview?monologue_id=749', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('8e+t74MWzqueMPFq5ray8DrdHYj0qFEGFmbQRbrSwGM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <div align="right">Abhorred slave,</div>
+Which any print of goodness wilt not take,<br>
+Being capable of all ill! I pitied thee,<br>
+Took pains to make thee speak, taught thee each hour<br>
+One thing or other: when thou didst not, savage,<br>
+Know thine own meaning, but wouldst gabble like<br>
+A thing most brutish, I endow'd thy purposes<br>
+With words that made them known. But thy vile race,<br>
+Though thou didst learn, had that in't which good natures<br>
+Could not abide to be with; therefore wast thou<br>
+Deservedly confined into this rock,<br>
+Who hadst deserved more than a prison. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=tempest&Act=1&Scene=2&Scope=scene&LineHighlight=504#496' target='_blank'>I ii 419</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/tt-1-2-351-miranda.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Miranda</div>
+  <div class='monologue_detail'>
+  Verse - intercut <br/>
+  <a href="/plays/14">The Tempest</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_750'>
+  
+    <span id="preview_mono_750">
+      Alas, now, pray you, Work not so hard: I would the lightning had<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_750', '/monologues/preview?monologue_id=750', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('8e+t74MWzqueMPFq5ray8DrdHYj0qFEGFmbQRbrSwGM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Miranda.</b> Alas, now, pray you,<br>
+ Work not so hard: I would the lightning had <br>
+ Burnt up those logs that you are enjoin'd to pile!<br>
+ Pray, set it down and rest you: when this burns,<br>
+ 'Twill weep for having wearied you. My father<br>
+ Is hard at study; pray now, rest yourself;<br>
+ He's safe for these three hours. <br>
+<br>
+<del><b>Ferdinand.</b> O most dear mistress,<br>
+ The sun will set before I shall discharge<br>
+ What I must strive to do. </del><br>
+<br>
+<b>Miranda.</b> If you'll sit down,<br>
+ I'll bear your logs the while: pray, give me that; <br>
+ I'll carry it to the pile. <br>
+<br>
+<del><b>Ferdinand.</b>No, precious creature;<br>
+ I had rather crack my sinews, break my back,<br>
+ Than you should such dishonour undergo,<br>
+ While I sit lazy by. </del><br>
+<br>
+<b>Miranda.</b> It would become me<br>
+ As well as it does you: and I should do it<br>
+ With much more ease; for my good will is to it,<br>
+ And yours it is against. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=tempest&Act=3&Scene=1&Scope=scene&LineHighlight=1294' target='_blank'>III i 19</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/tt-3-1-16-miranda.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Miranda</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/14">The Tempest</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_751'>
+  
+    <span id="preview_mono_751">
+      I do not know One of my sex; no woman's face remember,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_751', '/monologues/preview?monologue_id=751', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('8e+t74MWzqueMPFq5ray8DrdHYj0qFEGFmbQRbrSwGM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <div align="right" I do not know</div>
+One of my sex; no woman's face remember,<br>
+Save, from my glass, mine own; nor have I seen<br>
+More that I may call men than you, good friend,<br>
+And my dear father: how features are abroad,<br>
+I am skilless of; but, by my modesty,<br>
+The jewel in my dower, I would not wish<br>
+Any companion in the world but you,<br>
+Nor can imagination form a shape,<br>
+Besides yourself, to like of. But I prattle <br>
+Something too wildly and my father's precepts<br>
+I therein do forget. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=tempest&Act=3&Scene=1&Scope=scene&LineHighlight=1336#1324' target='_blank'>III i 61</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/tt-3-1-60-miranda.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+</table></div>
+
+
+  
+
+
+
+
+    </div>
+:@_rails_html_safeF

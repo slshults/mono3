@@ -1,0 +1,10 @@
+"˜
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_822">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_822', '/monologues/preview/822', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">I prithee do so.  Something sure of state,</a>
+    </span>
+  
+

@@ -1,0 +1,10 @@
+"’
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_616">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_616', '/monologues/preview/616', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('SIjL6w7u4uFepEMfAqv3XEwl7SVsaqQh+JB1E3pAe4Y=')}); return false;">Well Brutus thou art noble yet I see</a>
+    </span>
+  
+

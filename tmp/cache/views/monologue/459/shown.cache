@@ -1,0 +1,10 @@
+"•
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_459">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_459', '/monologues/preview/459', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('RVzO/KdL/byGYgye63czdmw7zs9h78FvmehcC30C/4E=')}); return false;">I pray thee, bear my former answer back</a>
+    </span>
+  
+

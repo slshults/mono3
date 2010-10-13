@@ -1,0 +1,10 @@
+"‘
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_105">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_105', '/monologues/preview/105', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('F0S7Ulr+rSbO0FmcMG7rBxyPNZOfsFtUX+09v86pmtg=')}); return false;">Merchant of Syracusa, plead no more</a>
+    </span>
+  
+

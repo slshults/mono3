@@ -1,0 +1,643 @@
+I"¢ƒ  
+    <div>
+    <h2>Monologues in Shakespeare</h2>
+    <h2>Hamlet</h2>
+      <span>
+        <form action="javascript:void(0);" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="VdycyAzIMUW6RqjMOcbwU/Eg3EgAFICKU1FUOFUJYnc=" /></div>
+          <b>Search:</b> <input type="text" id="search" size="40"/>
+          <img alt="Ajax-loader" id="spinner" src="/images/ajax-loader.gif?1278779332" style="display: none;" />
+        </form>
+        <div class="search_links">
+          <a href="/plays/31?g=3">Search Men</a> &nbsp;|&nbsp;
+          <a href="/plays/31?g=2">Search Women</a> &nbsp;|&nbsp;
+          <a href="/plays">Search All Plays</a> &nbsp;|&nbsp;
+          
+            <a href="/plays/31?expand=1">Expand All</a>
+          
+        </div>
+      </span>
+    </div>
+    <script type="text/javascript">
+//<![CDATA[
+new Form.Element.Observer('search', 1.25, function(element, value) {Element.show('spinner'); new Ajax.Updater('ajaxResults', 'http://www.shakespeare-monologues.org/monologues/search', {asynchronous:true, evalScripts:true, onComplete:function(request){Element.hide('spinner')}, parameters:'p=31&search=' + encodeURIComponent(value) + '&authenticity_token=' + encodeURIComponent('VdycyAzIMUW6RqjMOcbwU/Eg3EgAFICKU1FUOFUJYnc=')})})
+//]]>
+</script>
+
+  
+    <div id='ajaxResults'>
+      
+
+  
+
+      
+<div>
+  <table id='monologue_list'>
+    <tr>
+      <th>Character</th>
+      <th>First Line</th>
+      <th>Act & Sc</th>
+      <th>pdf</th>
+    </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Ophelia</div>
+  <div class='monologue_detail'>
+  Verse - intercut <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_1'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_1', '/monologues/preview/1', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('VdycyAzIMUW6RqjMOcbwU/Eg3EgAFICKU1FUOFUJYnc=')}); return false;">O my lord, my lord, I have been so affrighted!</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=2&Scene=1&Scope=scene&LineHighlight=1032#1025' target='_blank'>II i 87</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/h-2-1-77-ophelia.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Ophelia</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_2'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_2', '/monologues/preview/2', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('VdycyAzIMUW6RqjMOcbwU/Eg3EgAFICKU1FUOFUJYnc=')}); return false;">O what a noble mind is here o'erthrown</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=3&Scene=1&Scope=scene&LineHighlight=1841#1833' target='_blank'>III i 132</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/h-3-1-150-ophelia.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Player Queen</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_3'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_3', '/monologues/preview/3', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('VdycyAzIMUW6RqjMOcbwU/Eg3EgAFICKU1FUOFUJYnc=')}); return false;">So many journeys may the sun and moon</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=3&Scene=2&Scope=scene&LineHighlight=2052#2042' target='_blank'>III ii 110</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/h-3-2-110-playerqueen.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Ophelia</div>
+  <div class='monologue_detail'>
+  Verse &amp; Prose - intercut <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_4'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_4', '/monologues/preview/4', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('VdycyAzIMUW6RqjMOcbwU/Eg3EgAFICKU1FUOFUJYnc=')}); return false;">How should I your true love know</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=4&Scene=5&Scope=scene&LineHighlight=2882#2871' target='_blank'>IV v 27</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/h-4-5-27-ophelia.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Ophelia</div>
+  <div class='monologue_detail'>
+  Verse &amp; Prose - intercut <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_5'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_5', '/monologues/preview/5', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('VdycyAzIMUW6RqjMOcbwU/Eg3EgAFICKU1FUOFUJYnc=')}); return false;">They bore him barefaced on the bier</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=4&Scene=5&Scope=scene&LineHighlight=3042#3029' target='_blank'>IV V 148</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/h-4-5-148-ophelia.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Gertrude</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_6'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_6', '/monologues/preview/6', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('VdycyAzIMUW6RqjMOcbwU/Eg3EgAFICKU1FUOFUJYnc=')}); return false;">One woe doth tread upon another's heel</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=4&Scene=7&Scope=scene&LineHighlight=3312#3295' target='_blank'>IV vii 180</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/h-4-7-163-queengertrude.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Horatio</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_7'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_7', '/monologues/preview/7', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('VdycyAzIMUW6RqjMOcbwU/Eg3EgAFICKU1FUOFUJYnc=')}); return false;">At least, the whisper goes so. Our last king</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=1&Scene=1&Scope=scene&LineHighlight=96#86' target='_blank'>I i 97</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-1-1-97-horatio.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Claudius</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_8'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_8', '/monologues/preview/8', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('VdycyAzIMUW6RqjMOcbwU/Eg3EgAFICKU1FUOFUJYnc=')}); return false;">Though yet of Hamlet our dear brother's death</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=1&Scene=2&Scope=scene&LineHighlight=201' target='_blank'>I ii 1</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-1-2-1-claudius.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Claudius</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_9'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_9', '/monologues/preview/9', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('VdycyAzIMUW6RqjMOcbwU/Eg3EgAFICKU1FUOFUJYnc=')}); return false;">'Tis sweet and commendable in your nature Hamlet,</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=1&Scene=2&Scope=scene&LineHighlight=290#279' target='_blank'>I ii 91</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-1-2-91-claudius.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Hamlet</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_10'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_10', '/monologues/preview/10', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('VdycyAzIMUW6RqjMOcbwU/Eg3EgAFICKU1FUOFUJYnc=')}); return false;">O, that this too too solid flesh would melt.</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=1&Scene=2&Scope=scene&LineHighlight=333#323' target='_blank'>I ii 133</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-1-2-133-hamlet.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Horatio</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_11'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_11', '/monologues/preview/11', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('VdycyAzIMUW6RqjMOcbwU/Eg3EgAFICKU1FUOFUJYnc=')}); return false;">Two nights together had these gentlemen</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=1&Scene=2&Scope=scene&LineHighlight=405#396' target='_blank'>I ii 205</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-1-2-205-horatio.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Laertes</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_12'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_12', '/monologues/preview/12', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('VdycyAzIMUW6RqjMOcbwU/Eg3EgAFICKU1FUOFUJYnc=')}); return false;">Think it no more
+For nature, crescent, does not grow alone</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=1&Scene=3&Scope=scene&LineHighlight=494#486' target='_blank'>I iii 15</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-1-3-115-laertes.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Polonius</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_13'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_13', '/monologues/preview/13', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('VdycyAzIMUW6RqjMOcbwU/Eg3EgAFICKU1FUOFUJYnc=')}); return false;">Yet here, Laertes! aboard, aboard, for shame!
+The wind sits in the shoulder of your sail,</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=1&Scene=3&Scope=scene&LineHighlight=494#486' target='_blank'>I iii 62</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-1-3-62-polonius.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Polonius</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_14'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_14', '/monologues/preview/14', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('VdycyAzIMUW6RqjMOcbwU/Eg3EgAFICKU1FUOFUJYnc=')}); return false;">Ay, springes to catch woodcocks. I do know</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=1&Scene=3&Scope=scene&LineHighlight=602#597' target='_blank'>I iii 123</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-1-3-123-polonius.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Hamlet</div>
+  <div class='monologue_detail'>
+  Verse - intercut <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_15'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_15', '/monologues/preview/15', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('VdycyAzIMUW6RqjMOcbwU/Eg3EgAFICKU1FUOFUJYnc=')}); return false;">But to my mind, though I am native here</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=1&Scene=4&Scope=scene&LineHighlight=641#629' target='_blank'>I iv 18</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-1-4-18-hamlet.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Ghost</div>
+  <div class='monologue_detail'>
+  Verse - intercut <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_16'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_16', '/monologues/preview/16', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('VdycyAzIMUW6RqjMOcbwU/Eg3EgAFICKU1FUOFUJYnc=')}); return false;">I am thy father's spirit.</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=1&Scene=5&Scope=scene&LineHighlight=745#739' target='_blank'>I v 15</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-1-5-15-ghost.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Hamlet</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_17'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_17', '/monologues/preview/17', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('VdycyAzIMUW6RqjMOcbwU/Eg3EgAFICKU1FUOFUJYnc=')}); return false;">O all you host of heaven! O earth! What else?</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=1&Scene=5&Scope=scene&LineHighlight=830#818' target='_blank'>I v 100</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-1-5-100-hamlet.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Hamlet</div>
+  <div class='monologue_detail'>
+  Prose  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_18'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_18', '/monologues/preview/18', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('VdycyAzIMUW6RqjMOcbwU/Eg3EgAFICKU1FUOFUJYnc=')}); return false;">I will tell you why; so shall my anticipation prevent your discovery</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=2&Scene=2&Scope=scene&LineHighlight=1389#1375' target='_blank'>II ii 250</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-2-2-250-hamlet.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>1st Player</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_19'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_19', '/monologues/preview/19', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('VdycyAzIMUW6RqjMOcbwU/Eg3EgAFICKU1FUOFUJYnc=')}); return false;">Anon, he finds him
+Striking too short at Greeks; his antique sword,</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=2&Scene=2&Scope=scene&LineHighlight=1542#1541' target='_blank'>III ii 132</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-2-2-321-firstplayer.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Hamlet</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_20'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_20', '/monologues/preview/20', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('VdycyAzIMUW6RqjMOcbwU/Eg3EgAFICKU1FUOFUJYnc=')}); return false;">O, what a rogue and peasant slave am I</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=2&Scene=2&Scope=scene&LineHighlight=1620#1615' target='_blank'>II ii 382</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-2-2-550-hamlet.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Hamlet</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_21'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_21', '/monologues/preview/21', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('VdycyAzIMUW6RqjMOcbwU/Eg3EgAFICKU1FUOFUJYnc=')}); return false;">To be, or not to be, that is the question</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=3&Scene=1&Scope=scene&LineHighlight=1749#1740' target='_blank'>III i 64</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-3-1-55-hamlet.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Hamlet</div>
+  <div class='monologue_detail'>
+  Prose - intercut <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_22'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_22', '/monologues/preview/22', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('VdycyAzIMUW6RqjMOcbwU/Eg3EgAFICKU1FUOFUJYnc=')}); return false;">Get thee to a nunnery</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=3&Scene=1&Scope=scene&LineHighlight=1814#1810' target='_blank'>III i 125</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-3-1-125-hamlet.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Hamlet</div>
+  <div class='monologue_detail'>
+  Prose  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_23'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_23', '/monologues/preview/23', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('VdycyAzIMUW6RqjMOcbwU/Eg3EgAFICKU1FUOFUJYnc=')}); return false;">Speak the speech, I pray you</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=3&Scene=2&Scope=scene&LineHighlight=1883' target='_blank'>III ii 1</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-3-2-1-hamlet.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Hamlet</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_24'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_24', '/monologues/preview/24', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('VdycyAzIMUW6RqjMOcbwU/Eg3EgAFICKU1FUOFUJYnc=')}); return false;">Since my dear soul was mistress of her choice</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=3&Scene=2&Scope=scene&LineHighlight=1935#1929' target='_blank'>III ii 27</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-3-2-27-hamlet.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Player King</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_25'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_25', '/monologues/preview/25', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('VdycyAzIMUW6RqjMOcbwU/Eg3EgAFICKU1FUOFUJYnc=')}); return false;">I do believe you think what now you speak</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=3&Scene=2&Scope=scene&LineHighlight=2078#2069' target='_blank'>III ii 134</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-3-2-134-playerking.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Claudius</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_26'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_26', '/monologues/preview/26', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('VdycyAzIMUW6RqjMOcbwU/Eg3EgAFICKU1FUOFUJYnc=')}); return false;">O, my offence is rank, it smells to heaven</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=3&Scene=3&Scope=scene&LineHighlight=2316#2307' target='_blank'>III iii 142</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-3-3-142-claudius.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Hamlet</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_27'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_27', '/monologues/preview/27', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('VdycyAzIMUW6RqjMOcbwU/Eg3EgAFICKU1FUOFUJYnc=')}); return false;">Now might I do it pat, now he is praying</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=3&Scene=3&Scope=scene&LineHighlight=2356#2356' target='_blank'>III iii 80</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-3-3-80-hamlet.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Hamlet</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_28'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_28', '/monologues/preview/28', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('VdycyAzIMUW6RqjMOcbwU/Eg3EgAFICKU1FUOFUJYnc=')}); return false;">Look here, upon this picture, and on this</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=3&Scene=4&Scope=scene&LineHighlight=2445#2443' target='_blank'>III iv 63</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-3-4-63-hamlet.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Hamlet</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_29'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_29', '/monologues/preview/29', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('VdycyAzIMUW6RqjMOcbwU/Eg3EgAFICKU1FUOFUJYnc=')}); return false;">How all occasions do inform against me</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=4&Scene=4&Scope=scene&LineHighlight=2819#2819' target='_blank'>IV iv 35</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-4-4-35-hamlet.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Claudius</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_30'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_30', '/monologues/preview/30', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('VdycyAzIMUW6RqjMOcbwU/Eg3EgAFICKU1FUOFUJYnc=')}); return false;">O! this is the poison of deep grief;</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=4&Scene=5&Scope=scene&LineHighlight=2935#2929' target='_blank'>IV v 45</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-4-5-45-claudius.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Hamlet</div>
+  <div class='monologue_detail'>
+  Prose  <br/>
+  <a href="/plays/31">Hamlet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_31'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_31', '/monologues/preview/31', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('VdycyAzIMUW6RqjMOcbwU/Eg3EgAFICKU1FUOFUJYnc=')}); return false;">Alas! poor Yorick. I knew him, Horatio</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=5&Scene=1&Scope=scene&LineHighlight=3515#3508' target='_blank'>V 1 80</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h-5-1-80-hamlet.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+</table></div>
+
+
+  
+
+
+
+
+    </div>
+:@_rails_html_safeF

@@ -1,0 +1,47 @@
+"×
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_136">
+      
+
+
+A time, methinks, too short
+To make a world-without-end bargain in.
+<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_136', '/monologues/preview?monologue_id=136', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('m2XYnv6pYoF7uCRP7re3NFXcuePXBiOHgQJCAMdqsEI=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <div align='right'>A time, methinks, too short</div>
+To make a world-without-end bargain in.<br>
+No, no, my lord, your grace is perjured much,<br>
+Full of dear guiltiness; and therefore this:<br>
+If for my love, as there is no such cause,<br>
+You will do aught, this shall you do for me:<br>
+Your oath I will not trust; but go with speed<br>
+To some forlorn and naked hermitage,<br>
+Remote from all the pleasures of the world;<br>
+There stay until the twelve celestial signs<br>
+Have brought about the annual reckoning. <br>
+If this austere insociable life<br>
+Change not your offer made in heat of blood;<br>
+If frosts and fasts, hard lodging and thin weeds<br>
+Nip not the gaudy blossoms of your love,<br>
+But that it bear this trial and last love;<br>
+Then, at the expiration of the year,<br>
+Come challenge me, challenge me by these deserts,<br>
+And, by this virgin palm now kissing thine<br>
+I will be thine; and till that instant shut<br>
+My woeful self up in a mourning house,<br>
+Raining the tears of lamentation<br>
+For the remembrance of my father's death.<br>
+If this thou do deny, let our hands part,<br>
+Neither entitled in the other's heart. 
+
+      </div>
+    </span>
+
+  
+

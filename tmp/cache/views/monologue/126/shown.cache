@@ -1,0 +1,11 @@
+"£
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_126">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_126', '/monologues/preview/126', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('oi8Jx33bxj2Ndvs3dNqMhcuAT4SE891UL9V/n2Rspw8=')}); return false;">How do you speak!
+Did you but know the city's usuries</a>
+    </span>
+  
+

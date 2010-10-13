@@ -1,0 +1,37 @@
+"û
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_671">
+      How! have they denied him?<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_671', '/monologues/preview?monologue_id=671', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('C+JK6gnu6aRNBH6pn3YrZrrWImdbh4UoC3Rpzy0hi48=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          How! have they denied him?<br>
+Has Ventidius and Lucullus denied him?<br>
+And does he send to me? Three? hum!<br>
+It shows but little love or judgment in him:<br>
+Must I be his last refuge! His friends, like <br>
+physicians,<br>
+Thrive, give him over: must I take the cure upon me?<br>
+Has much disgraced me in't; I'm angry at him,<br>
+That might have known my place: I see no sense for't,<br>
+But his occasion might have woo'd me first;<br>
+For, in my conscience, I was the first man<br>
+That e'er received gift from him:<br>
+And does he think so backwardly of me now,<br>
+That I'll requite its last? No:<br>
+So it may prove an argument of laughter <br>
+To the rest, and 'mongst lords I be thought a fool.<br>
+I'ld rather than the worth of thrice the sum,<br>
+Had sent to me first, but for my mind's sake;<br>
+I'd such a courage to do him good. But now return,<br>
+And with their faint reply this answer join; <br>
+Who bates mine honour shall not know my coin. 
+      </div>
+    </span>
+
+  
+

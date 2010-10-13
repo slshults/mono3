@@ -1,0 +1,1068 @@
+I"z�  
+    <div>
+      <h2>Men's Monologues in Shakespeare</h2>
+      <h2>Cymbeline</h2>
+      <span>
+        <form action="javascript:void(0);" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="7lw6GjKO7weQB8EaAHGydwG1ILdnNDkMvy/aCa0HgBs=" /></div>
+          <b>Search:</b> <input type="text" id="search" size="40"/>
+          <img alt="Ajax-loader" id="spinner" src="/images/ajax-loader.gif?1278779332" style="display: none;" />
+        </form>
+        <div class="search_links">
+          <a href="/plays/3?g=2">Search Women</a> &nbsp;|&nbsp;
+          <a href="/plays/3">Search Cymbeline</a> &nbsp;|&nbsp;
+          <a href="/plays">Search All Plays</a> &nbsp;|&nbsp;
+          
+            <a href="/plays/3?g=3">Collapse All</a>
+          
+        </div>
+      </span>
+    </div>
+    <script type="text/javascript">
+//<![CDATA[
+new Form.Element.Observer('search', 1.25, function(element, value) {Element.show('spinner'); new Ajax.Updater('ajaxResults', 'http://www.shakespeare-monologues.org/monologues/search', {asynchronous:true, evalScripts:true, onComplete:function(request){Element.hide('spinner')}, parameters:'g=3&p=3&search=' + encodeURIComponent(value) + '&authenticity_token=' + encodeURIComponent('7lw6GjKO7weQB8EaAHGydwG1ILdnNDkMvy/aCa0HgBs=')})})
+//]]>
+</script>
+  
+    <div id='ajaxResults'>
+      
+
+  
+
+      
+<div>
+  <table id='monologue_list'>
+    <tr>
+      <th>Character</th>
+      <th>First Line</th>
+      <th>Act & Sc</th>
+      <th>pdf</th>
+    </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Iachimo</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/3">Cymbeline</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_122'>
+  
+    <span id="preview_mono_122">
+      The crickets sing, and man's o'erlabour'd sense<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_122', '/monologues/preview?monologue_id=122', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('7lw6GjKO7weQB8EaAHGydwG1ILdnNDkMvy/aCa0HgBs=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          The crickets sing, and man's o'erlabour'd sense	<br>
+Repairs itself by rest. Our Tarquin thus  <br>
+Did softly press the rushes ere he waken'd <br>
+The chastity he wounded. Cytherea,  <br>
+How bravely thou becom'st thy bed! fresh lily,<br> 
+And whiter than the sheets! That I might touch!<br>
+But kiss: one kiss! Rubies unparagon'd, <br>
+How dearly they do't! 'Tis her breathing that<br> 
+Perfumes the chamber thus; the flame of the taper <br>
+Bows toward her, and would under-peep her lids,  <br>
+To see the enclosed lights, now canopied <br>
+Under these windows, white and azure lac'd <br>
+With blue of heaven's own tinct. But my design,<br> 
+To note the chamber: I will write all down: <br>
+Such and such pictures; there the window; such <br>
+Th' adornment of her bed; the arras, figures, <br>
+Why, such and such; and the contents o' the story.<br> 
+Ah! but some natural notes about her body,  <br>
+Above ten thousand meaner moveables <br>
+Would testify, to enrich mine inventory.<br> 
+O sleep! thou ape of death, lie dull upon her;<br> 
+And be her senses but as a monument  <br>
+Thus in a chapel lying. Come off, come off;.  [Taking off her bracelet.]<br> 
+As slippery as the Gordian knot was hard! <br>
+'Tis mine; and this will witness outwardly, <br>
+As strongly as the conscience does within, <br>
+To the madding of her lord. On her left breast <br>
+A mole cinque-spotted, like the crimson drops <br>
+I' the bottom of a cowslip: here's a voucher;  <br>
+Stronger than ever law could make: this secret  <br>
+Will force him think I have pick'd the lock and ta'en<br> 
+The treasure of her honour. No more. To what end? <br>
+Why should I write this down, that's riveted, <br>
+Screw'd to my memory? She hath been reading late  <br>
+The tale of Tereus; here the leaf's turn'd down <br>
+Where Philomel gave up. I have enough: <br>
+To the trunk again, and shut the spring of it.<br> 
+Swift, swift, you dragons of the night, that dawning<br>  
+May bare the raven's eye! I lodge in fear; <br>
+Though this a heavenly angel, hell is here.  [Clock strikes.]<br>
+One, two, three: time, time!  [Goes into the trunk. The scene closes.]<br>
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.bartleby.com/70/4622.html#12' target='_blank'>II ii 15</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/c-2-5-1-posthumusleonatus.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Posthumus</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/3">Cymbeline</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_123'>
+  
+    <span id="preview_mono_123">
+      Is there no way for men to be, but women   II v 4<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_123', '/monologues/preview?monologue_id=123', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('7lw6GjKO7weQB8EaAHGydwG1ILdnNDkMvy/aCa0HgBs=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Is there no way for men to be, but women <br>	 
+Must be half-workers? We are all bastards; all,<br>
+And that most venerable man which I <br>
+Did call my father was I know not where <br>
+When I was stamp'd; some coiner with his tools<br> 
+Made me a counterfeit; yet my mother seem'd   <br>
+The Dian of that time; so doth my wife <br>
+The nonpareil of this. O! vengeance, vengeance; <br> 
+Me of my lawful pleasure she restrain'd <br>
+And pray'd me oft forbearance; did it with  <br>
+A pudency so rosy the sweet view on 't <br>
+Might well have warm'd old Saturn; that I thought her <br> 
+As chaste as unsunn'd snow. O! all the devils! <br>
+This yellow Iachimo, in an hour,'was 't not?  <br>
+Or less'at first?'perchance he spoke not, but  <br>
+Like a full-acorn'd boar, a German one, <br>
+Cried 'O!' and mounted; found no opposition <br>
+But what he look'd for should oppose and she <br>
+Should from encounter guard. Could I find out  <br>
+The woman's part in me! For there's no motion   <br>
+That tends to vice in man but I affirm  <br>
+It is the woman's part; be it lying, note it,
+The woman's; flattering, hers; deceiving, hers; <br>
+Lust and rank thoughts, hers, hers; revenges, hers; <br>
+Ambitions, covetings, change of prides, disdain, <br>
+Nice longing, slanders, mutability,  <br>
+All faults that man may name, nay, that hell knows,<br> 
+Why, hers, in part, or all; but rather, all;  <br>
+For even to vice <br>
+They are not constant, but are changing still
+One vice but of a minute old for one <br>
+Not half so old as that. I'll write against them,<br> 
+Detest them, curse them. Yet 'tis greater skill <br>
+In a true hate to pray they have their will:  <br>
+The very devils cannot plague them better.  [Exit.]<br>
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=cymbeline&Act=2&Scene=5&Scope=scene&LineHighlight=1372#1372' target='_blank'></a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/c-2-5-1-posthumusleonatus.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Pisanio</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/3">Cymbeline</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_124'>
+  
+    <span id="preview_mono_124">
+      How! of adultery! Wherefore write you not<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_124', '/monologues/preview?monologue_id=124', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('7lw6GjKO7weQB8EaAHGydwG1ILdnNDkMvy/aCa0HgBs=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          How! of adultery! Wherefore write you not <br>	 
+What monster's her accuser? Leonatus!    <br>
+O master! what a strange infection <br>
+Is fall'n into thy ear! What false Italian. <br>
+As poisonous-tongu'd as handed'hath prevail'd <br>
+On thy too ready hearing? Disloyal! No:   <br>
+She's punish'd for her truth, and undergoes, <br>
+More goddess-like than wife-like, such assaults <br>
+As would take in some virtue. O my master! <br>
+Thy mind to her is now as low as were  <br>
+Thy fortunes. How! that I should murder her?<br> 
+Upon the love and truth and vows which I <br>
+Have made to thy command? I, her? her blood? <br>
+If it be so to do good service, never   <br>
+Let me be counted serviceable. How look I, <br>
+That I should seem to lack humanity <br>
+So much as this fact comes to?'Do 't: the letter<br> 
+That I have sent her by her own command  <br>
+Shall give thee opportunity:'O damn'd paper! <br>
+Black as the ink that's on thee. Senseless bauble,<br> 
+Art thou a feodary for this act, and look'st <br>
+So virgin-like without? Lo! here she comes.  
+I am ignorant in what I am commanded.<br>
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.bartleby.com/70/4632.html#1' target='_blank'>III ii 3</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/c-3-2-1-pisanio.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Belarius</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/3">Cymbeline</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_125'>
+  
+    <span id="preview_mono_125">
+      Now for our mountain sport. Up to yond hill;<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_125', '/monologues/preview?monologue_id=125', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('7lw6GjKO7weQB8EaAHGydwG1ILdnNDkMvy/aCa0HgBs=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Now for our mountain sport. Up to yond hill; <br>
+Your legs are young; I'll tread these flats. Consider, <br>
+When you above perceive me like a crow,  <br>
+That it is place which lessens and sets off; <br>
+And you may then revolve what tales I have told you<br> 
+Of courts, of princes, of the tricks in war; <br>
+This service is not service, so being done,  <br>
+But being so allow'd; to apprehend thus <br>
+Draws us a profit from all things we see, <br>
+And often, to our comfort, shall we find <br>
+The sharded beetle in a safer hold  <br>
+Than is the full-wing'd eagle. O! this life<br> 
+Is nobler than attending for a check, <br>
+Richer than doing nothing for a bribe, <br>
+Prouder than rustling in unpaid-for silk;  <br>
+Such gain the cap of him that makes 'em fine, <br>
+Yet keeps his book uncross'd; no life to ours. 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.bartleby.com/70/4633.html#14' target='_blank'>III III 14</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/c-3-3-10-belarius.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Belarius</div>
+  <div class='monologue_detail'>
+  Verse - intercut <br/>
+  <a href="/plays/3">Cymbeline</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_126'>
+  
+    <span id="preview_mono_126">
+      How do you speak!
+Did you but know the city's usuries<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_126', '/monologues/preview?monologue_id=126', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('7lw6GjKO7weQB8EaAHGydwG1ILdnNDkMvy/aCa0HgBs=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          How you speak!	 <br>
+Did you but know the city's usuries <br>
+And felt them knowingly; the art o' the court,<br>
+As hard to leave as keep, whose top to climb <br>
+Is certain falling, or so slippery that <br>
+The fear's as bad as falling; the toil of the war,<br> 
+A pain that only seems to seek out danger   <br>
+I' the name of fame and honour; which dies i' the search,<br> 
+And hath as oft a slanderous epitaph <br>
+As record of fair act; nay, many times, <br>
+Doth ill deserve by doing well; what's worse,<br>
+Must curtsy at the censure: O boys! this story  <br>
+The world may read in me; my body's mark'd <br>
+With Roman swords, and my report was once <br>
+First with the best of note; Cymbeline lov'd me,<br>
+And when a soldier was the theme, my name <br>
+Was not far off; then was I as a tree <br>
+Whose boughs did bend with fruit, but, in one night,<br> 
+A storm or robbery, call it what you will,  <br>
+Shook down my mellow hangings, nay, my leaves, <br>
+And left me bare to weather. <br>
+  <br>
+<del>Gui.        Uncertain favour!</del> <br>
+<br>
+Bel.  My fault being nothing,'as I have told you oft,'  <br>
+But that two villains, whose false oaths prevail'd  <br>
+Before my perfect honour, swore to Cymbeline <br>
+I was confederate with the Romans; <br>
+Follow'd my banishment, and this twenty years<br>
+This rock and these demesnes have been my world,<br> 
+Where I have liv'd at honest freedom, paid <br>
+More pious debts to heaven than in all <br>
+The fore-end of my time. But, up to the mountains! <br>
+This is not hunter's language. He that strikes <br>
+The venison first shall be the lord o' the feast; <br>
+To him the other two shall minister; <br>
+And we will fear no poison which attends  
+In place of greater state. I'll meet you in the valleys.  [Exeunt GUIDERIUS and ARVIRAGUS.] <br>
+How hard it is to hide the sparks of nature! <br>
+These boys know little they are sons to the king; <br>
+Nor Cymbeline dreams that they are alive.  <br>
+They think they are mine; and, though train'd up thus meanly<br> 
+I' the cave wherein they bow, their thoughts do hit <br>
+The roofs of palaces, and nature prompts them <br>
+In simple and low things to prince it much  <br>
+Beyond the trick of others. This Polydore,   <br>
+The heir of Cymbeline and Britain, who <br>
+The king his father call'd Guiderius,'Jove! <br>
+When on my three-foot stool I sit and tell  <br>
+The war-like feats I have done, his spirits fly out<br> 
+Into my story: say, 'Thus mine enemy fell, <br>
+And thus I set my foot on 's neck;' even then <br>
+The princely blood flows in his cheek, he sweats, <br>
+Strains his young nerves, and puts himself in posture <br>
+That acts my words. The younger brother, Cadwal,' <br>
+Once Arviragus,'in as like a figure, <br>
+Strikes life into my speech and shows much more <br>
+His own conceiving. Hark! the game is rous'd. <br>
+O Cymbeline! heaven and my conscience knows <br>
+Thou didst unjustly banish me; whereon, <br>
+At three and two years old, I stole these babes,<br>
+Thinking to bar thee of succession, as <br>
+Thou reft'st me of my lands. Euriphile, <br>
+Thou wast their nurse; they took thee for their mother,<br> 
+And every day do honour to her grave:  <br>
+Myself, Belarius, that am Morgan call'd, <br>
+They take for natural father. The game is up.  [Exit.]<br>
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=cymbeline&Act=3&Scene=3&Scope=scene&LineHighlight=1649#1639' target='_blank'>III iii 49</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/c-3-3-44-belarius.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Cloten</div>
+  <div class='monologue_detail'>
+  Prose  <br/>
+  <a href="/plays/3">Cymbeline</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_127'>
+  
+    <span id="preview_mono_127">
+      I am near to the place where they should meet<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_127', '/monologues/preview?monologue_id=127', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('7lw6GjKO7weQB8EaAHGydwG1ILdnNDkMvy/aCa0HgBs=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          I am near to the place where they should meet, if <br>
+      Pisanio have mapped it truly. How fit his garments<br>
+      serve me! Why should his mistress, who was made by<br>
+      him that made the tailor, not be fit too? the <br>
+      rather.saving reverence of the word.for 'tis said<br>
+      a woman's fitness comes by fits. Therein I must<br>
+      play the workman. I dare speak it to myself.for it<br>
+      is not vain-glory for a man and his glass to confer<br>
+      in his own chamber.I mean, the lines of my body are
+      as well drawn as his; no less young, more strong,<br>
+      not beneath him in fortunes, beyond him in the<br>
+      advantage of the time, above him in birth, alike<br>
+      conversant in general services, and more remarkable<br>
+      in single oppositions: yet this imperceiverant<br>
+      thing loves him in my despite. What mortality is!<br>
+      Posthumus, thy head, which now is growing upon thy<br>
+      shoulders, shall within this hour be off; thy<br>
+      mistress enforced; thy garments cut to pieces before<br>
+      thy face: and all this done, spurn her home to her<br>
+      father; who may haply be a little angry for my so<br>
+      rough usage; but my mother, having power of his<br>
+      testiness, shall turn all into my commendations. My<br>
+      horse is tied up safe: out, sword, and to a sore<br>
+      purpose! Fortune, put them into my hand! This is<br>
+      the very description of their meeting-place; and<br>
+      the fellow dares not deceive me. <br>
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=cymbeline&Act=4&Scene=1&Scope=scene&LineHighlight=2287#2287' target='_blank'>IV i 1</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/c-4-1-1-cloten.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Posthumus</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/3">Cymbeline</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_128'>
+  
+    <span id="preview_mono_128">
+      Yea, bloody cloth, I'll keep thee, for I wish'd<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_128', '/monologues/preview?monologue_id=128', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('7lw6GjKO7weQB8EaAHGydwG1ILdnNDkMvy/aCa0HgBs=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          [<i>with a bloody handkerchief</i>]
+<p>
+Yea, bloody cloth, I'll keep thee, for I wish'd<br>
+      Thou shouldst be colour'd thus. You married ones,<br>
+      If each of you should take this course, how many<br>
+      Must murder wives much better than themselves<br>
+      For wrying but a little! O Pisanio!<br>
+      Every good servant does not all commands:<br>
+      No bond but to do just ones. Gods! if you<br>
+      Should have ta'en vengeance on my faults, I never<br>
+      Had lived to put on this: so had you saved<br>
+      The noble Imogen to repent, and struck<br>
+      Me, wretch more worth your vengeance. But, alack,<br>
+      You snatch some hence for little faults; that's love,<br>
+      To have them fall no more: you some permit<br>
+      To second ills with ills, each elder worse,<br>
+      And make them dread it, to the doers' thrift.<br>
+      But Imogen is your own: do your best wills,<br>
+      And make me blest to obey! I am brought hither<br>
+      Among the Italian gentry, and to fight<br>
+      Against my lady's kingdom: 'tis enough<br>
+      That, Britain, I have kill'd thy mistress; peace!<br>
+      I'll give no wound to thee. Therefore, good heavens,<br>
+      Hear patiently my purpose: I'll disrobe me<br>
+      Of these Italian weeds and suit myself<br>
+      As does a Briton peasant: so I'll fight<br>
+      Against the part I come with; so I'll die<br>
+      For thee, O Imogen, even for whom my life<br>
+      Is every breath a death; and thus, unknown,<br>
+      Pitied nor hated, to the face of peril<br>
+      Myself I'll dedicate. Let me make men know<br>
+      More valour in me than my habits show.<br>
+      Gods, put the strength o' the Leonati in me!<br>
+      To shame the guise o' the world, I will begin<br>
+      The fashion, less without and more within. <br>
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=cymbeline&Act=5&Scene=1&Scope=scene&LineHighlight=2952#2952' target='_blank'>V i 1</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/c-5-1-1-posthumusleonatus.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Posthumus</div>
+  <div class='monologue_detail'>
+  Verse - intercut <br/>
+  <a href="/plays/3">Cymbeline</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_129'>
+  
+    <span id="preview_mono_129">
+      No blame be to you, sir; for all was lost,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_129', '/monologues/preview?monologue_id=129', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('7lw6GjKO7weQB8EaAHGydwG1ILdnNDkMvy/aCa0HgBs=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          No blame be to you, sir; for all was lost,<br>
+      But that the heavens fought: the king himself<br>
+      Of his wings destitute, the army broken,<br>
+      And but the backs of Britons seen, all flying<br>
+      Through a straight lane; the enemy full-hearted, <br>
+      Lolling the tongue with slaughtering, having work<br>
+      More plentiful than tools to do't, struck down<br>
+      Some mortally, some slightly touch'd, some falling<br>
+      Merely through fear; that the straight pass was damm'd<br>
+      With dead men hurt behind, and cowards living <br>
+      To die with lengthen'd shame. <br>
+<p>
+    <del> Lord. Where was this lane? </del>
+<p>
+Close by the battle, ditch'd, and wall'd with turf;<br>
+      Which gave advantage to an ancient soldier,<br>
+      An honest one, I warrant; who deserved <br>
+      So long a breeding as his white beard came to,<br>
+      In doing this for's country: athwart the lane,<br>
+      He, with two striplings-lads more like to run<br>
+      The country base than to commit such slaughter<br>
+      With faces fit for masks, or rather fairer <br>
+      Than those for preservation cased, or shame.<br>
+      Made good the passage; cried to those that fled,<br>
+      'Our Britain s harts die flying, not our men:<br>
+      To darkness fleet souls that fly backwards. Stand;<br>
+      Or we are Romans and will give you that <br>
+      Like beasts which you shun beastly, and may save,<br>
+      But to look back in frown: stand, stand.'
+      These three,<br>
+      Three thousand confident, in act as many.<br>
+      For three performers are the file when all <br>
+      The rest do nothing.with this word 'Stand, stand,'<br>
+      Accommodated by the place, more charming<br>
+      With their own nobleness, which could have turn'd<br>
+      A distaff to a lance, gilded pale looks,<br>
+      Part shame, part spirit renew'd; that some, 
+      turn'd coward<br>
+      But by example.O, a sin in war,<br>
+      Damn'd in the first beginners!--gan to look<br>
+      The way that they did, and to grin like lions<br>
+      Upon the pikes o' the hunters. Then began <br>
+      A stop i' the chaser, a retire, anon<br>
+      A rout, confusion thick; forthwith they fly<br>
+      Chickens, the way which they stoop'd eagles; slaves,<br>
+      The strides they victors made: and now our cowards,<br>
+      Like fragments in hard voyages, became <br>
+      The life o' the need: having found the backdoor open<br>
+      Of the unguarded hearts, heavens, how they wound!<br>
+      Some slain before; some dying; some their friends<br>
+      O'er borne i' the former wave: ten, chased by one,<br>
+      Are now each one the slaughter-man of twenty: <br>
+      Those that would die or ere resist are grown<br>
+      The mortal bugs o' the field. <br>
+<p>
+   <del> Lord. This was strange chance
+      A narrow lane, an old man, and two boys. </del>
+<p>
+Nay, do not wonder at it: you are made <br>
+      Rather to wonder at the things you hear<br>
+      Than to work any. Will you rhyme upon't,<br>
+      And vent it for a mockery? Here is one:<br>
+      'Two boys, an old man twice a boy, a lane,<br>
+      Preserved the Britons, was the Romans' bane.' <br>
+<p>
+   <del> Lord. Nay, be not angry, sir. </del>
+<p>
+'Lack, to what end?<br>
+      Who dares not stand his foe, I'll be his friend;<br>
+      For if he'll do as he is made to do,<br>
+      I know he'll quickly fly my friendship too. <br>
+      You have put me into rhyme. <br>
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=cymbeline&Act=5&Scene=3&Scope=scene&LineHighlight=3026' target='_blank'>V iii 7</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/c-5-3-3-posthumusleonatus.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Posthumus</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/3">Cymbeline</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_130'>
+  
+    <span id="preview_mono_130">
+      Still going? - This is a lord! O noble misery!<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_130', '/monologues/preview?monologue_id=130', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('7lw6GjKO7weQB8EaAHGydwG1ILdnNDkMvy/aCa0HgBs=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Still going? <br>
+[<i>Exit Lord</i>]
+<div align='center'>This is a lord! O noble misery,</div>
+To be i' the field, and ask 'what news?' of me!<br>
+To-day how many would have given their honours<br>
+To have saved their carcasses! took heel to do't,<br>
+And yet died too! I, in mine own woe charm'd,<br>
+Could not find death where I did hear him groan, <br>
+Nor feel him where he struck: being an ugly monster,<br>
+'Tis strange he hides him in fresh cups, soft beds,<br>
+Sweet words; or hath more ministers than we<br>
+That draw his knives i' the war. Well, I will find him<br>
+For being now a favourer to the Briton, <br>
+No more a Briton, I have resumed again<br>
+The part I came in: fight I will no more,<br>
+But yield me to the veriest hind that shall<br>
+Once touch my shoulder. Great the slaughter is<br>
+Here made by the Roman; great the answer be <br>
+Britons must take. For me, my ransom's death;<br>
+On either side I come to spend my breath;<br>
+Which neither here I'll keep nor bear again,<br>
+But end it by some means for Imogen. <br>
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=cymbeline&Act=5&Scene=3&Scope=scene&LineHighlight=3093#3086' target='_blank'>V iii</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/c-5-3-64-posthumusleonatus.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Posthumus</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/3">Cymbeline</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_131'>
+  
+    <span id="preview_mono_131">
+      Most welcome, bondage! for thou art away<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_131', '/monologues/preview?monologue_id=131', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('7lw6GjKO7weQB8EaAHGydwG1ILdnNDkMvy/aCa0HgBs=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Most welcome, bondage! for thou art away,<br>
+think, to liberty: yet am I better<br>
+Than one that's sick o' the gout; since he had rather<br>
+Groan so in perpetuity than be cured<br>
+By the sure physician, death, who is the key<br>
+To unbar these locks. My conscience, thou art fetter'd <br>
+More than my shanks and wrists: you good gods, give me<br>
+The penitent instrument to pick that bolt,<br>
+Then, free for ever! Is't enough I am sorry?<br>
+So children temporal fathers do appease;<br>
+Gods are more full of mercy. Must I repent? <br>
+I cannot do it better than in gyves,<br>
+Desired more than constrain'd: to satisfy,<br>
+If of my freedom 'tis the main part, take<br>
+No stricter render of me than my all.<br>
+I know you are more clement than vile men,<br>
+Who of their broken debtors take a third,<br>
+A sixth, a tenth, letting them thrive again<br>
+On their abatement: that's not my desire:<br>
+For Imogen's dear life take mine; and though<br>
+'Tis not so dear, yet 'tis a life; you coin'd it:<br>
+'Tween man and man they weigh not every stamp;<br>
+Though light, take pieces for the figure's sake:<br>
+You rather mine, being yours: and so, great powers,<br>
+If you will take this audit, take this life,<br>
+And cancel these cold bonds. O Imogen! <br>
+I'll speak to thee in silence. <br>
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=cymbeline&Act=5&Scene=4&Scope=scene&LineHighlight=3140' target='_blank'>V iv 5</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/c-5-4-3-posthumusleonatus.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Cymbeline</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/3">Cymbeline</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_132'>
+  
+    <span id="preview_mono_132">
+      O rare instinct!
+
+When shall I hear all through? This fierce abridgment<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_132', '/monologues/preview?monologue_id=132', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('7lw6GjKO7weQB8EaAHGydwG1ILdnNDkMvy/aCa0HgBs=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          No more, you petty spirits of region low,<br>
+Offend our hearing; hush! How dare you ghosts<br>
+Accuse the thunderer, whose bolt, you know,<br>
+Sky-planted batters all rebelling coasts?<br>
+Poor shadows of Elysium, hence, and rest<br>
+Upon your never-withering banks of flowers:<br>
+Be not with mortal accidents opprest;<br>
+No care of yours it is; you know 'tis ours. <br>
+Whom best I love I cross; to make my gift,<br>
+The more delay'd, delighted. Be content;<br>
+Your low-laid son our godhead will uplift:<br>
+His comforts thrive, his trials well are spent.<br>
+Our Jovial star reign'd at his birth, and in <br>
+Our temple was he married. Rise, and fade.<br>
+He shall be lord of lady Imogen,<br>
+And happier much by his affliction made.<br>
+This tablet lay upon his breast, wherein<br>
+Our pleasure his full fortune doth confine: <br>
+and so, away: no further with your din<br>
+Express impatience, lest you stir up mine.<br>
+Mount, eagle, to my palace crystalline. <br>
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.bartleby.com/70/4655.html#459' target='_blank'>V v 460</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/c-5-4-93-jupiter.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Jupiter</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/3">Cymbeline</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_280'>
+  
+    <span id="preview_mono_280">
+      No more you petty spirits of region low<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_280', '/monologues/preview?monologue_id=280', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('7lw6GjKO7weQB8EaAHGydwG1ILdnNDkMvy/aCa0HgBs=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          No more, you petty spirits of region low,<br>
+      Offend our hearing; hush! How dare you ghosts<br>
+      Accuse the thunderer, whose bolt, you know,<br>
+      Sky-planted batters all rebelling coasts?<br>
+      Poor shadows of Elysium, hence, and rest<br>
+      Upon your never-withering banks of flowers:<br>
+      Be not with mortal accidents opprest;<br>
+      No care of yours it is; you know 'tis ours.<br>
+      Whom best I love I cross; to make my gift,<br>
+      The more delay'd, delighted. Be content;<br>
+      Your low-laid son our godhead will uplift:<br>
+      His comforts thrive, his trials well are spent.<br>
+      Our Jovial star reign'd at his birth, and in <br>
+      Our temple was he married. Rise, and fade.<br>
+      He shall be lord of lady Imogen,<br>
+      And happier much by his affliction made.<br>
+      This tablet lay upon his breast, wherein<br>
+      Our pleasure his full fortune doth confine: <br>
+      and so, away: no further with your din<br>
+      Express impatience, lest you stir up mine.<br>
+      Mount, eagle, to my palace crystalline. <br>
+
+[Ascends] 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=cymbeline&Act=5&Scene=4&Scope=scene&LineHighlight=3243#3238' target='_blank'>V iv 98</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/c-5-4-93-jupiter.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Posthumus</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/3">Cymbeline</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_281'>
+  
+    <span id="preview_mono_281">
+      Sleep, thou hast been a grandsire and begot<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_281', '/monologues/preview?monologue_id=281', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('7lw6GjKO7weQB8EaAHGydwG1ILdnNDkMvy/aCa0HgBs=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <i>[Waking]</i>Sleep, thou hast been a grandsire, and begot<br>
+A father to me; and thou hast created<br>
+A mother and two brothers: but, O scorn!<br>
+Gone! they went hence so soon as they were born:<br>
+And so I am awake. Poor wretches that depend <br>
+On greatness' favour dream as I have done,<br>
+Wake and find nothing. But, alas, I swerve:<br>
+Many dream not to find, neither deserve,<br>
+And yet are steep'd in favours: so am I,<br>
+That have this golden chance and know not why.<br>
+What fairies haunt this ground? A book? O rare one!<br>
+Be not, as is our fangled world, a garment<br>
+Nobler than that it covers: let thy effects<br>
+So follow, to be most unlike our courtiers,<br>
+As good as promise. <br>
+<i>[Reads]</i><br>
+'When as a lion's whelp shall, to himself unknown,<br>
+without seeking find, and be embraced by a piece of<br>
+tender air; and when from a stately cedar shall be<br>
+lopped branches, which, being dead many years, <br>
+shall after revive, be jointed to the old stock and<br>
+freshly grow; then shall Posthumus end his miseries,<br>
+Britain be fortunate and flourish in peace and plenty.'<br>
+'Tis still a dream, or else such stuff as madmen<br>
+Tongue and brain not; either both or nothing; 3300<br>
+Or senseless speaking or a speaking such<br>
+As sense cannot untie. Be what it is,<br>
+The action of my life is like it, which<br>
+I'll keep, if but for sympathy. <br>
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=cymbeline&Act=5&Scene=4&Scope=scene&LineHighlight=3276#3271' target='_blank'>V iv 128</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/c-5-4-123-posthumusleonatus.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Lucius</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/3">Cymbeline</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_282'>
+  
+    <span id="preview_mono_282">
+      Consider, sir, the chance of war, the day<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_282', '/monologues/preview?monologue_id=282', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('7lw6GjKO7weQB8EaAHGydwG1ILdnNDkMvy/aCa0HgBs=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Consider, sir, the chance of war: the day<br>
+Was yours by accident; had it gone with us,<br>
+We should not, when the blood was cool, 
+have threaten'd<br>
+Our prisoners with the sword. But since the gods<br>
+Will have it thus, that nothing but our lives<br>
+May be call'd ransom, let it come: sufficeth<br>
+A Roman with a Roman's heart can suffer: <br>
+Augustus lives to think on't: and so much<br>
+For my peculiar care. This one thing only<br>
+I will entreat; my boy, a Briton born,<br>
+Let him be ransom'd: never master had<br>
+A page so kind, so duteous, diligent,<br>
+So tender over his occasions, true,<br>
+So feat, so nurse-like: let his virtue join<br>
+With my request, which I make bold your highness<br>
+Cannot deny; he hath done no Briton harm,<br>
+Though he have served a Roman: save him, sir,<br>
+And spare no blood beside. <br>
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=cymbeline&Act=5&Scene=5&Scope=scene&LineHighlight=3458#3441' target='_blank'>V v 91</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/c-5-5-75-caiuslucius.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Iachimo</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/3">Cymbeline</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_283'>
+  
+    <span id="preview_mono_283">
+      Upon a time - unhappy was the clock<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_283', '/monologues/preview?monologue_id=283', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('7lw6GjKO7weQB8EaAHGydwG1ILdnNDkMvy/aCa0HgBs=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Iachimo.</b> Upon a time,—unhappy was the clock<br>
+ That struck the hour!—it was in Rome,—accursed<br>
+ The mansion where!—'twas at a feast,—O, would<br>
+ Our viands had been poison'd, or at least <br>
+ Those which I heaved to head!—the good Posthumus—<br>
+ What should I say? he was too good to be<br>
+ Where ill men were; and was the best of all<br>
+ Amongst the rarest of good ones,—sitting sadly,<br>
+ Hearing us praise our loves of Italy <br>
+ For beauty that made barren the swell'd boast<br>
+ Of him that best could speak, for feature, laming<br>
+ The shrine of Venus, or straight-pight Minerva.<br>
+ Postures beyond brief nature, for condition,<br>
+ A shop of all the qualities that man <br>
+ Loves woman for, besides that hook of wiving,<br>
+ Fairness which strikes the eye— 
+<br><br>
+<del><b>Cymbeline.</b> I stand on fire:<br>
+ Come to the matter.</del> <br><br>
+
+<b>Iachimo.</b> All too soon I shall,<br>
+ Unless thou wouldst grieve quickly. This Posthumus,<br>
+ Most like a noble lord in love and one<br>
+ That had a royal lover, took his hint;<br>
+ And, not dispraising whom we praised,—therein<br>
+ He was as calm as virtue—he began<br>
+ His mistress' picture; which by his tongue<br>
+ being made,<br>
+ And then a mind put in't, either our brags<br>
+ Were crack'd of kitchen-trolls, or his description<br>
+ Proved us unspeaking sots. </p>
+
+<del><b>Cymbeline.</b> Nay, nay, to the purpose.</del><br><br>
+
+<b>Iachimo.</b> Your daughter's chastity—there it begins.<br>
+ He spake of her, as Dian had hot dreams,<br>
+ And she alone were cold: whereat I, wretch,<br>
+ Made scruple of his praise; and wager'd with him<br>
+ Pieces of gold 'gainst this which then he wore<br>
+ Upon his honour'd finger, to attain<br>
+ In suit the place of's bed and win this ring<br>
+ By hers and mine adultery. He, true knight,<br>
+ No lesser of her honour confident<br>
+ Than I did truly find her, stakes this ring;<br>
+ And would so, had it been a carbuncle<br>
+ Of Phoebus' wheel, and might so safely, had it<br>
+ Been all the worth of's car. Away to Britain<br>
+ Post I in this design: well may you, sir,<br>
+ Remember me at court; where I was taught<br>
+ Of your chaste daughter the wide difference<br>
+ 'Twixt amorous and villanous. Being thus quench'd<br>
+ Of hope, not longing, mine Italian brain<br>
+ 'Gan in your duller Britain operate<br>
+ Most vilely; for my vantage, excellent:<br>
+ And, to be brief, my practise so prevail'd,<br>
+ That I return'd with simular proof enough<br>
+ To make the noble Leonatus mad,<br>
+ By wounding his belief in her renown<br>
+ With tokens thus, and thus; averting notes<br>
+ Of chamber-hanging, pictures, this her bracelet,—<br>
+ O cunning, how I got it!—nay, some marks<br>
+ Of secret on her person, that he could not<br>
+ But think her bond of chastity quite crack'd,<br>
+ I having ta'en the forfeit. Whereupon—<br>
+ Methinks, I see him now— <br>
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=cymbeline&Act=5&Scene=5&Scope=scene&LineHighlight=3557#3550' target='_blank'>V v 184</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/c-5-5-152-iachimo.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Posthumus</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/3">Cymbeline</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_284'>
+  
+    <span id="preview_mono_284">
+      Ay, so thou dost Italian friend! Ay, most credulous fool,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_284', '/monologues/preview?monologue_id=284', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('7lw6GjKO7weQB8EaAHGydwG1ILdnNDkMvy/aCa0HgBs=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Ay, so thou dost,<br>
+Italian fiend! Ay me, most credulous fool,<br>
+Egregious murderer, thief, any thing <br>
+That's due to all the villains past, in being,<br>
+To come! O, give me cord, or knife, or poison,<br>
+Some upright justicer! Thou, king, send out<br>
+For torturers ingenious: it is I<br>
+That all the abhorred things o' the earth amend<br>
+By being worse than they. I am Posthumus,<br>
+That kill'd thy daughter:—villain-like, I lie—<br>
+That caused a lesser villain than myself,<br>
+A sacrilegious thief, to do't: the temple<br>
+Of virtue was she; yea, and she herself. <br>
+Spit, and throw stones, cast mire upon me, set<br>
+The dogs o' the street to bay me: every villain<br>
+Be call'd Posthumus Leonitus; and<br>
+Be villany less than 'twas! O Imogen!<br>
+My queen, my life, my wife! O Imogen, <br>
+Imogen, Imogen! 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=cymbeline&Act=5&Scene=5&Scope=scene&LineHighlight=3618#3618' target='_blank'>V v 244</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/c-5-5-209-posthumusleonatus.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Belarius</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/3">Cymbeline</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_285'>
+  
+    <span id="preview_mono_285">
+      So sure as you your father's. I, old Morgan,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_285', '/monologues/preview?monologue_id=285', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('7lw6GjKO7weQB8EaAHGydwG1ILdnNDkMvy/aCa0HgBs=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          So sure as you your father's. I, old Morgan,<br>
+Am that Belarius whom you sometime banish'd:<br>
+Your pleasure was my mere offence, my punishment<br>
+Itself, and all my treason; that I suffer'd<br>
+Was all the harm I did. These gentle princes— <br>
+For such and so they are—these twenty years<br>
+Have I train'd up: those arts they have as I<br>
+Could put into them; my breeding was, sir, as<br>
+Your highness knows. Their nurse, Euriphile,<br>
+Whom for the theft I wedded, stole these children <br>
+Upon my banishment: I moved her to't,<br>
+Having received the punishment before,<br>
+For that which I did then: beaten for loyalty<br>
+Excited me to treason: their dear loss,<br>
+The more of you 'twas felt, the more it shaped <br>
+Unto my end of stealing them. But, gracious sir,<br>
+Here are your sons again; and I must lose<br>
+Two of the sweet'st companions in the world.<br>
+The benediction of these covering heavens<br>
+Fall on their heads like dew! for they are worthy <br>
+To inlay heaven with stars. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=cymbeline&Act=5&Scene=5&Scope=scene&LineHighlight=3781#3772' target='_blank'>V v 402</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/c-5-5-333-belarius.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+</table></div>
+
+
+  
+
+
+
+
+    </div>
+:@_rails_html_safeF

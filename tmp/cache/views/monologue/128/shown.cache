@@ -1,0 +1,10 @@
+"ù
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_128">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_128', '/monologues/preview/128', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Zke4cg0lFure3Fos0oJh1+k6UY5AlcDn0W2uMfDsDko=')}); return false;">Yea, bloody cloth, I'll keep thee, for I wish'd</a>
+    </span>
+  
+

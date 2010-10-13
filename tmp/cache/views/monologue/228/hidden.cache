@@ -1,0 +1,48 @@
+"Ï
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_228">
+      Do not think so, you shall not find it so<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_228', '/monologues/preview?monologue_id=228', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Zke4cg0lFure3Fos0oJh1+k6UY5AlcDn0W2uMfDsDko=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Do not think so; you shall not find it so:<br>
+And God forgive them that so much have sway'd<br>
+Your majesty's good thoughts away from me! <br>
+I will redeem all this on Percy's head<br>
+And in the closing of some glorious day<br>
+Be bold to tell you that I am your son;<br>
+When I will wear a garment all of blood
+And stain my favours in a bloody mask,<br>
+Which, wash'd away, shall scour my shame with it:<br>
+And that shall be the day, whene'er it lights,<br>
+That this same child of honour and renown,<br>
+This gallant Hotspur, this all-praised knight,<br>
+And your unthought-of Harry chance to meet. <br>
+For every honour sitting on his helm,<br>
+Would they were multitudes, and on my head<br>
+My shames redoubled! for the time will come,<br>
+That I shall make this northern youth exchange<br>
+His glorious deeds for my indignities. <br>
+Percy is but my factor, good my lord,<br>
+To engross up glorious deeds on my behalf;<br>
+And I will call him to so strict account,<br>
+That he shall render every glory up,<br>
+Yea, even the slightest worship of his time, <br>
+Or I will tear the reckoning from his heart.<br>
+This, in the name of God, I promise here:<br>
+The which if He be pleased I shall perform,<br>
+I do beseech your majesty may salve<br>
+The long-grown wounds of my intemperance:<br>
+If not, the end of life cancels all bands;<br>
+And I will die a hundred thousand deaths<br>
+Ere break the smallest parcel of this vow. 
+
+      </div>
+    </span>
+
+  
+

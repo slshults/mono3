@@ -1,0 +1,34 @@
+"i
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_811">
+      Is Brutus sick? and is it physical     <br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_811', '/monologues/preview?monologue_id=811', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Is Brutus sick? and is it physical<br>
+To walk unbraced and suck up the humours<br>
+Of the dank morning? What, is Brutus sick, <br>
+And will he steal out of his wholesome bed,<br>
+To dare the vile contagion of the night<br>
+And tempt the rheumy and unpurged air<br>
+To add unto his sickness? No, my Brutus;<br>
+You have some sick offence within your mind,<br>
+Which, by the right and virtue of my place,<br>
+I ought to know of: and, upon my knees,<br>
+I charm you, by my once-commended beauty,<br>
+By all your vows of love and that great vow<br>
+Which did incorporate and make us one, <br>
+That you unfold to me, yourself, your half,<br>
+Why you are heavy, and what men to-night<br>
+Have had to resort to you: for here have been<br>
+Some six or seven, who did hide their faces<br>
+Even from darkness. 
+      </div>
+    </span>
+
+  
+

@@ -1,0 +1,10 @@
+"ž
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_592">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_592', '/monologues/preview/592', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('y+ttzZQbrZXrUkxAFxUWk5RVk6vaM7oAt9UoDqoM4iY=')}); return false;">All tongues speak of him, and the bleared sights</a>
+    </span>
+  
+

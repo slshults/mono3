@@ -1,0 +1,11 @@
+"«
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_54">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_54', '/monologues/preview/54', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('3TOZcr49UosYXW9sYbCymaLDWORJElLnR6Z7SaxBCoI=')}); return false;">I pray thee give it me.
+I know a bank where the wild thyme blows</a>
+    </span>
+  
+

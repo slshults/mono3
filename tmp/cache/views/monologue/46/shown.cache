@@ -1,0 +1,10 @@
+"Ž
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_46">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_46', '/monologues/preview/46', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('xIRLq7hHZVlcMkZr4HAIpsnJ9i8prMihbJCs6YBmsRw=')}); return false;">Lo! She is one of this confederacy.</a>
+    </span>
+  
+

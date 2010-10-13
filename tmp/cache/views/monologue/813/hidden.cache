@@ -1,0 +1,33 @@
+"'
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_813">
+      Unhappy that I am, I cannot heave my heart into my mouth<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_813', '/monologues/preview?monologue_id=813', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('XepXdRF0+B2Q904t5astrG8Pc6zNNiVGQpajlQW/Ecw=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Cordelia.</b> Unhappy that I am, I cannot heave<br>
+ My heart into my mouth. I love your Majesty<br>
+ According to my bond; no more nor less. <br>
+<br>
+<del><b>Lear.</b> How, how, Cordelia? Mend your speech a little,<br>
+ Lest it may mar your fortunes. </del><br>
+<br>
+<b>Cordelia.</b> Good my lord,<br>
+ You have begot me, bred me, lov'd me; I<br>
+ Return those duties back as are right fit, <br>
+ Obey you, love you, and most honour you.<br>
+ Why have my sisters husbands, if they say<br>
+ They love you all? Haply, when I shall wed,<br>
+ That lord whose hand must take my plight shall carry<br>
+ Half my love with him, half my care and duty. <br>
+ Sure I shall never marry like my sisters,<br>
+ To love my father all. 
+      </div>
+    </span>
+
+  
+

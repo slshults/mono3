@@ -1,0 +1,34 @@
+"X
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_36">
+      Thou speakest aright I am that merry wanderer of the night.<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_36', '/monologues/preview?monologue_id=36', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('VMksK5sluao+LTO3cMOnIB1SW45LhAzy806HdE08pic=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <div align='right'>Thou speak'st aright;</div>
+I am that merry wanderer of the night.<br>
+I jest to Oberon and make him smile<br>
+When I a fat and bean-fed horse beguile,<br>
+Neighing in likeness of a filly foal:<br>
+And sometime lurk I in a gossip's bowl,<br>
+In very likeness of a roasted crab,<br>
+And when she drinks, against her lips I bob<br>
+And on her wither'd dewlap pour the ale.<br>
+The wisest aunt, telling the saddest tale,<br>
+Sometime for three-foot stool mistaketh me; <br>
+Then slip I from her bum, down topples she,<br>
+And 'tailor' cries, and falls into a cough;<br>
+And then the whole quire hold their hips and laugh,<br>
+And waxen in their mirth and neeze and swear<br>
+A merrier hour was never wasted there.<br>
+But, room, fairy! here comes Oberon. 
+
+      </div>
+    </span>
+
+  
+

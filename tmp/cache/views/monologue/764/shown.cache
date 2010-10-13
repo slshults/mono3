@@ -1,0 +1,10 @@
+"š
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_764">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_764', '/monologues/preview/764', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('hLVUMNAhXeaKirqN96yHYorz1UiOPbYW4KBtO8Kw0EE=')}); return false;">O yet, for God's sake, go not to these wars!</a>
+    </span>
+  
+

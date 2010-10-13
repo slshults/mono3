@@ -1,0 +1,10 @@
+"‰
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_824">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_824', '/monologues/preview/824', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">Alas! thrice-gentle Cassio!</a>
+    </span>
+  
+

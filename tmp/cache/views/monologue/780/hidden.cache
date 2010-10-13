@@ -1,0 +1,17 @@
+"6
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_780">
+      Brave warriors, Clifford and Northumberland<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_780', '/monologues/preview?monologue_id=780', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Md/EDndTKwpe9/oVS8w9Azda9llVbFtqba9PuhNY+6g=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+
+  
+

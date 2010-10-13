@@ -1,0 +1,46 @@
+"—
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_704">
+      You sad-fac'd men, people and sons of Rome<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_704', '/monologues/preview?monologue_id=704', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('/YSVTdoaIVMidDShqK/lbMRhE17ENqWyQZ6yzYr5nW8=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          You sad-faced men, people and sons of Rome, <br>
+By uproar sever'd, like a flight of fowl<br>
+Scatter'd by winds and high tempestuous gusts,<br>
+O, let me teach you how to knit again<br>
+This scatter'd corn into one mutual sheaf,<br>
+These broken limbs again into one body; <br>
+Lest Rome herself be bane unto herself,<br>
+And she whom mighty kingdoms court'sy to,<br>
+Like a forlorn and desperate castaway,<br>
+Do shameful execution on herself.<br>
+But if my frosty signs and chaps of age,<br>
+Grave witnesses of true experience,<br>
+Cannot induce you to attend my words,<br>
+<i>[To LUCIUS]</i><br>
+Speak, Rome's dear friend, as erst our ancestor,<br>
+When with his solemn tongue he did discourse <br>
+To love-sick Dido's sad attending ear<br>
+The story of that baleful burning night<br>
+When subtle Greeks surprised King Priam's Troy,<br>
+Tell us what Sinon hath bewitch'd our ears,<br>
+Or who hath brought the fatal engine in <br>
+That gives our Troy, our Rome, the civil wound.<br>
+My heart is not compact of flint nor steel;<br>
+Nor can I utter all our bitter grief,<br>
+But floods of tears will drown my oratory,<br>
+And break my utterance, even in the time<br>
+When it should move you to attend me most,<br>
+Lending your kind commiseration.<br>
+Here is a captain, let him tell the tale;<br>
+Your hearts will throb and weep to hear him speak. 
+      </div>
+    </span>
+
+  
+

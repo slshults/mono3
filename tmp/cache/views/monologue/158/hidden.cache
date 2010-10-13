@@ -1,0 +1,53 @@
+"Ò
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_158">
+      
+Away then!   I am lock'd in one of them
+
+<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_158', '/monologues/preview?monologue_id=158', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('2L1dBc5w8urEiztZEBe4fMVsxI94W+2RJ1SAvSXmmFE=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Away, then! I am lock'd in one of them:<br>
+If you do love me, you will find me out.<br>
+Nerissa and the rest, stand all aloof.<br>
+Let music sound while he doth make his choice;<br>
+Then, if he lose, he makes a swan-like end,<br>
+Fading in music: that the comparison<br>
+May stand more proper, my eye shall be the stream<br>
+And watery death-bed for him. He may win;<br>
+And what is music then? Then music is<br>
+Even as the flourish when true subjects bow<br>
+To a new-crowned monarch: such it is<br>
+As are those dulcet sounds in break of day<br>
+That creep into the dreaming bridegroom's ear,<br>
+And summon him to marriage. Now he goes,<br>
+With no less presence, but with much more love,<br>
+Than young Alcides, when he did redeem<br>
+The virgin tribute paid by howling Troy<br>
+To the sea-monster: I stand for sacrifice<br>
+The rest aloof are the Dardanian wives,<br>
+With bleared visages, come forth to view<br>
+The issue of the exploit. Go, Hercules!<br>
+Live thou, I live: with much, much more dismay<br>
+I view the fight than thou that makest the fray.<br>
+<i>[Music, whilst BASSANIO comments on the caskets to himself]</i>
+SONG.<br>
+Tell me where is fancy bred,<br>
+Or in the heart, or in the head?<br>
+How begot, how nourished?<br>
+Reply, reply.<br>
+It is engender'd in the eyes,<br>
+With gazing fed; and fancy dies<br>
+In the cradle where it lies.<br>
+Let us all ring fancy's knell<br>
+I'll begin it,.Ding, dong, bell. <br>
+      </div>
+    </span>
+
+  
+

@@ -1,0 +1,10 @@
+"š
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_401">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_401', '/monologues/preview/401', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('5a+C/JAQcfgxO0uorItilYbCNhWdGGs6ZwX1kuXrUbg=')}); return false;">Proteus, I thank thee for thine honest care,</a>
+    </span>
+  
+

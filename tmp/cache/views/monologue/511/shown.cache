@@ -1,0 +1,10 @@
+"˜
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_511">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_511', '/monologues/preview/511', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('lRYJ0F8p/g9bYEgV9/FbgGen5NcU2O1G/7oOBDr3P0A=')}); return false;">What! will the aspiring blood of Lancaster</a>
+    </span>
+  
+

@@ -1,0 +1,110 @@
+is_this_a_dagger:
+  play: macbeth
+  location: V v 123
+  first_line: Is this a dagger which I see before me
+  body: MyText
+  gender: men
+  character: Macbeth
+  style: Verse
+  pdf_link: MyString
+  body_link: MyString
+
+o_what_a_noble_mind:
+  play: hamlet
+  location: III iii 23
+  first_line: O what a noble mind
+  body: |
+    O, what a noble mind is here o'erthrown!
+    The courtier's, scholar's, soldier's, eye, tongue, sword,
+    Th' expectancy and rose of the fair state,
+    The glass of fashion and the mould of form,
+    Th' observ'd of all observers- quite, quite down!
+    And I, of ladies most deject and wretched,
+    That suck'd the honey of his music vows,
+    Now see that noble and most sovereign reason,
+    Like sweet bells jangled, out of tune and harsh;
+    That unmatch'd form and feature of blown youth
+    Blasted with ecstasy. O, woe is me
+    T' have seen what I have seen, see what I see!
+  gender: women
+  character: Ophelia
+  style: Prose
+  pdf_link: http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=3&Scene=1&Scope=scene&LineHighlight=1749#17400
+  body_link: http://monologues.heroku.com
+  intercut: 0
+
+to_play_with_flexible_parts:
+  play: hamlet
+  location: IV x 1
+  first_line: Ah, to play a part in a play that you have no part!
+  body: |
+    Ah, to play a part in a play that you have no part!
+    What's more, with flexible parts!
+  gender: both
+  character: Puck
+  style: Prose
+  pdf_link: http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=3&Scene=1&Scope=scene&LineHighlight=1749#174000
+  body_link: http://monologues.heroku.com
+  intercut: 0
+
+to_be_or_not_to_be:
+  play: hamlet
+  location: II i 23
+  first_line: To be, or not to be, that is the question
+  body: |
+    To be, or not to be- that is the question:<br>
+    Whether 'tis nobler in the mind to suffer<br>
+    The slings and arrows of outrageous fortune<br>
+    Or to take arms against a sea of troubles,<br>
+    And by opposing end them. To die- to sleep-<br>
+    No more; and by a sleep to say we end<br>
+    The heartache, and the thousand natural shocks<br>
+    That flesh is heir to. 'Tis a consummation<br>
+    Devoutly to be wish'd. To die- to sleep.<br>
+    To sleep- perchance to dream: ay, there's the rub!<br>
+    For in that sleep of death what dreams may come<br>
+    When we have shuffled off this mortal coil,<br>
+    Must give us pause. There's the respect<br>
+    That makes calamity of so long life.<br>
+    For who would bear the whips and scorns of time,<br>
+    Th' oppressor's wrong, the proud man's contumely,<br>
+    The pangs of despis'd love, the law's delay, <br>
+    The insolence of office, and the spurns<br>
+    That patient merit of th' unworthy takes,<br>
+    When he himself might his quietus make<br>
+    With a bare bodkin? Who would these fardels bear,<br>
+    To grunt and sweat under a weary life, <br>
+    But that the dread of something after death-<br>
+    The undiscover'd country, from whose bourn<br>
+    No traveller returns- puzzles the will,<br>
+    And makes us rather bear those ills we have<br>
+    Than fly to others that we know not of? <br>
+    Thus conscience does make cowards of us all,<br>
+    And thus the native hue of resolution<br>
+    Is sicklied o'er with the pale cast of thought,<br>
+    And enterprises of great pith and moment<br>
+    With this regard their currents turn awry <br>
+    And lose the name of action.- Soft you now!<br>
+    The fair Ophelia!- Nymph, in thy orisons<br>
+    Be all my sins rememb'red. <br>
+  gender: men
+  character: Hamlet
+  style: Verse
+  pdf_link: http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=3&Scene=1&Scope=scene&LineHighlight=1749#1740
+  body_link: http://monologues.heroku.com
+  intercut: 1
+
+to_play_with_flexible_parts:
+  play: midsummer
+  location: X i 1
+  first_line: You have her father's love, Demetrius
+  body: |
+    You have her father's love, Demetrius;
+    Let me have Hermia's: do you marry him.
+  gender: men
+  character: Lysander
+  style: Prose
+  pdf_link: http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=hamlet&Act=3&Scene=1&Scope=scene&LineHighlight=1749#174000
+  body_link: http://monologues.heroku.com
+  intercut: 0
+

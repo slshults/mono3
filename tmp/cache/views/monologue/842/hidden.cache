@@ -1,0 +1,39 @@
+"}
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_842">
+      There's some ill planet reigns I must be patient till the heavens look<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_842', '/monologues/preview?monologue_id=842', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('zUZF2dNzskhD35EmvSF9f9eZ9cbwenl4WtNoaIb+X+Y=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Hermione.</b> There's some ill planet reigns:<br>
+ I must be patient till the heavens look<br>
+ With an aspect more favourable. Good my lords,<br>
+ I am not prone to weeping, as our sex<br>
+ Commonly are; the want of which vain dew<br>
+ Perchance shall dry your pities: but I have<br>
+ That honourable grief lodged here which burns<br>
+ Worse than tears drown: beseech you all, my lords,<br>
+ With thoughts so qualified as your charities<br>
+ Shall best instruct you, measure me; and so<br>
+ The king's will be perform'd!<br>
+<br>
+<del><b>Leontes.</b> Shall I be heard? </del><br>
+<br>
+<b>Hermione.</b> Who is't that goes with me? Beseech your highness,<br>
+ My women may be with me; for you see<br>
+ My plight requires it. Do not weep, good fools;<br>
+ There is no cause: when you shall know your mistress 740<br>
+ Has deserved prison, then abound in tears<br>
+ As I come out: this action I now go on<br>
+ Is for my better grace. Adieu, my lord:<br>
+ I never wish'd to see you sorry; now<br>
+ I trust I shall. My women, come; you have leave. 
+      </div>
+    </span>
+
+  
+

@@ -1,0 +1,224 @@
+I"Š%  
+    <div>
+      <h2>Women's Monologues in Shakespeare</h2>
+      <h2>King Lear</h2>
+      <span>
+        <form action="javascript:void(0);" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="LCGySbitV3n+U7d96Cw5AHFun4VIFkcS7Xfhz/aIRYo=" /></div>
+          <b>Search:</b> <input type="text" id="search" size="40"/>
+          <img alt="Ajax-loader" id="spinner" src="/images/ajax-loader.gif?1278779332" style="display: none;" />
+        </form>
+        <div class="search_links">
+          <a href="/plays/32?g=3">Search Men</a> &nbsp;|&nbsp;
+          <a href="/plays/32">Search King Lear</a> &nbsp;|&nbsp;
+          <a href="/plays">Search All Plays</a> &nbsp;|&nbsp;
+          
+            <a href="/plays/32?g=2">Collapse All</a>
+          
+        </div>
+      </span>
+    </div>
+    <script type="text/javascript">
+//<![CDATA[
+new Form.Element.Observer('search', 1.25, function(element, value) {Element.show('spinner'); new Ajax.Updater('ajaxResults', 'http://www.shakespeare-monologues.org/monologues/search', {asynchronous:true, evalScripts:true, onComplete:function(request){Element.hide('spinner')}, parameters:'g=2&p=32&search=' + encodeURIComponent(value) + '&authenticity_token=' + encodeURIComponent('LCGySbitV3n+U7d96Cw5AHFun4VIFkcS7Xfhz/aIRYo=')})})
+//]]>
+</script>
+  
+    <div id='ajaxResults'>
+      
+
+  
+
+      
+<div>
+  <table id='monologue_list'>
+    <tr>
+      <th>Character</th>
+      <th>First Line</th>
+      <th>Act & Sc</th>
+      <th>pdf</th>
+    </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Cordelia</div>
+  <div class='monologue_detail'>
+  Verse - intercut <br/>
+  <a href="/plays/32">King Lear</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_813'>
+  
+    <span id="preview_mono_813">
+      Unhappy that I am, I cannot heave my heart into my mouth<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_813', '/monologues/preview?monologue_id=813', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('LCGySbitV3n+U7d96Cw5AHFun4VIFkcS7Xfhz/aIRYo=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Cordelia.</b> Unhappy that I am, I cannot heave<br>
+ My heart into my mouth. I love your Majesty<br>
+ According to my bond; no more nor less. <br>
+<br>
+<del><b>Lear.</b> How, how, Cordelia? Mend your speech a little,<br>
+ Lest it may mar your fortunes. </del><br>
+<br>
+<b>Cordelia.</b> Good my lord,<br>
+ You have begot me, bred me, lov'd me; I<br>
+ Return those duties back as are right fit, <br>
+ Obey you, love you, and most honour you.<br>
+ Why have my sisters husbands, if they say<br>
+ They love you all? Haply, when I shall wed,<br>
+ That lord whose hand must take my plight shall carry<br>
+ Half my love with him, half my care and duty. <br>
+ Sure I shall never marry like my sisters,<br>
+ To love my father all. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=kinglear&Act=1&Scene=1&Scope=scene&LineHighlight=93#89' target='_blank'>I i 76</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/kl-1-1-90-cordelia.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Goneril</div>
+  <div class='monologue_detail'>
+  Verse - intercut <br/>
+  <a href="/plays/32">King Lear</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_814'>
+  
+    <span id="preview_mono_814">
+      By day and night he wrongs me, every hour<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_814', '/monologues/preview?monologue_id=814', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('LCGySbitV3n+U7d96Cw5AHFun4VIFkcS7Xfhz/aIRYo=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Goneril.</b> By day and night, he wrongs me! Every hour<br>
+ He flashes into one gross crime or other<br>
+ That sets us all at odds. I'll not endure it.<br>
+ His knights grow riotous, and himself upbraids us <br>
+ On every trifle. When he returns from hunting,<br>
+ I will not speak with him. Say I am sick.<br>
+ If you come slack of former services,<br>
+ You shall do well; the fault of it I'll answer. <br>
+<br>
+<i>[Horns within.]</i><br>
+<br>
+<del><b>Oswald.</b> He's coming, madam; I hear him. </del><br>
+<br>
+<b>Goneril.<b> Put on what weary negligence you please,<br>
+ You and your fellows. I'd have it come to question.<br>
+ If he distaste it, let him to our sister,<br>
+ Whose mind and mine I know in that are one, <br>
+ Not to be overrul'd. Idle old man,<br>
+ That still would manage those authorities<br>
+ That he hath given away! Now, by my life,<br>
+ Old fools are babes again, and must be us'd<br>
+ With checks as flatteries, when they are seen abus'd. <br>
+ Remember what I have said. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=kinglear&Act=1&Scene=3&Scope=scene&LineHighlight=507' target='_blank'>I iii 5</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/kl-1-3-3-goneril.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Goneril</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/32">King Lear</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_815'>
+  
+    <span id="preview_mono_815">
+      Not only, sir, this your all-licens'd fool<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_815', '/monologues/preview?monologue_id=815', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('LCGySbitV3n+U7d96Cw5AHFun4VIFkcS7Xfhz/aIRYo=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Not only, sir, this your all-licens'd fool,<br>
+But other of your insolent retinue<br>
+Do hourly carp and quarrel, breaking forth<br>
+In rank and not-to-be-endured riots. Sir, <br>
+I had thought, by making this well known unto you,<br>
+To have found a safe redress, but now grow fearful,<br>
+By what yourself, too, late have spoke and done,<br>
+That you protect this course, and put it on<br>
+By your allowance; which if you should, the fault <br>
+Would not scape censure, nor the redresses sleep,<br>
+Which, in the tender of a wholesome weal,<br>
+Might in their working do you that offence<br>
+Which else were shame, that then necessity<br>
+Must call discreet proceeding. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=kinglear&Act=1&Scene=4&Scope=scene&LineHighlight=722#711' target='_blank'>I iv 114</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/kl-1-4-191-goneril.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Goneril</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/32">King Lear</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_816'>
+  
+    <span id="preview_mono_816">
+      This admiration, sir, is much o' th' favour<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_816', '/monologues/preview?monologue_id=816', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('LCGySbitV3n+U7d96Cw5AHFun4VIFkcS7Xfhz/aIRYo=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          This admiration, sir, is much o' th' savour<br>
+Of other your new pranks. I do beseech you <br>
+To understand my purposes aright.<br>
+As you are old and reverend, you should be wise.<br>
+Here do you keep a hundred knights and squires;<br>
+Men so disorder'd, so debosh'd, and bold<br>
+That this our court, infected with their manners, <br>
+Shows like a riotous inn. Epicurism and lust<br>
+Make it more like a tavern or a brothel<br>
+Than a grac'd palace. The shame itself doth speak<br>
+For instant remedy. Be then desir'd<br>
+By her that else will take the thing she begs <br>
+A little to disquantity your train,<br>
+And the remainder that shall still depend<br>
+To be such men as may besort your age,<br>
+Which know themselves, and you. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=kinglear&Act=1&Scene=4&Scope=scene&LineHighlight=759#754' target='_blank'>I iv 147</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/kl-1-4-227-goneril.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+</table></div>
+
+
+  
+
+
+
+
+    </div>
+:@_rails_html_safeF

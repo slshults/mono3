@@ -1,0 +1,10 @@
+"¡
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_765">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_765', '/monologues/preview/765', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('yDrtIhO6ZqW3ADyeLPky3aJHKNzTRgmtDNHblhywikM=')}); return false;">Nay, sure, he's not in hell: he's in Arthur's bosom</a>
+    </span>
+  
+

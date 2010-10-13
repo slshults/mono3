@@ -1,0 +1,10 @@
+"œ
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_834">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_834', '/monologues/preview/834', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('kEqlZ12L16rfxsOoMQ005qJjaopwOYNKHxB6aK6G9F4=')}); return false;">King, be thy thoughts imperious, like thy name</a>
+    </span>
+  
+

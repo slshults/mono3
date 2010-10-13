@@ -1,0 +1,33 @@
+"]
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_456">
+      O God of battles! steel my soldiers' hearts<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_456', '/monologues/preview?monologue_id=456', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('VIKu80spMQAFZXw324wFUuLOd6vQUVhzcOncSriLdBk=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          O God of battles! steel my soldiers' hearts;<br>
+Possess them not with fear; take from them now <br>
+The sense of reckoning, if the opposed numbers<br>
+Pluck their hearts from them. Not to-day, O Lord,<br>
+O, not to-day, think not upon the fault<br>
+My father made in compassing the crown!<br>
+I Richard's body have interred anew; <br>
+And on it have bestow'd more contrite tears<br>
+Than from it issued forced drops of blood:<br>
+Five hundred poor I have in yearly pay,<br>
+Who twice a-day their wither'd hands hold up<br>
+Toward heaven, to pardon blood; and I have built <br>
+Two chantries, where the sad and solemn priests<br>
+Sing still for Richard's soul. More will I do;<br>
+Though all that I can do is nothing worth,<br>
+Since that my penitence comes after all,<br>
+Imploring pardon. 
+      </div>
+    </span>
+
+  
+

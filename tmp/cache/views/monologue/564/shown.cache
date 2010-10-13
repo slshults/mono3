@@ -1,0 +1,10 @@
+"—
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_564">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_564', '/monologues/preview/564', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Owd50+452+Ip8WlGP62liuGDQYRITxLw4JNXCjHQOKg=')}); return false;">Needs must I like it well: I weep for joy</a>
+    </span>
+  
+

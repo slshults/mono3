@@ -1,0 +1,37 @@
+"�
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_684">
+      Had I a steward So true, so just, and now so comfortable?<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_684', '/monologues/preview?monologue_id=684', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Wqs+5vKZfqIhn5S6LXECSNVPmus7EuBMtaPz7sU+biM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <div align="right">Had I a steward</div>
+So true, so just, and now so comfortable?<br>
+It almost turns my dangerous nature mild.<br>
+Let me behold thy face. Surely, this man <br>
+Was born of woman.<br>
+Forgive my general and exceptless rashness,<br>
+You perpetual-sober gods! I do proclaim<br>
+One honest man—mistake me not—but one;<br>
+No more, I pray,—and he's a steward. <br>
+How fain would I have hated all mankind!<br>
+And thou redeem'st thyself: but all, save thee,<br>
+I fell with curses.<br>
+Methinks thou art more honest now than wise;<br>
+For, by oppressing and betraying me, <br>
+Thou mightst have sooner got another service:<br>
+For many so arrive at second masters,<br>
+Upon their first lord's neck. But tell me true—<br>
+For I must ever doubt, though ne'er so sure—<br>
+Is not thy kindness subtle, covetous,<br>
+If not a usuring kindness, and, as rich men deal gifts,<br>
+Expecting in return twenty for one? 
+      </div>
+    </span>
+
+  
+

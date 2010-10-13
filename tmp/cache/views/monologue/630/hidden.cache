@@ -1,0 +1,34 @@
+"h
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_630">
+      You have done that you should be sorry for.<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_630', '/monologues/preview?monologue_id=630', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('mytjE3Vj8iHLDbiX5lXHOlVZYc3o+OEomJpFAgt2aj0=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          You have done that you should be sorry for. <br>
+There is no terror, Cassius, in your threats,<br>
+For I am arm'd so strong in honesty<br>
+That they pass by me as the idle wind,<br>
+Which I respect not. I did send to you<br>
+For certain sums of gold, which you denied me:<br>
+For I can raise no money by vile means:<br>
+By heaven, I had rather coin my heart,<br>
+And drop my blood for drachmas, than to wring<br>
+From the hard hands of peasants their vile trash<br>
+By any indirection: I did send <br>
+To you for gold to pay my legions,<br>
+Which you denied me: was that done like Cassius?<br>
+Should I have answer'd Caius Cassius so?<br>
+When Marcus Brutus grows so covetous,<br>
+To lock such rascal counters from his friends, <br>
+Be ready, gods, with all your thunderbolts;<br>
+Dash him to pieces! 
+      </div>
+    </span>
+
+  
+

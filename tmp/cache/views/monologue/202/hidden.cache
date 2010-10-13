@@ -1,0 +1,41 @@
+"¢
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_202">
+      Thus have I politicly begun my reign<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_202', '/monologues/preview?monologue_id=202', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('F0S7Ulr+rSbO0FmcMG7rBxyPNZOfsFtUX+09v86pmtg=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Thus have I politicly begun my reign,<br>
+And 'tis my hope to end successfully. <br>
+My falcon now is sharp and passing empty.<br>
+And till she stoop she must not be full-gorg'd,<br>
+For then she never looks upon her lure.<br>
+Another way I have to man my haggard,<br>
+To make her come, and know her keeper's call,<br>
+That is, to watch her, as we watch these kites<br>
+That bate and beat, and will not be obedient.<br>
+She eat no meat to-day, nor none shall eat;<br>
+Last night she slept not, nor to-night she shall not;<br>
+As with the meat, some undeserved fault <br>
+I'll find about the making of the bed;<br>
+And here I'll fling the pillow, there the bolster,<br>
+This way the coverlet, another way the sheets;<br>
+Ay, and amid this hurly I intend<br>
+That all is done in reverend care of her-<br>
+And, in conclusion, she shall watch all night;<br>
+And if she chance to nod I'll rail and brawl<br>
+And with the clamour keep her still awake.<br>
+This is a way to kill a wife with kindness,<br>
+And thus I'll curb her mad and headstrong humour.<br>
+He that knows better how to tame a shrew,<br>
+Now let him speak; 'tis charity to show.
+
+      </div>
+    </span>
+
+  
+

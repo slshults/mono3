@@ -1,0 +1,41 @@
+"y
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_154">
+      Neither of either; I remit both twain<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_154', '/monologues/preview?monologue_id=154', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('IVR8NLZmuG/BnI3gZptirhzxZOGZ2KK0b/bKkg9ZV9A=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Neither of either; I remit both twain.<br>
+I see the trick on't: here was a consent,<br>
+Knowing aforehand of our merriment,<br>
+To dash it like a Christmas comedy:<br>
+Some carry-tale, some please-man, some slight zany,<br>
+Some mumble-news, some trencher-knight, some Dick,<br>
+That smiles his cheek in years and knows the trick<br>
+To make my lady laugh when she's disposed,<br>
+Told our intents before; which once disclosed,<br>
+The ladies did change favours: and then we, <br>
+Following the signs, woo'd but the sign of she.<br>
+Now, to our perjury to add more terror,<br>
+We are again forsworn, in will and error.<br>
+Much upon this it is: and might not you<br>
+<i>[To BOYET]</i><br>
+Forestall our sport, to make us thus untrue?<br>
+Do not you know my lady's foot by the squier,<br>
+And laugh upon the apple of her eye?<br>
+And stand between her back, sir, and the fire,<br>
+Holding a trencher, jesting merrily? <br>
+You put our page out: go, you are allow'd;<br>
+Die when you will, a smock shall be your shroud.<br>
+You leer upon me, do you? there's an eye<br>
+Wounds like a leaden sword. 
+
+      </div>
+    </span>
+
+  
+

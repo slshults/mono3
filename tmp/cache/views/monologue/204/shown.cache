@@ -1,0 +1,10 @@
+"–
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_204">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_204', '/monologues/preview/204', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('sRh91UA2gA204Fyooj004jrernP2TEZmDaaTc5C4vzg=')}); return false;">Sir, by your leave: having come to Padua</a>
+    </span>
+  
+

@@ -1,0 +1,10 @@
+"˜
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_129">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_129', '/monologues/preview/129', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('0Z/t13+LSIkFnadcmEeJ14FwmAymRQGteFB0zBkdVaE=')}); return false;">No blame be to you, sir; for all was lost,</a>
+    </span>
+  
+

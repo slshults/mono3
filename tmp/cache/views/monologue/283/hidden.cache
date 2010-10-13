@@ -1,0 +1,81 @@
+"�
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_283">
+      Upon a time - unhappy was the clock<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_283', '/monologues/preview?monologue_id=283', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Zke4cg0lFure3Fos0oJh1+k6UY5AlcDn0W2uMfDsDko=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Iachimo.</b> Upon a time,—unhappy was the clock<br>
+ That struck the hour!—it was in Rome,—accursed<br>
+ The mansion where!—'twas at a feast,—O, would<br>
+ Our viands had been poison'd, or at least <br>
+ Those which I heaved to head!—the good Posthumus—<br>
+ What should I say? he was too good to be<br>
+ Where ill men were; and was the best of all<br>
+ Amongst the rarest of good ones,—sitting sadly,<br>
+ Hearing us praise our loves of Italy <br>
+ For beauty that made barren the swell'd boast<br>
+ Of him that best could speak, for feature, laming<br>
+ The shrine of Venus, or straight-pight Minerva.<br>
+ Postures beyond brief nature, for condition,<br>
+ A shop of all the qualities that man <br>
+ Loves woman for, besides that hook of wiving,<br>
+ Fairness which strikes the eye— 
+<br><br>
+<del><b>Cymbeline.</b> I stand on fire:<br>
+ Come to the matter.</del> <br><br>
+
+<b>Iachimo.</b> All too soon I shall,<br>
+ Unless thou wouldst grieve quickly. This Posthumus,<br>
+ Most like a noble lord in love and one<br>
+ That had a royal lover, took his hint;<br>
+ And, not dispraising whom we praised,—therein<br>
+ He was as calm as virtue—he began<br>
+ His mistress' picture; which by his tongue<br>
+ being made,<br>
+ And then a mind put in't, either our brags<br>
+ Were crack'd of kitchen-trolls, or his description<br>
+ Proved us unspeaking sots. </p>
+
+<del><b>Cymbeline.</b> Nay, nay, to the purpose.</del><br><br>
+
+<b>Iachimo.</b> Your daughter's chastity—there it begins.<br>
+ He spake of her, as Dian had hot dreams,<br>
+ And she alone were cold: whereat I, wretch,<br>
+ Made scruple of his praise; and wager'd with him<br>
+ Pieces of gold 'gainst this which then he wore<br>
+ Upon his honour'd finger, to attain<br>
+ In suit the place of's bed and win this ring<br>
+ By hers and mine adultery. He, true knight,<br>
+ No lesser of her honour confident<br>
+ Than I did truly find her, stakes this ring;<br>
+ And would so, had it been a carbuncle<br>
+ Of Phoebus' wheel, and might so safely, had it<br>
+ Been all the worth of's car. Away to Britain<br>
+ Post I in this design: well may you, sir,<br>
+ Remember me at court; where I was taught<br>
+ Of your chaste daughter the wide difference<br>
+ 'Twixt amorous and villanous. Being thus quench'd<br>
+ Of hope, not longing, mine Italian brain<br>
+ 'Gan in your duller Britain operate<br>
+ Most vilely; for my vantage, excellent:<br>
+ And, to be brief, my practise so prevail'd,<br>
+ That I return'd with simular proof enough<br>
+ To make the noble Leonatus mad,<br>
+ By wounding his belief in her renown<br>
+ With tokens thus, and thus; averting notes<br>
+ Of chamber-hanging, pictures, this her bracelet,—<br>
+ O cunning, how I got it!—nay, some marks<br>
+ Of secret on her person, that he could not<br>
+ But think her bond of chastity quite crack'd,<br>
+ I having ta'en the forfeit. Whereupon—<br>
+ Methinks, I see him now— <br>
+      </div>
+    </span>
+
+  
+

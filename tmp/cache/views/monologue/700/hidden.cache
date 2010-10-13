@@ -1,0 +1,42 @@
+"û
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_700">
+      Why, lords, what wrongs are these!<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_700', '/monologues/preview?monologue_id=700', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('a4B/yZjMkNLDdA+PN8U18QP+SlHyhKKPrQjnq1vaCeQ=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Why, lords, what wrongs are these! was ever seen <br>
+An emperor in Rome thus overborne,<br>
+Troubled, confronted thus; and, for the extent<br>
+Of egal justice, used in such contempt?<br>
+My lords, you know, as know the mightful gods,<br>
+However these disturbers of our peace <br>
+Buz in the people's ears, there nought hath pass'd,<br>
+But even with law, against the willful sons<br>
+Of old Andronicus. And what an if<br>
+His sorrows have so overwhelm'd his wits,<br>
+Shall we be thus afflicted in his wreaks, <br>
+His fits, his frenzy, and his bitterness?<br>
+And now he writes to heaven for his redress:<br>
+See, here's to Jove, and this to Mercury;<br>
+This to Apollo; this to the god of war;<br>
+Sweet scrolls to fly about the streets of Rome! <br>
+What's this but libelling against the senate,<br>
+And blazoning our injustice every where?<br>
+A goodly humour, is it not, my lords?<br>
+As who would say, in Rome no justice were.<br>
+But if I live, his feigned ecstasies <br>
+Shall be no shelter to these outrages:<br>
+But he and his shall know that justice lives<br>
+In Saturninus' health, whom, if she sleep,<br>
+He'll so awake as she in fury shall<br>
+Cut off the proud'st conspirator that lives. 
+      </div>
+    </span>
+
+  
+

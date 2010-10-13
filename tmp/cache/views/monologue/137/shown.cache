@@ -1,0 +1,10 @@
+"–
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_137">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_137', '/monologues/preview/137', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Ja3OTJuWjlXm8nXESptIrGit4kqUR7KHwb/Ui10xCCo=')}); return false;">Oft have I heard of you, my lord Berowne</a>
+    </span>
+  
+

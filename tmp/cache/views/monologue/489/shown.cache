@@ -1,0 +1,10 @@
+"œ
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_489">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_489', '/monologues/preview/489', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('p1KlLbbN9iKYjnSYpHM4LpRjgB0N+CJdZZjA5Huyrf4=')}); return false;">Ay, kennel, puddle, sink; whose filth and dirt</a>
+    </span>
+  
+

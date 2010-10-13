@@ -1,0 +1,10 @@
+"”
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_479">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_479', '/monologues/preview/479', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Qki6qP07LgVKKyh+Map7WEE1IYB5tEpxCO0b/f5so9Y=')}); return false;">So, there goes our protector in a rage</a>
+    </span>
+  
+

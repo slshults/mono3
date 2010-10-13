@@ -1,0 +1,41 @@
+")
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_750">
+      Alas, now, pray you, Work not so hard: I would the lightning had<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_750', '/monologues/preview?monologue_id=750', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('CleaxT+8rWEe4CDkbgx43qylAewdHd9HJrYvwcA7D+U=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Miranda.</b> Alas, now, pray you,<br>
+ Work not so hard: I would the lightning had <br>
+ Burnt up those logs that you are enjoin'd to pile!<br>
+ Pray, set it down and rest you: when this burns,<br>
+ 'Twill weep for having wearied you. My father<br>
+ Is hard at study; pray now, rest yourself;<br>
+ He's safe for these three hours. <br>
+<br>
+<del><b>Ferdinand.</b> O most dear mistress,<br>
+ The sun will set before I shall discharge<br>
+ What I must strive to do. </del><br>
+<br>
+<b>Miranda.</b> If you'll sit down,<br>
+ I'll bear your logs the while: pray, give me that; <br>
+ I'll carry it to the pile. <br>
+<br>
+<del><b>Ferdinand.</b>No, precious creature;<br>
+ I had rather crack my sinews, break my back,<br>
+ Than you should such dishonour undergo,<br>
+ While I sit lazy by. </del><br>
+<br>
+<b>Miranda.</b> It would become me<br>
+ As well as it does you: and I should do it<br>
+ With much more ease; for my good will is to it,<br>
+ And yours it is against. 
+      </div>
+    </span>
+
+  
+

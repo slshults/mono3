@@ -1,0 +1,46 @@
+"Æ
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_117">
+      I false! Thy conscience witness! Iachimo,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_117', '/monologues/preview?monologue_id=117', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Mj35iF/tkYvjBX/c4ml/DtVdvh37oKByA/WuLznlZyo=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          I false! Thy conscience witness! Iachimo,<br>
+Thou didst accuse him of incontinency;  <br>
+Thou then look'dst like a villain; now methinks <br>
+Thy favour's good enough. Some jay of Italy, <br>
+Whose mother was her painting, hath betray'd him:<br> 
+Poor I am stale, a garment out of fashion,  <br>
+And, for I am richer than to hang by the walls, <br>
+I must be ripp'd; to pieces with me! O! <br>
+Men's vows are women's traitors! All good seeming,<br> 
+By thy revolt, O husband! shall be thought <br> 48
+Put on for villany; not born where 't grows, <br>
+But worn a bait for ladies. <br>
+  <del>Pisanio -        Good madam, hear me.</del> <br>
+True honest men being heard, like false &#198;neas,<br>
+Were in his time thought false, and Sinon's weeping <br>
+Did scandal many a holy tear, took pity <br>
+From most true wretchedness; so thou, Posthumus,<br> 
+Wilt lay the leaven on all proper men;  <br>
+Goodly and gallant shall be false and perjur'd<br> 
+From thy great fail. Come, fellow, be thou honest;<br> 
+Do thou thy master's bidding. When thou seest him,  <br>
+A little witness my obedience; look! <br>
+I draw the sword myself; take it, and hit <br>
+The innocent mansion of my love, my heart. <br>
+Fear not, 'tis empty of all things but grief; <br>
+Thy master is not there, who was indeed  <br>
+The riches of it: do his bidding; strike. <br>
+Thou mayst be valiant in a better cause, <br>
+But now thou seem'st a coward.<br>
+
+      </div>
+    </span>
+
+  
+

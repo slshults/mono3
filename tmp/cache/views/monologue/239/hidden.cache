@@ -1,0 +1,36 @@
+"0
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_239">
+      O Caesar what a wounding shame is this<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_239', '/monologues/preview?monologue_id=239', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('1tDaBGEM2sPegQlDJN7wyGpZGWAbPE8b8kvasvDOBoI=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          O Caesar, what a wounding shame is this,<br>
+That thou, vouchsafing here to visit me,<br>
+Doing the honour of thy lordliness <br>
+To one so meek, that mine own servant should<br>
+Parcel the sum of my disgraces by<br>
+Addition of his envy! Say, good Caesar,<br>
+That I some lady trifles have reserved,<br>
+Immoment toys, things of such dignity<br>
+As we greet modern friends withal; and say,<br>
+Some nobler token I have kept apart<br>
+For Livia and Octavia, to induce<br>
+Their mediation; must I be unfolded<br>
+With one that I have bred? The gods! it smites me<br>
+Beneath the fall I have.<br>
+[To SELEUCUS]<br>
+Prithee, go hence;<br>
+Or I shall show the cinders of my spirits<br>
+Through the ashes of my chance: wert thou a man,<br>
+Thou wouldst have mercy on me. 
+
+      </div>
+    </span>
+
+  
+

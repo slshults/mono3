@@ -1,0 +1,40 @@
+"¬
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_689">
+      Now climbeth Tamora Olympus' top,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_689', '/monologues/preview?monologue_id=689', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('0x7jTYSz3mg2BCywTpfxa6KKrbdP/Yp0cqMBqm2k8F4=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+           Now climbeth Tamora Olympus' top,<br>
+Safe out of fortune's shot; and sits aloft,<br>
+Secure of thunder's crack or lightning flash;<br>
+Advanced above pale envy's threatening reach.<br>
+As when the golden sun salutes the morn,<br>
+And, having gilt the ocean with his beams,<br>
+Gallops the zodiac in his glistering coach,<br>
+And overlooks the highest-peering hills;<br>
+So Tamora: Upon her wit doth earthly honour wait,<br>
+And virtue stoops and trembles at her frown.<br>
+Then, Aaron, arm thy heart, and fit thy thoughts,<br>
+To mount aloft with thy imperial mistress, <br>
+And mount her pitch, whom thou in triumph long<br>
+Hast prisoner held, fetter'd in amorous chains<br>
+And faster bound to Aaron's charming eyes<br>
+Than is Prometheus tied to Caucasus.<br>
+Away with slavish weeds and servile thoughts! <br>
+I will be bright, and shine in pearl and gold,<br>
+To wait upon this new-made empress.<br>
+To wait, said I? to wanton with this queen,<br>
+This goddess, this Semiramis, this nymph,<br>
+This siren, that will charm Rome's Saturnine, <br>
+And see his shipwreck and his commonweal's.<br>
+Holloa! what storm is this? 
+      </div>
+    </span>
+
+  
+

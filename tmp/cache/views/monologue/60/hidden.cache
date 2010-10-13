@@ -1,0 +1,46 @@
+">
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_60">
+      Say what abridgment have you for this evening?<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_60', '/monologues/preview?monologue_id=60', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('iMutgt5xIC8SchENRb8QV7zxaBBOZfuTN9Ox1e7YKOs=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Theseus.</b> Say, what abridgement have you for this evening?<br>
+      What masque? what music? How shall we beguile<br>
+      The lazy time, if not with some delight? <br><br>
+
+<de><b>Philostrate.</b> There is a brief how many sports are ripe: <br>
+      Make choice of which your highness will see first. </del><br><br>
+
+[Giving a paper]<br><br>
+
+<b>Theseus.</b> [Reads] 'The battle with the Centaurs, to be sung<br>
+      By an Athenian eunuch to the harp.'<br>
+      We'll none of that: that have I told my love,<br>
+      In glory of my kinsman Hercules.<br>
+      [Reads]<br>
+      'The riot of the tipsy Bacchanals,<br>
+      Tearing the Thracian singer in their rage.'<br>
+      That is an old device; and it was play'd<br>
+      When I from Thebes came last a conqueror.<br>
+      [Reads]<br>
+      'The thrice three Muses mourning for the death<br>
+      Of Learning, late deceased in beggary.'<br>
+      That is some satire, keen and critical,<br>
+      Not sorting with a nuptial ceremony.<br>
+      [Reads]<br>
+      'A tedious brief scene of young Pyramus<br>
+      And his love Thisbe; very tragical mirth.'<br>
+      Merry and tragical! tedious and brief!<br>
+      That is, hot ice and wondrous strange snow.<br>
+      How shall we find the concord of this discord? 
+
+      </div>
+    </span>
+
+  
+

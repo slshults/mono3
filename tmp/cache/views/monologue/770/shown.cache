@@ -1,0 +1,10 @@
+"™
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_770">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_770', '/monologues/preview/770', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('cxEPNZgWF2NKrUqgs2GY47NxYJJgoR+PySmvfnAgKuU=')}); return false;">The regent conquers, and the Frenchmen fly.</a>
+    </span>
+  
+

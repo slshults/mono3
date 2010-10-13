@@ -1,0 +1,10 @@
+"œ
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_669">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_669', '/monologues/preview/669', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('2XziVSfjc53kpCRHvT3Kn5elGE6a7ZzIbppHJ3gJyP8=')}); return false;">What a wicked beast was I to disfurnish myself</a>
+    </span>
+  
+

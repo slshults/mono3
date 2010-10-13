@@ -1,0 +1,18 @@
+"B
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_521">
+      I do profess 
+You speak not like yourself; who ever yet<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_521', '/monologues/preview?monologue_id=521', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Qki6qP07LgVKKyh+Map7WEE1IYB5tEpxCO0b/f5so9Y=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+
+  
+

@@ -1,0 +1,32 @@
+"Ú
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_40">
+      O, I am out of breath in this fond chase!<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_40', '/monologues/preview?monologue_id=40', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('esoVgkXBlDkWe+oTE0y0DDP9ZAMRv8ohRcp8ZFhrA6k=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          O, I am out of breath in this fond chase!<br>
+The more my prayer, the lesser is my grace.<br>
+Happy is Hermia, wheresoe'er she lies;<br>
+For she hath blessed and attractive eyes. <br>
+How came her eyes so bright? Not with salt tears:<br>
+If so, my eyes are oftener wash'd than hers.<br>
+No, no, I am as ugly as a bear;<br>
+For beasts that meet me run away for fear:<br>
+Therefore no marvel though Demetrius <br>
+Do, as a monster fly my presence thus.<br>
+What wicked and dissembling glass of mine<br>
+Made me compare with Hermia's sphery eyne?<br>
+But who is here? Lysander! on the ground!<br>
+Dead? or asleep? I see no blood, no wound.<br>
+Lysander if you live, good sir, awake. 
+
+      </div>
+    </span>
+
+  
+

@@ -1,0 +1,17 @@
+"2
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_470">
+      Shame to the Duke of Burgundy and thee!<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_470', '/monologues/preview?monologue_id=470', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('hMl6mQqSBKWj4N/7R9NRg5vOJKNmsy75bpNMO/DlHc0=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+
+  
+

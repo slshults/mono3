@@ -1,0 +1,33 @@
+"]
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_50">
+      If we shadows have offended,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_50', '/monologues/preview?monologue_id=50', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('hsrVr5JVCA2OnGuxWu4EfN75Nq/meUVvF3wfIJ8AwCk=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          If we shadows have offended, <br>
+Think but this, and all is mended,<br>
+That you have but slumber'd here<br>
+While these visions did appear.<br>
+And this weak and idle theme,<br>
+No more yielding but a dream,<br>
+Gentles, do not reprehend:<br>
+if you pardon, we will mend:<br>
+And, as I am an honest Puck,<br>
+If we have unearned luck<br>
+Now to 'scape the serpent's tongue,<br>
+We will make amends ere long;<br>
+Else the Puck a liar call;<br>
+So, good night unto you all.<br>
+Give me your hands, if we be friends,<br>
+And Robin shall restore amends. 
+
+      </div>
+    </span>
+
+  
+

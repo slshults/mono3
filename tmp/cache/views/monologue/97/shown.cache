@@ -1,0 +1,10 @@
+"–
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_97">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_97', '/monologues/preview/97', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('rFrMsLX5USPGpNUF7d/IKtxdSbuEjh5REMw7QUYPlG0=')}); return false;">When last the young Orlando parted from you</a>
+    </span>
+  
+

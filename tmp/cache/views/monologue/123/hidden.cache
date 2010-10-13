@@ -1,0 +1,52 @@
+"	
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_123">
+      Is there no way for men to be, but women   II v 4<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_123', '/monologues/preview?monologue_id=123', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Zke4cg0lFure3Fos0oJh1+k6UY5AlcDn0W2uMfDsDko=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Is there no way for men to be, but women <br>	 
+Must be half-workers? We are all bastards; all,<br>
+And that most venerable man which I <br>
+Did call my father was I know not where <br>
+When I was stamp'd; some coiner with his tools<br> 
+Made me a counterfeit; yet my mother seem'd   <br>
+The Dian of that time; so doth my wife <br>
+The nonpareil of this. O! vengeance, vengeance; <br> 
+Me of my lawful pleasure she restrain'd <br>
+And pray'd me oft forbearance; did it with  <br>
+A pudency so rosy the sweet view on 't <br>
+Might well have warm'd old Saturn; that I thought her <br> 
+As chaste as unsunn'd snow. O! all the devils! <br>
+This yellow Iachimo, in an hour,'was 't not?  <br>
+Or less'at first?'perchance he spoke not, but  <br>
+Like a full-acorn'd boar, a German one, <br>
+Cried 'O!' and mounted; found no opposition <br>
+But what he look'd for should oppose and she <br>
+Should from encounter guard. Could I find out  <br>
+The woman's part in me! For there's no motion   <br>
+That tends to vice in man but I affirm  <br>
+It is the woman's part; be it lying, note it,
+The woman's; flattering, hers; deceiving, hers; <br>
+Lust and rank thoughts, hers, hers; revenges, hers; <br>
+Ambitions, covetings, change of prides, disdain, <br>
+Nice longing, slanders, mutability,  <br>
+All faults that man may name, nay, that hell knows,<br> 
+Why, hers, in part, or all; but rather, all;  <br>
+For even to vice <br>
+They are not constant, but are changing still
+One vice but of a minute old for one <br>
+Not half so old as that. I'll write against them,<br> 
+Detest them, curse them. Yet 'tis greater skill <br>
+In a true hate to pray they have their will:  <br>
+The very devils cannot plague them better.  [Exit.]<br>
+
+      </div>
+    </span>
+
+  
+

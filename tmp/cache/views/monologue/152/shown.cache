@@ -1,0 +1,10 @@
+"—
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_152">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_152', '/monologues/preview/152', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('4yhW1+W5uRY88l2pz1NjLHs83udkE80Q0XFhkg21CJE=')}); return false;">This fellow pecks up wit as pigeons pease</a>
+    </span>
+  
+

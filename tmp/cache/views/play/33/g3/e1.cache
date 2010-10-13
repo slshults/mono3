@@ -1,0 +1,522 @@
+I"ÛV  
+    <div>
+      <h2>Men's Monologues in Shakespeare</h2>
+      <h2>Macbeth</h2>
+      <span>
+        <form action="javascript:void(0);" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="fSeIHnHjw8duX4VVSQPtfJ+8TVQABICNxqm2x48ai2g=" /></div>
+          <b>Search:</b> <input type="text" id="search" size="40"/>
+          <img alt="Ajax-loader" id="spinner" src="/images/ajax-loader.gif?1278779332" style="display: none;" />
+        </form>
+        <div class="search_links">
+          <a href="/plays/33?g=2">Search Women</a> &nbsp;|&nbsp;
+          <a href="/plays/33">Search Macbeth</a> &nbsp;|&nbsp;
+          <a href="/plays">Search All Plays</a> &nbsp;|&nbsp;
+          
+            <a href="/plays/33?g=3">Collapse All</a>
+          
+        </div>
+      </span>
+    </div>
+    <script type="text/javascript">
+//<![CDATA[
+new Form.Element.Observer('search', 1.25, function(element, value) {Element.show('spinner'); new Ajax.Updater('ajaxResults', 'http://mono.freeinternet.org/monologues/search', {asynchronous:true, evalScripts:true, onComplete:function(request){Element.hide('spinner')}, parameters:'g=3&p=33&search=' + encodeURIComponent(value) + '&authenticity_token=' + encodeURIComponent('fSeIHnHjw8duX4VVSQPtfJ+8TVQABICNxqm2x48ai2g=')})})
+//]]>
+</script>
+  
+    <div id='ajaxResults'>
+      
+
+  
+
+      
+<div>
+  <table id='monologue_list'>
+    <tr>
+      <th>Character</th>
+      <th>First Line</th>
+      <th>Act & Sc</th>
+      <th>pdf</th>
+    </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Sergeant</div>
+  <div class='monologue_detail'>
+  Verse - intercut <br/>
+  <a href="/plays/33">Macbeth</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_69'>
+  
+    <span id="preview_mono_69">
+      
+
+Doubtful it stood;
+As two spent swimmers, that do cling together
+
+ <br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_69', '/monologues/preview?monologue_id=69', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('fSeIHnHjw8duX4VVSQPtfJ+8TVQABICNxqm2x48ai2g=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Sergeant.</b><div align='right'>Doubtful it stood;</div>
+      As two spent swimmers, that do cling together<br>
+      And choke their art. The merciless Macdonwald.<br>
+      Worthy to be a rebel, for to that<br>
+      The multiplying villanies of nature<br>
+      Do swarm upon him.from the western isles<br>
+      Of kerns and gallowglasses is supplied;<br>
+      And fortune, on his damned quarrel smiling,<br>
+      Show'd like a rebel's whore: but all's too weak:<br>
+      For brave Macbeth--well he deserves that name. <br>
+      Disdaining fortune, with his brandish'd steel,<br>
+      Which smoked with bloody execution,<br>
+      Like valour's minion carved out his passage<br>
+      Till he faced the slave;<br>
+      Which ne'er shook hands, nor bade farewell to him,<br>
+      Till he unseam'd him from the nave to the chaps,<br>
+      And fix'd his head upon our battlements. <br><br>
+
+<del><b>Duncan.</b> O valiant cousin! worthy gentleman! </del><br><br>
+
+<b>Sergeant.</b> As whence the sun 'gins his reflection<br>
+      Shipwrecking storms and direful thunders break,<br>
+      So from that spring whence comfort seem'd to come<br>
+      Discomfort swells. Mark, king of Scotland, mark:<br>
+      No sooner justice had with valour arm'd<br>
+      Compell'd these skipping kerns to trust their heels,<br>
+      But the Norweyan lord surveying vantage,<br>
+      With furbish'd arms and new supplies of men<br>
+      Began a fresh assault. <br><br>
+
+<del><b>Duncan.</b> Dismay'd not this<br>
+      Our captains, Macbeth and Banquo? </del><br><br>
+
+<b>Sergeant.</b> <del>Yes;</del><br>
+      As sparrows eagles, or the hare the lion.<br>
+      If I say sooth, I must report they were<br>
+      As cannons overcharged with double cracks, so they<br>
+      Doubly redoubled strokes upon the foe:<br>
+      Except they meant to bathe in reeking wounds,<br>
+      Or memorise another Golgotha,<br>
+      I cannot tell.<br>
+      But I am faint, my gashes cry for help. 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=macbeth&Act=1&Scene=2&Scope=scene&LineHighlight=26#18' target='_blank'>I ii 11</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/m-1-2-11-sergeant.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Macbeth</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/33">Macbeth</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_70'>
+  
+    <span id="preview_mono_70">
+      
+
+
+If it were done when 'tis done, then 'twere well
+it were done quickly
+
+
+<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_70', '/monologues/preview?monologue_id=70', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('fSeIHnHjw8duX4VVSQPtfJ+8TVQABICNxqm2x48ai2g=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          If it were done when 'tis done, then 'twere well<br>
+It were done quickly: if the assassination<br>
+Could trammel up the consequence, and catch<br>
+With his surcease success; that but this blow<br>
+Might be the be-all and the end-all here,<br>
+But here, upon this bank and shoal of time,<br>
+We'ld jump the life to come. But in these cases <br>
+We still have judgment here; that we but teach<br>
+Bloody instructions, which, being taught, return<br>
+To plague the inventor: this even-handed justice<br>
+Commends the ingredients of our poison'd chalice<br>
+To our own lips. He's here in double trust;<br>
+First, as I am his kinsman and his subject,<br>
+Strong both against the deed; then, as his host,<br>
+Who should against his murderer shut the door,<br>
+Not bear the knife myself. Besides, this Duncan<br>
+Hath borne his faculties so meek, hath been <br>
+So clear in his great office, that his virtues<br>
+Will plead like angels, trumpet-tongued, against<br>
+The deep damnation of his taking-off;<br>
+And pity, like a naked new-born babe,<br>
+Striding the blast, or heaven's cherubim, horsed <br>
+Upon the sightless couriers of the air,<br>
+Shall blow the horrid deed in every eye,<br>
+That tears shall drown the wind. I have no spur<br>
+To prick the sides of my intent, but only<br>
+Vaulting ambition, which o'erleaps itself <br>
+And falls on the other. 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=macbeth&Act=1&Scene=7&Scope=scene&LineHighlight=474' target='_blank'>I vii 1</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/m-1-7-1-macbeth.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Macbeth</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/33">Macbeth</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_71'>
+  
+    <span id="preview_mono_71">
+      Is this a dagger which I see before me<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_71', '/monologues/preview?monologue_id=71', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('fSeIHnHjw8duX4VVSQPtfJ+8TVQABICNxqm2x48ai2g=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Is this a dagger which I see before me,<br>
+      The handle toward my hand? Come, let me clutch thee.<br>
+      I have thee not, and yet I see thee still.<br>
+      Art thou not, fatal vision, sensible <br>
+      To feeling as to sight? or art thou but<br>
+      A dagger of the mind, a false creation,<br>
+      Proceeding from the heat-oppressed brain?<br>
+      I see thee yet, in form as palpable<br>
+      As this which now I draw. <br>
+      Thou marshall'st me the way that I was going;<br>
+      And such an instrument I was to use.<br>
+      Mine eyes are made the fools o' the other senses,<br>
+      Or else worth all the rest; I see thee still,<br>
+      And on thy blade and dudgeon gouts of blood, <br>
+      Which was not so before. There's no such thing:<br>
+      It is the bloody business which informs<br>
+      Thus to mine eyes. Now o'er the one halfworld<br>
+      Nature seems dead, and wicked dreams abuse<br>
+      The curtain'd sleep; witchcraft celebrates <br>
+      Pale Hecate's offerings, and wither'd murder,<br>
+      Alarum'd by his sentinel, the wolf,<br>
+      Whose howl's his watch, thus with his stealthy pace.<br>
+      With Tarquin's ravishing strides, towards his design<br>
+      Moves like a ghost. Thou sure and firm-set earth,<br>
+      Hear not my steps, which way they walk, for fear<br>
+      Thy very stones prate of my whereabout,<br>
+      And take the present horror from the time,<br>
+      Which now suits with it. Whiles I threat, he lives:<br>
+      Words to the heat of deeds too cold breath gives.<br>
+      <i>[A bell rings]</i><br>
+      I go, and it is done; the bell invites me.<br>
+      Hear it not, Duncan; for it is a knell<br>
+      That summons thee to heaven or to hell. <br><br>
+
+<i>[Exit]</i> 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=macbeth&Act=2&Scene=1&Scope=scene&LineHighlight=609#600' target='_blank'>II i 44</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/m-2-1-33-macbeth.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Porter</div>
+  <div class='monologue_detail'>
+  Prose  <br/>
+  <a href="/plays/33">Macbeth</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_72'>
+  
+    <span id="preview_mono_72">
+      Here's a knocking, indeed!<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_72', '/monologues/preview?monologue_id=72', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('fSeIHnHjw8duX4VVSQPtfJ+8TVQABICNxqm2x48ai2g=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <i>[Knocking within. Enter a Porter]</i><br><br>
+<b>Porter.</b> Here's a knocking indeed! If a
+      man were porter of hell-gate, he should have
+      old turning the key.<br>
+      <i>[Knocking within]</i><br>
+      Knock,
+      knock, knock! Who's there, i' the name of
+      Beelzebub? Here's a farmer, that hanged
+      himself on the expectation of plenty: come in
+      time; have napkins enow about you; here
+      you'll sweat for't.<br>
+      <i>[Knocking within]</i><br>
+      Knock,
+      knock! Who's there, in the other devil's
+      name? Faith, here's an equivocator, that could 
+      swear in both the scales against either scale;
+      who committed treason enough for God's sake,
+      yet could not equivocate to heaven: O, come
+      in, equivocator.<br>
+      <i>[Knocking within]</i> <br>
+      Knock,
+      knock, knock! Who's there? Faith, here's an
+      English tailor come hither, for stealing out of
+      a French hose: come in, tailor; here you may
+      roast your goose. <br>
+      <i>[Knocking within]</i><br>
+      Knock,
+      knock; never at quiet! What are you? But
+      this place is too cold for hell. I'll devil-porter
+      it no further: I had thought to have let in 
+      some of all professions that go the primrose
+      way to the everlasting bonfire.<br>
+      <i>[Knocking within]</i><br>
+      Anon, anon! I pray you, remember the porter. <br><br>
+
+<i>[Opens the gate]</i> 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=macbeth&Act=2&Scene=3&Scope=scene&LineHighlight=747' target='_blank'>II iii 1</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/m-2-3-1-porter.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Macbeth</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/33">Macbeth</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_73'>
+  
+    <span id="preview_mono_73">
+      To be thus is nothing;<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_73', '/monologues/preview?monologue_id=73', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('fSeIHnHjw8duX4VVSQPtfJ+8TVQABICNxqm2x48ai2g=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          To be thus is nothing;<br>
+But to be safely thus.--Our fears in Banquo<br>
+Stick deep; and in his royalty of nature<br>
+Reigns that which would be fear'd: 'tis much he dares;<br>
+And, to that dauntless temper of his mind,<br>
+He hath a wisdom that doth guide his valour<br>
+To act in safety. There is none but he<br>
+Whose being I do fear: and, under him,<br>
+My Genius is rebuked; as, it is said, <br>
+Mark Antony's was by Caesar. He chid the sisters<br>
+When first they put the name of king upon me,<br>
+And bade them speak to him: then prophet-like<br>
+They hail'd him father to a line of kings:<br>
+Upon my head they placed a fruitless crown,<br>
+And put a barren sceptre in my gripe,<br>
+Thence to be wrench'd with an unlineal hand,<br>
+No son of mine succeeding. If 't be so,<br>
+For Banquo's issue have I filed my mind;<br>
+For them the gracious Duncan have I murder'd;<br>
+Put rancours in the vessel of my peace<br>
+Only for them; and mine eternal jewel<br>
+Given to the common enemy of man,<br>
+To make them kings, the seed of Banquo kings!<br>
+Rather than so, come fate into the list. <br>
+And champion me to the utterance!
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=macbeth&Act=3&Scene=1&Scope=scene&LineHighlight=1055#1044' target='_blank'>III i 54</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/m-3-1-54-macbeth.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Lennox</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/33">Macbeth</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_74'>
+  
+    <span id="preview_mono_74">
+      My former speeches have but hit your thoughts<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_74', '/monologues/preview?monologue_id=74', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('fSeIHnHjw8duX4VVSQPtfJ+8TVQABICNxqm2x48ai2g=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          My former speeches have but hit your thoughts,<br>
+Which can interpret further: only, I say,<br>
+Things have been strangely borne. The
+gracious Duncan<br>
+Was pitied of Macbeth: marry, he was dead: <br>
+And the right-valiant Banquo walk'd too late;<br>
+Whom, you may say, if't please you, Fleance kill'd,<br>
+For Fleance fled: men must not walk too late.<br>
+Who cannot want the thought how monstrous<br>
+It was for Malcolm and for Donalbain <br>
+To kill their gracious father? damned fact!<br>
+How it did grieve Macbeth! did he not straight<br>
+In pious rage the two delinquents tear,<br>
+That were the slaves of drink and thralls of sleep?<br>
+Was not that nobly done? Ay, and wisely too; <br>
+For 'twould have anger'd any heart alive<br>
+To hear the men deny't. So that, I say,<br>
+He has borne all things well: and I do think<br>
+That had he Duncan's sons under his key--<br>
+As, an't please heaven, he shall not--they 
+should find<br>
+What 'twere to kill a father; so should Fleance.<br>
+But, peace! for from broad words and 'cause he fail'd<br>
+His presence at the tyrant's feast, I hear<br>
+Macduff lives in disgrace: sir, can you tell <br>
+Where he bestows himself? 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=macbeth&Act=3&Scene=6&Scope=scene&LineHighlight=1491' target='_blank'>III vi 1</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/m-3-6-1-lennox.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Malcolm</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/33">Macbeth</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_75'>
+  
+    <span id="preview_mono_75">
+      
+
+Macduff, this noble passion,
+Child of integrity, hath from my soul 
+
+<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_75', '/monologues/preview?monologue_id=75', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('fSeIHnHjw8duX4VVSQPtfJ+8TVQABICNxqm2x48ai2g=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <div align='right'>Macduff, this noble passion,</div>
+Child of integrity, hath from my soul<br>
+Wiped the black scruples, reconciled my thoughts<br>
+To thy good truth and honour. Devilish Macbeth<br>
+By many of these trains hath sought to win me<br>
+Into his power, and modest wisdom plucks me<br>
+From over-credulous haste: but God above<br>
+Deal between thee and me! for even now <br>
+I put myself to thy direction, and<br>
+Unspeak mine own detraction, here abjure<br>
+The taints and blames I laid upon myself,<br>
+For strangers to my nature. I am yet<br>
+Unknown to woman, never was forsworn, <br>
+Scarcely have coveted what was mine own,<br>
+At no time broke my faith, would not betray<br>
+The devil to his fellow and delight<br>
+No less in truth than life: my first false speaking<br>
+Was this upon myself: what I am truly, <br>
+Is thine and my poor country's to command:<br>
+Whither indeed, before thy here-approach,<br>
+Old Siward, with ten thousand warlike men,<br>
+Already at a point, was setting forth.<br>
+Now we'll together; and the chance of goodness <br>
+Be like our warranted quarrel! 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=macbeth&Act=4&Scene=3&Scope=scene&LineHighlight=1973#1958' target='_blank'>IV iii 131</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/m-4-3-131-malcolm.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Macbeth</div>
+  <div class='monologue_detail'>
+  Verse - intercut <br/>
+  <a href="/plays/33">Macbeth</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_848'>
+  
+    <span id="preview_mono_848">
+      I have almost forgot the taste of fears<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_848', '/monologues/preview?monologue_id=848', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('fSeIHnHjw8duX4VVSQPtfJ+8TVQABICNxqm2x48ai2g=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+           <b>Macbeth.</b> I have almost forgot the taste of fears;<br> 
+      The time has been, my senses would have cool'd <br> 
+      To hear a night-shriek; and my fell of hair<br> 
+      Would at a dismal treatise rouse and stir<br> 
+      As life were in't: I have supp'd full with horrors;<br> 
+      Direness, familiar to my slaughterous thoughts<br> 
+      Cannot once start me. <br> 
+      [Re-enter SEYTON]<br> 
+      Wherefore was that cry?
+<br><br> 
+    <del><b>Seyton.</b> The queen, my lord, is dead.</del> 
+<br><br> 
+    <b>Macbeth.</b> She should have died hereafter;<br> 
+      There would have been a time for such a word.<br> 
+      To-morrow, and to-morrow, and to-morrow,<br> 
+      Creeps in this petty pace from day to day<br> 
+      To the last syllable of recorded time,<br> 
+      And all our yesterdays have lighted fools<br> 
+      The way to dusty death. Out, out, brief candle!<br> 
+      Life's but a walking shadow, a poor player<br> 
+      That struts and frets his hour upon the stage<br> 
+      And then is heard no more: it is a tale<br> 
+      Told by an idiot, full of sound and fury,<br> 
+      Signifying nothing. <br>
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=macbeth&Act=5&Scene=5&Scope=scene&LineHighlight=2364#2353' target='_blank'>V v 10</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://shakespeare-monologues.org/men/macbeth/Vv10.htm' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+</table></div>
+
+
+  
+
+
+
+
+    </div>
+:@_rails_html_safeF

@@ -1,0 +1,39 @@
+"u
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_657">
+      This fellow's of exceeding honesty<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_657', '/monologues/preview?monologue_id=657', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('0x7jTYSz3mg2BCywTpfxa6KKrbdP/Yp0cqMBqm2k8F4=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          This fellow's of exceeding honesty,<br>
+And knows all qualities, with a learned spirit, <br>
+Of human dealings. If I do prove her haggard,<br>
+Though that her jesses were my dear heartstrings,<br>
+I'ld whistle her off and let her down the wind,<br>
+To pray at fortune. Haply, for I am black<br>
+And have not those soft parts of conversation<br>
+That chamberers have, or for I am declined<br>
+Into the vale of years,—yet that's not much—<br>
+She's gone. I am abused; and my relief<br>
+Must be to loathe her. O curse of marriage,<br>
+That we can call these delicate creatures ours,<br>
+And not their appetites! I had rather be a toad,<br>
+And live upon the vapour of a dungeon,<br>
+Than keep a corner in the thing I love<br>
+For others' uses. Yet, 'tis the plague of great ones;<br>
+Prerogatived are they less than the base; <br>
+'Tis destiny unshunnable, like death:<br>
+Even then this forked plague is fated to us<br>
+When we do quicken. Desdemona comes:<br>
+[Re-enter DESDEMONA and EMILIA]<br>
+If she be false, O, then heaven mocks itself! <br>
+I'll not believe't. <br>
+      </div>
+    </span>
+
+  
+

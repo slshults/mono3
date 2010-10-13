@@ -1,0 +1,17 @@
+"A
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_769">
+      Look on thy country, look on fertile France,     <br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_769', '/monologues/preview?monologue_id=769', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('NFMIh70XYNt3ew5suQIBPUo5b6zltn+x08si8VayWo4=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+
+  
+

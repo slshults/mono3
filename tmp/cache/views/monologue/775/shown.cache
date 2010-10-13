@@ -1,0 +1,10 @@
+"•
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_775">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_775', '/monologues/preview/775', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('6KHx8Mq9NbxKS2JTP9wKDJBepJdiZ8PlubaUeIctkxQ=')}); return false;">Can you not see? or will ye not observe</a>
+    </span>
+  
+

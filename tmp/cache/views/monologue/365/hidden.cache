@@ -1,0 +1,36 @@
+"&
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_365">
+      Now my charms are all o'erthrown,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_365', '/monologues/preview?monologue_id=365', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('9GjnEdoS4+WTqAN9cGcAhHS44rcjcqyeAj/6AD7ENsA=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Now my charms are all o'erthrown,<br>
+And what strength I have's mine own, <br>
+Which is most faint: now, 'tis true,<br>
+I must be here confined by you,<br>
+Or sent to Naples. Let me not,<br>
+Since I have my dukedom got<br>
+And pardon'd the deceiver, dwell <br>
+In this bare island by your spell;<br>
+But release me from my bands<br>
+With the help of your good hands:<br>
+Gentle breath of yours my sails<br>
+Must fill, or else my project fails,<br>
+Which was to please. Now I want<br>
+Spirits to enforce, art to enchant,<br>
+And my ending is despair,<br>
+Unless I be relieved by prayer,<br>
+Which pierces so that it assaults <br>
+Mercy itself and frees all faults.<br>
+As you from crimes would pardon'd be,<br>
+Let your indulgence set me free.
+      </div>
+    </span>
+
+  
+

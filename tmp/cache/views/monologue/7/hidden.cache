@@ -1,0 +1,83 @@
+"
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_7">
+      At least, the whisper goes so. Our last king<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_7', '/monologues/preview?monologue_id=7', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('pcducMyPoSOIAf0JTgVAUfBinfYC8vtzJjR9p/J06Lk=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Horatio.</b> <div align="right">That can I.</div>
+      At least, the whisper goes so. Our last king,<br>
+      Whose image even but now appear'd to us,<br>
+      Was, as you know, by Fortinbras of Norway,<br>
+      Thereto prick'd on by a most emulate pride, 
+      Dar'd to the combat; in which our valiant Hamlet<br>
+      (For so this side of our known world esteem'd him)<br>
+      Did slay this Fortinbras; who, by a seal'd compact,<br>
+      Well ratified by law and heraldry,<br>
+      Did forfeit, with his life, all those his lands <br>
+      Which he stood seiz'd of, to the conqueror;<br>
+      Against the which a moiety competent<br>
+      Was gaged by our king; which had return'd<br>
+      To the inheritance of Fortinbras,<br>
+      Had he been vanquisher, as, by the same cov'nant <br>
+      And carriage of the article design'd,<br>
+      His fell to Hamlet. Now, sir, young Fortinbras,<br>
+      Of unimproved mettle hot and full,<br>
+      Hath in the skirts of Norway, here and there,<br>
+      Shark'd up a list of lawless resolutes,<br>
+      For food and diet, to some enterprise<br>
+      That hath a stomach in't; which is no other,<br>
+      As it doth well appear unto our state,<br>
+      But to recover of us, by strong hand<br>
+      And terms compulsatory, those foresaid lands<br>
+      So by his father lost; and this, I take it,<br>
+      Is the main motive of our preparations,<br>
+      The source of this our watch, and the chief head<br>
+      Of this post-haste and romage in the land. <br><br>
+
+<del><b>Bernardo.</b> I think it be no other but e'en so.<br>
+      Well may it sort that this portentous figure<br>
+      Comes armed through our watch, so like the King<br>
+      That was and is the question of these wars. </del><br><br>
+
+<B>Horatio.</b> A mote it is to trouble the mind's eye.<br>
+      In the most high and palmy state of Rome, <br>
+      A little ere the mightiest Julius fell,<br>
+      The graves stood tenantless, and the sheeted dead<br>
+      Did squeak and gibber in the Roman streets;<br>
+      As stars with trains of fire, and dews of blood,<br>
+      Disasters in the sun; and the moist star <br>
+      Upon whose influence Neptune's empire stands<br>
+      Was sick almost to doomsday with eclipse.<br>
+      And even the like precurse of fierce events,<br>
+      As harbingers preceding still the fates<br>
+      And prologue to the omen coming on, <br>
+      Have heaven and earth together demonstrated<br>
+      Unto our climature and countrymen.<br>
+      [<i>Enter Ghost again.</i>]<br>
+      But soft! behold! Lo, where it comes again!<br>
+      I'll cross it, though it blast me.- Stay illusion! <br>
+      [<i>Spreads his arms.</i>]<br>
+      If thou hast any sound, or use of voice,<br>
+      Speak to me.<br>
+      If there be any good thing to be done,<br>
+      That may to thee do ease, and, grace to me,<br>
+      Speak to me.<br>
+      If thou art privy to thy country's fate,<br>
+      Which happily foreknowing may avoid,<br>
+      O, speak!<br>
+      Or if thou hast uphoarded in thy life <br>
+      Extorted treasure in the womb of earth<br>
+      (For which, they say, you spirits oft walk in death),<br>
+      [<i>The cock crows.</i>]<br>
+      Speak of it! Stay, and speak!- Stop it, Marcellus!<br>
+
+      </div>
+    </span>
+
+  
+

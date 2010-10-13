@@ -1,0 +1,10 @@
+"ç
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_186">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_186', '/monologues/preview/186', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('mytjE3Vj8iHLDbiX5lXHOlVZYc3o+OEomJpFAgt2aj0=')}); return false;">Dost thou not suspect my place?</a>
+    </span>
+  
+

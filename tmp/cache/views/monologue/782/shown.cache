@@ -1,0 +1,10 @@
+"¢
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_782">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_782', '/monologues/preview/782', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('CSIzGCjQ04Ydnu5HZCbqv9+YITJqfzyGi3hT7oe4Hq0=')}); return false;">Great lords, wise men ne'er sit and wail their loss,</a>
+    </span>
+  
+

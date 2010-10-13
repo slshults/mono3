@@ -1,0 +1,41 @@
+"ß
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_833">
+      Have I not reason, think you, to look pale?<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_833', '/monologues/preview?monologue_id=833', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('XepXdRF0+B2Q904t5astrG8Pc6zNNiVGQpajlQW/Ecw=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+           Have I not reason, think you, to look pale?<br>
+These two have 'ticed me hither to this place:<br>
+A barren detested vale, you see it is;<br>
+The trees, though summer, yet forlorn and lean, <br>
+O'ercome with moss and baleful mistletoe:<br>
+Here never shines the sun; here nothing breeds,<br>
+Unless the nightly owl or fatal raven:<br>
+And when they show'd me this abhorred pit,<br>
+They told me, here, at dead time of the night, <br>
+A thousand fiends, a thousand hissing snakes,<br>
+Ten thousand swelling toads, as many urchins,<br>
+Would make such fearful and confused cries<br>
+As any mortal body hearing it<br>
+Should straight fall mad, or else die suddenly.<br>
+No sooner had they told this hellish tale,<br>
+But straight they told me they would bind me here<br>
+Unto the body of a dismal yew,<br>
+And leave me to this miserable death:<br>
+And then they call'd me foul adulteress, <br>
+Lascivious Goth, and all the bitterest terms<br>
+That ever ear did hear to such effect:<br>
+And, had you not by wondrous fortune come,<br>
+This vengeance on me had they executed.<br>
+Revenge it, as you love your mother's life, <br>
+Or be ye not henceforth call'd my children. 
+      </div>
+    </span>
+
+  
+

@@ -1,0 +1,51 @@
+"b
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_247">
+      Since Cleopatra died,
+I have liv'd in such dishonour, that the gods<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_247', '/monologues/preview?monologue_id=247', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Lh/FJ9C9fDWUJ3b/pMnquZyaQ5C91jo5oTyF4UCqcTI=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Antony.</b> Since Cleopatra died,<br>
+      I have lived in such dishonour, that the gods<br>
+      Detest my baseness. I, that with my sword <br>
+      Quarter'd the world, and o'er green Neptune's back<br>
+      With ships made cities, condemn myself to lack<br>
+      The courage of a woman; less noble mind<br>
+      Than she which by her death our Caesar tells<br>
+      'I am conqueror of myself.' Thou art sworn, Eros,<br>
+      That, when the exigent should come, which now<br>
+      Is come indeed, when I should see behind me<br>
+      The inevitable prosecution of<br>
+      Disgrace and horror, that, on my command,<br>
+      Thou then wouldst kill me: do't; the time is come: <br>
+      Thou strikest not me, 'tis Caesar thou defeat'st.<br>
+      Put colour in thy cheek. <br><br>
+
+<del><b>Eros.</b> The gods withhold me!<br>
+      Shall I do that which all the Parthian darts,<br>
+      Though enemy, lost aim, and could not? </del><br><br>
+
+<b>Antony.</b><div align='right'> Eros,&nbsp;&nbsp;&nbsp;</div>
+      Wouldst thou be window'd in great Rome and see<br>
+      Thy master thus with pleach'd arms, bending down<br>
+      His corrigible neck, his face subdued<br>
+      To penetrative shame, whilst the wheel'd seat<br>
+      Of fortunate Caesar, drawn before him, branded<br>
+      His baseness that ensued? <br><br>
+
+<del><b>Eros.</b> I would not see't. </del><br><br>
+
+<b>Antony.</b> Come, then; for with a wound I must be cured.<br>
+      Draw that thy honest sword, which thou hast worn <br>
+      Most useful for thy country. 
+
+      </div>
+    </span>
+
+  
+

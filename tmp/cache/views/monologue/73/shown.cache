@@ -1,0 +1,10 @@
+"Å
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_73">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_73', '/monologues/preview/73', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('oi8Jx33bxj2Ndvs3dNqMhcuAT4SE891UL9V/n2Rspw8=')}); return false;">To be thus is nothing;</a>
+    </span>
+  
+

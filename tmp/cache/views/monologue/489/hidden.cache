@@ -1,0 +1,17 @@
+"9
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_489">
+      Ay, kennel, puddle, sink; whose filth and dirt<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_489', '/monologues/preview?monologue_id=489', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('jObqe9HJ4wFjkxnR6/0IiKbVU3TBuAS/RlmfNZY/ZdY=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+
+  
+

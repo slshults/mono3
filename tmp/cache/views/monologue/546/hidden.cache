@@ -1,0 +1,18 @@
+"M
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_546">
+      Go, bear him in thine arms.
+I am amaz'd, methinks, and lose my way<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_546', '/monologues/preview?monologue_id=546', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('5T5pFCm4em51RW1L75MNzYjm79VKeX/GFiF3OOmszQ0=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+
+  
+

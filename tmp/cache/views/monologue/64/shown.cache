@@ -1,0 +1,10 @@
+"{
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_64">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_64', '/monologues/preview/64', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('dSgzJ5YeiLyDJYSb5hXYQbiRzhK6//UT6xILegKTk24=')}); return false;">Asleep, my love?</a>
+    </span>
+  
+

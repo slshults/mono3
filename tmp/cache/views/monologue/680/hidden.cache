@@ -1,0 +1,43 @@
+"n
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_680">
+      Thou art a slave, whom Fortune's tender arm<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_680', '/monologues/preview?monologue_id=680', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Wqs+5vKZfqIhn5S6LXECSNVPmus7EuBMtaPz7sU+biM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Thou art a slave, whom Fortune's tender arm <br>
+With favour never clasp'd; but bred a dog.<br>
+Hadst thou, like us from our first swath, proceeded<br>
+The sweet degrees that this brief world affords<br>
+To such as may the passive drugs of it<br>
+Freely command, thou wouldst have plunged thyself <br>
+In general riot; melted down thy youth<br>
+In different beds of lust; and never learn'd<br>
+The icy precepts of respect, but follow'd<br>
+The sugar'd game before thee. But myself,<br>
+Who had the world as my confectionary, <br>
+The mouths, the tongues, the eyes and hearts of men<br>
+At duty, more than I could frame employment,<br>
+That numberless upon me stuck as leaves<br>
+Do on the oak, hive with one winter's brush<br>
+Fell from their boughs and left me open, bare <br>
+For every storm that blows: I, to bear this,<br>
+That never knew but better, is some burden:<br>
+Thy nature did commence in sufferance, time<br>
+Hath made thee hard in't. Why shouldst thou hate men?<br>
+They never flatter'd thee: what hast thou given? <br>
+If thou wilt curse, thy father, that poor rag,<br>
+Must be thy subject, who in spite put stuff<br>
+To some she beggar and compounded thee<br>
+Poor rogue hereditary. Hence, be gone!<br>
+If thou hadst not been born the worst of men, <br>
+Thou hadst been a knave and flatterer. 
+      </div>
+    </span>
+
+  
+

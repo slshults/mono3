@@ -1,0 +1,40 @@
+"œ
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_373">
+      Yes, 'tis most meet: whom may you else oppose,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_373', '/monologues/preview?monologue_id=373', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('lVGdailyd3wlQ8apBKlX6z9uC/r4T1fW96FVSrDRM0E=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Yes, 'tis most meet: whom may you else oppose,<br>
+That can from Hector bring his honour off,<br>
+If not Achilles? Though't be a sportful combat,<br>
+Yet in the trial much opinion dwells;<br>
+For here the Trojans taste our dear'st repute <br>
+With their finest palate: and trust to me, Ulysses,<br>
+Our imputation shall be oddly poised<br>
+In this wild action; for the success,<br>
+Although particular, shall give a scantling<br>
+Of good or bad unto the general; <br>
+And in such indexes, although small pricks<br>
+To their subsequent volumes, there is seen<br>
+The baby figure of the giant mass<br>
+Of things to come at large. It is supposed<br>
+He that meets Hector issues from our choice <br>
+And choice, being mutual act of all our souls,<br>
+Makes merit her election, and doth boil,<br>
+As 'twere from us all, a man distill'd<br>
+Out of our virtues; who miscarrying,<br>
+What heart receives from hence the conquering part, <br>
+To steel a strong opinion to themselves?<br>
+Which entertain'd, limbs are his instruments,<br>
+In no less working than are swords and bows<br>
+Directive by the limbs. 
+      </div>
+    </span>
+
+  
+

@@ -1,0 +1,17 @@
+",
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_763">
+      Marry, if thou wert an honest man<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_763', '/monologues/preview?monologue_id=763', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('2L1dBc5w8urEiztZEBe4fMVsxI94W+2RJ1SAvSXmmFE=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+
+  
+

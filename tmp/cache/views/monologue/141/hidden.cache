@@ -1,0 +1,49 @@
+"â
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_141">
+      And I, forsooth, in love!<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_141', '/monologues/preview?monologue_id=141', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('qSnYAJSpBUkXrBbHXZURrE5XzSNup/PQQ5lWYpTu6f8=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          And I, forsooth, in love! I, that have been love's whip;<br>
+A very beadle to a humorous sigh;<br>
+A critic, nay, a night-watch constable;<br>
+A domineering pedant o'er the boy; <br>
+Than whom no mortal so magnificent!<br>
+This whimpled, whining, purblind, wayward boy;<br>
+This senior-junior, giant-dwarf, Dan Cupid;<br>
+Regent of love-rhymes, lord of folded arms,<br>
+The anointed sovereign of sighs and groans,<br>
+Liege of all loiterers and malcontents,<br>
+Dread prince of plackets, king of codpieces,<br>
+Sole imperator and great general<br>
+Of trotting 'paritors:--O my little heart:--<br>
+And I to be a corporal of his field, <br>
+And wear his colours like a tumbler's hoop!<br>
+What, I! I love! I sue! I seek a wife!<br>
+A woman, that is like a German clock,<br>
+Still a-repairing, ever out of frame,<br>
+And never going aright, being a watch, <br>
+But being watch'd that it may still go right!<br>
+Nay, to be perjured, which is worst of all;<br>
+And, among three, to love the worst of all;<br>
+A wightly wanton with a velvet brow,<br>
+With two pitch-balls stuck in her face for eyes; <br>
+Ay, and by heaven, one that will do the deed<br>
+Though Argus were her eunuch and her guard:<br>
+And I to sigh for her! to watch for her!<br>
+To pray for her! Go to; it is a plague<br>
+That Cupid will impose for my neglect <br>
+Of his almighty dreadful little might.<br>
+Well, I will love, write, sigh, pray, sue and groan:<br>
+Some men must love my lady and some Joan. 
+
+      </div>
+    </span>
+
+  
+

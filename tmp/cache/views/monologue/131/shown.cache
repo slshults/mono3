@@ -1,0 +1,10 @@
+"–
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_131">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_131', '/monologues/preview/131', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('0Z/t13+LSIkFnadcmEeJ14FwmAymRQGteFB0zBkdVaE=')}); return false;">Most welcome, bondage! for thou art away</a>
+    </span>
+  
+

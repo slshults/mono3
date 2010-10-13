@@ -1,0 +1,44 @@
+"ƒ
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_243">
+      Hark! the land bids me tread no more upon 't<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_243', '/monologues/preview?monologue_id=243', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Lh/FJ9C9fDWUJ3b/pMnquZyaQ5C91jo5oTyF4UCqcTI=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Antony.</b> Hark! the land bids me tread no more upon't;<br>
+      It is ashamed to bear me! Friends, come hither:<br>
+      I am so lated in the world, that I<br>
+      Have lost my way for ever: I have a ship<br>
+      Laden with gold; take that, divide it; fly, <br>
+      And make your peace with Caesar. <br><br>
+
+<del><b>All.</b> Fly! not we. </del><br><br>
+
+<b>Antony.</b> I have fled myself; and have instructed cowards<br>
+      To run and show their shoulders. Friends, be gone;<br>
+      I have myself resolved upon a course <br>
+      Which has no need of you; be gone:<br>
+      My treasure's in the harbour, take it. O,<br>
+      I follow'd that I blush to look upon:<br>
+      My very hairs do mutiny; for the white<br>
+      Reprove the brown for rashness, and they them <br>
+      For fear and doting. Friends, be gone: you shall<br>
+      Have letters from me to some friends that will<br>
+      Sweep your way for you. Pray you, look not sad,<br>
+      Nor make replies of loathness: take the hint<br>
+      Which my despair proclaims; let that be left<br>
+      Which leaves itself: to the sea-side straightway:<br>
+      I will possess you of that ship and treasure.<br>
+      Leave me, I pray, a little: pray you now:<br>
+      Nay, do so; for, indeed, I have lost command,<br>
+      Therefore I pray you: I'll see you by and by. 
+
+      </div>
+    </span>
+
+  
+

@@ -1,0 +1,40 @@
+"°
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_699">
+      Be you remember'd, Marcus, she's gone, she's fled.<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_699', '/monologues/preview?monologue_id=699', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('a4B/yZjMkNLDdA+PN8U18QP+SlHyhKKPrQjnq1vaCeQ=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+           Come, Marcus; come, kinsmen; this is the way.<br>
+Sir boy, now let me see your archery;<br>
+Look ye draw home enough, and 'tis there straight.<br>
+Terras Astraea reliquit: <br>
+Be you remember'd, Marcus, she's gone, she's fled.<br>
+Sirs, take you to your tools. You, cousins, shall<br>
+Go sound the ocean, and cast your nets;<br>
+Happily you may catch her in the sea;<br>
+Yet there's as little justice as at land: <br>
+No; Publius and Sempronius, you must do it;<br>
+'Tis you must dig with mattock and with spade,<br>
+And pierce the inmost centre of the earth:<br>
+Then, when you come to Pluto's region,<br>
+I pray you, deliver him this petition; <br>
+Tell him, it is for justice and for aid,<br>
+And that it comes from old Andronicus,<br>
+Shaken with sorrows in ungrateful Rome.<br>
+Ah, Rome! Well, well; I made thee miserable<br>
+What time I threw the people's suffrages<br>
+On him that thus doth tyrannize o'er me.<br>
+Go, get you gone; and pray be careful all,<br>
+And leave you not a man-of-war unsearch'd:<br>
+This wicked emperor may have shipp'd her hence;<br>
+And, kinsmen, then we may go pipe for justice. 
+      </div>
+    </span>
+
+  
+

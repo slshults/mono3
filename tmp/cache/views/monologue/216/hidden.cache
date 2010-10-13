@@ -1,0 +1,50 @@
+";
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_216">
+      So shaken as we are, so wan with care,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_216', '/monologues/preview?monologue_id=216', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('6V7pLF9cqlGumXMSv2FUDDFqxTPNJXwx68XaXT0RojQ=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          So shaken as we are, so wan with care,<br>
+Find we a time for frighted peace to pant,<br>
+And breathe short-winded accents of new broils<br>
+To be commenced in strands afar remote.<br>
+No more the thirsty entrance of this soil<br>
+Shall daub her lips with her own children's blood;<br>
+Nor more shall trenching war channel her fields,<br>
+Nor bruise her flowerets with the armed hoofs<br>
+Of hostile paces: those opposed eyes,<br>
+Which, like the meteors of a troubled heaven,<br>
+All of one nature, of one substance bred,<br>
+Did lately meet in the intestine shock<br>
+And furious close of civil butchery<br>
+Shall now, in mutual well-beseeming ranks, <br>
+March all one way and be no more opposed<br>
+Against acquaintance, kindred and allies:<br>
+The edge of war, like an ill-sheathed knife,<br>
+No more shall cut his master. Therefore, friends,<br>
+As far as to the sepulchre of Christ, <br>
+Whose soldier now, under whose blessed cross<br>
+We are impressed and engaged to fight,<br>
+Forthwith a power of English shall we levy;<br>
+Whose arms were moulded in their mothers' womb<br>
+To chase these pagans in those holy fields <br>
+Over whose acres walk'd those blessed feet<br>
+Which fourteen hundred years ago were nail'd<br>
+For our advantage on the bitter cross.<br>
+But this our purpose now is twelve month old,<br>
+And bootless 'tis to tell you we will go: <br>
+Therefore we meet not now. Then let me hear<br>
+Of you, my gentle cousin Westmoreland,<br>
+What yesternight our council did decree<br>
+In forwarding this dear expedience. <br>
+
+      </div>
+    </span>
+
+  
+

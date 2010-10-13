@@ -1,0 +1,10 @@
+"™
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_281">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_281', '/monologues/preview/281', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('0Z/t13+LSIkFnadcmEeJ14FwmAymRQGteFB0zBkdVaE=')}); return false;">Sleep, thou hast been a grandsire and begot</a>
+    </span>
+  
+

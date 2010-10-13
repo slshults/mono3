@@ -1,0 +1,26 @@
+"ã
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_820">
+      My noble father, I do perceive here a divided duty<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_820', '/monologues/preview?monologue_id=820', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('XepXdRF0+B2Q904t5astrG8Pc6zNNiVGQpajlQW/Ecw=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          My noble father,<br>
+I do perceive here a divided duty:<br>
+To you I am bound for life and education;<br>
+My life and education both do learn me<br>
+How to respect you; you are the lord of duty;<br>
+I am hitherto your daughter: but here's my husband,<br>
+And so much duty as my mother show'd<br>
+To you, preferring you before her father,<br>
+So much I challenge that I may profess<br>
+Due to the Moor my lord.<br>
+      </div>
+    </span>
+
+  
+

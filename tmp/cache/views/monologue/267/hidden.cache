@@ -1,0 +1,69 @@
+"µ
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_267">
+      Hold thy desperate hand:
+Art thou a man? thy form cries out thou art:<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_267', '/monologues/preview?monologue_id=267', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('SWrm12q98qcqqWOfCDvRVkpsMwWeEiEPs6BsRJzpqSo=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <div align='right'>Hold thy desperate hand:</div>
+Art thou a man? thy form cries out thou art:<br>
+Thy tears are womanish; thy wild acts denote<br>
+The unreasonable fury of a beast:<br>
+Unseemly woman in a seeming man!<br>
+Or ill-beseeming beast in seeming both!<br>
+Thou hast amazed me: by my holy order, <br>
+I thought thy disposition better temper'd.<br>
+Hast thou slain Tybalt? wilt thou slay thyself?<br>
+And stay thy lady too that lives in thee,<br>
+By doing damned hate upon thyself?<br>
+Why rail'st thou on thy birth, the heaven, and earth?<br>
+Since birth, and heaven, and earth, all three do meet<br>
+In thee at once; which thou at once wouldst lose.<br>
+Fie, fie, thou shamest thy shape, thy love, thy wit;<br>
+Which, like a usurer, abound'st in all,<br>
+And usest none in that true use indeed <br>
+Which should bedeck thy shape, thy love, thy wit:<br>
+Thy noble shape is but a form of wax,<br>
+Digressing from the valour of a man;<br>
+Thy dear love sworn but hollow perjury,<br>
+Killing that love which thou hast vow'd to cherish; <br>
+Thy wit, that ornament to shape and love,<br>
+Misshapen in the conduct of them both,<br>
+Like powder in a skitless soldier's flask,<br>
+Is set afire by thine own ignorance,<br>
+And thou dismember'd with thine own defence.<br>
+What, rouse thee, man! thy Juliet is alive,<br>
+For whose dear sake thou wast but lately dead;<br>
+There art thou happy: Tybalt would kill thee,<br>
+But thou slew'st Tybalt; there are thou happy too:<br>
+The law that threaten'd death becomes thy friend <br>
+And turns it to exile; there art thou happy:<br>
+A pack of blessings lights up upon thy back;<br>
+Happiness courts thee in her best array;<br>
+But, like a misbehaved and sullen wench,<br>
+Thou pout'st upon thy fortune and thy love: <br>
+Take heed, take heed, for such die miserable.<br>
+Go, get thee to thy love, as was decreed,<br>
+Ascend her chamber, hence and comfort her:<br>
+But look thou stay not till the watch be set,<br>
+For then thou canst not pass to Mantua; <br>
+Where thou shalt live, till we can find a time<br>
+To blaze your marriage, reconcile your friends,<br>
+Beg pardon of the prince, and call thee back<br>
+With twenty hundred thousand times more joy<br>
+Than thou went'st forth in lamentation. <br>
+Go before, nurse: commend me to thy lady;<br>
+And bid her hasten all the house to bed,<br>
+Which heavy sorrow makes them apt unto:<br>
+Romeo is coming. 
+
+      </div>
+    </span>
+
+  
+

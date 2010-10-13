@@ -1,0 +1,35 @@
+"�
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_284">
+      Ay, so thou dost Italian friend! Ay, most credulous fool,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_284', '/monologues/preview?monologue_id=284', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Zke4cg0lFure3Fos0oJh1+k6UY5AlcDn0W2uMfDsDko=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Ay, so thou dost,<br>
+Italian fiend! Ay me, most credulous fool,<br>
+Egregious murderer, thief, any thing <br>
+That's due to all the villains past, in being,<br>
+To come! O, give me cord, or knife, or poison,<br>
+Some upright justicer! Thou, king, send out<br>
+For torturers ingenious: it is I<br>
+That all the abhorred things o' the earth amend<br>
+By being worse than they. I am Posthumus,<br>
+That kill'd thy daughter:—villain-like, I lie—<br>
+That caused a lesser villain than myself,<br>
+A sacrilegious thief, to do't: the temple<br>
+Of virtue was she; yea, and she herself. <br>
+Spit, and throw stones, cast mire upon me, set<br>
+The dogs o' the street to bay me: every villain<br>
+Be call'd Posthumus Leonitus; and<br>
+Be villany less than 'twas! O Imogen!<br>
+My queen, my life, my wife! O Imogen, <br>
+Imogen, Imogen! 
+      </div>
+    </span>
+
+  
+

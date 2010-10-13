@@ -1,0 +1,52 @@
+"&	
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_445">
+      Thus with imagin'd wing our swift scene flies<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_445', '/monologues/preview?monologue_id=445', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('6V7pLF9cqlGumXMSv2FUDDFqxTPNJXwx68XaXT0RojQ=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Thus with imagin'd wing our swift scene flies<br>
+In motion of no less celerity<br>
+Than that of thought. Suppose that you have seen <br>
+The well-appointed king at Hampton pier<br>
+Embark his royalty; and his brave fleet<br>
+With silken streamers the young Phoebus fanning:<br>
+Play with your fancies, and in them behold<br>
+Upon the hempen tackle ship-boys climbing; <br>
+Hear the shrill whistle which doth order give<br>
+To sounds confused; behold the threaden sails,<br>
+Borne with the invisible and creeping wind,<br>
+Draw the huge bottoms through the furrow'd sea,<br>
+Breasting the lofty surge: O, do but think <br>
+You stand upon the ravage and behold<br>
+A city on the inconstant billows dancing;<br>
+For so appears this fleet majestical,<br>
+Holding due course to Harfleur. Follow, follow:<br>
+Grapple your minds to sternage of this navy, <br>
+And leave your England, as dead midnight still,<br>
+Guarded with grandsires, babies and old women,<br>
+Either past or not arrived to pith and puissance;<br>
+For who is he, whose chin is but enrich'd<br>
+With one appearing hair, that will not follow<br>
+These cull'd and choice-drawn cavaliers to France?<br>
+Work, work your thoughts, and therein see a siege;<br>
+Behold the ordnance on their carriages,<br>
+With fatal mouths gaping on girded Harfleur.<br>
+Suppose the ambassador from the French comes back; <br>
+Tells Harry that the king doth offer him<br>
+Katharine his daughter, and with her, to dowry,<br>
+Some petty and unprofitable dukedoms.<br>
+The offer likes not: and the nimble gunner<br>
+With linstock now the devilish cannon touches, <br>
+<i>[Alarum, and chambers go off]</i><br>
+And down goes all before them. Still be kind,<br>
+And eke out our performance with your mind. 
+      </div>
+    </span>
+
+  
+

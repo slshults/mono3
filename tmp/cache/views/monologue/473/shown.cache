@@ -1,0 +1,10 @@
+"¡
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_473">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_473', '/monologues/preview/473', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('ljvLuOXLLPAkhaeJHpH3Ouef4G60haTpsLJbmfP1J5A=')}); return false;">When from the Dauphin's crest thy sword struck fire</a>
+    </span>
+  
+

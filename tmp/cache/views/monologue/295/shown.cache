@@ -1,0 +1,10 @@
+"ž
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_295">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_295', '/monologues/preview/295', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Y4FGe3y5fkQgPcXZYZaB0c5jqYL/oW58xP640MERguM=')}); return false;">Angelo, There is a kind of character in thy life</a>
+    </span>
+  
+

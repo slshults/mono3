@@ -1,0 +1,48 @@
+">
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_847">
+      I, that please some, try all, both joy and terror<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_847', '/monologues/preview?monologue_id=847', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('IA/VTv0jzApYxo0erhTamZ2v4hh6yXSMU6gaaz0Rks0=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          I, that please some, try all, both joy and terror<br>
+Of good and bad, that makes and unfolds error,<br>
+Now take upon me, in the name of Time, <br>
+To use my wings. Impute it not a crime<br>
+To me or my swift passage, that I slide<br>
+O'er sixteen years and leave the growth untried<br>
+Of that wide gap, since it is in my power<br>
+To o'erthrow law and in one self-born hour <br>
+To plant and o'erwhelm custom. Let me pass<br>
+The same I am, ere ancient'st order was<br>
+Or what is now received: I witness to<br>
+The times that brought them in; so shall I do<br>
+To the freshest things now reigning and make stale <br>
+The glistering of this present, as my tale<br>
+Now seems to it. Your patience this allowing,<br>
+I turn my glass and give my scene such growing<br>
+As you had slept between: Leontes leaving,<br>
+The effects of his fond jealousies so grieving <br>
+That he shuts up himself, imagine me,<br>
+Gentle spectators, that I now may be<br>
+In fair Bohemia, and remember well,<br>
+I mentioned a son o' the king's, which Florizel<br>
+I now name to you; and with speed so pace <br>
+To speak of Perdita, now grown in grace<br>
+Equal with wondering: what of her ensues<br>
+I list not prophecy; but let Time's news<br>
+Be known when 'tis brought forth. A shepherd's daughter, <br>
+And what to her adheres, which follows after,<br>
+Is the argument of Time. Of this allow,<br>
+If ever you have spent time worse ere now;<br>
+If never, yet that Time himself doth say<br>
+He wishes earnestly you never may. 
+      </div>
+    </span>
+
+  
+

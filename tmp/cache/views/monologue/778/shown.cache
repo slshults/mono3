@@ -1,0 +1,10 @@
+"’
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_778">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_778', '/monologues/preview/778', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('X+iuNZ37Srwfg+C3d5+lWZOvNdx8p/QARpy5kecL3cs=')}); return false;">Who can be patient in such extremes?</a>
+    </span>
+  
+

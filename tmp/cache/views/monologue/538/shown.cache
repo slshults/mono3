@@ -1,0 +1,10 @@
+"œ
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_538">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_538', '/monologues/preview/538', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('7JRYQenap4X0tvDRBGp1D34pKeT3oRufzdTuVeFhzRo=')}); return false;">By heaven, these scroyles of Angiers flout you</a>
+    </span>
+  
+

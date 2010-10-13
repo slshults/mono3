@@ -1,0 +1,84 @@
+"+
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_4">
+      How should I your true love know<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_4', '/monologues/preview?monologue_id=4', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('XepXdRF0+B2Q904t5astrG8Pc6zNNiVGQpajlQW/Ecw=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Ophelia.</b> <i>[sings]</i><br>
+      How should I your true-love know<br>
+      From another one?<br>
+      By his cockle bat and' staff<br>
+      And his sandal shoon. <br><br>
+
+<del><b>Gertrude.</b>Alas, sweet lady, what imports this song? </del><br><br>
+
+<b>Ophelia.</b> Say you? Nay, pray You mark.<br>
+      <i>[Sings]</i> He is dead and gone, lady,<br>
+      He is dead and gone; <br>
+      At his head a grass-green turf,<br>
+      At his heels a stone.<br>
+      O, ho! <br><br>
+
+<del><b>Gertrude.</b> Nay, but Ophelia- </del><br><br>
+
+<b>Ophelia.</b> Pray you mark. <br>
+      <i>[Sings]</i> White his shroud as the mountain snow- <br><br>
+
+<i>Enter King.</i><br><br>
+
+<del><b>Gertrude.</b> Alas, look here, my lord! </del><br><br>
+
+<b>Ophelia.</b> <i>[Sings]</i><br>
+      Larded all with sweet flowers;<br>
+      Which bewept to the grave did not go<br>
+      With true-love showers. <br><br>
+
+<del><b>Claudius.</b> How do you, pretty lady? </del><br><br>
+
+<b>Ophelia.</b> Well, God dild you! They say the owl was a baker's daughter.
+      Lord, we know what we are, but know not what we may be. God be at
+      your table! <br><br>
+
+<del><b>Claudius.</b> Conceit upon her father. </del><br><br>
+
+<b>Ophelia.</b> Pray let's have no words of this; but when they ask, you what
+      it means, say you this:<br>
+      <i>[Sings]</i> To-morrow is Saint Valentine's day,<br>
+      All in the morning bedtime,<br>
+      And I a maid at your window,<br>
+      To be your Valentine.<br>
+      Then up he rose and donn'd his clo'es<br>
+      And dupp'd the chamber door, <br>
+      Let in the maid, that out a maid<br>
+      Never departed more. <br><br>
+
+<del><b>Claudius.</b> Pretty Ophelia!</del><br><br>
+
+<b>Ophelia.</b> Indeed, la, without an oath, I'll make an end on't!<br>
+      <i>[Sings]</i> By Gis and by Saint Charity,<br>
+      Alack, and fie for shame!<br>
+      Young men will do't if they come to't<br>
+      By Cock, they are to blame.<br>
+      Quoth she, 'Before you tumbled me,<br>
+      You promis'd me to wed.'<br>
+      He answers:<br>
+      'So would I 'a' done, by yonder sun,<br>
+      An thou hadst not come to my bed.' <br><br>
+
+<del><b>Claudius.</b> How long hath she been thus?</del><br><br> 
+
+<b>Ophelia.</b> I hope all will be well. We must be patient; but I cannot
+      choose but weep to think they would lay him i' th' cold ground.
+      My brother shall know of it; and so I thank you for your good
+      counsel. Come, my coach! Good night, ladies. Good night, sweet
+      ladies. Good night, good night. <i>[Exit]</i><br>
+      </div>
+    </span>
+
+  
+

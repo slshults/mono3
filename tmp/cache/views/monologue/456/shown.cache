@@ -1,0 +1,10 @@
+"™
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_456">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_456', '/monologues/preview/456', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('+yeGrYHE8rv84Yt9nUhuJQrzDSh+7RoWlzTcqRXTf5E=')}); return false;">O God of battles! steel my soldiers' hearts</a>
+    </span>
+  
+

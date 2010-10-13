@@ -1,0 +1,10 @@
+"ˆ
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_4">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_4', '/monologues/preview/4', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('XepXdRF0+B2Q904t5astrG8Pc6zNNiVGQpajlQW/Ecw=')}); return false;">How should I your true love know</a>
+    </span>
+  
+

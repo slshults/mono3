@@ -1,0 +1,44 @@
+"a
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_452">
+      Thou dost thy office fairly. Turn thee back,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_452', '/monologues/preview?monologue_id=452', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('RAn4Q9OXsZGFhF0QOrrtsNqZ0kJo4TFfYqsFExAyNzE=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Thou dost thy office fairly. Turn thee back.<br>
+And tell thy king I do not seek him now;<br>
+But could be willing to march on to Calais<br>
+Without impeachment: for, to say the sooth,<br>
+Though 'tis no wisdom to confess so much<br>
+Unto an enemy of craft and vantage,<br>
+My people are with sickness much enfeebled,<br>
+My numbers lessened, and those few I have<br>
+Almost no better than so many French;<br>
+Who when they were in health, I tell thee, herald, <br>
+I thought upon one pair of English legs<br>
+Did march three Frenchmen. Yet, forgive me, God,<br>
+That I do brag thus! This your air of France<br>
+Hath blown that vice in me: I must repent.<br>
+Go therefore, tell thy master here I am; <br>
+My ransom is this frail and worthless trunk,<br>
+My army but a weak and sickly guard;<br>
+Yet, God before, tell him we will come on,<br>
+Though France himself and such another neighbour<br>
+Stand in our way. There's for thy labour, Montjoy. <br>
+Go bid thy master well advise himself:<br>
+If we may pass, we will; if we be hinder'd,<br>
+We shall your tawny ground with your red blood<br>
+Discolour: and so Montjoy, fare you well.<br>
+The sum of all our answer is but this: <br>
+We would not seek a battle, as we are;<br>
+Nor, as we are, we say we will not shun it:<br>
+So tell your master. 
+      </div>
+    </span>
+
+  
+

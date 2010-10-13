@@ -1,0 +1,10 @@
+"ž
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_209">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_209', '/monologues/preview/209', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('wmjEmTVznsEo4Rn5lYdBQNuA+l6tBV2U/MwM+omNAdw=')}); return false;">M, O, A, I; this simulation is not as the former</a>
+    </span>
+  
+

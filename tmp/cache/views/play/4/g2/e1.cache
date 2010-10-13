@@ -1,0 +1,279 @@
+I"Ù-  
+    <div>
+      <h2>Women's Monologues in Shakespeare</h2>
+      <h2>Love's Labour's Lost</h2>
+      <span>
+        <form action="javascript:void(0);" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="BqqLRE7K+vstSmG2ZEtlX+P6mc7pihrhKQfPTXsVVXQ=" /></div>
+          <b>Search:</b> <input type="text" id="search" size="40"/>
+          <img alt="Ajax-loader" id="spinner" src="/images/ajax-loader.gif?1278779332" style="display: none;" />
+        </form>
+        <div class="search_links">
+          <a href="/plays/4?g=3">Search Men</a> &nbsp;|&nbsp;
+          <a href="/plays/4">Search Love's Labour's Lost</a> &nbsp;|&nbsp;
+          <a href="/plays">Search All Plays</a> &nbsp;|&nbsp;
+          
+            <a href="/plays/4?g=2">Collapse All</a>
+          
+        </div>
+      </span>
+    </div>
+    <script type="text/javascript">
+//<![CDATA[
+new Form.Element.Observer('search', 1.25, function(element, value) {Element.show('spinner'); new Ajax.Updater('ajaxResults', 'http://www.shakespeare-monologues.org/monologues/search', {asynchronous:true, evalScripts:true, onComplete:function(request){Element.hide('spinner')}, parameters:'g=2&p=4&search=' + encodeURIComponent(value) + '&authenticity_token=' + encodeURIComponent('BqqLRE7K+vstSmG2ZEtlX+P6mc7pihrhKQfPTXsVVXQ=')})})
+//]]>
+</script>
+  
+    <div id='ajaxResults'>
+      
+
+  
+
+      
+<div>
+  <table id='monologue_list'>
+    <tr>
+      <th>Character</th>
+      <th>First Line</th>
+      <th>Act & Sc</th>
+      <th>pdf</th>
+    </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Princess</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/4">Love's Labour's Lost</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_133'>
+  
+    <span id="preview_mono_133">
+      
+Good Lord Boyet, my beauty, though but mean,
+
+<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_133', '/monologues/preview?monologue_id=133', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('BqqLRE7K+vstSmG2ZEtlX+P6mc7pihrhKQfPTXsVVXQ=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Good Lord Boyet, my beauty, though but mean,<br>
+Needs not the painted flourish of your praise:<br>
+Beauty is bought by judgement of the eye,<br>
+Not utter'd by base sale of chapmen's tongues:<br>
+I am less proud to hear you tell my worth<br>
+Than you much willing to be counted wise<br>
+In spending your wit in the praise of mine.<br>
+But now to task the tasker: good Boyet,<br>
+You are not ignorant, all-telling fame <br>
+Doth noise abroad, Navarre hath made a vow,<br>
+Till painful study shall outwear three years,<br>
+No woman may approach his silent court:<br>
+Therefore to's seemeth it a needful course,<br>
+Before we enter his forbidden gates, <br>
+To know his pleasure; and in that behalf,<br>
+Bold of your worthiness, we single you<br>
+As our best-moving fair solicitor.<br>
+Tell him, the daughter of the King of France,<br>
+On serious business, craving quick dispatch, <br>
+Importunes personal conference with his grace:<br>
+Haste, signify so much; while we attend,<br>
+Like humble-visaged suitors, his high will. 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=loveslabours&Act=2&Scene=1&Scope=scene&LineHighlight=497' target='_blank'>II i 15</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/lll-2-1-13-princess.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Princess</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/4">Love's Labour's Lost</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_134'>
+  
+    <span id="preview_mono_134">
+      See, see my beauty will be sav'd by merit<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_134', '/monologues/preview?monologue_id=134', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('BqqLRE7K+vstSmG2ZEtlX+P6mc7pihrhKQfPTXsVVXQ=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          See see, my beauty will be saved by merit!<br>
+O heresy in fair, fit for these days!<br>
+A giving hand, though foul, shall have fair praise.<br>
+But come, the bow: now mercy goes to kill,<br>
+And shooting well is then accounted ill.<br>
+Thus will I save my credit in the shoot:<br>
+Not wounding, pity would not let me do't;<br>
+If wounding, then it was to show my skill,<br>
+That more for praise than purpose meant to kill.<br>
+And out of question so it is sometimes,<br>
+Glory grows guilty of detested crimes,<br>
+When, for fame's sake, for praise, an outward part,<br>
+We bend to that the working of the heart; <br>
+As I for praise alone now seek to spill<br>
+The poor deer's blood, that my heart means no ill. 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=loveslabours&Act=4&Scene=1&Scope=scene&LineHighlight=993#985' target='_blank'>IV i 24</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/lll-4-1-21-princess.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Rosalind</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/4">Love's Labour's Lost</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_135'>
+  
+    <span id="preview_mono_135">
+      They are worse fools to purchase mocking so<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_135', '/monologues/preview?monologue_id=135', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('BqqLRE7K+vstSmG2ZEtlX+P6mc7pihrhKQfPTXsVVXQ=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          They are worse fools to purchase mocking so.<br>
+That same Biron I'll torture ere I go:<br>
+O that I knew he were but in by the week!<br>
+How I would make him fawn and beg and seek<br>
+And wait the season and observe the times <br>
+And spend his prodigal wits in bootless rhymes<br>
+And shape his service wholly to my hests<br>
+And make him proud to make me proud that jests!<br>
+So perttaunt-like would I o'ersway his state<br>
+That he should be my fool and I his fate. 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=loveslabours&Act=5&Scene=2&Scope=scene&LineHighlight=1941#1935' target='_blank'>V ii 63</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/lll-5-2-59-rosalind.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Princess</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/4">Love's Labour's Lost</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_136'>
+  
+    <span id="preview_mono_136">
+      
+
+
+A time, methinks, too short
+To make a world-without-end bargain in.
+<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_136', '/monologues/preview?monologue_id=136', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('BqqLRE7K+vstSmG2ZEtlX+P6mc7pihrhKQfPTXsVVXQ=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <div align='right'>A time, methinks, too short</div>
+To make a world-without-end bargain in.<br>
+No, no, my lord, your grace is perjured much,<br>
+Full of dear guiltiness; and therefore this:<br>
+If for my love, as there is no such cause,<br>
+You will do aught, this shall you do for me:<br>
+Your oath I will not trust; but go with speed<br>
+To some forlorn and naked hermitage,<br>
+Remote from all the pleasures of the world;<br>
+There stay until the twelve celestial signs<br>
+Have brought about the annual reckoning. <br>
+If this austere insociable life<br>
+Change not your offer made in heat of blood;<br>
+If frosts and fasts, hard lodging and thin weeds<br>
+Nip not the gaudy blossoms of your love,<br>
+But that it bear this trial and last love;<br>
+Then, at the expiration of the year,<br>
+Come challenge me, challenge me by these deserts,<br>
+And, by this virgin palm now kissing thine<br>
+I will be thine; and till that instant shut<br>
+My woeful self up in a mourning house,<br>
+Raining the tears of lamentation<br>
+For the remembrance of my father's death.<br>
+If this thou do deny, let our hands part,<br>
+Neither entitled in the other's heart. 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=loveslabours&Act=5&Scene=2&Scope=scene&LineHighlight=2730#2725' target='_blank'>V ii 773</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/lll-5-2-788-princess.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Rosalind</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/4">Love's Labour's Lost</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_137'>
+  
+    <span id="preview_mono_137">
+      Oft have I heard of you, my lord Berowne<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_137', '/monologues/preview?monologue_id=137', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('BqqLRE7K+vstSmG2ZEtlX+P6mc7pihrhKQfPTXsVVXQ=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Oft have I heard of you, my Lord Biron,<br>
+Before I saw you; and the world's large tongue <br>
+Proclaims you for a man replete with mocks,<br>
+Full of comparisons and wounding flouts,<br>
+Which you on all estates will execute<br>
+That lie within the mercy of your wit.<br>
+To weed this wormwood from your fruitful brain,<br>
+And therewithal to win me, if you please,<br>
+Without the which I am not to be won,<br>
+You shall this twelvemonth term from day to day<br>
+Visit the speechless sick and still converse<br>
+With groaning wretches; and your task shall be, <br>
+With all the fierce endeavor of your wit<br>
+To enforce the pained impotent to smile. 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=loveslabours&Act=5&Scene=2&Scope=scene&LineHighlight=2784#2775' target='_blank'>V ii 827</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/lll-5-2-841-rosalind.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+</table></div>
+
+
+  
+
+
+
+
+    </div>
+:@_rails_html_safeF

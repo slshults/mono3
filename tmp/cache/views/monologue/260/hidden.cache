@@ -1,0 +1,40 @@
+"j
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_260">
+      Rebellious subjects, enemies to peace<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_260', '/monologues/preview?monologue_id=260', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('n4t+igTL/oz+RkuvRO8d0++GeyU7aO5+uYZoaHFSzPw=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Rebellious subjects, enemies to peace,<br>
+Profaners of this neighbour-stained steel,--<br>
+Will they not hear? What, ho! you men, you beasts,<br>
+That quench the fire of your pernicious rage<br>
+With purple fountains issuing from your veins, <br>
+On pain of torture, from those bloody hands<br>
+Throw your mistemper'd weapons to the ground,<br>
+And hear the sentence of your moved prince.<br>
+Three civil brawls, bred of an airy word,<br>
+By thee, old Capulet, and Montague, <br>
+Have thrice disturb'd the quiet of our streets,<br>
+And made Verona's ancient citizens<br>
+Cast by their grave beseeming ornaments,<br>
+To wield old partisans, in hands as old,<br>
+Canker'd with peace, to part your canker'd hate:<br>
+If ever you disturb our streets again,<br>
+Your lives shall pay the forfeit of the peace.<br>
+For this time, all the rest depart away:<br>
+You Capulet; shall go along with me:<br>
+And, Montague, come you this afternoon, <br>
+To know our further pleasure in this case,<br>
+To old Free-town, our common judgment-place.<br>
+Once more, on pain of death, all men depart. 
+
+      </div>
+    </span>
+
+  
+

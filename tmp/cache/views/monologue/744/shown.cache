@@ -1,0 +1,10 @@
+"¢
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_744">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_744', '/monologues/preview/744', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('vvMZarOFjbBrUPhi6TmhZQwah85S4yZzgZYpzrO4m7M=')}); return false;">I am a maid, My lord, that ne'er before invited eyes</a>
+    </span>
+  
+

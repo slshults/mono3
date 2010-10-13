@@ -1,0 +1,10 @@
+"’
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_102">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_102', '/monologues/preview/102', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Nbc+4XQlBP0yCxx/IZsnCwPXYfB039roIewpNxCw0sI=')}); return false;">Now, out of doubt Antipholus is mad,</a>
+    </span>
+  
+

@@ -1,0 +1,20 @@
+"]	
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_93">
+      Charles, I thank thee for thy love to me,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_93', '/monologues/preview?monologue_id=93', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('zSsqVQd8nS5mYU7adHIhS71MqQFEV8MgjVaBeqvjX+Y=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Charles, I thank thee for thy love to me, which thou shalt find I will most kindly requite. I had myself notice of my brother's purpose herein, and have by underhand means laboured to dissuade him from it, but he is resolute. I'll tell thee, Charles, it is the stubbornest young fellow of France; full of ambition, an envious emulator of every man's good parts, a secret and villanous contriver against me his natural brother: therefore use thy discretion. I had as lief thou didst break his neck as his finger. And thou wert best look to't; for if thou dost him any slight disgrace, or if he do not mightily grace himself on thee, he will practise against thee by poison, entrap thee by some treacherous device, and never leave thee till he hath ta'en thy life by some indirect means or other; for, I assure thee,'and almost with tears I speak it,'there is not one so young and so villanous this day living' I speak but brotherly of him; but should I anatomize him to thee as he is, I must blush and weep, and thou must look pale and wonder. 
+<p> <font size='-1' style='text-decoration: line-through;'> Cha.  I am heartily glad I came hither to you. If he come to-morrow, I'll give him his payment: if ever he go alone again, I'll never wrestle for prize more; and so God keep your worship!  [Exit.] </font> <p>
+Farewell, good Charles. Now will I stir this gamester. I hope I shall see an end of him; for my soul, yet I know not why, hates nothing more than he. Yet he's gentle, never schooled and yet learned, full of noble device, of all sorts enchantingly beloved, and, indeed so much in the heart of the world, and especially of my own people, who best know him, that I am altogether misprised. But it shall not be so long; this wrestler shall clear all: nothing remains but that I kindle the boy thither, which now I'll go about.
+
+      </div>
+    </span>
+
+  
+

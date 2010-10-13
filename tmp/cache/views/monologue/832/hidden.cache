@@ -1,0 +1,36 @@
+"ñ
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_832">
+      My lovely Aaron, wherefore look'st thou sad<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_832', '/monologues/preview?monologue_id=832', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('2L1dBc5w8urEiztZEBe4fMVsxI94W+2RJ1SAvSXmmFE=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          My lovely Aaron, wherefore look'st thou sad,<br>
+When every thing doth make a gleeful boast?<br>
+The birds chant melody on every bush, <br>
+The snake lies rolled in the cheerful sun,<br>
+The green leaves quiver with the cooling wind<br>
+And make a chequer'd shadow on the ground:<br>
+Under their sweet shade, Aaron, let us sit,<br>
+And, whilst the babbling echo mocks the hounds,<br>
+Replying shrilly to the well-tuned horns,<br>
+As if a double hunt were heard at once,<br>
+Let us sit down and mark their yelping noise;<br>
+And, after conflict such as was supposed<br>
+The wandering prince and Dido once enjoy'd, <br>
+When with a happy storm they were surprised<br>
+And curtain'd with a counsel-keeping cave,<br>
+We may, each wreathed in the other's arms,<br>
+Our pastimes done, possess a golden slumber;<br>
+Whiles hounds and horns and sweet melodious birds<br>
+Be unto us as is a nurse's song<br>
+Of lullaby to bring her babe asleep. 
+      </div>
+    </span>
+
+  
+

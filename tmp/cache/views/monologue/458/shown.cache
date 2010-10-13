@@ -1,0 +1,10 @@
+"–
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_458">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_458', '/monologues/preview/458', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('ZuE7SYQ0jwItnDjTMqyJQt5OKznJXM1VrEQUeDdnJ9s=')}); return false;">This day is called the feast of Crispian</a>
+    </span>
+  
+

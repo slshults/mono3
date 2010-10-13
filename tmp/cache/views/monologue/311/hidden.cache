@@ -1,0 +1,31 @@
+"ò
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_311">
+      Reason, you rogue, reason<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_311', '/monologues/preview?monologue_id=311', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('c8753pEJRim4ItwBjIPrHx3RopsTl/SBZSXaWgaG0nU=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Reason, you rogue, reason: thinkest thou I'll
+endanger my soul gratis? At a word, hang no more
+about me, I am no gibbet for you. Go. A short knife
+and a throng! To your manor of Pickt-hatch! Go.
+You'll not bear a letter for me, you rogue! you
+stand upon your honour! Why, thou unconfinable
+baseness, it is as much as I can do to keep the 
+terms of my honour precise: I, I, I myself
+sometimes, leaving the fear of God on the left hand
+and hiding mine honour in my necessity, am fain to
+shuffle, to hedge and to lurch; and yet you, rogue,
+will ensconce your rags, your cat-a-mountain 
+looks, your red-lattice phrases, and your
+bold-beating oaths, under the shelter of your
+honour! You will not do it, you! 
+      </div>
+    </span>
+
+  
+

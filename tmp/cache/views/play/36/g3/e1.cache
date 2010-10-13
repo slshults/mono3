@@ -1,0 +1,1044 @@
+I"�  
+    <div>
+      <h2>Men's Monologues in Shakespeare</h2>
+      <h2>Timon of Athens</h2>
+      <span>
+        <form action="javascript:void(0);" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="pQK/rTq9qP0pBtdtAd9YO9xLCo9bKFSlL6rDOTkp4uM=" /></div>
+          <b>Search:</b> <input type="text" id="search" size="40"/>
+          <img alt="Ajax-loader" id="spinner" src="/images/ajax-loader.gif?1278779332" style="display: none;" />
+        </form>
+        <div class="search_links">
+          <a href="/plays/36?g=2">Search Women</a> &nbsp;|&nbsp;
+          <a href="/plays/36">Search Timon of Athens</a> &nbsp;|&nbsp;
+          <a href="/plays">Search All Plays</a> &nbsp;|&nbsp;
+          
+            <a href="/plays/36?g=3">Collapse All</a>
+          
+        </div>
+      </span>
+    </div>
+    <script type="text/javascript">
+//<![CDATA[
+new Form.Element.Observer('search', 1.25, function(element, value) {Element.show('spinner'); new Ajax.Updater('ajaxResults', 'http://shakespeare-monologues.org/monologues/search', {asynchronous:true, evalScripts:true, onComplete:function(request){Element.hide('spinner')}, parameters:'g=3&p=36&search=' + encodeURIComponent(value) + '&authenticity_token=' + encodeURIComponent('pQK/rTq9qP0pBtdtAd9YO9xLCo9bKFSlL6rDOTkp4uM=')})})
+//]]>
+</script>
+  
+    <div id='ajaxResults'>
+      
+
+  
+
+      
+<div>
+  <table id='monologue_list'>
+    <tr>
+      <th>Character</th>
+      <th>First Line</th>
+      <th>Act & Sc</th>
+      <th>pdf</th>
+    </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Apemantus</div>
+  <div class='monologue_detail'>
+  Prose  <br/>
+  <a href="/plays/36">Timon of Athens</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_667'>
+  
+    <span id="preview_mono_667">
+      I scorn thy meat; 'twould choke me<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_667', '/monologues/preview?monologue_id=667', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('pQK/rTq9qP0pBtdtAd9YO9xLCo9bKFSlL6rDOTkp4uM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+           I scorn thy meat; 'twould choke me, for I should
+ne'er flatter thee. O you gods, what a number of
+men eat Timon, and he sees 'em not! It grieves me 
+to see so many dip their meat in one man's blood;
+and all the madness is, he cheers them up too.
+I wonder men dare trust themselves with men:
+Methinks they should invite them without knives;
+Good for their meat, and safer for their lives. 
+There's much example for't; the fellow that sits
+next him now, parts bread with him, pledges the
+breath of him in a divided draught, is the readiest
+man to kill him: 't has been proved. If I were a
+huge man, I should fear to drink at meals; 
+Lest they should spy my windpipe's dangerous notes:
+Great men should drink with harness on their throats.
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=timonathens&Act=1&Scene=2&Scope=scene&LineHighlight=378#373' target='_blank'>I ii 39</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/toa-1-2-39-apemantus.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Timon</div>
+  <div class='monologue_detail'>
+  Prose  <br/>
+  <a href="/plays/36">Timon of Athens</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_668'>
+  
+    <span id="preview_mono_668">
+      O! no doubt, my good friends,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_668', '/monologues/preview?monologue_id=668', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('pQK/rTq9qP0pBtdtAd9YO9xLCo9bKFSlL6rDOTkp4uM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          O, no doubt, my good friends, but the gods<br>
+themselves have provided that I shall have much help<br>
+from you: how had you been my friends else? why<br>
+have you that charitable title from thousands, did<br>
+not you chiefly belong to my heart? I have told <br>
+more of you to myself than you can with modesty<br>
+speak in your own behalf; and thus far I confirm<br>
+you. O you gods, think I, what need we have any<br>
+friends, if we should ne'er have need of 'em? they<br>
+were the most needless creatures living, should we <br>
+ne'er have use for 'em, and would most resemble<br>
+sweet instruments hung up in cases that keep their<br>
+sounds to themselves. Why, I have often wished<br>
+myself poorer, that I might come nearer to you. We<br>
+are born to do benefits: and what better or <br>
+properer can we can our own than the riches of our<br>
+friends? O, what a precious comfort 'tis, to have<br>
+so many, like brothers, commanding one another's<br>
+fortunes! O joy, e'en made away ere 't can be born!<br>
+Mine eyes cannot hold out water, methinks: to <br>
+forget their faults, I drink to you. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=timonathens&Act=1&Scene=2&Scope=scene&LineHighlight=426#420' target='_blank'>I ii 69</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/toa-1-2-69-timon.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Lucius</div>
+  <div class='monologue_detail'>
+  Prose  <br/>
+  <a href="/plays/36">Timon of Athens</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_669'>
+  
+    <span id="preview_mono_669">
+      What a wicked beast was I to disfurnish myself<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_669', '/monologues/preview?monologue_id=669', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('pQK/rTq9qP0pBtdtAd9YO9xLCo9bKFSlL6rDOTkp4uM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          What a wicked beast was I to disfurnish myself 
+against such a good time, when I might ha' shown
+myself honourable! how unluckily it happened, that I
+should purchase the day before for a little part,
+and undo a great deal of honoured! Servilius, now,
+before the gods, I am not able to do,—the more 
+beast, I say:—I was sending to use Lord Timon
+myself, these gentlemen can witness! but I would
+not, for the wealth of Athens, I had done't now.
+Commend me bountifully to his good lordship; and I
+hope his honour will conceive the fairest of me,
+because I have no power to be kind: and tell him
+this from me, I count it one of my greatest
+afflictions, say, that I cannot pleasure such an
+honourable gentleman. Good Servilius, will you
+befriend me so far, as to use mine own words to him? 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=timonathens&Act=3&Scene=2&Scope=scene&LineHighlight=1055#1048' target='_blank'>III ii 23</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/toa-3-2-23-lucilius.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>1st Stranger</div>
+  <div class='monologue_detail'>
+  Prose - intercut <br/>
+  <a href="/plays/36">Timon of Athens</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_670'>
+  
+    <span id="preview_mono_670">
+      Why this is the world's soul<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_670', '/monologues/preview?monologue_id=670', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('pQK/rTq9qP0pBtdtAd9YO9xLCo9bKFSlL6rDOTkp4uM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>First Stranger.</b> Why, this is the world's soul; and just of the
+      same piece 
+      Is every flatterer's spirit. Who can call him
+      His friend that dips in the same dish? for, in
+      My knowing, Timon has been this lord's father,
+      And kept his credit with his purse,
+      Supported his estate; nay, Timon's money 
+      Has paid his men their wages: he ne'er drinks,
+      But Timon's silver treads upon his lip;
+      And yet—O, see the monstrousness of man
+      When he looks out in an ungrateful shape!—
+      He does deny him, in respect of his, 
+      What charitable men afford to beggars. 
+<p>
+<del><b>Third Stranger.</b> Religion groans at it. </del>
+<p>
+<b>First Stranger.</b> For mine own part,
+      I never tasted Timon in my life,
+      Nor came any of his bounties over me,
+      To mark me for his friend; yet, I protest,
+      For his right noble mind, illustrious virtue
+      And honourable carriage,
+      Had his necessity made use of me,
+      I would have put my wealth into donation, 
+      And the best half should have return'd to him,
+      So much I love his heart: but, I perceive,
+      Men must learn now with pity to dispense;
+      For policy sits above conscience. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=timonathens&Act=3&Scene=2&Scope=scene&LineHighlight=1079#1076' target='_blank'>III ii 30</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/toa-3-2-23-lucilius.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Sempronius</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/36">Timon of Athens</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_671'>
+  
+    <span id="preview_mono_671">
+      How! have they denied him?<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_671', '/monologues/preview?monologue_id=671', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('pQK/rTq9qP0pBtdtAd9YO9xLCo9bKFSlL6rDOTkp4uM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          How! have they denied him?<br>
+Has Ventidius and Lucullus denied him?<br>
+And does he send to me? Three? hum!<br>
+It shows but little love or judgment in him:<br>
+Must I be his last refuge! His friends, like <br>
+physicians,<br>
+Thrive, give him over: must I take the cure upon me?<br>
+Has much disgraced me in't; I'm angry at him,<br>
+That might have known my place: I see no sense for't,<br>
+But his occasion might have woo'd me first;<br>
+For, in my conscience, I was the first man<br>
+That e'er received gift from him:<br>
+And does he think so backwardly of me now,<br>
+That I'll requite its last? No:<br>
+So it may prove an argument of laughter <br>
+To the rest, and 'mongst lords I be thought a fool.<br>
+I'ld rather than the worth of thrice the sum,<br>
+Had sent to me first, but for my mind's sake;<br>
+I'd such a courage to do him good. But now return,<br>
+And with their faint reply this answer join; <br>
+Who bates mine honour shall not know my coin. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=timonathens&Act=3&Scene=3&Scope=scene&LineHighlight=1116#1106' target='_blank'>III iii 11</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Alcibiades</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/36">Timon of Athens</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_672'>
+  
+    <span id="preview_mono_672">
+      My lords, then, under favour, pardon me<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_672', '/monologues/preview?monologue_id=672', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('pQK/rTq9qP0pBtdtAd9YO9xLCo9bKFSlL6rDOTkp4uM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          My lords, then, under favour, pardon me,<br>
+If I speak like a captain. <br>
+Why do fond men expose themselves to battle,<br>
+And not endure all threats? sleep upon't,<br>
+And let the foes quietly cut their throats,<br>
+Without repugnancy? If there be<br>
+Such valour in the bearing, what make we <br>
+Abroad? why then, women are more valiant<br>
+That stay at home, if bearing carry it,<br>
+And the ass more captain than the lion, the felon<br>
+Loaden with irons wiser than the judge,<br>
+If wisdom be in suffering. O my lords, <br>
+As you are great, be pitifully good:<br>
+Who cannot condemn rashness in cold blood?<br>
+To kill, I grant, is sin's extremest gust;<br>
+But, in defence, by mercy, 'tis most just.<br>
+To be in anger is impiety; <br>
+But who is man that is not angry?<br>
+Weigh but the crime with this. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=timonathens&Act=3&Scene=5&Scope=scene&LineHighlight=1349#1346' target='_blank'>III v 44</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Timon</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/36">Timon of Athens</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_673'>
+  
+    <span id="preview_mono_673">
+      You great benefactors sprinkle our society<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_673', '/monologues/preview?monologue_id=673', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('pQK/rTq9qP0pBtdtAd9YO9xLCo9bKFSlL6rDOTkp4uM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Each man to his stool, with that spur as he would to <br>
+the lip of his mistress: your diet shall be in all<br>
+places alike. Make not a city feast of it, to let<br>
+the meat cool ere we can agree upon the first place:<br>
+sit, sit. The gods require our thanks.<br>
+You great benefactors, sprinkle our society with <br>
+thankfulness. For your own gifts, make yourselves<br>
+praised: but reserve still to give, lest your<br>
+deities be despised. Lend to each man enough, that<br>
+one need not lend to another; for, were your<br>
+godheads to borrow of men, men would forsake the <br>
+gods. Make the meat be beloved more than the man<br>
+that gives it. Let no assembly of twenty be without<br>
+a score of villains: if there sit twelve women at<br>
+the table, let a dozen of them be—as they are. The<br>
+rest of your fees, O gods—the senators of Athens,<br>
+together with the common lag of people—what is<br>
+amiss in them, you gods, make suitable for<br>
+destruction. For these my present friends, as they<br>
+are to me nothing, so in nothing bless them, and to<br>
+nothing are they welcome. <br>
+Uncover, dogs, and lap.<br> 
+<i>[The dishes are uncovered and seen to be full of]
+warm water] </i>
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=timonathens&Act=3&Scene=6&Scope=scene&LineHighlight=1500#1495' target='_blank'>III vi 44</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Timon</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/36">Timon of Athens</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_674'>
+  
+    <span id="preview_mono_674">
+      Let me look back upon thee. O thou wall<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_674', '/monologues/preview?monologue_id=674', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('pQK/rTq9qP0pBtdtAd9YO9xLCo9bKFSlL6rDOTkp4uM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+           Let me look back upon thee. O thou wall, 1565<br>
+That girdlest in those wolves, dive in the earth,<br>
+And fence not Athens! Matrons, turn incontinent!<br>
+Obedience fail in children! slaves and fools,<br>
+Pluck the grave wrinkled senate from the bench,<br>
+And minister in their steads! to general filths 1570<br>
+Convert o' the instant, green virginity,<br>
+Do 't in your parents' eyes! bankrupts, hold fast;<br>
+Rather than render back, out with your knives,<br>
+And cut your trusters' throats! bound servants, steal!<br>
+Large-handed robbers your grave masters are, <br>
+And pill by law. Maid, to thy master's bed;<br>
+Thy mistress is o' the brothel! Son of sixteen,<br>
+pluck the lined crutch from thy old limping sire,<br>
+With it beat out his brains! Piety, and fear,<br>
+Religion to the gods, peace, justice, truth, <br>
+Domestic awe, night-rest, and neighbourhood,<br>
+Instruction, manners, mysteries, and trades,<br>
+Degrees, observances, customs, and laws,<br>
+Decline to your confounding contraries,<br>
+And let confusion live! Plagues, incident to men, <br>
+Your potent and infectious fevers heap<br>
+On Athens, ripe for stroke! Thou cold sciatica,<br>
+Cripple our senators, that their limbs may halt<br>
+As lamely as their manners. Lust and liberty<br>
+Creep in the minds and marrows of our youth, <br>
+That 'gainst the stream of virtue they may strive,<br>
+And drown themselves in riot! Itches, blains,<br>
+Sow all the Athenian bosoms; and their crop<br>
+Be general leprosy! Breath infect breath,<br>
+at their society, as their friendship, may <br>
+merely poison! Nothing I'll bear from thee,<br>
+But nakedness, thou detestable town!<br>
+Take thou that too, with multiplying bans!<br>
+Timon will to the woods; where he shall find<br>
+The unkindest beast more kinder than mankind. <br>
+The gods confound—hear me, you good gods all—<br>
+The Athenians both within and out that wall!<br>
+And grant, as Timon grows, his hate may grow<br>
+To the whole race of mankind, high and low! Amen. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=timonathens&Act=4&Scene=1&Scope=scene&LineHighlight=1565' target='_blank'>IV i 1</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/toa-4-1-1-timon.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Flavius</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/36">Timon of Athens</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_675'>
+  
+    <span id="preview_mono_675">
+      O! the fierce wretchedness that glory brings us<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_675', '/monologues/preview?monologue_id=675', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('pQK/rTq9qP0pBtdtAd9YO9xLCo9bKFSlL6rDOTkp4uM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          O, the fierce wretchedness that glory brings us!<br>
+Who would not wish to be from wealth exempt,<br>
+Since riches point to misery and contempt?<br>
+Who would be so mock'd with glory? or to live<br>
+But in a dream of friendship? <br>
+To have his pomp and all what state compounds<br>
+But only painted, like his varnish'd friends?<br>
+Poor honest lord, brought low by his own heart,<br>
+Undone by goodness! Strange, unusual blood,<br>
+When man's worst sin is, he does too much good! <br>
+Who, then, dares to be half so kind again?<br>
+For bounty, that makes gods, does still mar men.<br>
+My dearest lord, bless'd, to be most accursed,<br>
+Rich, only to be wretched, thy great fortunes<br>
+Are made thy chief afflictions. Alas, kind lord! <br>
+He's flung in rage from this ingrateful seat<br>
+Of monstrous friends, nor has he with him to<br>
+Supply his life, or that which can command it.<br>
+I'll follow and inquire him out:<br>
+I'll ever serve his mind with my best will; <br>
+Whilst I have gold, I'll be his steward still. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=timonathens&Act=4&Scene=2&Scope=scene&LineHighlight=1632#1632' target='_blank'>IV ii 36</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Timon</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/36">Timon of Athens</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_676'>
+  
+    <span id="preview_mono_676">
+      O blessed breeding sun! draw from the earth<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_676', '/monologues/preview?monologue_id=676', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('pQK/rTq9qP0pBtdtAd9YO9xLCo9bKFSlL6rDOTkp4uM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          O blessed breeding sun, draw from the earth<br>
+Rotten humidity; below thy sister's orb <br>
+Infect the air! Twinn'd brothers of one womb,<br>
+Whose procreation, residence, and birth,<br>
+Scarce is dividant, touch them with several fortunes;<br>
+The greater scorns the lesser: not nature,<br>
+To whom all sores lay siege, can bear great fortune, <br>
+But by contempt of nature.<br>
+Raise me this beggar, and deny 't that lord;<br>
+The senator shall bear contempt hereditary,<br>
+The beggar native honour.<br>
+It is the pasture lards the rother's sides, <br>
+The want that makes him lean. Who dares, who dares,<br>
+In purity of manhood stand upright,<br>
+And say 'This man's a flatterer?' if one be,<br>
+So are they all; for every grise of fortune<br>
+Is smooth'd by that below: the learned pate<br>
+Ducks to the golden fool: all is oblique;<br>
+There's nothing level in our cursed natures,<br>
+But direct villany. Therefore, be abhorr'd<br>
+All feasts, societies, and throngs of men!<br>
+His semblable, yea, himself, Timon disdains:<br>
+Destruction fang mankind! Earth, yield me roots!<br>
+[Digging]<br>
+Who seeks for better of thee, sauce his palate<br>
+With thy most operant poison! What is here?<br>
+Gold? yellow, glittering, precious gold? No, gods, <br>
+I am no idle votarist: roots, you clear heavens!<br>
+Thus much of this will make black white, foul fair,<br>
+Wrong right, base noble, old young, coward valiant.<br>
+Ha, you gods! why this? what this, you gods? Why, this<br>
+Will lug your priests and servants from your sides, <br>
+Pluck stout men's pillows from below their heads:<br>
+This yellow slave<br>
+Will knit and break religions, bless the accursed,<br>
+Make the hoar leprosy adored, place thieves<br>
+And give them title, knee and approbation <br>
+With senators on the bench: this is it<br>
+That makes the wappen'd widow wed again;<br>
+She, whom the spital-house and ulcerous sores<br>
+Would cast the gorge at, this embalms and spices<br>
+To the April day again. Come, damned earth,<br>
+Thou common whore of mankind, that put'st odds<br>
+Among the route of nations, I will make thee<br>
+Do thy right nature. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=timonathens&Act=4&Scene=3&Scope=scene&LineHighlight=1664' target='_blank'>IV iii 1</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Timonintercut</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/36">Timon of Athens</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_677'>
+  
+    <span id="preview_mono_677">
+      Put up thy gold: go on, here's gold, go on;<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_677', '/monologues/preview?monologue_id=677', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('pQK/rTq9qP0pBtdtAd9YO9xLCo9bKFSlL6rDOTkp4uM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Put up thy gold: go on,—here's gold,—go on;<br>
+Be as a planetary plague, when Jove<br>
+Will o'er some high-viced city hang his poison<br>
+In the sick air: let not thy sword skip one: <br>
+Pity not honour'd age for his white beard;<br>
+He is an usurer: strike me the counterfeit matron;<br>
+It is her habit only that is honest,<br>
+Herself's a bawd: let not the virgin's cheek<br>
+Make soft thy trenchant sword; for those milk-paps, <br>
+That through the window-bars bore at men's eyes,<br>
+Are not within the leaf of pity writ,<br>
+But set them down horrible traitors: spare not the babe,<br>
+Whose dimpled smiles from fools exhaust their mercy;<br>
+Think it a bastard, whom the oracle <br>
+Hath doubtfully pronounced thy throat shall cut,<br>
+And mince it sans remorse: swear against objects;<br>
+Put armour on thine ears and on thine eyes;<br>
+Whose proof, nor yells of mothers, maids, nor babes,<br>
+Nor sight of priests in holy vestments bleeding, <br>
+Shall pierce a jot. There's gold to pay soldiers:<br>
+Make large confusion; and, thy fury spent,<br>
+Confounded be thyself! Speak not, be gone. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=timonathens&Act=4&Scene=3&Scope=scene&LineHighlight=1785#1778' target='_blank'>IV iii 116</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Timon</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/36">Timon of Athens</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_678'>
+  
+    <span id="preview_mono_678">
+      That nature, being sick of man's unkindness,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_678', '/monologues/preview?monologue_id=678', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('pQK/rTq9qP0pBtdtAd9YO9xLCo9bKFSlL6rDOTkp4uM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          That nature, being sick of man's unkindness,<br>
+Should yet be hungry! Common mother, thou,<br>
+[Digging]<br>
+Whose womb unmeasurable, and infinite breast, <br>
+Teems, and feeds all; whose self-same mettle,<br>
+Whereof thy proud child, arrogant man, is puff'd,<br>
+Engenders the black toad and adder blue,<br>
+The gilded newt and eyeless venom'd worm,<br>
+With all the abhorred births below crisp heaven <br>
+Whereon Hyperion's quickening fire doth shine;<br>
+Yield him, who all thy human sons doth hate,<br>
+From forth thy plenteous bosom, one poor root!<br>
+Ensear thy fertile and conceptious womb,<br>
+Let it no more bring out ingrateful man! <br>
+Go great with tigers, dragons, wolves, and bears;<br>
+Teem with new monsters, whom thy upward face<br>
+Hath to the marbled mansion all above<br>
+Never presented!—O, a root,—dear thanks!—<br>
+Dry up thy marrows, vines, and plough-torn leas; <br>
+Whereof ungrateful man, with liquorish draughts<br>
+And morsels unctuous, greases his pure mind,<br>
+That from it all consideration slips! 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=timonathens&Act=4&Scene=3&Scope=scene&LineHighlight=1862#1855' target='_blank'>IV iii 187</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Apemantus</div>
+  <div class='monologue_detail'>
+  Verse - intercut <br/>
+  <a href="/plays/36">Timon of Athens</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_679'>
+  
+    <span id="preview_mono_679">
+      This is in thee a nature but infected;<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_679', '/monologues/preview?monologue_id=679', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('pQK/rTq9qP0pBtdtAd9YO9xLCo9bKFSlL6rDOTkp4uM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Apemantus.</b> This is in thee a nature but infected;<br>
+ A poor unmanly melancholy sprung<br>
+ From change of fortune. Why this spade? this place?<br>
+ This slave-like habit? and these looks of care?<br>
+ Thy flatterers yet wear silk, drink wine, lie soft;<br>
+ Hug their diseased perfumes, and have forgot <br>
+ That ever Timon was. Shame not these woods,<br>
+ By putting on the cunning of a carper.<br>
+ Be thou a flatterer now, and seek to thrive<br>
+ By that which has undone thee: hinge thy knee,<br>
+ And let his very breath, whom thou'lt observe, <br>
+ Blow off thy cap; praise his most vicious strain,<br>
+ And call it excellent: thou wast told thus;<br>
+ Thou gavest thine ears like tapsters that bid welcome<br>
+ To knaves and all approachers: 'tis most just<br>
+ That thou turn rascal; hadst thou wealth again,<br>
+ Rascals should have 't. Do not assume my likeness. <br>
+<br>
+<del><b>Timon.</b> Were I like thee, I'ld throw away myself. </del><br>
+<br>
+<b>Apemantus.</b> Thou hast cast away thyself, being like thyself;<br>
+ A madman so long, now a fool. What, think'st<br>
+ That the bleak air, thy boisterous chamberlain,<br>
+ Will put thy shirt on warm? will these moss'd trees,<br>
+ That have outlived the eagle, page thy heels,<br>
+ And skip where thou point'st out? will the cold brook,<br>
+ Candied with ice, caudle thy morning taste, <br>
+ To cure thy o'er-night's surfeit? Call the creatures<br>
+ Whose naked natures live in an the spite<br>
+ Of wreakful heaven, whose bare unhoused trunks,<br>
+ To the conflicting elements exposed,<br>
+ Answer mere nature; bid them flatter thee; 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=timonathens&Act=4&Scene=3&Scope=scene&LineHighlight=1890#1886' target='_blank'>IV iii 187</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Timon</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/36">Timon of Athens</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_680'>
+  
+    <span id="preview_mono_680">
+      Thou art a slave, whom Fortune's tender arm<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_680', '/monologues/preview?monologue_id=680', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('pQK/rTq9qP0pBtdtAd9YO9xLCo9bKFSlL6rDOTkp4uM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Thou art a slave, whom Fortune's tender arm <br>
+With favour never clasp'd; but bred a dog.<br>
+Hadst thou, like us from our first swath, proceeded<br>
+The sweet degrees that this brief world affords<br>
+To such as may the passive drugs of it<br>
+Freely command, thou wouldst have plunged thyself <br>
+In general riot; melted down thy youth<br>
+In different beds of lust; and never learn'd<br>
+The icy precepts of respect, but follow'd<br>
+The sugar'd game before thee. But myself,<br>
+Who had the world as my confectionary, <br>
+The mouths, the tongues, the eyes and hearts of men<br>
+At duty, more than I could frame employment,<br>
+That numberless upon me stuck as leaves<br>
+Do on the oak, hive with one winter's brush<br>
+Fell from their boughs and left me open, bare <br>
+For every storm that blows: I, to bear this,<br>
+That never knew but better, is some burden:<br>
+Thy nature did commence in sufferance, time<br>
+Hath made thee hard in't. Why shouldst thou hate men?<br>
+They never flatter'd thee: what hast thou given? <br>
+If thou wilt curse, thy father, that poor rag,<br>
+Must be thy subject, who in spite put stuff<br>
+To some she beggar and compounded thee<br>
+Poor rogue hereditary. Hence, be gone!<br>
+If thou hadst not been born the worst of men, <br>
+Thou hadst been a knave and flatterer. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=timonathens&Act=4&Scene=3&Scope=scene&LineHighlight=1944#1934' target='_blank'>IV iii 268</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Timon</div>
+  <div class='monologue_detail'>
+  Prose  <br/>
+  <a href="/plays/36">Timon of Athens</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_681'>
+  
+    <span id="preview_mono_681">
+      A beastly ambition, which the gods grant<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_681', '/monologues/preview?monologue_id=681', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('pQK/rTq9qP0pBtdtAd9YO9xLCo9bKFSlL6rDOTkp4uM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          A beastly ambition, which the gods grant thee t'
+attain to! If thou wert the lion, the fox would
+beguile thee; if thou wert the lamb, the fox would
+eat three: if thou wert the fox, the lion would
+suspect thee, when peradventure thou wert accused by
+the ass: if thou wert the ass, thy dulness would
+torment thee, and still thou livedst but as a
+breakfast to the wolf: if thou wert the wolf, thy 
+greediness would afflict thee, and oft thou shouldst
+hazard thy life for thy dinner: wert thou the
+unicorn, pride and wrath would confound thee and
+make thine own self the conquest of thy fury: wert
+thou a bear, thou wouldst be killed by the horse: 
+wert thou a horse, thou wouldst be seized by the
+leopard: wert thou a leopard, thou wert german to
+the lion and the spots of thy kindred were jurors on
+thy life: all thy safety were remotion and thy
+defence absence. What beast couldst thou be, that 
+were not subject to a beast? and what a beast art
+thou already, that seest not thy loss in
+transformation! 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=timonathens&Act=4&Scene=3&Scope=scene&LineHighlight=2028#2019' target='_blank'>IV iii 335</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Timon</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/36">Timon of Athens</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_682'>
+  
+    <span id="preview_mono_682">
+      I am sick of this false world, and will love nought <br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_682', '/monologues/preview?monologue_id=682', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('pQK/rTq9qP0pBtdtAd9YO9xLCo9bKFSlL6rDOTkp4uM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          I am sick of this false world, and will love nought<br>
+But even the mere necessities upon 't. <br>
+Then, Timon, presently prepare thy grave;<br>
+Lie where the light foam the sea may beat<br>
+Thy grave-stone daily: make thine epitaph,<br>
+That death in me at others' lives may laugh.<br>
+<i>[To the gold]</i> <br>
+O thou sweet king-killer, and dear divorce<br>
+'Twixt natural son and sire! thou bright defiler<br>
+Of Hymen's purest bed! thou valiant Mars!<br>
+Thou ever young, fresh, loved and delicate wooer,<br>
+Whose blush doth thaw the consecrated snow <br>
+That lies on Dian's lap! thou visible god,<br>
+That solder'st close impossibilities,<br>
+And makest them kiss! that speak'st with every tongue,<br>
+To every purpose! O thou touch of hearts! <br>
+Think, thy slave man rebels, and by thy virtue<br>
+Set them into confounding odds, that beasts<br>
+May have the world in empire! 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=timonathens&Act=4&Scene=3&Scope=scene&LineHighlight=2078#2071' target='_blank'>IV iii 359</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Timon</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/36">Timon of Athens</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_683'>
+  
+    <span id="preview_mono_683">
+      Nor on the beasts themselves<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_683', '/monologues/preview?monologue_id=683', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('pQK/rTq9qP0pBtdtAd9YO9xLCo9bKFSlL6rDOTkp4uM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Nor on the beasts themselves, the birds, and fishes;<br>
+You must eat men. Yet thanks I must you con<br>
+That you are thieves profess'd, that you work not<br>
+In holier shapes: for there is boundless theft <br>
+In limited professions. Rascal thieves,<br>
+Here's gold. Go, suck the subtle blood o' the grape,<br>
+Till the high fever seethe your blood to froth,<br>
+And so 'scape hanging: trust not the physician;<br>
+His antidotes are poison, and he slays <br>
+Moe than you rob: take wealth and lives together;<br>
+Do villany, do, since you protest to do't,<br>
+Like workmen. I'll example you with thievery.<br>
+The sun's a thief, and with his great attraction<br>
+Robs the vast sea: the moon's an arrant thief, <br>
+And her pale fire she snatches from the sun:<br>
+The sea's a thief, whose liquid surge resolves<br>
+The moon into salt tears: the earth's a thief,<br>
+That feeds and breeds by a composture stolen<br>
+From general excrement: each thing's a thief: <br>
+The laws, your curb and whip, in their rough power<br>
+Have uncheque'd theft. Love not yourselves: away,<br>
+Rob one another. There's more gold. Cut throats:<br>
+All that you meet are thieves: to Athens go,<br>
+Break open shops; nothing can you steal, <br>
+But thieves do lose it: steal no less for this<br>
+I give you; and gold confound you howsoe'er! Amen. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=timonathens&Act=4&Scene=3&Scope=scene&LineHighlight=2137#2129' target='_blank'>IV iii 409</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/toa-4-3-425-timon.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Timon</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/36">Timon of Athens</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_684'>
+  
+    <span id="preview_mono_684">
+      Had I a steward So true, so just, and now so comfortable?<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_684', '/monologues/preview?monologue_id=684', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('pQK/rTq9qP0pBtdtAd9YO9xLCo9bKFSlL6rDOTkp4uM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <div align="right">Had I a steward</div>
+So true, so just, and now so comfortable?<br>
+It almost turns my dangerous nature mild.<br>
+Let me behold thy face. Surely, this man <br>
+Was born of woman.<br>
+Forgive my general and exceptless rashness,<br>
+You perpetual-sober gods! I do proclaim<br>
+One honest man—mistake me not—but one;<br>
+No more, I pray,—and he's a steward. <br>
+How fain would I have hated all mankind!<br>
+And thou redeem'st thyself: but all, save thee,<br>
+I fell with curses.<br>
+Methinks thou art more honest now than wise;<br>
+For, by oppressing and betraying me, <br>
+Thou mightst have sooner got another service:<br>
+For many so arrive at second masters,<br>
+Upon their first lord's neck. But tell me true—<br>
+For I must ever doubt, though ne'er so sure—<br>
+Is not thy kindness subtle, covetous,<br>
+If not a usuring kindness, and, as rich men deal gifts,<br>
+Expecting in return twenty for one? 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=timonathens&Act=4&Scene=3&Scope=scene&LineHighlight=2207#2198' target='_blank'>IV iii 476</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Timon</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/36">Timon of Athens</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_685'>
+  
+    <span id="preview_mono_685">
+      If Alcibiades kill my countrymen<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_685', '/monologues/preview?monologue_id=685', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('pQK/rTq9qP0pBtdtAd9YO9xLCo9bKFSlL6rDOTkp4uM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Well, sir, I will; therefore, I will, sir; thus:<br>
+If Alcibiades kill my countrymen,<br>
+Let Alcibiades know this of Timon,<br>
+That Timon cares not. But if be sack fair Athens,<br>
+And take our goodly aged men by the beards,<br>
+Giving our holy virgins to the stain<br>
+Of contumelious, beastly, mad-brain'd war,<br>
+Then let him know, and tell him Timon speaks it,<br>
+In pity of our aged and our youth, <br>
+I cannot choose but tell him, that I care not,<br>
+And let him take't at worst; for their knives care not,<br>
+While you have throats to answer: for myself,<br>
+There's not a whittle in the unruly camp<br>
+But I do prize it at my love before<br>
+The reverend'st throat in Athens. So I leave you<br>
+To the protection of the prosperous gods,<br>
+As thieves to keepers. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=timonathens&Act=5&Scene=1&Scope=scene&LineHighlight=2452#2441' target='_blank'>V i 165</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Alcibiades</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/36">Timon of Athens</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_686'>
+  
+    <span id="preview_mono_686">
+      Here lies a wretched corse<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_686', '/monologues/preview?monologue_id=686', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('pQK/rTq9qP0pBtdtAd9YO9xLCo9bKFSlL6rDOTkp4uM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          [Reads the epitaph] 'Here lies a <br>
+wretched corse, of wretched soul bereft:<br>
+Seek not my name: a plague consume you wicked caitiffs left!<br>
+Here lie I, Timon; who, alive, all living men did hate:<br>
+Pass by and curse thy fill, but pass and stay not here thy gait.'<br>
+These well express in thee thy latter spirits:<br>
+Though thou abhorr'dst in us our human griefs,<br>
+Scorn'dst our brain's flow and those our droplets which <br>
+From niggard nature fall, yet rich conceit<br>
+Taught thee to make vast Neptune weep for aye<br>
+On thy low grave, on faults forgiven. <br>
+Dead Is noble Timon: of whose memory<br>
+Hereafter more. Bring me into your city, <br>
+And I will use the olive with my sword,<br>
+Make war breed peace, make peace stint war, make each<br>
+Prescribe to other as each other's leech.<br>
+Let our drums strike. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=timonathens&Act=5&Scene=4&Scope=scene&LineHighlight=2640#2640' target='_blank'>V iv 84</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+</table></div>
+
+
+  
+
+
+
+
+    </div>
+:@_rails_html_safeF

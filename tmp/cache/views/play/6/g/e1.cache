@@ -1,0 +1,700 @@
+I"cz  
+    <div>
+    <h2>Monologues in Shakespeare</h2>
+    <h2>Much Ado About Nothing</h2>
+      <span>
+        <form action="javascript:void(0);" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="f6s0KzC4ZghlWX/qpwdsa1/9X2LpMENRg9lJ90qkl6k=" /></div>
+          <b>Search:</b> <input type="text" id="search" size="40"/>
+          <img alt="Ajax-loader" id="spinner" src="/images/ajax-loader.gif?1278779332" style="display: none;" />
+        </form>
+        <div class="search_links">
+          <a href="/plays/6?g=3">Search Men</a> &nbsp;|&nbsp;
+          <a href="/plays/6?g=2">Search Women</a> &nbsp;|&nbsp;
+          <a href="/plays">Search All Plays</a> &nbsp;|&nbsp;
+          
+            <a href="/plays/6">Collapse All</a>
+          
+        </div>
+      </span>
+    </div>
+    <script type="text/javascript">
+//<![CDATA[
+new Form.Element.Observer('search', 1.25, function(element, value) {Element.show('spinner'); new Ajax.Updater('ajaxResults', 'http://www.shakespeare-monologues.org/monologues/search', {asynchronous:true, evalScripts:true, onComplete:function(request){Element.hide('spinner')}, parameters:'p=6&search=' + encodeURIComponent(value) + '&authenticity_token=' + encodeURIComponent('f6s0KzC4ZghlWX/qpwdsa1/9X2LpMENRg9lJ90qkl6k=')})})
+//]]>
+</script>
+
+  
+    <div id='ajaxResults'>
+      
+
+  
+
+      
+<div>
+  <table id='monologue_list'>
+    <tr>
+      <th>Character</th>
+      <th>First Line</th>
+      <th>Act & Sc</th>
+      <th>pdf</th>
+    </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Beatrice</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/6">Much Ado About Nothing</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_179'>
+  
+    <span id="preview_mono_179">
+      
+What fire is in mine ears? Can this be true?
+
+<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_179', '/monologues/preview?monologue_id=179', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('f6s0KzC4ZghlWX/qpwdsa1/9X2LpMENRg9lJ90qkl6k=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          What fire is in mine ears? Can this be true?<br>
+Stand I condemn'd for pride and scorn so much?<br>
+Contempt, farewell! and maiden pride, adieu!<br>
+No glory lives behind the back of such. <br>
+And, Benedick, love on; I will requite thee,<br>
+Taming my wild heart to thy loving hand:<br>
+If thou dost love, my kindness shall incite thee<br>
+To bind our loves up in a holy band;<br>
+For others say thou dost deserve, and I<br>
+Believe it better than reportingly.
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=muchado&Act=3&Scene=1&Scope=scene&LineHighlight=1186#1186' target='_blank'>III i 131</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/maan-3-1-107-beatrice.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Benedick</div>
+  <div class='monologue_detail'>
+  Prose  <br/>
+  <a href="/plays/6">Much Ado About Nothing</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_180'>
+  
+    <span id="preview_mono_180">
+      O, she misused me past the endurance of a block<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_180', '/monologues/preview?monologue_id=180', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('f6s0KzC4ZghlWX/qpwdsa1/9X2LpMENRg9lJ90qkl6k=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          O, she misused me past the endurance of a block! 
+an oak but with one green leaf on it would have
+answered her; my very visor began to assume life and
+scold with her. She told me, not thinking I had been
+myself, that I was the prince's jester, that I was
+duller than a great thaw; huddling jest upon jest 
+with such impossible conveyance upon me that I stood
+like a man at a mark, with a whole army shooting at
+me. She speaks poniards, and every word stabs:
+if her breath were as terrible as her terminations,
+there were no living near her; she would infect to 
+the north star. I would not marry her, though she
+were endowed with all that Adam bad left him before
+he transgressed: she would have made Hercules have
+turned spit, yea, and have cleft his club to make
+the fire too. Come, talk not of her: you shall find 
+her the infernal Ate in good apparel. I would to God
+some scholar would conjure her; for certainly, while
+she is here, a man may live as quiet in hell as in a
+sanctuary; and people sin upon purpose, because they
+would go thither; so, indeed, all disquiet, horror 
+and perturbation follows her. 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=muchado&Act=2&Scene=1&Scope=scene&LineHighlight=620#613' target='_blank'>II i 111</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/maan-2-1-239-benedick.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Benedick</div>
+  <div class='monologue_detail'>
+  Prose  <br/>
+  <a href="/plays/6">Much Ado About Nothing</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_181'>
+  
+    <span id="preview_mono_181">
+      This can be no trick, the conference was sadly borne.<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_181', '/monologues/preview?monologue_id=181', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('f6s0KzC4ZghlWX/qpwdsa1/9X2LpMENRg9lJ90qkl6k=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          This can be no trick: the
+conference was sadly borne. They have the truth of
+this from Hero. They seem to pity the lady: it
+seems her affections have their full bent. Love me!
+why, it must be requited. I hear how I am censured:
+they say I will bear myself proudly, if I perceive
+the love come from her; they say too that she will
+rather die than give any sign of affection. I did
+never think to marry: I must not seem proud: happy
+are they that hear their detractions and can put 
+them to mending. They say the lady is fair; 'tis a
+truth, I can bear them witness; and virtuous; 'tis
+so, I cannot reprove it; and wise, but for loving
+me; by my troth, it is no addition to her wit, nor
+no great argument of her folly, for I will be 
+horribly in love with her. I may chance have some
+odd quirks and remnants of wit broken on me,
+because I have railed so long against marriage: but
+doth not the appetite alter? a man loves the meat
+in his youth that he cannot endure in his age. 
+Shall quips and sentences and these paper bullets of
+the brain awe a man from the career of his humour?
+No, the world must be peopled. When I said I would
+die a bachelor, I did not think I should live till I
+were married. Here comes Beatrice. By this day! 
+she's a fair lady: I do spy some marks of love in
+her. 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=muchado&Act=2&Scene=3&Scope=scene&LineHighlight=1026#1017' target='_blank'>II iii 90</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/maan-2-3-220-benedick.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Borachio</div>
+  <div class='monologue_detail'>
+  Prose  <br/>
+  <a href="/plays/6">Much Ado About Nothing</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_182'>
+  
+    <span id="preview_mono_182">
+      Seest thou not, I say, what a deformed thief<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_182', '/monologues/preview?monologue_id=182', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('f6s0KzC4ZghlWX/qpwdsa1/9X2LpMENRg9lJ90qkl6k=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Borachio.</b> Seest thou not, I say, what a deformed thief this
+      fashion is? how giddily a' turns about all the hot 
+      bloods between fourteen and five-and-thirty?
+      sometimes fashioning them like Pharaoh's soldiers
+      in the reeky painting, sometime like god Bel's
+      priests in the old church-window, sometime like the
+      shaven Hercules in the smirched worm-eaten tapestry,
+      where his codpiece seems as massy as his club? <br><br>
+
+<del><b>Conrade.</b> All this I see; and I see that the fashion wears
+      out more apparel than the man. But art not thou
+      thyself giddy with the fashion too, that thou hast
+      shifted out of thy tale into telling me of the fashion? </del><br><br>
+
+<b>Borachio.</b> Not so, neither: but know that I have to-night
+      wooed Margaret, the Lady Hero's gentlewoman, by the
+      name of Hero: she leans me out at her mistress'
+      chamber-window, bids me a thousand times good
+      night,.I tell this tale vilely:.I should first 
+      tell thee how the prince, Claudio and my master,
+      planted and placed and possessed by my master Don
+      John, saw afar off in the orchard this amiable encounter. <br><br>
+
+<del><b>Conrade.</b> And thought they Margaret was Hero?</del><br><br> 
+
+<b>Borachio.</b> Two of them did, the prince and Claudio; but the 
+      devil my master knew she was Margaret; and partly
+      by his oaths, which first possessed them, partly by
+      the dark night, which did deceive them, but chiefly
+      by my villany, which did confirm any slander that
+      Don John had made, away went Claudio enraged; swore 
+      he would meet her, as he was appointed, next morning
+      at the temple, and there, before the whole
+      congregation, shame her with what he saw o'er night
+      and send her home again without a husband. 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=muchado&Act=3&Scene=3&Scope=scene&LineHighlight=1444#1436' target='_blank'>III ii 58</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/maan-2-3-130-borachio.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Claudio</div>
+  <div class='monologue_detail'>
+  Verse - intercut <br/>
+  <a href="/plays/6">Much Ado About Nothing</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_183'>
+  
+    <span id="preview_mono_183">
+      There, Leonato, take her back again<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_183', '/monologues/preview?monologue_id=183', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('f6s0KzC4ZghlWX/qpwdsa1/9X2LpMENRg9lJ90qkl6k=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Claudio.</b> <del>Sweet prince, you learn me noble thankfulness.</del><br>
+      There, Leonato, take her back again:<br>
+      Give not this rotten orange to your friend;<br>
+      She's but the sign and semblance of her honour.<br>
+      Behold how like a maid she blushes here!<br>
+      O, what authority and show of truth<br>
+      Can cunning sin cover itself withal!<br>
+      Comes not that blood as modest evidence<br>
+      To witness simple virtue? Would you not swear,<br>
+      All you that see her, that she were a maid,<br>
+      By these exterior shows? But she is none:<br>
+      She knows the heat of a luxurious bed;<br>
+      Her blush is guiltiness, not modesty. <br><br>
+
+<del><b>Leonato.</b> What do you mean, my lord? </del><br><br>
+
+<b>Claudio.</b> Not to be married,<br>
+      Not to knit my soul to an approved wanton.<br><br>
+
+<del><b>Leonato.</b> Dear my lord, if you, in your own proof,<br>
+      Have vanquish'd the resistance of her youth,<br>
+      And made defeat of her virginity,-- </del><br><br>
+
+<b>Claudio.</b> I know what you would say: if I have known her,<br>
+      You will say she did embrace me as a husband, <br>
+      And so extenuate the 'forehand sin:<br>
+      No, Leonato,<br>
+      I never tempted her with word too large;<br>
+      But, as a brother to his sister, show'd<br>
+      Bashful sincerity and comely love.<br><br>
+
+<del><b> Hero.</b> And seem'd I ever otherwise to you? </del><br><br>
+
+<b>Claudio.</b> Out on thee! Seeming! I will write against it:<br>
+      You seem to me as Dian in her orb,<br>
+      As chaste as is the bud ere it be blown;<br>
+      But you are more intemperate in your blood<br>
+      Than Venus, or those pamper'd animals<br>
+      That rage in savage sensuality. <br><br>
+
+<del> <b>Hero.</b> Is my lord well, that he doth speak so wide?<br><br>
+
+<b>Leonato.</b> Sweet prince, why speak not you? <br><br>
+
+<b>Don Pedro.</b> What should I speak? <br>
+      I stand dishonour'd, that have gone about<br>
+      To link my dear friend to a common stale. <br><br>
+
+<b>Leonato.</b> Are these things spoken, or do I but dream? <br><br>
+
+<b>Don John.</b> Sir, they are spoken, and these things are true.<br><br> 
+
+<b>Benedick.</b> This looks not like a nuptial. <br><br>
+
+<b>Hero.</b> True! O God! </del><br><br>
+
+<b>Claudio.</b> Leonato, stand I here?<br>
+      Is this the prince? is this the prince's brother?<br>
+      Is this face Hero's? are our eyes our own? <br><br>
+
+<del><b>Leonato.</b> All this is so: but what of this, my lord?</del><br><br>
+
+<b>Claudio.</b> Let me but move one question to your daughter;<br>
+      And, by that fatherly and kindly power<br>
+      That you have in her, bid her answer truly. <br><br>
+
+<del><b>Leonato.</b> I charge thee do so, as thou art my child.<br><br> 
+
+<b>Hero.</b> O, God defend me! how am I beset!<br>
+      What kind of catechising call you this? </del><br><br>
+
+<b>Claudio.</b> To make you answer truly to your name. <br><br>
+
+<del><b>Hero.</b> Is it not Hero? Who can blot that name<br>
+      With any just reproach? </del><br><br>
+
+<del><b>Claudio.</b> Marry, that can Hero;</del><br>
+      Hero itself can blot out Hero's virtue.<br>
+      What man was he talk'd with you yesternight<br>
+      Out at your window betwixt twelve and one?<br>
+      <del>Now, if you are a maid, answer to this.</del> <br><br>
+
+    <del><b>Hero.</b> I talk'd with no man at that hour, my lord.<br><br>
+
+<b>Don Pedro.</b> Why, then are you no maiden. Leonato,<br>
+      I am sorry you must hear: upon mine honour,<br>
+      Myself, my brother and this grieved count<br>
+      Did see her, hear her, at that hour last night<br>
+      Talk with a ruffian at her chamber-window <br>
+      Who hath indeed, most like a liberal villain,<br>
+      Confess'd the vile encounters they have had<br>
+      A thousand times in secret. <br><br>
+
+    <b>Don John.</b> Fie, fie! they are not to be named, my lord,<br>
+      Not to be spoke of; <br>
+      There is not chastity enough in language<br>
+      Without offence to utter them. Thus, pretty lady,<br>
+      I am sorry for thy much misgovernment. </del><br><br>
+
+<b>Claudio.</b> O Hero, what a Hero hadst thou been,<br>
+      If half thy outward graces had been placed<br>
+      About thy thoughts and counsels of thy heart!<br>
+      But fare thee well, most foul, most fair! farewell,<br>
+      Thou pure impiety and impious purity!<br>
+      For thee I'll lock up all the gates of love,<br>
+      And on my eyelids shall conjecture hang,<br>
+      To turn all beauty into thoughts of harm,<br>
+      And never shall it more be gracious. 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=muchado&Act=4&Scene=1&Scope=scene&LineHighlight=1670#1663' target='_blank'>IV i 25</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/maan-4-1-48-claudio.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Leonato</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/6">Much Ado About Nothing</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_184'>
+  
+    <span id="preview_mono_184">
+      Wherefore? Why, doth not every earthly thing<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_184', '/monologues/preview?monologue_id=184', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('f6s0KzC4ZghlWX/qpwdsa1/9X2LpMENRg9lJ90qkl6k=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Wherefore! Why, doth not every earthly thing<br>
+Cry shame upon her? Could she here deny<br>
+The story that is printed in her blood?<br>
+Do not live, Hero; do not ope thine eyes:<br>
+For, did I think thou wouldst not quickly die,<br>
+Thought I thy spirits were stronger than thy shames,<br>
+Myself would, on the rearward of reproaches, <br>
+Strike at thy life. Grieved I, I had but one?<br>
+Chid I for that at frugal nature's frame?<br>
+O, one too much by thee! Why had I one?<br>
+Why ever wast thou lovely in my eyes?<br>
+Why had I not with charitable hand <br>
+Took up a beggar's issue at my gates,<br>
+Who smirch'd thus and mired with infamy,<br>
+I might have said 'No part of it is mine;<br>
+This shame derives itself from unknown loins'?<br>
+But mine and mine I loved and mine I praised <br>
+And mine that I was proud on, mine so much<br>
+That I myself was to myself not mine,<br>
+Valuing of her,.why, she, O, she is fallen<br>
+Into a pit of ink, that the wide sea<br>
+Hath drops too few to wash her clean again <br>
+And salt too little which may season give<br>
+To her foul-tainted flesh! 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=muchado&Act=4&Scene=1&Scope=scene&LineHighlight=1769#1765' target='_blank'>IV i 115</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/maan-4-1-120-leonato.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Friar Francis</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/6">Much Ado About Nothing</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_185'>
+  
+    <span id="preview_mono_185">
+      Marry, this well carried on her behalf<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_185', '/monologues/preview?monologue_id=185', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('f6s0KzC4ZghlWX/qpwdsa1/9X2LpMENRg9lJ90qkl6k=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Marry, this well carried shall on her behalf<br>
+Change slander to remorse; that is some good:<br>
+But not for that dream I on this strange course,<br>
+But on this travail look for greater birth. <br>
+She dying, as it must so be maintain'd,<br>
+Upon the instant that she was accused,<br>
+Shall be lamented, pitied and excused<br>
+Of every hearer: for it so falls out<br>
+That what we have we prize not to the worth<br>
+Whiles we enjoy it, but being lack'd and lost,<br>
+Why, then we rack the value, then we find<br>
+The virtue that possession would not show us<br>
+Whiles it was ours. So will it fare with Claudio:<br>
+When he shall hear she died upon his words, <br>
+The idea of her life shall sweetly creep<br>
+Into his study of imagination,<br>
+And every lovely organ of her life<br>
+Shall come apparell'd in more precious habit,<br>
+More moving-delicate and full of life,<br>
+Into the eye and prospect of his soul,<br>
+Than when she lived indeed; then shall he mourn,<br>
+If ever love had interest in his liver,<br>
+And wish he had not so accused her,<br>
+No, though he thought his accusation true.<br>
+Let this be so, and doubt not but success<br>
+Will fashion the event in better shape<br>
+Than I can lay it down in likelihood.<br>
+But if all aim but this be levell'd false,<br>
+The supposition of the lady's death<br>
+Will quench the wonder of her infamy:<br>
+And if it sort not well, you may conceal her,<br>
+As best befits her wounded reputation,<br>
+In some reclusive and religious life,<br>
+Out of all eyes, tongues, minds and injuries. 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=muchado&Act=4&Scene=1&Scope=scene&LineHighlight=1862#1852' target='_blank'>IV i 215</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/maan-4-1-210-friarfrancis.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Dogberry</div>
+  <div class='monologue_detail'>
+  Prose  <br/>
+  <a href="/plays/6">Much Ado About Nothing</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_186'>
+  
+    <span id="preview_mono_186">
+      Dost thou not suspect my place?<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_186', '/monologues/preview?monologue_id=186', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('f6s0KzC4ZghlWX/qpwdsa1/9X2LpMENRg9lJ90qkl6k=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Dost thou not suspect my place? dost thou not
+      suspect my years? O that he were here to write me
+      down an ass! But, masters, remember that I am an
+      ass; though it be not written down, yet forget not
+      that I am an ass. No, thou villain, thou art full of
+      piety, as shall be proved upon thee by good witness.
+      I am a wise fellow, and, which is more, an officer,
+      and, which is more, a householder, and, which is
+      more, as pretty a piece of flesh as any is in 
+      Messina, and one that knows the law, go to; and a
+      rich fellow enough, go to; and a fellow that hath
+      had losses, and one that hath two gowns and every
+      thing handsome about him. Bring him away. O that
+      I had been writ down an ass! 
+<br><br>
+<i>[Exeunt]</i> 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=muchado&Act=4&Scene=2&Scope=scene&LineHighlight=2052#2052' target='_blank'>IV ii 41</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/maan-4-2-74-dogberry.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Leonato</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/6">Much Ado About Nothing</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_187'>
+  
+    <span id="preview_mono_187">
+      I pray thee cease thy counsel<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_187', '/monologues/preview?monologue_id=187', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('f6s0KzC4ZghlWX/qpwdsa1/9X2LpMENRg9lJ90qkl6k=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <div align='right'>I pray thee, cease thy counsel,</div>
+Which falls into mine ears as profitless<br>
+As water in a sieve: give not me counsel;<br>
+Nor let no comforter delight mine ear<br>
+But such a one whose wrongs do suit with mine.<br>
+Bring me a father that so loved his child,<br>
+Whose joy of her is overwhelm'd like mine,<br>
+And bid him speak of patience;<br>
+Measure his woe the length and breadth of mine<br>
+And let it answer every strain for strain, <br>
+As thus for thus and such a grief for such,<br>
+In every lineament, branch, shape, and form:<br>
+If such a one will smile and stroke his beard,<br>
+Bid sorrow wag, cry 'hem!' when he should groan,<br>
+Patch grief with proverbs, make misfortune drunk<br>
+With candle-wasters; bring him yet to me,<br>
+And I of him will gather patience.<br>
+But there is no such man: for, brother, men<br>
+Can counsel and speak comfort to that grief<br>
+Which they themselves not feel; but, tasting it,<br>
+Their counsel turns to passion, which before<br>
+Would give preceptial medicine to rage,<br>
+Fetter strong madness in a silken thread,<br>
+Charm ache with air and agony with words:<br>
+No, no; 'tis all men's office to speak patience <br>
+To those that wring under the load of sorrow,<br>
+But no man's virtue nor sufficiency<br>
+To be so moral when he shall endure<br>
+The like himself. Therefore give me no counsel:<br>
+My griefs cry louder than advertisement. 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=muchado&Act=5&Scene=1&Scope=scene&LineHighlight=2071' target='_blank'>V i 6</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/maan-5-1-4-leonato.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Borachio</div>
+  <div class='monologue_detail'>
+  Prose  <br/>
+  <a href="/plays/6">Much Ado About Nothing</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_188'>
+  
+    <span id="preview_mono_188">
+      Sweet Prince, let me go no farther to mine answer<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_188', '/monologues/preview?monologue_id=188', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('f6s0KzC4ZghlWX/qpwdsa1/9X2LpMENRg9lJ90qkl6k=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Sweet prince, let me go no farther to mine answer:
+do you hear me, and let this count kill me. I have
+deceived even your very eyes: what your wisdoms
+could not discover, these shallow fools have brought
+to light: who in the night overheard me confessing
+to this man how Don John your brother incensed me
+to slander the Lady Hero, how you were brought into
+the orchard and saw me court Margaret in Hero's
+garments, how you disgraced her, when you should 
+marry her: my villany they have upon record; which
+I had rather seal with my death than repeat over
+to my shame. The lady is dead upon mine and my
+master's false accusation; and, briefly, I desire
+nothing but the reward of a villain. 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=muchado&Act=5&Scene=1&Scope=scene&LineHighlight=2302#2293' target='_blank'>V i 171</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/maan-5-1-230-borachio.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Benedick</div>
+  <div class='monologue_detail'>
+  Prose  <br/>
+  <a href="/plays/6">Much Ado About Nothing</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_337'>
+  
+    <span id="preview_mono_337">
+      I do much wonder that one man, seeing how much another man is a fool<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_337', '/monologues/preview?monologue_id=337', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('f6s0KzC4ZghlWX/qpwdsa1/9X2LpMENRg9lJ90qkl6k=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          I do much wonder that one man, seeing how much 
+another man is a fool when he dedicates his 
+behaviors to love, will, after he hath laughed at 
+such shallow follies in others, become the argument 
+of his own scorn by failing in love: and such a man 
+is Claudio. I have known when there was no music 
+with him but the drum and the fife; and now had he 
+rather hear the tabour and the pipe: I have known 
+when he would have walked ten mile a-foot to see a 
+good armour; and now will he lie ten nights awake,  
+carving the fashion of a new doublet. He was wont to 
+speak plain and to the purpose, like an honest man 
+and a soldier; and now is he turned orthography; his 
+words are a very fantastical banquet, just so many 
+strange dishes. May I be so converted and see with  
+these eyes? I cannot tell; I think not: I will not 
+be sworn, but love may transform me to an oyster; but 
+I'll take my oath on it, till he have made an oyster 
+of me, he shall never make me such a fool. One woman 
+is fair, yet I am well; another is wise, yet I am  
+well; another virtuous, yet I am well; but till all 
+graces be in one woman, one woman shall not come in 
+my grace. Rich she shall be, that's certain; wise, 
+or I'll none; virtuous, or I'll never cheapen her; 
+fair, or I'll never look on her; mild, or come not  
+near me; noble, or not I for an angel; of good 
+discourse, an excellent musician, and her hair shall 
+be of what colour it please God. Ha! the prince and 
+Monsieur Love! I will hide me in the arbour. 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=muchado&Act=2&Scene=3&Scope=scene&LineHighlight=819' target='_blank'>II iii 8</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/maan-2-3-7-benedick.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+</table></div>
+
+
+  
+
+
+
+
+    </div>
+:@_rails_html_safeF

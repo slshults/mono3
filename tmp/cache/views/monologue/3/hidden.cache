@@ -1,0 +1,28 @@
+"b
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_3">
+      So many journeys may the sun and moon<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_3', '/monologues/preview?monologue_id=3', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('SLgGMdfhmiC4L3YIr3H9ARMzPOA8LcEcGLXGrvOdZSA=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          So many journeys may the sun and moon<br>
+Make us again count o'er ere love be done!<br>
+But woe is me! you are so sick of late,<br>
+So far from cheer and from your former state.<br>
+That I distrust you. Yet, though I distrust,<br>
+Discomfort you, my lord, it nothing must;<br>
+For women's fear and love holds quantity,<br>
+In neither aught, or in extremity.<br>
+Now what my love is, proof hath made you know;<br>
+And as my love is siz'd, my fear is so.<br>
+Where love is great, the littlest doubts are fear;<br>
+Where little fears grow great, great love grows there. 
+      </div>
+    </span>
+
+  
+

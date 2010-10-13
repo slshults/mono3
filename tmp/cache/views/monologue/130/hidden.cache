@@ -1,0 +1,39 @@
+"N
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_130">
+      Still going? - This is a lord! O noble misery!<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_130', '/monologues/preview?monologue_id=130', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('3fa8SH3TLIQTNYY17yUJdrmYXy3yf/J1Og2xBBglUyM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Still going? <br>
+[<i>Exit Lord</i>]
+<div align='center'>This is a lord! O noble misery,</div>
+To be i' the field, and ask 'what news?' of me!<br>
+To-day how many would have given their honours<br>
+To have saved their carcasses! took heel to do't,<br>
+And yet died too! I, in mine own woe charm'd,<br>
+Could not find death where I did hear him groan, <br>
+Nor feel him where he struck: being an ugly monster,<br>
+'Tis strange he hides him in fresh cups, soft beds,<br>
+Sweet words; or hath more ministers than we<br>
+That draw his knives i' the war. Well, I will find him<br>
+For being now a favourer to the Briton, <br>
+No more a Briton, I have resumed again<br>
+The part I came in: fight I will no more,<br>
+But yield me to the veriest hind that shall<br>
+Once touch my shoulder. Great the slaughter is<br>
+Here made by the Roman; great the answer be <br>
+Britons must take. For me, my ransom's death;<br>
+On either side I come to spend my breath;<br>
+Which neither here I'll keep nor bear again,<br>
+But end it by some means for Imogen. <br>
+
+      </div>
+    </span>
+
+  
+

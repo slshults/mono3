@@ -1,0 +1,10 @@
+"˜
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_773">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_773', '/monologues/preview/773', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('6KHx8Mq9NbxKS2JTP9wKDJBepJdiZ8PlubaUeIctkxQ=')}); return false;">My Lord of Suffolk, say, is this the guise</a>
+    </span>
+  
+

@@ -1,0 +1,16 @@
+"¨
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_178">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_178', '/monologues/preview/178', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Zke4cg0lFure3Fos0oJh1+k6UY5AlcDn0W2uMfDsDko=')}); return false;">
+
+
+
+Sweet Portia,
+if you did know to whom I gave the ring
+</a>
+    </span>
+  
+

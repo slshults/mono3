@@ -1,0 +1,48 @@
+"Ú
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_9">
+      'Tis sweet and commendable in your nature Hamlet,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_9', '/monologues/preview?monologue_id=9', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('b6wvh7Cs2EIq/IUtc0dg9h5x9PXpQI7s7/aj0ku1dfw=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          'Tis sweet and commendable in your nature, Hamlet, <br>
+To give these mourning duties to your father;<br>
+But you must know, your father lost a father;<br>
+That father lost, lost his, and the survivor bound<br>
+In filial obligation for some term<br>
+To do obsequious sorrow. But to persever<br>
+In obstinate condolement is a course<br>
+Of impious stubbornness. 'Tis unmanly grief;<br>
+It shows a will most incorrect to heaven,<br>
+A heart unfortified, a mind impatient,<br>
+An understanding simple and unschool'd; <br>
+For what we know must be, and is as common<br>
+As any the most vulgar thing to sense,<br>
+Why should we in our peevish opposition<br>
+Take it to heart? Fie! 'tis a fault to heaven,<br>
+A fault against the dead, a fault to nature, <br>
+To reason most absurd, whose common theme<br>
+Is death of fathers, and who still hath cried,<br>
+From the first corse till he that died to-day,<br>
+'This must be so.' We pray you throw to earth<br>
+This unprevailing woe, and think of us <br>
+As of a father; for let the world take note<br>
+You are the most immediate to our throne,<br>
+And with no less nobility of love<br>
+Than that which dearest father bears his son<br>
+Do I impart toward you. For your intent <br>
+In going back to school in Wittenberg,<br>
+It is most retrograde to our desire;<br>
+And we beseech you, bend you to remain<br>
+Here in the cheer and comfort of our eye,<br>
+Our chiefest courtier, cousin, and our son. <br>
+
+      </div>
+    </span>
+
+  
+

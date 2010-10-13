@@ -1,0 +1,29 @@
+"[
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_41">
+      Help me, Lysander, help me! do thy best<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_41', '/monologues/preview?monologue_id=41', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('FycldVPjvft57U7geUttN8zfKnsPd79iFsfabqzrHBg=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Help me, Lysander, help me! do thy best<br>
+To pluck this crawling serpent from my breast!<br>
+Ay me, for pity! what a dream was here!<br>
+Lysander, look how I do quake with fear:<br>
+Methought a serpent eat my heart away, <br>
+And you sat smiling at his cruel pray.<br>
+Lysander! what, removed? Lysander! lord!<br>
+What, out of hearing? gone? no sound, no word?<br>
+Alack, where are you speak, an if you hear;<br>
+Speak, of all loves! I swoon almost with fear. <br>
+No? then I well perceive you all not nigh<br>
+Either death or you I'll find immediately.
+
+      </div>
+    </span>
+
+  
+

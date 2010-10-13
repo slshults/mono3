@@ -1,0 +1,34 @@
+"Ä
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_827">
+      But I do think it is their husbands' faults<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_827', '/monologues/preview?monologue_id=827', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('XepXdRF0+B2Q904t5astrG8Pc6zNNiVGQpajlQW/Ecw=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          But I do think it is their husbands' faults<br>
+If wives do fall: say that they slack their duties,<br>
+And pour our treasures into foreign laps,<br>
+Or else break out in peevish jealousies,<br>
+Throwing restraint upon us; or say they strike us,<br>
+Or scant our former having in despite;<br>
+Why, we have galls, and though we have some grace,<br>
+Yet have we some revenge. Let husbands know<br>
+Their wives have sense like them: they see and smell<br>
+And have their palates both for sweet and sour,<br>
+As husbands have. What is it that they do<br>
+When they change us for others? Is it sport? <br>
+I think it is: and doth affection breed it?<br>
+I think it doth: is't frailty that thus errs?<br>
+It is so too: and have not we affections,<br>
+Desires for sport, and frailty, as men have?<br>
+Then let them use us well: else let them know, <br>
+The ills we do, their ills instruct us so. <br>
+      </div>
+    </span>
+
+  
+

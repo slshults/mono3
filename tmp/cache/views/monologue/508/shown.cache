@@ -1,0 +1,10 @@
+"˜
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_508">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_508', '/monologues/preview/508', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('90OWd9GLIDkthyyptjGXjsxNec4zeCjEqnVaE44CpPw=')}); return false;">Ah! who is nigh? come to me, friend or foe</a>
+    </span>
+  
+

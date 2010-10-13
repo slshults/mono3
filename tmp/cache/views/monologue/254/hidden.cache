@@ -1,0 +1,50 @@
+"H
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_254">
+      Gallop apace, you fiery-footed steeds<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_254', '/monologues/preview?monologue_id=254', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('qHadnmZ0EppM/Ayl+8DAg9wYaS7NR12IUWFsnaDXtY0=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Gallop apace, you fiery-footed steeds,<br>
+Towards Phoebus' lodging: such a wagoner<br>
+As Phaethon would whip you to the west,<br>
+And bring in cloudy night immediately.<br>
+Spread thy close curtain, love-performing night,<br>
+That runaway's eyes may wink and Romeo<br>
+Leap to these arms, untalk'd of and unseen.<br>
+Lovers can see to do their amorous rites<br>
+By their own beauties; or, if love be blind,<br>
+It best agrees with night. Come, civil night,<br>
+Thou sober-suited matron, all in black,<br>
+And learn me how to lose a winning match,<br>
+Play'd for a pair of stainless maidenhoods:<br>
+Hood my unmann'd blood, bating in my cheeks,<br>
+With thy black mantle; till strange love, grown bold,<br>
+Think true love acted simple modesty.<br>
+Come, night; come, Romeo; come, thou day in night;<br>
+For thou wilt lie upon the wings of night<br>
+Whiter than new snow on a raven's back.<br>
+Come, gentle night, come, loving, black-brow'd night,<br>
+Give me my Romeo; and, when he shall die,<br>
+Take him and cut him out in little stars, <br>
+And he will make the face of heaven so fine<br>
+That all the world will be in love with night<br>
+And pay no worship to the garish sun.<br>
+O, I have bought the mansion of a love,<br>
+But not possess'd it, and, though I am sold,<br>
+Not yet enjoy'd: so tedious is this day<br>
+As is the night before some festival<br>
+To an impatient child that hath new robes<br>
+And may not wear them. O, here comes my nurse,<br>
+And she brings news; and every tongue that speaks<br>
+But Romeo's name speaks heavenly eloquence. 
+
+      </div>
+    </span>
+
+  
+

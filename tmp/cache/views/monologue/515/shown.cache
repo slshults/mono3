@@ -1,0 +1,10 @@
+"ù
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_515">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_515', '/monologues/preview/515', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('J1rmJk9aAX4bBPmDGSKw33V2Ccgey/JdjSHYR58KCyc=')}); return false;">Pray give me favour, sir. This cunning cardinal</a>
+    </span>
+  
+

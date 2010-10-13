@@ -1,0 +1,412 @@
+I"J  
+    <div>
+      <h2>Men's Monologues in Shakespeare</h2>
+      <h2>King Lear</h2>
+      <span>
+        <form action="javascript:void(0);" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="L01hDYl3yOFA3gH4v/sPAfqt+YcBOHFYUKnGEySCoxE=" /></div>
+          <b>Search:</b> <input type="text" id="search" size="40"/>
+          <img alt="Ajax-loader" id="spinner" src="/images/ajax-loader.gif?1278779332" style="display: none;" />
+        </form>
+        <div class="search_links">
+          <a href="/plays/32?g=2">Search Women</a> &nbsp;|&nbsp;
+          <a href="/plays/32">Search King Lear</a> &nbsp;|&nbsp;
+          <a href="/plays">Search All Plays</a> &nbsp;|&nbsp;
+          
+            <a href="/plays/32?g=3">Collapse All</a>
+          
+        </div>
+      </span>
+    </div>
+    <script type="text/javascript">
+//<![CDATA[
+new Form.Element.Observer('search', 1.25, function(element, value) {Element.show('spinner'); new Ajax.Updater('ajaxResults', 'http://www.shakespeare-monologues.org/monologues/search', {asynchronous:true, evalScripts:true, onComplete:function(request){Element.hide('spinner')}, parameters:'g=3&p=32&search=' + encodeURIComponent(value) + '&authenticity_token=' + encodeURIComponent('L01hDYl3yOFA3gH4v/sPAfqt+YcBOHFYUKnGEySCoxE=')})})
+//]]>
+</script>
+  
+    <div id='ajaxResults'>
+      
+
+  
+
+      
+<div>
+  <table id='monologue_list'>
+    <tr>
+      <th>Character</th>
+      <th>First Line</th>
+      <th>Act & Sc</th>
+      <th>pdf</th>
+    </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Edmund</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/32">King Lear</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_632'>
+  
+    <span id="preview_mono_632">
+      Thou, Nature, art my goddess, to thy law<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_632', '/monologues/preview?monologue_id=632', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('L01hDYl3yOFA3gH4v/sPAfqt+YcBOHFYUKnGEySCoxE=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Thou, Nature, art my goddess; to thy law<br>
+My services are bound. Wherefore should I <br>
+Stand in the plague of custom, and permit<br>
+The curiosity of nations to deprive me,<br>
+For that I am some twelve or fourteen moonshines<br>
+Lag of a brother? Why bastard? wherefore base?<br>
+When my dimensions are as well compact, <br>
+My mind as generous, and my shape as true,<br>
+As honest madam's issue? Why brand they us<br>
+With base? with baseness? bastardy? base, base?<br>
+Who, in the lusty stealth of nature, take<br>
+More composition and fierce quality <br>
+Than doth, within a dull, stale, tired bed,<br>
+Go to th' creating a whole tribe of fops<br>
+Got 'tween asleep and wake? Well then,<br>
+Legitimate Edgar, I must have your land.<br>
+Our father's love is to the bastard Edmund <br>
+As to th' legitimate. Fine word- 'legitimate'!<br>
+Well, my legitimate, if this letter speed,<br>
+And my invention thrive, Edmund the base<br>
+Shall top th' legitimate. I grow; I prosper.<br>
+Now, gods, stand up for bastards! 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=kinglear&Act=1&Scene=2&Scope=scene&LineHighlight=334' target='_blank'>I ii 1</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/kl-1-2-1-edmund.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Edmund</div>
+  <div class='monologue_detail'>
+  Prose  <br/>
+  <a href="/plays/32">King Lear</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_633'>
+  
+    <span id="preview_mono_633">
+      This is the excellent foppery of the world<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_633', '/monologues/preview?monologue_id=633', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('L01hDYl3yOFA3gH4v/sPAfqt+YcBOHFYUKnGEySCoxE=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          This is the excellent foppery of the world, that, when we are
+sick in fortune, often the surfeit of our own behaviour, we make
+guilty of our disasters the sun, the moon, and the stars; as if
+we were villains on necessity; fools by heavenly compulsion; 
+knaves, thieves, and treachers by spherical pre-dominance;
+drunkards, liars, and adulterers by an enforc'd obedience of
+planetary influence; and all that we are evil in, by a divine
+thrusting on. An admirable evasion of whore-master man, to lay
+his goatish disposition to the charge of a star! My father 
+compounded with my mother under the Dragon's Tail, and my
+nativity was under Ursa Major, so that it follows I am rough and
+lecherous. Fut! I should have been that I am, had the
+maidenliest star in the firmament twinkled on my bastardizing. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=kinglear&Act=1&Scene=2&Scope=scene&LineHighlight=442#442' target='_blank'>I ii 58</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/kl-1-2-58-edmund.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Edgar</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/32">King Lear</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_634'>
+  
+    <span id="preview_mono_634">
+      I heard myself proclaim'd<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_634', '/monologues/preview?monologue_id=634', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('L01hDYl3yOFA3gH4v/sPAfqt+YcBOHFYUKnGEySCoxE=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          I heard myself proclaim'd,<br>
+And by the happy hollow of a tree<br>
+Escap'd the hunt. No port is free, no place<br>
+That guard and most unusual vigilance <br>
+Does not attend my taking. Whiles I may scape,<br>
+I will preserve myself; and am bethought<br>
+To take the basest and most poorest shape<br>
+That ever penury, in contempt of man,<br>
+Brought near to beast. My face I'll grime with filth, <br>
+Blanket my loins, elf all my hair in knots,<br>
+And with presented nakedness outface<br>
+The winds and persecutions of the sky.<br>
+The country gives me proof and precedent<br>
+Of Bedlam beggars, who, with roaring voices, <br>
+Strike in their numb'd and mortified bare arms<br>
+Pins, wooden pricks, nails, sprigs of rosemary;<br>
+And with this horrible object, from low farms,<br>
+Poor pelting villages, sheepcotes, and mills,<br>
+Sometime with lunatic bans, sometime with prayers, <br>
+Enforce their charity. 'Poor Turlygod! poor Tom!'<br>
+That's something yet! Edgar I nothing am.<br>
+<i>[Exit]</i>
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=kinglear&Act=2&Scene=3&Scope=scene&LineHighlight=1252#1252' target='_blank'>II iii 1</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/kl-2-3-1-edmund.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Fool</div>
+  <div class='monologue_detail'>
+  Verse &amp; Prose  <br/>
+  <a href="/plays/32">King Lear</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_635'>
+  
+    <span id="preview_mono_635">
+      We'll set thee to school to an ant<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_635', '/monologues/preview?monologue_id=635', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('L01hDYl3yOFA3gH4v/sPAfqt+YcBOHFYUKnGEySCoxE=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          We'll set thee to school to an ant, to teach thee there's no 
+labouring i' th' winter. All that follow their noses are led by
+their eyes but blind men, and there's not a nose among twenty
+but can smell him that's stinking. Let go thy hold when a great
+wheel runs down a hill, lest it break thy neck with following
+it; but the great one that goes upward, let him draw thee after.
+When a wise man gives thee better counsel, give me mine again. I
+would have none but knaves follow it, since a fool gives it.<br>
+That sir which serves and seeks for gain,<br>
+And follows but for form,<br>
+Will pack when it begins to rain <br>
+And leave thee in the storm.<br>
+But I will tarry; the fool will stay,<br>
+And let the wise man fly.<br>
+The knave turns fool that runs away;<br>
+The fool no knave, perdy. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=kinglear&Act=2&Scene=4&Scope=scene&LineHighlight=1345#1339' target='_blank'>II iv 68</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/kl-2-4-68-fool.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Lear</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/32">King Lear</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_636'>
+  
+    <span id="preview_mono_636">
+      O, reason not the need!  Our basest beggars<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_636', '/monologues/preview?monologue_id=636', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('L01hDYl3yOFA3gH4v/sPAfqt+YcBOHFYUKnGEySCoxE=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          O, reason not the need! Our basest beggars <br>
+Are in the poorest thing superfluous.<br>
+Allow not nature more than nature needs,<br>
+Man's life is cheap as beast's. Thou art a lady:<br>
+If only to go warm were gorgeous,<br>
+Why, nature needs not what thou gorgeous wear'st <br>
+Which scarcely keeps thee warm. But, for true need-<br>
+You heavens, give me that patience, patience I need!<br>
+You see me here, you gods, a poor old man,<br>
+As full of grief as age; wretched in both.<br>
+If it be you that stirs these daughters' hearts <br>
+Against their father, fool me not so much<br>
+To bear it tamely; touch me with noble anger,<br>
+And let not women's weapons, water drops,<br>
+Stain my man's cheeks! No, you unnatural hags!<br>
+I will have such revenges on you both <br>
+That all the world shall- I will do such things-<br>
+What they are yet, I know not; but they shall be<br>
+The terrors of the earth! You think I'll weep.<br>
+No, I'll not weep.<br>
+I have full cause of weeping, but this heart <br>
+Shall break into a hundred thousand flaws<br>
+Or ere I'll weep. O fool, I shall go mad! 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=kinglear&Act=2&Scene=4&Scope=scene&LineHighlight=1565#1560' target='_blank'>II iv 274</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/kl-2-4-264-kinglear.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Lear</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/32">King Lear</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_637'>
+  
+    <span id="preview_mono_637">
+      Blow, winds, and crack your cheeks! rage! blow!<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_637', '/monologues/preview?monologue_id=637', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('L01hDYl3yOFA3gH4v/sPAfqt+YcBOHFYUKnGEySCoxE=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Lear.</b> Blow, winds, and crack your cheeks! rage! blow!<br>
+ You cataracts and hurricanoes, spout<br>
+ Till you have drench'd our steeples, drown'd the cocks! <br>
+ You sulph'rous and thought-executing fires,<br>
+ Vaunt-couriers to oak-cleaving thunderbolts,<br>
+ Singe my white head! And thou, all-shaking thunder,<br>
+ Strike flat the thick rotundity o' th' world,<br>
+ Crack Nature's moulds, all germains spill at once, <br>
+ That makes ingrateful man! <br>
+<br>
+<del><b>Fool.</b> O nuncle, court holy water in a dry house is better than this<br>
+ rain water out o' door. Good nuncle, in, and ask thy daughters<br>
+ blessing! Here's a night pities nether wise men nor fools. </del><br>
+<br>
+<b>Lear.</b> Rumble thy bellyful! Spit, fire! spout, rain!<br>
+ Nor rain, wind, thunder, fire are my daughters.<br>
+ I tax not you, you elements, with unkindness.<br>
+ I never gave you kingdom, call'd you children,<br>
+ You owe me no subscription. Then let fall<br>
+ Your horrible pleasure. Here I stand your slave, <br>
+ A poor, infirm, weak, and despis'd old man.<br>
+ But yet I call you servile ministers,<br>
+ That will with two pernicious daughters join<br>
+ Your high-engender'd battles 'gainst a head<br>
+ So old and white as this! O! O! 'tis foul! 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=kinglear&Act=3&Scene=2&Scope=scene&LineHighlight=1678' target='_blank'>III ii 1</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/kl-3-2-1-kinglear.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Edgar</div>
+  <div class='monologue_detail'>
+  Prose  <br/>
+  <a href="/plays/32">King Lear</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_638'>
+  
+    <span id="preview_mono_638">
+      A servingman, proud in heart and mind<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_638', '/monologues/preview?monologue_id=638', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('L01hDYl3yOFA3gH4v/sPAfqt+YcBOHFYUKnGEySCoxE=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          vingman, proud in heart and mind; that curl'd my hair,
+wore gloves in my cap; serv'd the lust of my mistress' heart and
+did the act of darkness with her; swore as many oaths as I spake
+words, and broke them in the sweet face of heaven; one that
+slept in the contriving of lust, and wak'd to do it. Wine lov'd 
+I deeply, dice dearly; and in woman out-paramour'd the Turk.
+False of heart, light of ear, bloody of hand; hog in sloth, fox
+in stealth, wolf in greediness, dog in madness, lion in prey.
+Let not the creaking of shoes nor the rustling of silks betray
+thy poor heart to woman. Keep thy foot out of brothel, thy hand 
+out of placket, thy pen from lender's book, and defy the foul
+fiend. Still through the hawthorn blows the cold wind; says
+suum, mun, hey, no, nonny. Dolphin my boy, my boy, sessa! let
+him trot by. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=kinglear&Act=3&Scene=4&Scope=scene&LineHighlight=1881#1875' target='_blank'>III iv 73</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/kl-3-4-73-edgar.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Edgar</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/32">King Lear</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_639'>
+  
+    <span id="preview_mono_639">
+      By nursing them, my lord. List a brief tale<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_639', '/monologues/preview?monologue_id=639', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('L01hDYl3yOFA3gH4v/sPAfqt+YcBOHFYUKnGEySCoxE=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          By nursing them, my lord. List a brief tale; <br>
+And when 'tis told, O that my heart would burst!<br>
+The bloody proclamation to escape<br>
+That follow'd me so near (O, our lives' sweetness!<br>
+That with the pain of death would hourly die<br>
+Rather than die at once!) taught me to shift <br>
+Into a madman's rags, t' assume a semblance<br>
+That very dogs disdain'd; and in this habit<br>
+Met I my father with his bleeding rings,<br>
+Their precious stones new lost; became his guide,<br>
+Led him, begg'd for him, sav'd him from despair;<br>
+Never (O fault!) reveal'd myself unto him<br>
+Until some half hour past, when I was arm'd,<br>
+Not sure, though hoping of this good success,<br>
+I ask'd his blessing, and from first to last<br>
+Told him my pilgrimage. But his flaw'd heart <br>
+(Alack, too weak the conflict to support!)<br>
+'Twixt two extremes of passion, joy and grief,<br>
+Burst smilingly. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=kinglear&Act=5&Scene=3&Scope=scene&LineHighlight=3340#3333' target='_blank'>V iii 210</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/kl-5-3-210-edgar.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+</table></div>
+
+
+  
+
+
+
+
+    </div>
+:@_rails_html_safeF

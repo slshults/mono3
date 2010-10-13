@@ -1,0 +1,46 @@
+"x
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_94">
+      What, my young master? O, my gentle master!<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_94', '/monologues/preview?monologue_id=94', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('F0S7Ulr+rSbO0FmcMG7rBxyPNZOfsFtUX+09v86pmtg=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          [Adam]	What! my young master? O my gentle master!<br>
+O my sweet master! O you memory <br>
+Of old Sir Rowland! why, what make you here?<br> 
+Why are you virtuous? Why do people love you? <br>
+And wherefore are you gentle, strong, and valiant? <br>
+Why would you be so fond to overcome <br>
+The bony priser of the humorous duke? <br>
+Your praise is come too swiftly home before you.<br> 
+Know you not, master, to some kind of men <br>
+Their graces serve them but as enemies? <br>
+No more do yours: your virtues, gentle master,<br> 
+Are sanctified and holy traitors to you. <br>
+O, what a world is this, when what is comely <br>
+Envenoms him that bears it! <br>
+<font size='-1' style='text-decoration: line-through;'>
+[Orl.]  Why, what's the matter? <br></font>
+[Adam]        O unhappy youth!	<br> 
+Come not within these doors; within this roof <br>
+The enemy of all your graces lives.  <br>
+Your brother,'no, no brother; yet the son,.<br> 
+Yet not the son, I will not call him son <br>
+Of him I was about to call his father,.<br>
+Hath heard your praises, and this night he means<br> 
+To burn the lodging where you use to lie, <br>
+And you within it: if he fail of that, <br>
+He will have other means to cut you off. <br>
+I overheard him and his practices. <br>
+This is no place; this house is but a butchery:<br> 
+Abhor it, fear it, do not enter it.
+
+      </div>
+    </span>
+
+  
+

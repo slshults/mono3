@@ -1,0 +1,11 @@
+"³
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_267">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_267', '/monologues/preview/267', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('SWrm12q98qcqqWOfCDvRVkpsMwWeEiEPs6BsRJzpqSo=')}); return false;">Hold thy desperate hand:
+Art thou a man? thy form cries out thou art:</a>
+    </span>
+  
+

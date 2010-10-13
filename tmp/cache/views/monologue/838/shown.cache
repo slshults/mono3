@@ -1,0 +1,10 @@
+"©
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_838">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_838', '/monologues/preview/838', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('RAn4Q9OXsZGFhF0QOrrtsNqZ0kJo4TFfYqsFExAyNzE=')}); return false;">My gracious lord,  I may be negligent, foolish, and fearful</a>
+    </span>
+  
+

@@ -1,0 +1,41 @@
+"
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_619">
+      It must be by his death; and for my part<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_619', '/monologues/preview?monologue_id=619', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('AxF5X5sHSH8QgOt9XQipcmCvffYTGrKlQQqLiQKwfpk=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          It must be by his death: and for my part,<br>
+I know no personal cause to spurn at him,<br>
+But for the general. He would be crown'd:<br>
+How that might change his nature, there's the question.<br>
+It is the bright day that brings forth the adder; <br>
+And that craves wary walking. Crown him?—that;—<br>
+And then, I grant, we put a sting in him,<br>
+That at his will he may do danger with.<br>
+The abuse of greatness is, when it disjoins<br>
+Remorse from power: and, to speak truth of Caesar, <br>
+I have not known when his affections sway'd<br>
+More than his reason. But 'tis a common proof,<br>
+That lowliness is young ambition's ladder,<br>
+Whereto the climber-upward turns his face;<br>
+But when he once attains the upmost round. <br>
+He then unto the ladder turns his back,<br>
+Looks in the clouds, scorning the base degrees<br>
+By which he did ascend. So Caesar may.<br>
+Then, lest he may, prevent. And, since the quarrel<br>
+Will bear no colour for the thing he is, <br>
+Fashion it thus; that what he is, augmented,<br>
+Would run to these and these extremities:<br>
+And therefore think him as a serpent's egg<br>
+Which, hatch'd, would, as his kind, grow mischievous,<br>
+And kill him in the shell. 
+      </div>
+    </span>
+
+  
+

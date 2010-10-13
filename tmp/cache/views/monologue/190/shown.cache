@@ -1,0 +1,13 @@
+"ž
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_190">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_190', '/monologues/preview/190', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('XepXdRF0+B2Q904t5astrG8Pc6zNNiVGQpajlQW/Ecw=')}); return false;">
+The more my wrong, the more his spite appears
+
+</a>
+    </span>
+  
+

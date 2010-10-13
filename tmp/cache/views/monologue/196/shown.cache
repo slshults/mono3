@@ -1,0 +1,10 @@
+"–
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_196">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_196', '/monologues/preview/196', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('ZEXrUTTCZeCx8BP2ozSbeSbpwBGfBUSlGgAwNL2pZEo=')}); return false;">Pardon me, sir, the boldness is mine own</a>
+    </span>
+  
+

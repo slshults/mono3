@@ -1,0 +1,49 @@
+"v
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_604">
+      This last old man, Whom with a crack'd heart I have sent to Rome,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_604', '/monologues/preview?monologue_id=604', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('3PH5wjJpZb5kihPy4WwCaUuI5jI5j4prw3+wrNK57UA=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <div align="right">This last old man,</div>
+Whom with a crack'd heart I have sent to Rome, <br>
+Loved me above the measure of a father;<br>
+Nay, godded me, indeed. Their latest refuge<br>
+Was to send him; for whose old love I have,<br>
+Though I show'd sourly to him, once more offer'd<br>
+The first conditions, which they did refuse <br>
+And cannot now accept; to grace him only<br>
+That thought he could do more, a very little<br>
+I have yielded to: fresh embassies and suits,<br>
+Nor from the state nor private friends, hereafter<br>
+Will I lend ear to. Ha! what shout is this? <br>
+<i>[Shout within]</i><br>
+Shall I be tempted to infringe my vow<br>
+In the same time 'tis made? I will not.<br>
+<i>[Enter in mourning habits, VIRGILIA, VOLUMNIA,]<br>
+leading young CORIOLANUS, VALERIA, and Attendants]</i><br>
+My wife comes foremost; then the honour'd mould<br>
+Wherein this trunk was framed, and in her hand<br>
+The grandchild to her blood. But, out, affection!<br>
+All bond and privilege of nature, break!<br>
+Let it be virtuous to be obstinate. <br>
+What is that curt'sy worth? or those doves' eyes,<br>
+Which can make gods forsworn? I melt, and am not<br>
+Of stronger earth than others. My mother bows;<br>
+As if Olympus to a molehill should<br>
+In supplication nod: and my young boy <br>
+Hath an aspect of intercession, which<br>
+Great nature cries 'Deny not.' let the Volsces<br>
+Plough Rome and harrow Italy: I'll never<br>
+Be such a gosling to obey instinct, but stand,<br>
+As if a man were author of himself <br>
+And knew no other kin. 
+      </div>
+    </span>
+
+  
+

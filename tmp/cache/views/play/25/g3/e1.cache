@@ -1,0 +1,545 @@
+I"ÄN  
+    <div>
+      <h2>Men's Monologues in Shakespeare</h2>
+      <h2>Henry VIII</h2>
+      <span>
+        <form action="javascript:void(0);" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="LP2RGdINq1MPM2WDmmyxJ8yvkBlCbI+nrrilpUmi9oI=" /></div>
+          <b>Search:</b> <input type="text" id="search" size="40"/>
+          <img alt="Ajax-loader" id="spinner" src="/images/ajax-loader.gif?1278779332" style="display: none;" />
+        </form>
+        <div class="search_links">
+          <a href="/plays/25?g=2">Search Women</a> &nbsp;|&nbsp;
+          <a href="/plays/25">Search Henry VIII</a> &nbsp;|&nbsp;
+          <a href="/plays">Search All Plays</a> &nbsp;|&nbsp;
+          
+            <a href="/plays/25?g=3">Collapse All</a>
+          
+        </div>
+      </span>
+    </div>
+    <script type="text/javascript">
+//<![CDATA[
+new Form.Element.Observer('search', 1.25, function(element, value) {Element.show('spinner'); new Ajax.Updater('ajaxResults', 'http://www.shakespeare-monologues.org/monologues/search', {asynchronous:true, evalScripts:true, onComplete:function(request){Element.hide('spinner')}, parameters:'g=3&p=25&search=' + encodeURIComponent(value) + '&authenticity_token=' + encodeURIComponent('LP2RGdINq1MPM2WDmmyxJ8yvkBlCbI+nrrilpUmi9oI=')})})
+//]]>
+</script>
+  
+    <div id='ajaxResults'>
+      
+
+  
+
+      
+<div>
+  <table id='monologue_list'>
+    <tr>
+      <th>Character</th>
+      <th>First Line</th>
+      <th>Act & Sc</th>
+      <th>pdf</th>
+    </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Prologue</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/25">Henry VIII</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_513'>
+  
+    <span id="preview_mono_513">
+      I come no more to make you laugh: things now<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_513', '/monologues/preview?monologue_id=513', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('LP2RGdINq1MPM2WDmmyxJ8yvkBlCbI+nrrilpUmi9oI=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.bartleby.com/70/3402.html' target='_blank'>prologue</a>  </td>
+  <td  class='monologue_pdflink'>
+  <img title='pdf' alt='pdf' valign='middle' src='/images/print_x.gif' border='0' />  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Norfolk</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/25">Henry VIII</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_514'>
+  
+    <span id="preview_mono_514">
+      Then you lost
+The view of earthly glory: men might say<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_514', '/monologues/preview?monologue_id=514', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('LP2RGdINq1MPM2WDmmyxJ8yvkBlCbI+nrrilpUmi9oI=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.bartleby.com/70/3411.html#18' target='_blank'>I i 20</a>  </td>
+  <td  class='monologue_pdflink'>
+  <img title='pdf' alt='pdf' valign='middle' src='/images/print_x.gif' border='0' />  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Buckingham</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/25">Henry VIII</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_515'>
+  
+    <span id="preview_mono_515">
+      Pray give me favour, sir. This cunning cardinal<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_515', '/monologues/preview?monologue_id=515', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('LP2RGdINq1MPM2WDmmyxJ8yvkBlCbI+nrrilpUmi9oI=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.bartleby.com/70/3411.html#196' target='_blank'>I i 201</a>  </td>
+  <td  class='monologue_pdflink'>
+  <img title='pdf' alt='pdf' valign='middle' src='/images/print_x.gif' border='0' />  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Wolsey</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/25">Henry VIII</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_516'>
+  
+    <span id="preview_mono_516">
+      And for me, 
+I have no further gone in this than by<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_516', '/monologues/preview?monologue_id=516', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('LP2RGdINq1MPM2WDmmyxJ8yvkBlCbI+nrrilpUmi9oI=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.bartleby.com/70/3412.html#79' target='_blank'>I ii 81</a>  </td>
+  <td  class='monologue_pdflink'>
+  <img title='pdf' alt='pdf' valign='middle' src='/images/print_x.gif' border='0' />  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>King Henry</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/25">Henry VIII</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_517'>
+  
+    <span id="preview_mono_517">
+      It grieves many: 
+The gentleman is learn'd, and a most rare speaker,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_517', '/monologues/preview?monologue_id=517', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('LP2RGdINq1MPM2WDmmyxJ8yvkBlCbI+nrrilpUmi9oI=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.bartleby.com/70/3412.html#124' target='_blank'>I ii 127</a>  </td>
+  <td  class='monologue_pdflink'>
+  <img title='pdf' alt='pdf' valign='middle' src='/images/print_x.gif' border='0' />  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Surveyorintercut</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/25">Henry VIII</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_518'>
+  
+    <span id="preview_mono_518">
+      Not long before your highness sped to France<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_518', '/monologues/preview?monologue_id=518', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('LP2RGdINq1MPM2WDmmyxJ8yvkBlCbI+nrrilpUmi9oI=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.bartleby.com/70/3412.html#171' target='_blank'>I ii 175</a>  </td>
+  <td  class='monologue_pdflink'>
+  <img title='pdf' alt='pdf' valign='middle' src='/images/print_x.gif' border='0' />  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Buckingham</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/25">Henry VIII</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_519'>
+  
+    <span id="preview_mono_519">
+      All good peopleYou that thus far have come to pity me<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_519', '/monologues/preview?monologue_id=519', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('LP2RGdINq1MPM2WDmmyxJ8yvkBlCbI+nrrilpUmi9oI=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.bartleby.com/70/3421.html#72' target='_blank'>II i 74</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h8-2-1-55-buckingham.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Buckingham</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/25">Henry VIII</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_520'>
+  
+    <span id="preview_mono_520">
+      When I came hither, I was Lord High Constable,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_520', '/monologues/preview?monologue_id=520', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('LP2RGdINq1MPM2WDmmyxJ8yvkBlCbI+nrrilpUmi9oI=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.bartleby.com/70/3421.html#117' target='_blank'>II i 123</a>  </td>
+  <td  class='monologue_pdflink'>
+  <img title='pdf' alt='pdf' valign='middle' src='/images/print_x.gif' border='0' />  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Wolsey</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/25">Henry VIII</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_521'>
+  
+    <span id="preview_mono_521">
+      I do profess 
+You speak not like yourself; who ever yet<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_521', '/monologues/preview?monologue_id=521', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('LP2RGdINq1MPM2WDmmyxJ8yvkBlCbI+nrrilpUmi9oI=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.bartleby.com/70/3424.html#90' target='_blank'>II iv 93</a>  </td>
+  <td  class='monologue_pdflink'>
+  <img title='pdf' alt='pdf' valign='middle' src='/images/print_x.gif' border='0' />  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>King Henry</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/25">Henry VIII</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_522'>
+  
+    <span id="preview_mono_522">
+      My Lord Cardinal, 
+I do excuse you; yea, upon mine honour,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_522', '/monologues/preview?monologue_id=522', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('LP2RGdINq1MPM2WDmmyxJ8yvkBlCbI+nrrilpUmi9oI=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.bartleby.com/70/3424.html#167' target='_blank'>II iv 167</a>  </td>
+  <td  class='monologue_pdflink'>
+  <img title='pdf' alt='pdf' valign='middle' src='/images/print_x.gif' border='0' />  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Wolsey</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/25">Henry VIII</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_523'>
+  
+    <span id="preview_mono_523">
+      What should this mean? 
+What sudden anger's this? how have I reap'd it?<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_523', '/monologues/preview?monologue_id=523', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('LP2RGdINq1MPM2WDmmyxJ8yvkBlCbI+nrrilpUmi9oI=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.bartleby.com/70/3432.html#254' target='_blank'>III ii 255</a>  </td>
+  <td  class='monologue_pdflink'>
+  <img title='pdf' alt='pdf' valign='middle' src='/images/print_x.gif' border='0' />  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Wolsey</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/25">Henry VIII</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_524'>
+  
+    <span id="preview_mono_524">
+      So farewell; to the little good you bear me<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_524', '/monologues/preview?monologue_id=524', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('LP2RGdINq1MPM2WDmmyxJ8yvkBlCbI+nrrilpUmi9oI=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.bartleby.com/70/3432.html#416' target='_blank'>III ii 418</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h8-3-2-351-cardinalwolsey.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Wolsey</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/25">Henry VIII</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_525'>
+  
+    <span id="preview_mono_525">
+      Cromwell, I did not think to shed a tear<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_525', '/monologues/preview?monologue_id=525', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('LP2RGdINq1MPM2WDmmyxJ8yvkBlCbI+nrrilpUmi9oI=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.bartleby.com/70/3432.html#505' target='_blank'>III ii 507</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/h8-3-2-429-cardinalwolsey.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>3rd Generalintercut</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/25">Henry VIII</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_526'>
+  
+    <span id="preview_mono_526">
+      As well as I am able. The rich stream<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_526', '/monologues/preview?monologue_id=526', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('LP2RGdINq1MPM2WDmmyxJ8yvkBlCbI+nrrilpUmi9oI=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.bartleby.com/70/3441.html#81' target='_blank'>IV i 84</a>  </td>
+  <td  class='monologue_pdflink'>
+  <img title='pdf' alt='pdf' valign='middle' src='/images/print_x.gif' border='0' />  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Griffith</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/25">Henry VIII</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_527'>
+  
+    <span id="preview_mono_527">
+      This cardinal, 
+Though from a humble stock, undoubtedly<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_527', '/monologues/preview?monologue_id=527', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('LP2RGdINq1MPM2WDmmyxJ8yvkBlCbI+nrrilpUmi9oI=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.bartleby.com/70/3442.html#54' target='_blank'>IV ii 57</a>  </td>
+  <td  class='monologue_pdflink'>
+  <img title='pdf' alt='pdf' valign='middle' src='/images/print_x.gif' border='0' />  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>King Henryintercut</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/25">Henry VIII</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_528'>
+  
+    <span id="preview_mono_528">
+      Know you not
+How your state stands i' the world,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_528', '/monologues/preview?monologue_id=528', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('LP2RGdINq1MPM2WDmmyxJ8yvkBlCbI+nrrilpUmi9oI=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.bartleby.com/70/3451.html#154' target='_blank'>IV ii 156</a>  </td>
+  <td  class='monologue_pdflink'>
+  <img title='pdf' alt='pdf' valign='middle' src='/images/print_x.gif' border='0' />  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Porter's Man</div>
+  <div class='monologue_detail'>
+  Prose  <br/>
+  <a href="/plays/25">Henry VIII</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_529'>
+  
+    <span id="preview_mono_529">
+      The spoons will be the bigger, sir.<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_529', '/monologues/preview?monologue_id=529', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('LP2RGdINq1MPM2WDmmyxJ8yvkBlCbI+nrrilpUmi9oI=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.bartleby.com/70/3454.html#28' target='_blank'>IV iv 28</a>  </td>
+  <td  class='monologue_pdflink'>
+  <img title='pdf' alt='pdf' valign='middle' src='/images/print_x.gif' border='0' />  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Cranmerintercut</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/25">Henry VIII</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_530'>
+  
+    <span id="preview_mono_530">
+      Let me speak, sir,
+For heaven now bids me; and the words I utter<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_530', '/monologues/preview?monologue_id=530', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('LP2RGdINq1MPM2WDmmyxJ8yvkBlCbI+nrrilpUmi9oI=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.bartleby.com/70/3455.html#17' target='_blank'>V v 20</a>  </td>
+  <td  class='monologue_pdflink'>
+  <img title='pdf' alt='pdf' valign='middle' src='/images/print_x.gif' border='0' />  </td>
+  </tr>
+
+</table></div>
+
+
+  
+
+
+
+
+    </div>
+:@_rails_html_safeF

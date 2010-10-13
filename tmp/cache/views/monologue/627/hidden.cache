@@ -1,0 +1,36 @@
+"�
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_627">
+      But yesterday the word of Caesar might<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_627', '/monologues/preview?monologue_id=627', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('mytjE3Vj8iHLDbiX5lXHOlVZYc3o+OEomJpFAgt2aj0=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+           But yesterday the word of Caesar might<br>
+Have stood against the world; now lies he there.<br>
+And none so poor to do him reverence. <br>
+O masters, if I were disposed to stir<br>
+Your hearts and minds to mutiny and rage,<br>
+I should do Brutus wrong, and Cassius wrong,<br>
+Who, you all know, are honourable men:<br>
+I will not do them wrong; I rather choose <br>
+To wrong the dead, to wrong myself and you,<br>
+Than I will wrong such honourable men.<br>
+But here's a parchment with the seal of Caesar;<br>
+I found it in his closet, 'tis his will:<br>
+Let but the commons hear this testament— <br>
+Which, pardon me, I do not mean to read—<br>
+And they would go and kiss dead Caesar's wounds<br>
+And dip their napkins in his sacred blood,<br>
+Yea, beg a hair of him for memory,<br>
+And, dying, mention it within their wills,<br>
+Bequeathing it as a rich legacy<br>
+Unto their issue. 
+      </div>
+    </span>
+
+  
+

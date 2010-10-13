@@ -1,0 +1,60 @@
+"c
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_23">
+      Speak the speech, I pray you<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_23', '/monologues/preview?monologue_id=23', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('b6wvh7Cs2EIq/IUtc0dg9h5x9PXpQI7s7/aj0ku1dfw=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Hamlet.</b> Speak the speech, I pray you, as I pronounc'd it to you,
+      trippingly on the tongue. But if you mouth it, as many of our
+      players do, I had as live the town crier spoke my lines. Nor do 
+      not saw the air too much with your hand, thus, but use all
+      gently; for in the very torrent, tempest, and (as I may say)
+      whirlwind of your passion, you must acquire and beget a
+      temperance that may give it smoothness. O, it offends me to the
+      soul to hear a robustious periwig-pated fellow tear a passion to
+      tatters, to very rags, to split the cars of the groundlings, who
+      (for the most part) are capable of nothing but inexplicable dumb
+      shows and noise. I would have such a fellow whipp'd for o'erdoing
+      Termagant. It out-herods Herod. Pray you avoid it. <br><br>
+
+ <del><b> First Player.</b> I warrant your honour. </del><br><br>
+
+<b> Hamlet.</b> Be not too tame neither; but let your own discretion be your
+      tutor. Suit the action to the word, the word to the action; with
+      this special observance, that you o'erstep not the modesty of
+      nature: for anything so overdone is from the purpose of playing,
+      whose end, both at the first and now, was and is, to hold, as
+      'twere, the mirror up to nature; to show Virtue her own feature,
+      scorn her own image, and the very age and body of the time his
+      form and pressure. Now this overdone, or come tardy off, though
+      it make the unskilful laugh, cannot but make the judicious
+      grieve; the censure of the which one must in your allowance 
+      o'erweigh a whole theatre of others. O, there be players that I
+      have seen play, and heard others praise, and that highly (not to
+      speak it profanely), that, neither having the accent of
+      Christians, nor the gait of Christian, pagan, nor man, have so
+      strutted and bellowed that I have thought some of Nature's 
+      journeymen had made men, and not made them well, they imitated
+      humanity so abominably. <br><br>
+
+<del><b> First Player.</b> I hope we have reform'd that indifferently with us, sir. </del><br><br>
+
+<b>Hamlet.</b> O, reform it altogether! And let those that play your clowns
+      speak no more than is set down for them. For there be of them 
+      that will themselves laugh, to set on some quantity of barren
+      spectators to laugh too, though in the mean time some necessary
+      question of the play be then to be considered. That's villanous
+      and shows a most pitiful ambition in the fool that uses it. Go
+      make you ready. <br><br>
+      [<i>Exeunt Players</i>.] 
+
+      </div>
+    </span>
+
+  
+

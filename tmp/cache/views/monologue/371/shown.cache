@@ -1,0 +1,10 @@
+"–
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_371">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_371', '/monologues/preview/371', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('30Z0DKndR+oWNBSnZQdqwtVkQYTQBDSrXKz0Xi2Owf8=')}); return false;">Troy, yet upon his basis, had been down,</a>
+    </span>
+  
+

@@ -1,0 +1,10 @@
+"ž
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_655">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_655', '/monologues/preview/655', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('YJaW4rQ0mVM2tl4QzF3v8/70wlYQ+SIUdccxGuuJxMI=')}); return false;">And what's he then that says I play the villian?</a>
+    </span>
+  
+

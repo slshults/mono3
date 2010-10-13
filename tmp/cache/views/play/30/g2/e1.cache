@@ -1,0 +1,273 @@
+I"�/  
+    <div>
+      <h2>Women's Monologues in Shakespeare</h2>
+      <h2>Coriolanus</h2>
+      <span>
+        <form action="javascript:void(0);" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="tWuXSdZZDM5SKG6C9Vcs7GsWAc1CMH43qSpVK8R/bfk=" /></div>
+          <b>Search:</b> <input type="text" id="search" size="40"/>
+          <img alt="Ajax-loader" id="spinner" src="/images/ajax-loader.gif?1278779332" style="display: none;" />
+        </form>
+        <div class="search_links">
+          <a href="/plays/30?g=3">Search Men</a> &nbsp;|&nbsp;
+          <a href="/plays/30">Search Coriolanus</a> &nbsp;|&nbsp;
+          <a href="/plays">Search All Plays</a> &nbsp;|&nbsp;
+          
+            <a href="/plays/30?g=2">Collapse All</a>
+          
+        </div>
+      </span>
+    </div>
+    <script type="text/javascript">
+//<![CDATA[
+new Form.Element.Observer('search', 1.25, function(element, value) {Element.show('spinner'); new Ajax.Updater('ajaxResults', 'http://www.shakespeare-monologues.org/monologues/search', {asynchronous:true, evalScripts:true, onComplete:function(request){Element.hide('spinner')}, parameters:'g=2&p=30&search=' + encodeURIComponent(value) + '&authenticity_token=' + encodeURIComponent('tWuXSdZZDM5SKG6C9Vcs7GsWAc1CMH43qSpVK8R/bfk=')})})
+//]]>
+</script>
+  
+    <div id='ajaxResults'>
+      
+
+  
+
+      
+<div>
+  <table id='monologue_list'>
+    <tr>
+      <th>Character</th>
+      <th>First Line</th>
+      <th>Act & Sc</th>
+      <th>pdf</th>
+    </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Volumnia</div>
+  <div class='monologue_detail'>
+  Prose  <br/>
+  <a href="/plays/30">Coriolanus</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_805'>
+  
+    <span id="preview_mono_805">
+      If my son were my husband, I would freelier rejoice<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_805', '/monologues/preview?monologue_id=805', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('tWuXSdZZDM5SKG6C9Vcs7GsWAc1CMH43qSpVK8R/bfk=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          ... if my son were my husband, I
+should freelier rejoice in that absence wherein he
+won honour than in the embracements of his bed where
+he would show most love. When yet he was but
+tender-bodied and the only son of my womb, when
+youth with comeliness plucked all gaze his way, when
+for a day of kings' entreaties a mother should not
+sell him an hour from her beholding, I, considering
+how honour would become such a person. that it was
+no better than picture-like to hang by the wall, if
+renown made it not stir, was pleased to let him seek
+danger where he was like to find fame. To a cruel 
+war I sent him; from whence he returned, his brows
+bound with oak. I tell thee, daughter, I sprang not
+more in joy at first hearing he was a man-child
+than now in first seeing he had proved himself a
+man. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=coriolanus&Act=1&Scene=3&Scope=scene&LineHighlight=363' target='_blank'>I iii 1</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/c-1-3-1-volumnia.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Volumnia</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/30">Coriolanus</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_806'>
+  
+    <span id="preview_mono_806">
+      Because that now it lies you on to speak<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_806', '/monologues/preview?monologue_id=806', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('tWuXSdZZDM5SKG6C9Vcs7GsWAc1CMH43qSpVK8R/bfk=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+           Because that now it lies you on to speak<br>
+To the people; not by your own instruction,<br>
+Nor by the matter which your heart prompts you,<br>
+But with such words that are but rooted in<br>
+Your tongue, though but bastards and syllables<br>
+Of no allowance to your bosom's truth.<br>
+Now, this no more dishonours you at all<br>
+Than to take in a town with gentle words,<br>
+Which else would put you to your fortune and<br>
+The hazard of much blood. <br>
+I would dissemble with my nature where<br>
+My fortunes and my friends at stake required<br>
+I should do so in honour: I am in this,<br>
+Your wife, your son, these senators, the nobles;<br>
+And you will rather show our general louts <br>
+How you can frown than spend a fawn upon 'em,<br>
+For the inheritance of their loves and safeguard<br>
+Of what that want might ruin. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=coriolanus&Act=3&Scene=2&Scope=scene&LineHighlight=2231#2224' target='_blank'>III ii 70</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/c-3-2-52-volumnia.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Volumnia</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/30">Coriolanus</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_807'>
+  
+    <span id="preview_mono_807">
+      Should we be silent and not speak<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_807', '/monologues/preview?monologue_id=807', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('tWuXSdZZDM5SKG6C9Vcs7GsWAc1CMH43qSpVK8R/bfk=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Should we be silent and not speak, our raiment<br>
+And state of bodies would bewray what life <br>
+We have led since thy exile. Think with thyself<br>
+How more unfortunate than all living women<br>
+Are we come hither: since that thy sight, which should<br>
+Make our eyes flow with joy, hearts dance with comforts,<br>
+Constrains them weep and shake with fear and sorrow;<br>
+Making the mother, wife and child to see<br>
+The son, the husband and the father tearing<br>
+His country's bowels out. And to poor we <br>
+Thine enmity's most capital: thou barr'st us<br>
+Our prayers to the gods, which is a comfort<br>
+That all but we enjoy; for how can we,<br>
+Alas, how can we for our country pray.<br>
+Whereto we are bound, together with thy victory, <br>
+Whereto we are bound? alack, or we must lose<br>
+The country, our dear nurse, or else thy person,<br>
+Our comfort in the country. We must find<br>
+An evident calamity, though we had<br>
+Our wish, which side should win: for either thou <br>
+Must, as a foreign recreant, be led<br>
+With manacles thorough our streets, or else<br>
+triumphantly tread on thy country's ruin,<br>
+And bear the palm for having bravely shed<br>
+Thy wife and children's blood. For myself, son, <br>
+I purpose not to wait on fortune till<br>
+These wars determine: if I cannot persuade thee<br>
+Rather to show a noble grace to both parts<br>
+Than seek the end of one, thou shalt no sooner<br>
+March to assault thy country than to tread— <br>
+Trust to't, thou shalt not—on thy mother's womb,<br>
+That brought thee to this world. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=coriolanus&Act=5&Scene=3&Scope=scene&LineHighlight=3599#3591' target='_blank'>V iii 108</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/c-5-3-94-volumnia.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Volumnia</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/30">Coriolanus</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_808'>
+  
+    <span id="preview_mono_808">
+      Nay, go not from us thus<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_808', '/monologues/preview?monologue_id=808', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('tWuXSdZZDM5SKG6C9Vcs7GsWAc1CMH43qSpVK8R/bfk=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Nay, go not from us thus.<br>
+If it were so that our request did tend<br>
+To save the Romans, thereby to destroy<br>
+The Volsces whom you serve, you might condemn us,<br>
+As poisonous of your honour: no; our suit<br>
+Is that you reconcile them: while the Volsces<br>
+May say 'This mercy we have show'd;' the Romans,<br>
+'This we received;' and each in either side<br>
+Give the all-hail to thee and cry 'Be blest <br>
+For making up this peace!' Thou know'st, great son,<br>
+The end of war's uncertain, but this certain,<br>
+That, if thou conquer Rome, the benefit<br>
+Which thou shalt thereby reap is such a name,<br>
+Whose repetition will be dogg'd with curses;<br>
+Whose chronicle thus writ: 'The man was noble,<br>
+But with his last attempt he wiped it out;<br>
+Destroy'd his country, and his name remains<br>
+To the ensuing age abhorr'd.' Speak to me, son:<br>
+Thou hast affected the fine strains of honour,<br>
+To imitate the graces of the gods;<br>
+To tear with thunder the wide cheeks o' the air,<br>
+And yet to charge thy sulphur with a bolt<br>
+That should but rive an oak. Why dost not speak?<br>
+Think'st thou it honourable for a noble man<br>
+Still to remember wrongs? Daughter, speak you:<br>
+He cares not for your weeping. Speak thou, boy:<br>
+Perhaps thy childishness will move him more<br>
+Than can our reasons. There's no man in the world<br>
+More bound to 's mother; yet here he lets me prate<br>
+Like one i' the stocks. Thou hast never in thy life<br>
+Show'd thy dear mother any courtesy,<br>
+When she, poor hen, fond of no second brood,<br>
+Has cluck'd thee to the wars and safely home,<br>
+Loaden with honour. Say my request's unjust,<br>
+And spurn me back: but if it be not so,<br>
+Thou art not honest; and the gods will plague thee,<br>
+That thou restrain'st from me the duty which<br>
+To a mother's part belongs. He turns away:<br>
+Down, ladies; let us shame him with our knees.<br>
+To his surname Coriolanus 'longs more pride<br>
+Than pity to our prayers. Down: an end;<br>
+This is the last: so we will home to Rome,<br>
+And die among our neighbours. Nay, behold 's:<br>
+This boy, that cannot tell what he would have<br>
+But kneels and holds up bands for fellowship,<br>
+Does reason our petition with more strength<br>
+Than thou hast to deny 't. Come, let us go:<br>
+This fellow had a Volscian to his mother;<br>
+His wife is in Corioli and his child<br>
+Like him by chance. Yet give us our dispatch:<br>
+I am hush'd until our city be a-fire,<br>
+And then I'll speak a little. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=coriolanus&Act=5&Scene=3&Scope=scene&LineHighlight=3642#3633' target='_blank'>V iii 148</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/c-5-3-132-volumnia.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+</table></div>
+
+
+  
+
+
+
+
+    </div>
+:@_rails_html_safeF

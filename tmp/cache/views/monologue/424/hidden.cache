@@ -1,0 +1,51 @@
+"–
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_424">
+      Wherefore do I this? so the question stands.<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_424', '/monologues/preview?monologue_id=424', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Xk6z2gHxfITXVdu6+vZ+P4ixbWqPWyKBQ5o6ERd60JQ=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Wherefore do I this? So the question stands.<br>
+Briefly to this end: we are all diseas'd<br>
+And with our surfeiting and wanton hours<br>
+Have brought ourselves into a burning fever,<br>
+And we must bleed for it; of which disease<br>
+Our late King, Richard, being infected, died.<br>
+But, my most noble Lord of Westmoreland,<br>
+I take not on me here as a physician;<br>
+Nor do I as an enemy to peace<br>
+Troop in the throngs of military men;<br>
+But rather show awhile like fearful war<br>
+To diet rank minds sick of happiness,<br>
+And purge th' obstructions which begin to stop<br>
+Our very veins of life. Hear me more plainly.<br>
+I have in equal balance justly weigh'd<br>
+What wrongs our arms may do, what wrongs we suffer,<br>
+And find our griefs heavier than our offences.<br>
+We see which way the stream of time doth run<br>
+And are enforc'd from our most quiet there<br>
+By the rough torrent of occasion;<br>
+And have the summary of all our griefs,<br>
+When time shall serve, to show in articles;<br>
+Which long ere this we offer'd to the King,<br>
+And might by no suit gain our audience:<br>
+When we are wrong'd, and would unfold our griefs,<br>
+We are denied access unto his person,<br>
+Even by those men that most have done us wrong.<br>
+The dangers of the days but newly gone,<br>
+Whose memory is written on the earth<br>
+With yet appearing blood, and the examples<br>
+Of every minute's instance, present now,<br>
+Hath put us in these ill-beseeming arms;<br>
+Not to break peace, or any branch of it,<br>
+But to establish here a peace indeed,<br>
+Concurring both in name and quality. 
+      </div>
+    </span>
+
+  
+

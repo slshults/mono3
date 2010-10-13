@@ -1,0 +1,10 @@
+"™
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_783">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_783', '/monologues/preview/783', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('vpDB1XNrFgjiqeSbMutwYw5M4SY7xNDpLs3JCHuHaYE=')}); return false;">O Ned, sweet Ned! speak to thy mother, boy!</a>
+    </span>
+  
+

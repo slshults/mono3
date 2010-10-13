@@ -1,0 +1,32 @@
+"9
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_367">
+      O Pandarus! I tell thee, Pandarus<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_367', '/monologues/preview?monologue_id=367', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('NbrFBWt28QmJRaUbUKoQVFoszoycvpRnLqKnYfwkHyA=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          O Pandarus! I tell thee, Pandarus,—<br>
+When I do tell thee, there my hopes lie drown'd,<br>
+Reply not in how many fathoms deep <br>
+They lie indrench'd. I tell thee I am mad<br>
+In Cressid's love: thou answer'st 'she is fair;'<br>
+Pour'st in the open ulcer of my heart<br>
+Her eyes, her hair, her cheek, her gait, her voice,<br>
+Handlest in thy discourse, O, that her hand, <br>
+In whose comparison all whites are ink,<br>
+Writing their own reproach, to whose soft seizure<br>
+The cygnet's down is harsh and spirit of sense<br>
+Hard as the palm of ploughman: this thou tell'st me,<br>
+As true thou tell'st me, when I say I love her; <br>
+But, saying thus, instead of oil and balm,<br>
+Thou lay'st in every gash that love hath given me<br>
+The knife that made it. 
+      </div>
+    </span>
+
+  
+

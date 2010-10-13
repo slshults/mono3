@@ -1,0 +1,31 @@
+"ö
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_397">
+      Ay, Proteus, but that life is alter'd now<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_397', '/monologues/preview?monologue_id=397', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('F0S7Ulr+rSbO0FmcMG7rBxyPNZOfsFtUX+09v86pmtg=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Ay, Proteus, but that life is alter'd now:<br>
+I have done penance for contemning Love,<br>
+Whose high imperious thoughts have punish'd me<br>
+With bitter fasts, with penitential groans,<br>
+With nightly tears and daily heart-sore sighs;<br>
+For in revenge of my contempt of love, <br>
+Love hath chased sleep from my enthralled eyes<br>
+And made them watchers of mine own heart's sorrow.<br>
+O gentle Proteus, Love's a mighty lord,<br>
+And hath so humbled me, as, I confess,<br>
+There is no woe to his correction, <br>
+Nor to his service no such joy on earth.<br>
+Now no discourse, except it be of love;<br>
+Now can I break my fast, dine, sup and sleep,<br>
+Upon the very naked name of love. 
+      </div>
+    </span>
+
+  
+

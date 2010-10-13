@@ -1,0 +1,10 @@
+"™
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_507">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_507', '/monologues/preview/507', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('sF+u3rq8+IhN/hiDNbl6Caxo1LRP+71bMtYVu/IH/7Q=')}); return false;">Then, gentle Clarence, welcome unto Warwick</a>
+    </span>
+  
+

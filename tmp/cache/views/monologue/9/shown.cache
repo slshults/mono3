@@ -1,0 +1,10 @@
+"™
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_9">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_9', '/monologues/preview/9', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('SIjL6w7u4uFepEMfAqv3XEwl7SVsaqQh+JB1E3pAe4Y=')}); return false;">'Tis sweet and commendable in your nature Hamlet,</a>
+    </span>
+  
+

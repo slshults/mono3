@@ -1,0 +1,10 @@
+"š
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_678">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_678', '/monologues/preview/678', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('12310QwQgqMSZ/Vq0AXVdFoYHRbKBeqkNhjXlMg1emw=')}); return false;">That nature, being sick of man's unkindness,</a>
+    </span>
+  
+

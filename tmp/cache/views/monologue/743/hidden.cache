@@ -1,0 +1,30 @@
+"«
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_743">
+      Do anything but this thou doest<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_743', '/monologues/preview?monologue_id=743', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('7XPKKdT2I0/XsKx1gZUpJl111pTPAkAR++SwVB3vItM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Do any thing but this thou doest. Empty <br>
+OLD receptacles, or common shores, of filth;<br>
+Serve by indenture to the common hangman:<br>
+Any of these ways are yet better than this;<br>
+For what thou professest, a baboon, could he speak,<br>
+Would own a name too dear. O, that the gods<br>
+Would safely deliver me from this place!<br>
+Here, here's gold for thee.<br>
+If that thy master would gain by thee,<br>
+Proclaim that I can sing, weave, sew, and dance,<br>
+With other virtues, which I'll keep from boast: <br>
+And I will undertake all these to teach.<br>
+I doubt not but this populous city will<br>
+Yield many scholars. 
+      </div>
+    </span>
+
+  
+

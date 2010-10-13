@@ -1,0 +1,10 @@
+"”
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_185">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_185', '/monologues/preview/185', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('oi8Jx33bxj2Ndvs3dNqMhcuAT4SE891UL9V/n2Rspw8=')}); return false;">Marry, this well carried on her behalf</a>
+    </span>
+  
+

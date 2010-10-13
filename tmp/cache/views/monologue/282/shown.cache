@@ -1,0 +1,10 @@
+"—
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_282">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_282', '/monologues/preview/282', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Aa95BU7u3wuHkyqwaXruRiI4XHxqZkb0y6H5B7+A9io=')}); return false;">Consider, sir, the chance of war, the day</a>
+    </span>
+  
+

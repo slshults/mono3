@@ -1,0 +1,10 @@
+"•
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_672">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_672', '/monologues/preview/672', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('C+JK6gnu6aRNBH6pn3YrZrrWImdbh4UoC3Rpzy0hi48=')}); return false;">My lords, then, under favour, pardon me</a>
+    </span>
+  
+

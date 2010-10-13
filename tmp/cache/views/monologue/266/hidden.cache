@@ -1,0 +1,40 @@
+"T
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_266">
+      'Tis torture, and not mercy: heaven is here<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_266', '/monologues/preview?monologue_id=266', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('i5lRe3QwuKfHo9cV0+g96/FYEC3z1O56aLX2zAgY8WY=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          'Tis torture, and not mercy: heaven is here,<br>
+Where Juliet lives; and every cat and dog<br>
+And little mouse, every unworthy thing,<br>
+Live here in heaven and may look on her;<br>
+But Romeo may not: more validity,<br>
+More honourable state, more courtship lives<br>
+In carrion-flies than Romeo: they my seize<br>
+On the white wonder of dear Juliet's hand<br>
+And steal immortal blessing from her lips,<br>
+Who even in pure and vestal modesty,<br>
+Still blush, as thinking their own kisses sin;<br>
+But Romeo may not; he is banished:<br>
+Flies may do this, but I from this must fly:<br>
+They are free men, but I am banished.<br>
+And say'st thou yet that exile is not death?<br>
+Hadst thou no poison mix'd, no sharp-ground knife,<br>
+No sudden mean of death, though ne'er so mean,<br>
+But 'banished' to kill me?.'banished'?<br>
+O friar, the damned use that word in hell;<br>
+Howlings attend it: how hast thou the heart,<br>
+Being a divine, a ghostly confessor, <br>
+A sin-absolver, and my friend profess'd,<br>
+To mangle me with that word 'banished'? 
+
+      </div>
+    </span>
+
+  
+

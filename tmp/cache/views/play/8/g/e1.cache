@@ -1,0 +1,550 @@
+I">]  
+    <div>
+    <h2>Monologues in Shakespeare</h2>
+    <h2>Twelfth Night, Or What You Will</h2>
+      <span>
+        <form action="javascript:void(0);" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="KbV0YF+ULX3BaDcO3A8o//IN61Fdj8Ixy6Xj1SH1ocg=" /></div>
+          <b>Search:</b> <input type="text" id="search" size="40"/>
+          <img alt="Ajax-loader" id="spinner" src="/images/ajax-loader.gif?1278779332" style="display: none;" />
+        </form>
+        <div class="search_links">
+          <a href="/plays/8?g=3">Search Men</a> &nbsp;|&nbsp;
+          <a href="/plays/8?g=2">Search Women</a> &nbsp;|&nbsp;
+          <a href="/plays">Search All Plays</a> &nbsp;|&nbsp;
+          
+            <a href="/plays/8">Collapse All</a>
+          
+        </div>
+      </span>
+    </div>
+    <script type="text/javascript">
+//<![CDATA[
+new Form.Element.Observer('search', 1.25, function(element, value) {Element.show('spinner'); new Ajax.Updater('ajaxResults', 'http://shakespeare-monologues.org/monologues/search', {asynchronous:true, evalScripts:true, onComplete:function(request){Element.hide('spinner')}, parameters:'p=8&search=' + encodeURIComponent(value) + '&authenticity_token=' + encodeURIComponent('KbV0YF+ULX3BaDcO3A8o//IN61Fdj8Ixy6Xj1SH1ocg=')})})
+//]]>
+</script>
+
+  
+    <div id='ajaxResults'>
+      
+
+  
+
+      
+<div>
+  <table id='monologue_list'>
+    <tr>
+      <th>Character</th>
+      <th>First Line</th>
+      <th>Act & Sc</th>
+      <th>pdf</th>
+    </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Olivia</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/8">Twelfth Night, Or What You Will</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_205'>
+  
+    <span id="preview_mono_205">
+      
+
+
+'What is your parentage?'
+'Above my fortunes, yet my state is well
+
+<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_205', '/monologues/preview?monologue_id=205', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('KbV0YF+ULX3BaDcO3A8o//IN61Fdj8Ixy6Xj1SH1ocg=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          'What is your parentage?'<br>
+'Above my fortunes, yet my state is well:<br>
+I am a gentleman.' I'll be sworn thou art;<br>
+Thy tongue, thy face, thy limbs, actions and spirit,<br>
+Do give thee five-fold blazon: not too fast:<br>
+soft, soft!<br>
+Unless the master were the man. How now!<br>
+Even so quickly may one catch the plague? <br>
+Methinks I feel this youth's perfections<br>
+
+With an invisible and subtle stealth<br>
+To creep in at mine eyes. Well, let it be. 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=12night&Act=1&Scene=5&Scope=scene&LineHighlight=570#570' target='_blank'>I v 151</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/tn-1-5-275-viola.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Viola</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/8">Twelfth Night, Or What You Will</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_206'>
+  
+    <span id="preview_mono_206">
+      I left no ring with her: what means this lady?<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_206', '/monologues/preview?monologue_id=206', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('KbV0YF+ULX3BaDcO3A8o//IN61Fdj8Ixy6Xj1SH1ocg=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          I left no ring with her: what means this lady?<br>
+      Fortune forbid my outside have not charm'd her!<br>
+      She made good view of me; indeed, so much,<br>
+      That sure methought her eyes had lost her tongue,<br>
+      For she did speak in starts distractedly.<br>
+      She loves me, sure; the cunning of her passion<br>
+
+      Invites me in this churlish messenger. <br>
+      None of my lord's ring! why, he sent her none.<br>
+      I am the man: if it be so, as 'tis,<br>
+      Poor lady, she were better love a dream.<br>
+      Disguise, I see, thou art a wickedness,<br>
+      Wherein the pregnant enemy does much. <br>
+
+      How easy is it for the proper-false<br>
+      In women's waxen hearts to set their forms!<br>
+      Alas, our frailty is the cause, not we!<br>
+      For such as we are made of, such we be.<br>
+      How will this fadge? my master loves her dearly; <br>
+      And I, poor monster, fond as much on him;<br>
+
+      And she, mistaken, seems to dote on me.<br>
+      What will become of this? As I am man,<br>
+      My state is desperate for my master's love;<br>
+      As I am woman,.now alas the day!. <br>
+      What thriftless sighs shall poor Olivia breathe!<br>
+      O time! thou must untangle this, not I;<br>
+
+      It is too hard a knot for me to untie! <p>
+
+<i>[Exit]</i> 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=12night&Act=2&Scene=2&Scope=scene&LineHighlight=674#674' target='_blank'>II ii 8</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/tn-2-2-16-viola.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Olivia</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/8">Twelfth Night, Or What You Will</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_207'>
+  
+    <span id="preview_mono_207">
+      O, what a deal of scorn looks beautiful<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_207', '/monologues/preview?monologue_id=207', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('KbV0YF+ULX3BaDcO3A8o//IN61Fdj8Ixy6Xj1SH1ocg=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          O, what a deal of scorn looks beautiful<br>
+In the contempt and anger of his lip!<br>
+A murderous guilt shows not itself more soon<br>
+Than love that would seem hid: love's night is noon.<br>
+Cesario, by the roses of the spring,<br>
+By maidhood, honour, truth and every thing,<br>
+I love thee so, that, maugre all thy pride, <br>
+Nor wit nor reason can my passion hide.<br>
+Do not extort thy reasons from this clause,<br>
+
+For that I woo, thou therefore hast no cause,<br>
+But rather reason thus with reason fetter,<br>
+Love sought is good, but given unsought better. 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=12night&Act=3&Scene=1&Scope=scene&LineHighlight=1384#1384' target='_blank'>III i 111</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/tn-3-1-144-viola.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Orsino</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/8">Twelfth Night, Or What You Will</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_208'>
+  
+    <span id="preview_mono_208">
+      If music be the food of love, play on<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_208', '/monologues/preview?monologue_id=208', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('KbV0YF+ULX3BaDcO3A8o//IN61Fdj8Ixy6Xj1SH1ocg=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          If music be the food of love, play on;<br>
+Give me excess of it, that, surfeiting,<br>
+The appetite may sicken, and so die.<br>
+That strain again! it had a dying fall: <br>
+O, it came o'er my ear like the sweet sound,<br>
+That breathes upon a bank of violets,<br>
+Stealing and giving odour! Enough; no more:<br>
+'Tis not so sweet now as it was before.<br>
+O spirit of love! how quick and fresh art thou,<br>
+That, notwithstanding thy capacity<br>
+Receiveth as the sea, nought enters there,<br>
+Of what validity and pitch soe'er,<br>
+But falls into abatement and low price,<br>
+Even in a minute: so full of shapes is fancy <br>
+That it alone is high fantastical. 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=12night&Act=1&Scene=1&Scope=scene&LineHighlight=2' target='_blank'>I i 1</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tn-1-1-1-dukeorsino.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Malvolio</div>
+  <div class='monologue_detail'>
+  Prose  <br/>
+  <a href="/plays/8">Twelfth Night, Or What You Will</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_209'>
+  
+    <span id="preview_mono_209">
+      M, O, A, I; this simulation is not as the former<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_209', '/monologues/preview?monologue_id=209', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('KbV0YF+ULX3BaDcO3A8o//IN61Fdj8Ixy6Xj1SH1ocg=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          M, O, A, I; this simulation is not as the former: and
+      yet, to crush this a little, it would bow to me, for
+      every one of these letters are in my name. Soft!
+      here follows prose.<br>
+      <i>[Reads]</i><br>
+      'If this fall into thy hand, revolve. In my stars I
+      am above thee; but be not afraid of greatness: some
+      are born great, some achieve greatness, and some
+      have greatness thrust upon 'em. Thy Fates open
+      their hands; let thy blood and spirit embrace them;
+      and, to inure thyself to what thou art like to be,
+      cast thy humble slough and appear fresh. Be
+      opposite with a kinsman, surly with servants; let
+      thy tongue tang arguments of state; put thyself into
+      the trick of singularity: she thus advises thee
+      that sighs for thee. Remember who commended thy
+      yellow stockings, and wished to see thee ever
+      cross-gartered: I say, remember. Go to, thou art
+      made, if thou desirest to be so; if not, let me see
+      thee a steward still, the fellow of servants, and
+      not worthy to touch Fortune's fingers. Farewell.
+      She that would alter services with thee,
+      THE FORTUNATE-UNHAPPY.'<br>
+      Daylight and champaign discovers not more: this is
+      open. I will be proud, I will read politic authors,
+      I will baffle Sir Toby, I will wash off gross 
+      acquaintance, I will be point-devise the very man.
+      I do not now fool myself, to let imagination jade
+      me; for every reason excites to this, that my lady
+      loves me. She did commend my yellow stockings of
+      late, she did praise my leg being cross-gartered;
+      and in this she manifests herself to my love, and
+      with a kind of injunction drives me to these habits
+      of her liking. I thank my stars I am happy. I will
+      be strange, stout, in yellow stockings, and
+      cross-gartered, even with the swiftness of putting 
+      on. Jove and my stars be praised! Here is yet a
+      postscript.<br>
+      <i>[Reads]</i><br>
+      'Thou canst not choose but know who I am. If thou
+      entertainest my love, let it appear in thy smiling; 
+      thy smiles become thee well; therefore in my
+      presence still smile, dear my sweet, I prithee.'
+      Jove, I thank thee: I will smile; I will do
+      everything that thou wilt have me. <br><br>
+
+<i>[Exit] </i>
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=12night&Act=2&Scene=5&Scope=scene&LineHighlight=1160#1149' target='_blank'>II v 1</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tn-2-5-74-malvolio.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Malvolio</div>
+  <div class='monologue_detail'>
+  Prose  <br/>
+  <a href="/plays/8">Twelfth Night, Or What You Will</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_210'>
+  
+    <span id="preview_mono_210">
+      O ho, do you come near me now?<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_210', '/monologues/preview?monologue_id=210', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('KbV0YF+ULX3BaDcO3A8o//IN61Fdj8Ixy6Xj1SH1ocg=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          O, ho! do you come near me now? no worse man than
+Sir Toby to look to me! This concurs directly with 
+the letter: she sends him on purpose, that I may
+appear stubborn to him; for she incites me to that
+in the letter. 'Cast thy humble slough,' says she;
+'be opposite with a kinsman, surly with servants;
+let thy tongue tang with arguments of state; put
+thyself into the trick of singularity;' and
+consequently sets down the manner how; as, a sad
+face, a reverend carriage, a slow tongue, in the
+habit of some sir of note, and so forth. I have
+limed her; but it is Jove's doing, and Jove make me
+thankful! And when she went away now, 'Let this
+fellow be looked to:' fellow! not Malvolio, nor
+after my degree, but fellow. Why, every thing
+adheres together, that no dram of a scruple, no
+scruple of a scruple, no obstacle, no incredulous 
+or unsafe circumstance.What can be said? Nothing
+that can be can come between me and the full
+prospect of my hopes. Well, Jove, not I, is the
+doer of this, and he is to be thanked. 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=12night&Act=3&Scene=4&Scope=scene&LineHighlight=1609#1602' target='_blank'>III iv 49</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tn-3-4-64-malvolio.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Sebastian</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/8">Twelfth Night, Or What You Will</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_211'>
+  
+    <span id="preview_mono_211">
+      This is the air, that is the glorius sun<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_211', '/monologues/preview?monologue_id=211', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('KbV0YF+ULX3BaDcO3A8o//IN61Fdj8Ixy6Xj1SH1ocg=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          This is the air; that is the glorious sun;<br>
+This pearl she gave me, I do feel't and see't;<br>
+And though 'tis wonder that enwraps me thus,<br>
+Yet 'tis not madness. Where's Antonio, then? <br>
+I could not find him at the Elephant:<br>
+Yet there he was; and there I found this credit,<br>
+That he did range the town to seek me out.<br>
+His counsel now might do me golden service;<br>
+For though my soul disputes well with my sense,<br>
+That this may be some error, but no madness,<br>
+Yet doth this accident and flood of fortune<br>
+So far exceed all instance, all discourse,<br>
+That I am ready to distrust mine eyes<br>
+And wrangle with my reason that persuades me <br>
+To any other trust but that I am mad<br>
+Or else the lady's mad; yet, if 'twere so,<br>
+She could not sway her house, command her followers,<br>
+Take and give back affairs and their dispatch<br>
+With such a smooth, discreet and stable bearing<br>
+As I perceive she does: there's something in't<br>
+That is deceiveable. But here the lady comes. 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=12night&Act=4&Scene=3&Scope=scene&LineHighlight=2152' target='_blank'>IV iii 1</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tn-4-3-1-sebastian.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Antonio</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/8">Twelfth Night, Or What You Will</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_212'>
+  
+    <span id="preview_mono_212">
+      Be pleased that I shake off these names you give me<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_212', '/monologues/preview?monologue_id=212', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('KbV0YF+ULX3BaDcO3A8o//IN61Fdj8Ixy6Xj1SH1ocg=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <div align="right">Orsino, noble sir,</div>
+Be pleased that I shake off these names you give me:<br>
+Antonio never yet was thief or pirate,<br>
+Though I confess, on base and ground enough,<br>
+Orsino's enemy. A witchcraft drew me hither: <br>
+That most ingrateful boy there by your side,<br>
+From the rude sea's enraged and foamy mouth<br>
+Did I redeem; a wreck past hope he was:<br>
+His life I gave him and did thereto add<br>
+My love, without retention or restraint,<br>
+All his in dedication; for his sake<br>
+Did I expose myself, pure for his love,<br>
+Into the danger of this adverse town;<br>
+Drew to defend him when he was beset:<br>
+Where being apprehended, his false cunning, <br>
+Not meaning to partake with me in danger,<br>
+Taught him to face me out of his acquaintance,<br>
+And grew a twenty years removed thing<br>
+While one would wink; denied me mine own purse,<br>
+Which I had recommended to his use <br>
+Not half an hour before. 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=12night&Act=5&Scene=1&Scope=scene&LineHighlight=2261#2254' target='_blank'>V i 52</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tn-5-1-72-antonio.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Orsino</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/8">Twelfth Night, Or What You Will</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_213'>
+  
+    <span id="preview_mono_213">
+      Why should I not, had I the heart to do it,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_213', '/monologues/preview?monologue_id=213', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('KbV0YF+ULX3BaDcO3A8o//IN61Fdj8Ixy6Xj1SH1ocg=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Why should I not, had I the heart to do it,<br>
+Like to the Egyptian thief at point of death,<br>
+Kill what I love?--a savage jealousy<br>
+That sometimes savours nobly. But hear me this:<br>
+Since you to non-regardance cast my faith,<br>
+And that I partly know the instrument<br>
+That screws me from my true place in your favour,<br>
+Live you the marble-breasted tyrant still;<br>
+But this your minion, whom I know you love,<br>
+And whom, by heaven I swear, I tender dearly,<br>
+Him will I tear out of that cruel eye,<br>
+Where he sits crowned in his master's spite.<br>
+Come, boy, with me; my thoughts are ripe in mischief:<br>
+I'll sacrifice the lamb that I do love,<br>
+To spite a raven's heart within a dove. 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=12night&Act=5&Scene=1&Scope=scene&LineHighlight=2309#2299' target='_blank'>V i 100</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tn-5-1-117-dukeorsino.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Malvolio</div>
+  <div class='monologue_detail'>
+  Verse - intercut <br/>
+  <a href="/plays/8">Twelfth Night, Or What You Will</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_214'>
+  
+    <span id="preview_mono_214">
+      
+
+
+Madam, you have done me wrong,
+Notorius wrong.
+
+
+<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_214', '/monologues/preview?monologue_id=214', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('KbV0YF+ULX3BaDcO3A8o//IN61Fdj8Ixy6Xj1SH1ocg=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Malvolio.</b> Madam, you have done me wrong,<br>
+      Notorious wrong.<br><br>
+
+<div align='right'><del><b>Olivia.</b> Have I, Malvolio? no.</del></div><br> 
+
+<b>Malvolio.</b> Lady, you have. Pray you, peruse that letter.<br>
+      You must not now deny it is your hand:<br>
+      Write from it, if you can, in hand or phrase;<br>
+      Or say 'tis not your seal, nor your invention:<br>
+      You can say none of this: well, grant it then<br>
+      And tell me, in the modesty of honour,<br>
+      Why you have given me such clear lights of favour,<br>
+      Bade me come smiling and cross-garter'd to you,<br>
+      To put on yellow stockings and to frown <br>
+      Upon Sir Toby and the lighter people;<br>
+      And, acting this in an obedient hope,<br>
+      Why have you suffer'd me to be imprison'd,<br>
+      Kept in a dark house, visited by the priest,<br>
+      And made the most notorious geck and gull <br>
+      That e'er invention play'd on? tell me why. 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=12night&Act=5&Scene=1&Scope=scene&LineHighlight=2539#2534' target='_blank'>V i 294</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tn-5-1-294-malvolio.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+</table></div>
+
+
+  
+
+
+
+
+    </div>
+:@_rails_html_safeF

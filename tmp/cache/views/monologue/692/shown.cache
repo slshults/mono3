@@ -1,0 +1,10 @@
+"ž
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_692">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_692', '/monologues/preview/692', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('W8ISpyijTIqtufSfIPoEkwVK2IKw6QCw4QuYaGd5E5s=')}); return false;">Who is this?  My niece, that flies away so fast?</a>
+    </span>
+  
+

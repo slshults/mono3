@@ -1,0 +1,10 @@
+"•
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_492">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_492', '/monologues/preview/492', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('dsy1zZL4Gu1ClwZw9RmNZjzzWwAqD2lsY38UhrfbhZs=')}); return false;">Shame and confusion! All is on the rout</a>
+    </span>
+  
+

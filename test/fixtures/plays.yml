@@ -1,0 +1,17 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+hamlet:
+  author: shakespeare
+  title: Hamlet
+  classification: Tragedy
+
+macbeth:
+  author: shakespeare
+  title: Macbeth
+  classification: Tragedy
+  
+midsummer:
+  author: shakespeare
+  title: A Midsummer Nights Dream
+  classification: Comedy
+  

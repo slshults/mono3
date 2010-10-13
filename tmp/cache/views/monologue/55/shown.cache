@@ -1,0 +1,10 @@
+"˜
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_55">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_55', '/monologues/preview/55', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('dSgzJ5YeiLyDJYSb5hXYQbiRzhK6//UT6xILegKTk24=')}); return false;">Thou seest these lovers seek a place to fight</a>
+    </span>
+  
+

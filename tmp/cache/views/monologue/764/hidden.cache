@@ -1,0 +1,17 @@
+"7
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_764">
+      O yet, for God's sake, go not to these wars!<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_764', '/monologues/preview?monologue_id=764', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('/OaDzH02C9T4kC4+4DTbx0GSNH7G3FMOT6qilvkhlxk=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+
+  
+

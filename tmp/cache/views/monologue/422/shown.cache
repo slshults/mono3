@@ -1,0 +1,10 @@
+"š
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_422">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_422', '/monologues/preview/422', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('b3smiPxzew9O8UqLpwMnY/tsh3AXyr30pfTmQQTZfH8=')}); return false;">O God! that one might read the book of fate,</a>
+    </span>
+  
+

@@ -1,0 +1,190 @@
+I"#  
+    <div>
+      <h2>Women's Monologues in Shakespeare</h2>
+      <h2>The Tempest</h2>
+      <span>
+        <form action="javascript:void(0);" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="hlSYaCIQpgpFn9dyqET+ufsp4ur0i1BbQ0f/WOLAJQY=" /></div>
+          <b>Search:</b> <input type="text" id="search" size="40"/>
+          <img alt="Ajax-loader" id="spinner" src="/images/ajax-loader.gif?1278779332" style="display: none;" />
+        </form>
+        <div class="search_links">
+          <a href="/plays/14?g=3">Search Men</a> &nbsp;|&nbsp;
+          <a href="/plays/14">Search The Tempest</a> &nbsp;|&nbsp;
+          <a href="/plays">Search All Plays</a> &nbsp;|&nbsp;
+          
+            <a href="/plays/14?expand=1&amp;g=2">Expand All</a>
+          
+        </div>
+      </span>
+    </div>
+    <script type="text/javascript">
+//<![CDATA[
+new Form.Element.Observer('search', 1.25, function(element, value) {Element.show('spinner'); new Ajax.Updater('ajaxResults', 'http://shakespeare-monologues.org/monologues/search', {asynchronous:true, evalScripts:true, onComplete:function(request){Element.hide('spinner')}, parameters:'g=2&p=14&search=' + encodeURIComponent(value) + '&authenticity_token=' + encodeURIComponent('hlSYaCIQpgpFn9dyqET+ufsp4ur0i1BbQ0f/WOLAJQY=')})})
+//]]>
+</script>
+  
+    <div id='ajaxResults'>
+      
+
+  
+
+      
+<div>
+  <table id='monologue_list'>
+    <tr>
+      <th>Character</th>
+      <th>First Line</th>
+      <th>Act & Sc</th>
+      <th>pdf</th>
+    </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Ariel</div>
+  <div class='monologue_detail'>
+  Verse - intercut <br/>
+  <a href="/plays/14">The Tempest</a>    
+    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_354'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_354', '/monologues/preview/354', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('hlSYaCIQpgpFn9dyqET+ufsp4ur0i1BbQ0f/WOLAJQY=')}); return false;">I boarded the king's ship; now on the beak,</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=tempest&Act=1&Scene=2&Scope=scene&LineHighlight=314#307' target='_blank'>I ii 230</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tt-1-2-230-ariel.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Ariel</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/14">The Tempest</a>    
+    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_360'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_360', '/monologues/preview/360', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('hlSYaCIQpgpFn9dyqET+ufsp4ur0i1BbQ0f/WOLAJQY=')}); return false;">You are three men of sin, whom Destiny</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=tempest&Act=3&Scene=3&Scope=scene&LineHighlight=1629#1622' target='_blank'>III iii 69</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tt-3-3-69-ariel.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Ariel</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/14">The Tempest</a>    
+    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_363'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_363', '/monologues/preview/363', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('hlSYaCIQpgpFn9dyqET+ufsp4ur0i1BbQ0f/WOLAJQY=')}); return false;">I told you, sir, they were red-hot with drinking</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=tempest&Act=4&Scene=1&Scope=scene&LineHighlight=1906#1897' target='_blank'>IV i 186</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tt-4-1-186-ariel.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Miranda</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/14">The Tempest</a>    
+    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_748'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_748', '/monologues/preview/748', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('hlSYaCIQpgpFn9dyqET+ufsp4ur0i1BbQ0f/WOLAJQY=')}); return false;">If by your art, my dearest father, you have</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=tempest&Act=1&Scene=2&Scope=scene&LineHighlight=85' target='_blank'>I ii 1</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/tt-1-2-1-miranda.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>*Miranda</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/14">The Tempest</a>    
+    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_749'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_749', '/monologues/preview/749', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('hlSYaCIQpgpFn9dyqET+ufsp4ur0i1BbQ0f/WOLAJQY=')}); return false;">Abhorred slave,  which any print of goodness wilt not take</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=tempest&Act=1&Scene=2&Scope=scene&LineHighlight=504#496' target='_blank'>I ii 419</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/tt-1-2-351-miranda.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Miranda</div>
+  <div class='monologue_detail'>
+  Verse - intercut <br/>
+  <a href="/plays/14">The Tempest</a>    
+    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_750'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_750', '/monologues/preview/750', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('hlSYaCIQpgpFn9dyqET+ufsp4ur0i1BbQ0f/WOLAJQY=')}); return false;">Alas, now, pray you, Work not so hard: I would the lightning had</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=tempest&Act=3&Scene=1&Scope=scene&LineHighlight=1294' target='_blank'>III i 19</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/tt-3-1-16-miranda.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Miranda</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/14">The Tempest</a>    
+    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_751'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_751', '/monologues/preview/751', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('hlSYaCIQpgpFn9dyqET+ufsp4ur0i1BbQ0f/WOLAJQY=')}); return false;">I do not know One of my sex; no woman's face remember,</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=tempest&Act=3&Scene=1&Scope=scene&LineHighlight=1336#1324' target='_blank'>III i 61</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/tt-3-1-60-miranda.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+</table></div>
+
+
+  
+
+
+
+
+    </div>
+:@_rails_html_safeF

@@ -1,0 +1,35 @@
+"¹
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_388">
+      Thou art, great lord, my father's sister's son,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_388', '/monologues/preview?monologue_id=388', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('3fa8SH3TLIQTNYY17yUJdrmYXy3yf/J1Og2xBBglUyM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Thou art, great lord, my father's sister's son, <br>
+A cousin-german to great Priam's seed;<br>
+The obligation of our blood forbids<br>
+A gory emulation 'twixt us twain:<br>
+Were thy commixtion Greek and Trojan so<br>
+That thou couldst say 'This hand is Grecian all,<br>
+And this is Trojan; the sinews of this leg<br>
+All Greek, and this all Troy; my mother's blood<br>
+Runs on the dexter cheek, and this sinister<br>
+Bounds in my father's;' by Jove multipotent,<br>
+Thou shouldst not bear from me a Greekish member<br>
+Wherein my sword had not impressure made<br>
+Of our rank feud: but the just gods gainsay<br>
+That any drop thou borrow'dst from thy mother,<br>
+My sacred aunt, should by my mortal sword<br>
+Be drain'd! Let me embrace thee, Ajax: <br>
+By him that thunders, thou hast lusty arms;<br>
+Hector would have them fall upon him thus:<br>
+Cousin, all honour to thee! 
+      </div>
+    </span>
+
+  
+

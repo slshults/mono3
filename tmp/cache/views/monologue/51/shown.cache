@@ -1,0 +1,10 @@
+"’
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_51">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_51', '/monologues/preview/51', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('QXi9ImUyFJhjdBHUjX5vv3VLcTp73PXRQ4yKBA9K2qU=')}); return false;">Full of vexation come I, with complaint</a>
+    </span>
+  
+

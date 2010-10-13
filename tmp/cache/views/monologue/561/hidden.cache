@@ -1,0 +1,17 @@
+"3
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_561">
+      Grace me no grace, nor uncle me no uncle<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_561', '/monologues/preview?monologue_id=561', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('AlbO++chQYjntPfsArpTYW0URP5kD5i6iBbp13X95sw=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+
+  
+

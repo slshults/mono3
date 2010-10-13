@@ -1,0 +1,10 @@
+"²
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_337">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_337', '/monologues/preview/337', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('mytjE3Vj8iHLDbiX5lXHOlVZYc3o+OEomJpFAgt2aj0=')}); return false;">I do much wonder that one man, seeing how much another man is a fool</a>
+    </span>
+  
+

@@ -1,0 +1,46 @@
+"g
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_221">
+      Nay, then I cannot blame his cousin king<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_221', '/monologues/preview?monologue_id=221', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('4yhW1+W5uRY88l2pz1NjLHs83udkE80Q0XFhkg21CJE=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Nay, then I cannot blame his cousin king,<br>
+That wished him on the barren mountains starve.<br>
+But shall it be that you, that set the crown <br>
+Upon the head of this forgetful man<br>
+And for his sake wear the detested blot<br>
+Of murderous subornation, shall it be,<br>
+That you a world of curses undergo,<br>
+Being the agents, or base second means,<br>
+The cords, the ladder, or the hangman rather?<br>
+O, pardon me that I descend so low,<br>
+To show the line and the predicament<br>
+Wherein you range under this subtle king;<br>
+Shall it for shame be spoken in these days, <br>
+Or fill up chronicles in time to come,<br>
+That men of your nobility and power<br>
+Did gage them both in an unjust behalf,<br>
+As both of you.God pardon it!.have done,<br>
+To put down Richard, that sweet lovely rose, <br>
+An plant this thorn, this canker, Bolingbroke?<br>
+And shall it in more shame be further spoken,<br>
+That you are fool'd, discarded and shook off<br>
+By him for whom these shames ye underwent?<br>
+No; yet time serves wherein you may redeem <br>
+Your banish'd honours and restore yourselves<br>
+Into the good thoughts of the world again,<br>
+Revenge the jeering and disdain'd contempt<br>
+Of this proud king, who studies day and night<br>
+To answer all the debt he owes to you <br>
+Even with the bloody payment of your deaths
+
+      </div>
+    </span>
+
+  
+

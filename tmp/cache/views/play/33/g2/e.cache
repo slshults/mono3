@@ -1,0 +1,122 @@
+I"§  
+    <div>
+      <h2>Women's Monologues in Shakespeare</h2>
+      <h2>Macbeth</h2>
+      <span>
+        <form action="javascript:void(0);" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="esoVgkXBlDkWe+oTE0y0DDP9ZAMRv8ohRcp8ZFhrA6k=" /></div>
+          <b>Search:</b> <input type="text" id="search" size="40"/>
+          <img alt="Ajax-loader" id="spinner" src="/images/ajax-loader.gif?1278779332" style="display: none;" />
+        </form>
+        <div class="search_links">
+          <a href="/plays/33?g=3">Search Men</a> &nbsp;|&nbsp;
+          <a href="/plays/33">Search Macbeth</a> &nbsp;|&nbsp;
+          <a href="/plays">Search All Plays</a> &nbsp;|&nbsp;
+          
+            <a href="/plays/33?expand=1&amp;g=2">Expand All</a>
+          
+        </div>
+      </span>
+    </div>
+    <script type="text/javascript">
+//<![CDATA[
+new Form.Element.Observer('search', 1.25, function(element, value) {Element.show('spinner'); new Ajax.Updater('ajaxResults', 'http://shakespeare-monologues.org/monologues/search', {asynchronous:true, evalScripts:true, onComplete:function(request){Element.hide('spinner')}, parameters:'g=2&p=33&search=' + encodeURIComponent(value) + '&authenticity_token=' + encodeURIComponent('esoVgkXBlDkWe+oTE0y0DDP9ZAMRv8ohRcp8ZFhrA6k=')})})
+//]]>
+</script>
+  
+    <div id='ajaxResults'>
+      
+
+  
+
+      
+<div>
+  <table id='monologue_list'>
+    <tr>
+      <th>Character</th>
+      <th>First Line</th>
+      <th>Act & Sc</th>
+      <th>pdf</th>
+    </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Lady Macbeth</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/33">Macbeth</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_66'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_66', '/monologues/preview/66', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('esoVgkXBlDkWe+oTE0y0DDP9ZAMRv8ohRcp8ZFhrA6k=')}); return false;">
+
+
+They met me in the day of success
+
+</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=macbeth&Act=1&Scene=5&Scope=scene&LineHighlight=345' target='_blank'>I v 1</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/m-1-5-1-ladymacbeth.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Lady Macbeth</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/33">Macbeth</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_67'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_67', '/monologues/preview/67', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('esoVgkXBlDkWe+oTE0y0DDP9ZAMRv8ohRcp8ZFhrA6k=')}); return false;">
+
+
+The raven himself is hoarse
+That croaks the fatal entrance of Duncan
+
+</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=macbeth&Act=1&Scene=5&Scope=scene&LineHighlight=385#381' target='_blank'>I v 31</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/m-1-5-31-ladymacbeth.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Lady Macbeth</div>
+  <div class='monologue_detail'>
+  Verse - intercut <br/>
+  <a href="/plays/33">Macbeth</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_68'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_68', '/monologues/preview/68', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('esoVgkXBlDkWe+oTE0y0DDP9ZAMRv8ohRcp8ZFhrA6k=')}); return false;">
+
+Was the hope drunk 
+wherein you dress'd yourself? Hath it slept since?
+</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=macbeth&Act=1&Scene=7&Scope=scene&LineHighlight=512#504' target='_blank'>I vii 41</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/m-1-7-35-ladymacbeth.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+</table></div>
+
+
+  
+
+
+
+
+    </div>
+:@_rails_html_safeF

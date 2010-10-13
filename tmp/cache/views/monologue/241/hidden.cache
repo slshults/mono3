@@ -1,0 +1,82 @@
+"¸
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_241">
+      The barge she sat in, like a burnish'd throne<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_241', '/monologues/preview?monologue_id=241', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('d4Ujs6wmDNSxsTgtdyjYHrbn9e9MhkrK8iBIO2ObT1c=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Domitius Enobarus.</b> I will tell you.<br>
+      The barge she sat in, like a burnish'd throne,<br>
+      Burn'd on the water: the poop was beaten gold;<br>
+      Purple the sails, and so perfumed that<br>
+      The winds were love-sick with them; the oars were silver,<br>
+      Which to the tune of flutes kept stroke, and made<br>
+      The water which they beat to follow faster,<br>
+      As amorous of their strokes. For her own person,<br>
+      It beggar'd all description: she did lie<br>
+      In her pavilion.cloth-of-gold of tissue.<br>
+      O'er-picturing that Venus where we see<br>
+      The fancy outwork nature: on each side her<br>
+      Stood pretty dimpled boys, like smiling Cupids,<br>
+      With divers-colour'd fans, whose wind did seem<br>
+      To glow the delicate cheeks which they did cool,<br>
+      And what they undid did. <br><br>
+
+<del><b>Agrippa.</b> O, rare for Antony!</del><br><br>
+
+<b>Domitius Enobarus.</b> <br>
+Her gentlewomen, like the Nereides,<br>
+      So many mermaids, tended her i' the eyes,<br>
+      And made their bends adornings: at the helm<br>
+      A seeming mermaid steers: the silken tackle<br>
+      Swell with the touches of those flower-soft hands,<br>
+      That yarely frame the office. From the barge<br>
+      A strange invisible perfume hits the sense<br>
+      Of the adjacent wharfs. The city cast<br>
+      Her people out upon her; and Antony,<br>
+      Enthroned i' the market-place, did sit alone,<br>
+      Whistling to the air; which, but for vacancy,<br>
+      Had gone to gaze on Cleopatra too,<br>
+      And made a gap in nature. <br><br>
+
+<del><b>Agrippa.</b> Rare Egyptian!</del><br><br> 
+
+<b>Domitius Enobarus.</b><br> 
+Upon her landing, Antony sent to her,<br>
+      Invited her to supper: she replied,<br>
+      It should be better he became her guest;<br>
+      Which she entreated: our courteous Antony,<br>
+      Whom ne'er the word of 'No' woman heard speak,<br>
+      Being barber'd ten times o'er, goes to the feast, <br>
+      And for his ordinary pays his heart<br>
+      For what his eyes eat only. <br><br>
+
+<del><b>Agrippa.</b> Royal wench!<br>
+      She made great Caesar lay his sword to bed:<br>
+      He plough'd her, and she cropp'd. <br></del><br><br>
+
+<b>Domitius Enobarus.</b> I saw her once<br>
+      Hop forty paces through the public street;<br>
+      And having lost her breath, she spoke, and panted,<br>
+      That she did make defect perfection,<br>
+      And, breathless, power breathe forth. <br><br>
+
+<del><b>Mecaenas.</b> Now Antony must leave her utterly. </del><br><br>
+
+<b>Domitius Enobarus.</b> Never; he will not:<br>
+      Age cannot wither her, nor custom stale<br>
+      Her infinite variety: other women cloy<br>
+      The appetites they feed: but she makes hungry <br>
+      Where most she satisfies; for vilest things<br>
+      Become themselves in her: that the holy priests<br>
+      Bless her when she is riggish. 
+
+      </div>
+    </span>
+
+  
+

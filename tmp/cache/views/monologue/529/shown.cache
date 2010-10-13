@@ -1,0 +1,10 @@
+"‘
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_529">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_529', '/monologues/preview/529', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('4TBoEkI5igJ2VJeMFgj+Kw4CwqO6iw/WzWb6liD3eH4=')}); return false;">The spoons will be the bigger, sir.</a>
+    </span>
+  
+

@@ -1,0 +1,17 @@
+"6
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_507">
+      Then, gentle Clarence, welcome unto Warwick<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_507', '/monologues/preview?monologue_id=507', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('sF+u3rq8+IhN/hiDNbl6Caxo1LRP+71bMtYVu/IH/7Q=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+
+  
+

@@ -1,0 +1,10 @@
+"—
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_370">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_370', '/monologues/preview/370', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('30Z0DKndR+oWNBSnZQdqwtVkQYTQBDSrXKz0Xi2Owf8=')}); return false;">With due observance of thy god-like seat,</a>
+    </span>
+  
+

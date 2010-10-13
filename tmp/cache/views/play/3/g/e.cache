@@ -1,0 +1,589 @@
+I"pw  
+    <div>
+    <h2>Monologues in Shakespeare</h2>
+    <h2>Cymbeline</h2>
+      <span>
+        <form action="javascript:void(0);" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="qSnYAJSpBUkXrBbHXZURrE5XzSNup/PQQ5lWYpTu6f8=" /></div>
+          <b>Search:</b> <input type="text" id="search" size="40"/>
+          <img alt="Ajax-loader" id="spinner" src="/images/ajax-loader.gif?1278779332" style="display: none;" />
+        </form>
+        <div class="search_links">
+          <a href="/plays/3?g=3">Search Men</a> &nbsp;|&nbsp;
+          <a href="/plays/3?g=2">Search Women</a> &nbsp;|&nbsp;
+          <a href="/plays">Search All Plays</a> &nbsp;|&nbsp;
+          
+            <a href="/plays/3?expand=1">Expand All</a>
+          
+        </div>
+      </span>
+    </div>
+    <script type="text/javascript">
+//<![CDATA[
+new Form.Element.Observer('search', 1.25, function(element, value) {Element.show('spinner'); new Ajax.Updater('ajaxResults', 'http://www.shakespeare-monologues.org/monologues/search', {asynchronous:true, evalScripts:true, onComplete:function(request){Element.hide('spinner')}, parameters:'p=3&search=' + encodeURIComponent(value) + '&authenticity_token=' + encodeURIComponent('qSnYAJSpBUkXrBbHXZURrE5XzSNup/PQQ5lWYpTu6f8=')})})
+//]]>
+</script>
+
+  
+    <div id='ajaxResults'>
+      
+
+  
+
+      
+<div>
+  <table id='monologue_list'>
+    <tr>
+      <th>Character</th>
+      <th>First Line</th>
+      <th>Act & Sc</th>
+      <th>pdf</th>
+    </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Queen</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/3">Cymbeline</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_111'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_111', '/monologues/preview/111', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('qSnYAJSpBUkXrBbHXZURrE5XzSNup/PQQ5lWYpTu6f8=')}); return false;">Weeps she still, sayst thou? Dost thou think in time</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=cymbeline&Act=1&Scene=5&Scope=scene&LineHighlight=550#546' target='_blank'>I v 57</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/c-1-2-24-queen.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Imogen</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/3">Cymbeline</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_112'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_112', '/monologues/preview/112', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('qSnYAJSpBUkXrBbHXZURrE5XzSNup/PQQ5lWYpTu6f8=')}); return false;">I did not take my leave of him, but had</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=cymbeline&Act=1&Scene=3&Scope=scene&LineHighlight=301#301' target='_blank'>I iii 33</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/c-1-3-25-imogen.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Imogen</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/3">Cymbeline</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_113'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_113', '/monologues/preview/113', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('qSnYAJSpBUkXrBbHXZURrE5XzSNup/PQQ5lWYpTu6f8=')}); return false;">Away! I do condemn mine ears that have</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=cymbeline&Act=1&Scene=6&Scope=scene&LineHighlight=770#760' target='_blank'>I vi 165</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/c-1-4-141-imogen.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Queen</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/3">Cymbeline</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_114'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_114', '/monologues/preview/114', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('qSnYAJSpBUkXrBbHXZURrE5XzSNup/PQQ5lWYpTu6f8=')}); return false;">That opportunity
+Which then they had to take from 's, to resume</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=cymbeline&Act=3&Scene=1&Scope=scene&LineHighlight=1427#1421' target='_blank'>III i 19</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/c-3-1-14-queen.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Imogen</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/3">Cymbeline</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_115'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_115', '/monologues/preview/115', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('qSnYAJSpBUkXrBbHXZURrE5XzSNup/PQQ5lWYpTu6f8=')}); return false;">Who? thy lord? that is my lord, Leonatus!</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=cymbeline&Act=3&Scene=2&Scope=scene&LineHighlight=1535#1532' target='_blank'>III ii 29</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/c-3-2-26-imogen.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Imogen</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/3">Cymbeline</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_116'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_116', '/monologues/preview/116', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('qSnYAJSpBUkXrBbHXZURrE5XzSNup/PQQ5lWYpTu6f8=')}); return false;">Thou told'st me, when we came from horse, the place</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=cymbeline&Act=3&Scene=4&Scope=scene&LineHighlight=1720' target='_blank'>III iv 1</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/c-3-4-1-imogen.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Imogen</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/3">Cymbeline</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_117'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_117', '/monologues/preview/117', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('qSnYAJSpBUkXrBbHXZURrE5XzSNup/PQQ5lWYpTu6f8=')}); return false;">I false! Thy conscience witness! Iachimo,</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=cymbeline&Act=3&Scene=4&Scope=scene&LineHighlight=1768#1761' target='_blank'>III iv 39</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/c-3-4-46-imogen.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Imogen</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/3">Cymbeline</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_118'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_118', '/monologues/preview/118', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('qSnYAJSpBUkXrBbHXZURrE5XzSNup/PQQ5lWYpTu6f8=')}); return false;">Why, I must die; 
+And if I do not by thy hand, thou art</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=cymbeline&Act=3&Scene=4&Scope=scene&LineHighlight=1799#1781' target='_blank'>III iv 70</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/c-3-4-75-imogen.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Imogen</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/3">Cymbeline</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_119'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_119', '/monologues/preview/119', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('qSnYAJSpBUkXrBbHXZURrE5XzSNup/PQQ5lWYpTu6f8=')}); return false;">I see a man's life is a tedious one</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=cymbeline&Act=3&Scene=6&Scope=scene&LineHighlight=2144' target='_blank'>III vi 1</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/c-3-6-1-imogen.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Imogen</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/3">Cymbeline</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_120'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_120', '/monologues/preview/120', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('qSnYAJSpBUkXrBbHXZURrE5XzSNup/PQQ5lWYpTu6f8=')}); return false;">Yes, sir, to Milford-Haven; which is the way?</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=cymbeline&Act=4&Scene=2&Scope=scene&LineHighlight=2692#2682' target='_blank'>IV ii 363</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/c-4-3-293-imogen.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Cymbeline</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/3">Cymbeline</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_121'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_121', '/monologues/preview/121', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('qSnYAJSpBUkXrBbHXZURrE5XzSNup/PQQ5lWYpTu6f8=')}); return false;">O rare instinct!
+When shall I hear all through? This fierce abridgment</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=cymbeline&Act=5&Scene=5&Scope=scene&LineHighlight=3839#3834' target='_blank'>V v 460</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/c-3-6-1-imogen.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Iachimo</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/3">Cymbeline</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_122'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_122', '/monologues/preview/122', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('qSnYAJSpBUkXrBbHXZURrE5XzSNup/PQQ5lWYpTu6f8=')}); return false;">The crickets sing, and man's o'erlabour'd sense</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.bartleby.com/70/4622.html#12' target='_blank'>II ii 15</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/c-2-5-1-posthumusleonatus.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Posthumus</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/3">Cymbeline</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_123'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_123', '/monologues/preview/123', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('qSnYAJSpBUkXrBbHXZURrE5XzSNup/PQQ5lWYpTu6f8=')}); return false;">Is there no way for men to be, but women   II v 4</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=cymbeline&Act=2&Scene=5&Scope=scene&LineHighlight=1372#1372' target='_blank'></a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/c-2-5-1-posthumusleonatus.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Pisanio</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/3">Cymbeline</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_124'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_124', '/monologues/preview/124', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('qSnYAJSpBUkXrBbHXZURrE5XzSNup/PQQ5lWYpTu6f8=')}); return false;">How! of adultery! Wherefore write you not</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.bartleby.com/70/4632.html#1' target='_blank'>III ii 3</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/c-3-2-1-pisanio.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Belarius</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/3">Cymbeline</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_125'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_125', '/monologues/preview/125', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('qSnYAJSpBUkXrBbHXZURrE5XzSNup/PQQ5lWYpTu6f8=')}); return false;">Now for our mountain sport. Up to yond hill;</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.bartleby.com/70/4633.html#14' target='_blank'>III III 14</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/c-3-3-10-belarius.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Belarius</div>
+  <div class='monologue_detail'>
+  Verse - intercut <br/>
+  <a href="/plays/3">Cymbeline</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_126'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_126', '/monologues/preview/126', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('qSnYAJSpBUkXrBbHXZURrE5XzSNup/PQQ5lWYpTu6f8=')}); return false;">How do you speak!
+Did you but know the city's usuries</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=cymbeline&Act=3&Scene=3&Scope=scene&LineHighlight=1649#1639' target='_blank'>III iii 49</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/c-3-3-44-belarius.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Cloten</div>
+  <div class='monologue_detail'>
+  Prose  <br/>
+  <a href="/plays/3">Cymbeline</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_127'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_127', '/monologues/preview/127', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('qSnYAJSpBUkXrBbHXZURrE5XzSNup/PQQ5lWYpTu6f8=')}); return false;">I am near to the place where they should meet</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=cymbeline&Act=4&Scene=1&Scope=scene&LineHighlight=2287#2287' target='_blank'>IV i 1</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/c-4-1-1-cloten.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Posthumus</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/3">Cymbeline</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_128'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_128', '/monologues/preview/128', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('qSnYAJSpBUkXrBbHXZURrE5XzSNup/PQQ5lWYpTu6f8=')}); return false;">Yea, bloody cloth, I'll keep thee, for I wish'd</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=cymbeline&Act=5&Scene=1&Scope=scene&LineHighlight=2952#2952' target='_blank'>V i 1</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/c-5-1-1-posthumusleonatus.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Posthumus</div>
+  <div class='monologue_detail'>
+  Verse - intercut <br/>
+  <a href="/plays/3">Cymbeline</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_129'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_129', '/monologues/preview/129', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('qSnYAJSpBUkXrBbHXZURrE5XzSNup/PQQ5lWYpTu6f8=')}); return false;">No blame be to you, sir; for all was lost,</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=cymbeline&Act=5&Scene=3&Scope=scene&LineHighlight=3026' target='_blank'>V iii 7</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/c-5-3-3-posthumusleonatus.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Posthumus</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/3">Cymbeline</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_130'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_130', '/monologues/preview/130', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('qSnYAJSpBUkXrBbHXZURrE5XzSNup/PQQ5lWYpTu6f8=')}); return false;">Still going? - This is a lord! O noble misery!</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=cymbeline&Act=5&Scene=3&Scope=scene&LineHighlight=3093#3086' target='_blank'>V iii</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/c-5-3-64-posthumusleonatus.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Posthumus</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/3">Cymbeline</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_131'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_131', '/monologues/preview/131', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('qSnYAJSpBUkXrBbHXZURrE5XzSNup/PQQ5lWYpTu6f8=')}); return false;">Most welcome, bondage! for thou art away</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=cymbeline&Act=5&Scene=4&Scope=scene&LineHighlight=3140' target='_blank'>V iv 5</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/c-5-4-3-posthumusleonatus.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Cymbeline</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/3">Cymbeline</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_132'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_132', '/monologues/preview/132', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('qSnYAJSpBUkXrBbHXZURrE5XzSNup/PQQ5lWYpTu6f8=')}); return false;">O rare instinct!
+
+When shall I hear all through? This fierce abridgment</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.bartleby.com/70/4655.html#459' target='_blank'>V v 460</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/c-5-4-93-jupiter.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Jupiter</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/3">Cymbeline</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_280'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_280', '/monologues/preview/280', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('qSnYAJSpBUkXrBbHXZURrE5XzSNup/PQQ5lWYpTu6f8=')}); return false;">No more you petty spirits of region low</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=cymbeline&Act=5&Scene=4&Scope=scene&LineHighlight=3243#3238' target='_blank'>V iv 98</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/c-5-4-93-jupiter.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Posthumus</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/3">Cymbeline</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_281'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_281', '/monologues/preview/281', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('qSnYAJSpBUkXrBbHXZURrE5XzSNup/PQQ5lWYpTu6f8=')}); return false;">Sleep, thou hast been a grandsire and begot</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=cymbeline&Act=5&Scene=4&Scope=scene&LineHighlight=3276#3271' target='_blank'>V iv 128</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/c-5-4-123-posthumusleonatus.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Lucius</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/3">Cymbeline</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_282'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_282', '/monologues/preview/282', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('qSnYAJSpBUkXrBbHXZURrE5XzSNup/PQQ5lWYpTu6f8=')}); return false;">Consider, sir, the chance of war, the day</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=cymbeline&Act=5&Scene=5&Scope=scene&LineHighlight=3458#3441' target='_blank'>V v 91</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/c-5-5-75-caiuslucius.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Iachimo</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/3">Cymbeline</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_283'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_283', '/monologues/preview/283', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('qSnYAJSpBUkXrBbHXZURrE5XzSNup/PQQ5lWYpTu6f8=')}); return false;">Upon a time - unhappy was the clock</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=cymbeline&Act=5&Scene=5&Scope=scene&LineHighlight=3557#3550' target='_blank'>V v 184</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/c-5-5-152-iachimo.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Posthumus</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/3">Cymbeline</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_284'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_284', '/monologues/preview/284', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('qSnYAJSpBUkXrBbHXZURrE5XzSNup/PQQ5lWYpTu6f8=')}); return false;">Ay, so thou dost Italian friend! Ay, most credulous fool,</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=cymbeline&Act=5&Scene=5&Scope=scene&LineHighlight=3618#3618' target='_blank'>V v 244</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/c-5-5-209-posthumusleonatus.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Belarius</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/3">Cymbeline</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_285'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_285', '/monologues/preview/285', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('qSnYAJSpBUkXrBbHXZURrE5XzSNup/PQQ5lWYpTu6f8=')}); return false;">So sure as you your father's. I, old Morgan,</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=cymbeline&Act=5&Scene=5&Scope=scene&LineHighlight=3781#3772' target='_blank'>V v 402</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/c-5-5-333-belarius.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+</table></div>
+
+
+  
+
+
+
+
+    </div>
+:@_rails_html_safeF

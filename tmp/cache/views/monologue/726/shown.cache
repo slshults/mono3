@@ -1,0 +1,10 @@
+"°
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_726">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_726', '/monologues/preview/726', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('1AqOOpZYJL5ihGrf4uc729VmICTXLX8e7qgr+xfgvxo=')}); return false;">What, have I scaped love-letters in the holiday-time of my beauty,</a>
+    </span>
+  
+

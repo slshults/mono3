@@ -1,0 +1,10 @@
+"’
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_41">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_41', '/monologues/preview/41', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('xIRLq7hHZVlcMkZr4HAIpsnJ9i8prMihbJCs6YBmsRw=')}); return false;">Help me, Lysander, help me! do thy best</a>
+    </span>
+  
+

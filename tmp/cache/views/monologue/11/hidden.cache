@@ -1,0 +1,34 @@
+"J
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_11">
+      Two nights together had these gentlemen<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_11', '/monologues/preview?monologue_id=11', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('b6wvh7Cs2EIq/IUtc0dg9h5x9PXpQI7s7/aj0ku1dfw=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Two nights together had these gentlemen <br>
+(Marcellus and Bernardo) on their watch<br>
+In the dead vast and middle of the night<br>
+Been thus encount'red. A figure like your father,<br>
+Armed at point exactly, cap-a-pe,<br>
+Appears before them and with solemn march<br>
+Goes slow and stately by them. Thrice he walk'd<br>
+By their oppress'd and fear-surprised eyes,<br>
+Within his truncheon's length; whilst they distill'd<br>
+Almost to jelly with the act of fear,<br>
+Stand dumb and speak not to him. This to me<br>
+In dreadful secrecy impart they did,<br>
+And I with them the third night kept the watch;<br>
+Where, as they had deliver'd, both in time,<br>
+Form of the thing, each word made true and good,<br>
+The apparition comes. I knew your father.<br>
+These hands are not more like. <br>
+
+      </div>
+    </span>
+
+  
+

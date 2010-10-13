@@ -1,0 +1,10 @@
+"ù
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_621">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_621', '/monologues/preview/621', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('puSPt3RvwkignNdnFdfhS6OgJrFRLSU/hGKP9ED0mXw=')}); return false;">Our course will seem too bloody, Caius Cassius,</a>
+    </span>
+  
+

@@ -1,0 +1,37 @@
+"Ù
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_87">
+      I would not be thy executioner<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_87', '/monologues/preview?monologue_id=87', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('/P8mXgFRkC/vWCBBNA8mvtI4NIrsyXPYyT4nSQKfRpA=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          I would not be thy executioner:<br>	 
+I fly thee, for I would not injure thee.<br>
+Thou tell'st me there is murder in mine eye:<br> 
+'Tis pretty, sure, and very probable, <br>
+That eyes, that are the frail.st and softest things,<br> 
+Who shut their coward gates on atomies, <br>
+Should be call'd tyrants, butchers, murderers!<br> 
+Now I do frown on thee with all my heart; <br>
+And, if mine eyes can wound, now let them kill thee;<br> 
+Now counterfeit to swound; why now fall down; <br>
+Or, if thou canst not, O! for shame, for shame, <br>
+Lie not, to say mine eyes are murderers.  <br>
+Now show the wound mine eye hath made in thee;<br> 
+Scratch thee but with a pin, and there remains <br>
+Some scar of it; lean but upon a rush,  <br>
+The cicatrice and capable impressure <br>
+Thy palm some moment keeps; but now mine eyes,<br> 
+Which I have darted at thee, hurt thee not,<br>
+Nor, I am sure, there is no force in eyes <br>
+That can do hurt.<br>
+
+      </div>
+    </span>
+
+  
+

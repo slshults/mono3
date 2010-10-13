@@ -1,0 +1,17 @@
+";
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_487">
+      Sirs, stand apart, the King shall know your mind<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_487', '/monologues/preview?monologue_id=487', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('f7P3kPQm2GqfZMisIUZo13eTYUAnp68fpgsfHPMK0F8=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+
+  
+

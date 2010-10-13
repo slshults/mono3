@@ -1,0 +1,32 @@
+"Ç
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_208">
+      If music be the food of love, play on<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_208', '/monologues/preview?monologue_id=208', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('MFCvH4HsoOVtQj8mOPQe2/0fApnuLQoDClOmcOyqgek=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          If music be the food of love, play on;<br>
+Give me excess of it, that, surfeiting,<br>
+The appetite may sicken, and so die.<br>
+That strain again! it had a dying fall: <br>
+O, it came o'er my ear like the sweet sound,<br>
+That breathes upon a bank of violets,<br>
+Stealing and giving odour! Enough; no more:<br>
+'Tis not so sweet now as it was before.<br>
+O spirit of love! how quick and fresh art thou,<br>
+That, notwithstanding thy capacity<br>
+Receiveth as the sea, nought enters there,<br>
+Of what validity and pitch soe'er,<br>
+But falls into abatement and low price,<br>
+Even in a minute: so full of shapes is fancy <br>
+That it alone is high fantastical. 
+
+      </div>
+    </span>
+
+  
+

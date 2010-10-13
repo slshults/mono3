@@ -1,0 +1,10 @@
+"š
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_478">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_478', '/monologues/preview/478', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('1hjblCRlGF5ChSZ27ULvoo7fbfbxXXo0cy0WVyT9Hu4=')}); return false;">Brave peers of England, pillars of the state</a>
+    </span>
+  
+

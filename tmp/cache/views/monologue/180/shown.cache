@@ -1,0 +1,10 @@
+"
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_180">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_180', '/monologues/preview/180', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('vavOOfrEvAuVRKPJsHRiUm2UjTApopmbU1TEnSMk/iY=')}); return false;">O, she misused me past the endurance of a block</a>
+    </span>
+  
+

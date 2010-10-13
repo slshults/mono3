@@ -1,0 +1,10 @@
+"�
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_811">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_811', '/monologues/preview/811', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Co9XXBjgxqeaQxpWItZOKmOYVdrEpvEdndKXXdpe0BU=')}); return false;">Is Brutus sick? and is it physical     </a>
+    </span>
+  
+

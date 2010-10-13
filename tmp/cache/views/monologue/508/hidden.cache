@@ -1,0 +1,17 @@
+"5
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_508">
+      Ah! who is nigh? come to me, friend or foe<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_508', '/monologues/preview?monologue_id=508', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('90OWd9GLIDkthyyptjGXjsxNec4zeCjEqnVaE44CpPw=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+
+  
+

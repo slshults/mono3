@@ -1,0 +1,10 @@
+"Ž
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_685">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_685', '/monologues/preview/685', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('12310QwQgqMSZ/Vq0AXVdFoYHRbKBeqkNhjXlMg1emw=')}); return false;">If Alcibiades kill my countrymen</a>
+    </span>
+  
+

@@ -1,0 +1,10 @@
+"œ
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_265">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_265', '/monologues/preview/265', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('SWrm12q98qcqqWOfCDvRVkpsMwWeEiEPs6BsRJzpqSo=')}); return false;">Tybalt, here slain, whom Romeo's hand did slay</a>
+    </span>
+  
+

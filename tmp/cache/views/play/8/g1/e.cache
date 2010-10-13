@@ -1,0 +1,50 @@
+I"_  
+    <div>
+      <h2>Both's Monologues in Shakespeare</h2>
+      <h2>Twelfth Night, Or What You Will</h2>
+      <span>
+        <form action="javascript:void(0);" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="os5fZlSNsWYAqSZX2fnWARXtCcjJmPEeOFkVm43cNaQ=" /></div>
+          <b>Search:</b> <input type="text" id="search" size="40"/>
+          <img alt="Ajax-loader" id="spinner" src="/images/ajax-loader.gif?1278779332" style="display: none;" />
+        </form>
+        <div class="search_links">
+          <a href="/plays/8?g=3">Search Men</a> &nbsp;|&nbsp;
+          <a href="/plays/8">Search Twelfth Night, Or What You Will</a> &nbsp;|&nbsp;
+          <a href="/plays">Search All Plays</a> &nbsp;|&nbsp;
+          
+            <a href="/plays/8?expand=1&amp;g=1">Expand All</a>
+          
+        </div>
+      </span>
+    </div>
+    <script type="text/javascript">
+//<![CDATA[
+new Form.Element.Observer('search', 1.25, function(element, value) {Element.show('spinner'); new Ajax.Updater('ajaxResults', 'http://www.shakespeare-monologues.org/monologues/search', {asynchronous:true, evalScripts:true, onComplete:function(request){Element.hide('spinner')}, parameters:'g=1&p=8&search=' + encodeURIComponent(value) + '&authenticity_token=' + encodeURIComponent('os5fZlSNsWYAqSZX2fnWARXtCcjJmPEeOFkVm43cNaQ=')})})
+//]]>
+</script>
+  
+    <div id='ajaxResults'>
+      
+
+  
+
+      
+<div>
+  <table id='monologue_list'>
+    <tr>
+      <th>Character</th>
+      <th>First Line</th>
+      <th>Act & Sc</th>
+      <th>pdf</th>
+    </tr>
+
+</table></div>
+
+
+  
+
+
+
+
+    </div>
+:@_rails_html_safeF

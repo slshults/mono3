@@ -1,0 +1,10 @@
+"š
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_243">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_243', '/monologues/preview/243', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Lh/FJ9C9fDWUJ3b/pMnquZyaQ5C91jo5oTyF4UCqcTI=')}); return false;">Hark! the land bids me tread no more upon 't</a>
+    </span>
+  
+

@@ -1,0 +1,17 @@
+"9
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_804">
+      I call'd thee then vain flourish of my fortune<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_804', '/monologues/preview?monologue_id=804', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Co9XXBjgxqeaQxpWItZOKmOYVdrEpvEdndKXXdpe0BU=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+
+  
+

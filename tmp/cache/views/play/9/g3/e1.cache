@@ -1,0 +1,216 @@
+I"(  
+    <div>
+      <h2>Men's Monologues in Shakespeare</h2>
+      <h2>All's Well That Ends Well</h2>
+      <span>
+        <form action="javascript:void(0);" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="+zNvLlMHUWzmw/iwUqxSyBnGOMoRI8Q4WE3kGLY9AnY=" /></div>
+          <b>Search:</b> <input type="text" id="search" size="40"/>
+          <img alt="Ajax-loader" id="spinner" src="/images/ajax-loader.gif?1278779332" style="display: none;" />
+        </form>
+        <div class="search_links">
+          <a href="/plays/9?g=2">Search Women</a> &nbsp;|&nbsp;
+          <a href="/plays/9">Search All's Well That Ends Well</a> &nbsp;|&nbsp;
+          <a href="/plays">Search All Plays</a> &nbsp;|&nbsp;
+          
+            <a href="/plays/9?g=3">Collapse All</a>
+          
+        </div>
+      </span>
+    </div>
+    <script type="text/javascript">
+//<![CDATA[
+new Form.Element.Observer('search', 1.25, function(element, value) {Element.show('spinner'); new Ajax.Updater('ajaxResults', 'http://www.shakespeare-monologues.org/monologues/search', {asynchronous:true, evalScripts:true, onComplete:function(request){Element.hide('spinner')}, parameters:'g=3&p=9&search=' + encodeURIComponent(value) + '&authenticity_token=' + encodeURIComponent('+zNvLlMHUWzmw/iwUqxSyBnGOMoRI8Q4WE3kGLY9AnY=')})})
+//]]>
+</script>
+  
+    <div id='ajaxResults'>
+      
+
+  
+
+      
+<div>
+  <table id='monologue_list'>
+    <tr>
+      <th>Character</th>
+      <th>First Line</th>
+      <th>Act & Sc</th>
+      <th>pdf</th>
+    </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Parolles</div>
+  <div class='monologue_detail'>
+  Prose - intercut <br/>
+  <a href="/plays/9">All's Well That Ends Well</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_83'>
+  
+    <span id="preview_mono_83">
+      Virginity being blown down, man will quicklier be blown up<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_83', '/monologues/preview?monologue_id=83', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('+zNvLlMHUWzmw/iwUqxSyBnGOMoRI8Q4WE3kGLY9AnY=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          PAROLLES<Br>
+Virginity being blown down, man will quicklier be blown up: marry, in blowing him down again, with the breach yourselves made, you lose your city. It is not politic in the commonwealth of nature to preserve virginity. Loss of virginity is rational increase and there was never virgin got till virginity was first lost. That you were made of is metal to make virgins. Virginity by being once lost may be ten times found; by being ever kept, it is ever lost: 'tis too cold a companion; away with 't!<p>
+<del><font size='-1'>HELENA<Br>
+I will stand for 't a little, though therefore I die a virgin.</font></del><p>
+PAROLLES<Br>
+There's little can be said in 't; 'tis against the rule of nature. To speak on the part of virginity, is to accuse your mothers; which is most infallible disobedience. He that hangs himself is a virgin: virginity murders itself and should be buried in highways out of all sanctified limit, as a desperate offendress against nature. Virginity breeds mites, much like a cheese; consumes itself to the very paring, and so dies with feeding his own stomach. Besides, virginity is peevish, proud, idle, made of self-love, which is the most inhibited sin in the canon. Keep it not; you cannot choose but loose by't: out with 't! within ten year it will make itself ten, which is a goodly increase; and the principal itself not much the worse: away with 't!
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=allswell&Act=1&Scene=1&Scope=scene&LineHighlight=126#121' target='_blank'>I i 79</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/awtew-1-1-123-parolles.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>King</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/9">All's Well That Ends Well</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_84'>
+  
+    <span id="preview_mono_84">
+      I would I had that corporal soundness now<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_84', '/monologues/preview?monologue_id=84', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('+zNvLlMHUWzmw/iwUqxSyBnGOMoRI8Q4WE3kGLY9AnY=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          I would I had that corporal soundness now,<br> 
+As when thy father and myself in friendship<br>
+First tried our soldiership! He did look far<br> 
+Into the service of the time and was<br>
+Discipled of the bravest: he lasted long;<br>
+But on us both did haggish age steal on<br>
+And wore us out of act. It much repairs me<br>
+To talk of your good father. In his youth<br>
+He had the wit which I can well observe<br>
+To-day in our young lords; but they may jest<br>
+Till their own scorn return to them unnoted<br>
+Ere they can hide their levity in honour;<br>
+So like a courtier, contempt nor bitterness<br>
+Were in his pride or sharpness; if they were,<br>
+His equal had awaked them, and his honour,<br>
+Clock to itself, knew the true minute when<br>
+Exception bid him speak, and at this time<br>
+His tongue obey'd his hand: who were below him<br>
+He used as creatures of another place<br>
+And bow'd his eminent top to their low ranks,<br>
+Making them proud of his humility,<br>
+In their poor praise he humbled.<br>
+Such a man Might be a copy to these younger times;<br>
+Which, follow'd well, would demonstrate them now<br>
+But goers backward.
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=allswell&Act=1&Scene=2&Scope=scene&LineHighlight=265#260' target='_blank'>I ii 34</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/awtew-1-2-24-king.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>King</div>
+  <div class='monologue_detail'>
+  Verse - intercut <br/>
+  <a href="/plays/9">All's Well That Ends Well</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_85'>
+  
+    <span id="preview_mono_85">
+      'Tis only title thou disdain'st in her<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_85', '/monologues/preview?monologue_id=85', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('+zNvLlMHUWzmw/iwUqxSyBnGOMoRI8Q4WE3kGLY9AnY=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          'Tis only title thou disdain'st in her, the which<br>
+I can build up. Strange is it that our bloods,<br>
+Of colour, weight, and heat, pour'd all together,<br>
+Would quite confound distinction, yet stand off<br>
+In differences so mighty. If she be<br>
+All that is virtuous, save what thou dislikest,<br>
+A poor physician's daughter, thou dislikest<br>
+Of virtue for the name: but do not so:<br>
+From lowest place when virtuous things proceed,<br>
+The place is dignified by the doer's deed:<br>
+Where great additions swell's, and virtue none,<br>
+It is a dropsied honour. Good alone<br>
+Is good without a name. Vileness is so:<br>
+The property by what it is should go,<br>
+Not by the title. She is young, wise, fair;<br>
+In these to nature she's immediate heir,<br>
+And these breed honour: that is honour's scorn,<br>
+Which challenges itself as honour's born<br>
+And is not like the sire: honours thrive,<br>
+When rather from our acts we them derive<br>
+Than our foregoers: the mere word's a slave<br>
+Debosh'd on every tomb, on every grave<br>
+A lying trophy, and as oft is dumb<br>
+Where dust and damn'd oblivion is the tomb<br>
+Of honour'd bones indeed. What should be said?<br>
+If thou canst like this creature as a maid,<br>
+I can create the rest: virtue and she<br>
+Is her own dower; honour and wealth from me.<p>
+<font size='-1'>BERTRAM
+I cannot love her, nor will strive to do't.</font><p>
+KING<br>
+Thou wrong'st thyself, if thou shouldst strive to choose.<p>
+<font size='-1'>HELENA<br>
+That you are well restored, my lord, I'm glad:<br>
+Let the rest go.</font><p>
+KING<br>
+My honour's at the stake; which to defeat,<br>
+I must produce my power. Here, take her hand,<br>
+Proud scornful boy, unworthy this good gift;<br>
+That dost in vile misprision shackle up<br>
+My love and her desert; that canst not dream,<br>
+We, poising us in her defective scale,<br>
+Shall weigh thee to the beam; that wilt not know,<br>
+It is in us to plant thine honour where<br>
+We please to have it grow. Cheque thy contempt:<br>
+Obey our will, which travails in thy good:<br>
+Believe not thy disdain, but presently<br>
+Do thine own fortunes that obedient right<br>
+Which both thy duty owes and our power claims;<br>
+Or I will throw thee from my care for ever<br>
+Into the staggers and the careless lapse<br>
+Of youth and ignorance; both my revenge and hate<br>
+Loosing upon thee, in the name of justice,<br>
+Without all terms of pity. Speak; thine answer.<br>
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=allswell&Act=2&Scene=3&Scope=scene&LineHighlight=1018#1010' target='_blank'>II iii 104</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/awtew-2-1-116-king.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+</table></div>
+
+
+  
+
+
+
+
+    </div>
+:@_rails_html_safeF

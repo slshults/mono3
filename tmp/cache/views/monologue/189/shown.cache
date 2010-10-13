@@ -1,0 +1,13 @@
+"ù
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_189">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_189', '/monologues/preview/189', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('1AqOOpZYJL5ihGrf4uc729VmICTXLX8e7qgr+xfgvxo=')}); return false;">
+No shame but mine. I must forsooth be forc'd
+
+</a>
+    </span>
+  
+

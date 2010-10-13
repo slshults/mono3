@@ -1,0 +1,10 @@
+"¡
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_629">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_629', '/monologues/preview/629', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('SIjL6w7u4uFepEMfAqv3XEwl7SVsaqQh+JB1E3pAe4Y=')}); return false;">Good friends, sweet friends, let me not stir you up</a>
+    </span>
+  
+

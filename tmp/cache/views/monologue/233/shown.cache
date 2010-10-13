@@ -1,0 +1,10 @@
+"¢
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_233">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_233', '/monologues/preview/233', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('xnQ7N2eGjTFUntmYoFVRmGgCq303a3vx0u/Z3Xk5Zc8=')}); return false;">'Tis not due yet: I would be loath to pay him before</a>
+    </span>
+  
+

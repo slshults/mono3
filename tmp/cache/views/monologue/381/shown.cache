@@ -1,0 +1,10 @@
+"°
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_381">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_381', '/monologues/preview/381', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('VZsbL44P1qSXdg9f19bptrR0PBqxeEYJ4GmC9Ma+tNo=')}); return false;">Hear you, Patroclus We are too well acquainted with these answers:</a>
+    </span>
+  
+

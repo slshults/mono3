@@ -1,0 +1,41 @@
+"â
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_756">
+      O hateful hands, to tear such loving words!<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_756', '/monologues/preview?monologue_id=756', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('XepXdRF0+B2Q904t5astrG8Pc6zNNiVGQpajlQW/Ecw=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          O hateful hands, to tear such loving words!<br>
+Injurious wasps, to feed on such sweet honey <br>
+And kill the bees that yield it with your stings!<br>
+I'll kiss each several paper for amends.<br>
+Look, here is writ 'kind Julia.' Unkind Julia!<br>
+As in revenge of thy ingratitude,<br>
+I throw thy name against the bruising stones,<br>
+Trampling contemptuously on thy disdain.<br>
+And here is writ 'love-wounded Proteus.'<br>
+Poor wounded name! my bosom as a bed<br>
+Shall lodge thee till thy wound be thoroughly heal'd;<br>
+And thus I search it with a sovereign kiss. <br>
+But twice or thrice was 'Proteus' written down.<br>
+Be calm, good wind, blow not a word away<br>
+Till I have found each letter in the letter,<br>
+Except mine own name: that some whirlwind bear<br>
+Unto a ragged fearful-hanging rock <br>
+And throw it thence into the raging sea!<br>
+Lo, here in one line is his name twice writ,<br>
+'Poor forlorn Proteus, passionate Proteus,<br>
+To the sweet Julia:' that I'll tear away.<br>
+And yet I will not, sith so prettily <br>
+He couples it to his complaining names.<br>
+Thus will I fold them one on another:<br>
+Now kiss, embrace, contend, do what you will. 
+      </div>
+    </span>
+
+  
+

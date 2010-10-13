@@ -1,0 +1,37 @@
+"ˆ
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_668">
+      O! no doubt, my good friends,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_668', '/monologues/preview?monologue_id=668', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('12310QwQgqMSZ/Vq0AXVdFoYHRbKBeqkNhjXlMg1emw=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          O, no doubt, my good friends, but the gods<br>
+themselves have provided that I shall have much help<br>
+from you: how had you been my friends else? why<br>
+have you that charitable title from thousands, did<br>
+not you chiefly belong to my heart? I have told <br>
+more of you to myself than you can with modesty<br>
+speak in your own behalf; and thus far I confirm<br>
+you. O you gods, think I, what need we have any<br>
+friends, if we should ne'er have need of 'em? they<br>
+were the most needless creatures living, should we <br>
+ne'er have use for 'em, and would most resemble<br>
+sweet instruments hung up in cases that keep their<br>
+sounds to themselves. Why, I have often wished<br>
+myself poorer, that I might come nearer to you. We<br>
+are born to do benefits: and what better or <br>
+properer can we can our own than the riches of our<br>
+friends? O, what a precious comfort 'tis, to have<br>
+so many, like brothers, commanding one another's<br>
+fortunes! O joy, e'en made away ere 't can be born!<br>
+Mine eyes cannot hold out water, methinks: to <br>
+forget their faults, I drink to you. 
+      </div>
+    </span>
+
+  
+

@@ -1,0 +1,18 @@
+"A
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_514">
+      Then you lost
+The view of earthly glory: men might say<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_514', '/monologues/preview?monologue_id=514', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('mf6lZFKfAIrA8nxmGVljSAo86YhJMFrwzOB0iii9C7A=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+
+  
+

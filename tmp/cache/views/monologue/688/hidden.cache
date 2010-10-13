@@ -1,0 +1,43 @@
+"*
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_688">
+      Hail, Rome, victorious in thy mourning weeds!<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_688', '/monologues/preview?monologue_id=688', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('0x7jTYSz3mg2BCywTpfxa6KKrbdP/Yp0cqMBqm2k8F4=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Hail, Rome, victorious in thy mourning weeds!<br>
+Lo, as the bark, that hath discharged her fraught,<br>
+Returns with precious jading to the bay<br>
+From whence at first she weigh'd her anchorage,<br>
+Cometh Andronicus, bound with laurel boughs, <br>
+To re-salute his country with his tears,<br>
+Tears of true joy for his return to Rome.<br>
+Thou great defender of this Capitol,<br>
+Stand gracious to the rites that we intend!<br>
+Romans, of five and twenty valiant sons, <br>
+Half of the number that King Priam had,<br>
+Behold the poor remains, alive and dead!<br>
+These that survive let Rome reward with love;<br>
+These that I bring unto their latest home,<br>
+With burial amongst their ancestors: <br>
+Here Goths have given me leave to sheathe my sword.<br>
+Titus, unkind and careless of thine own,<br>
+Why suffer'st thou thy sons, unburied yet,<br>
+To hover on the dreadful shore of Styx?<br>
+Make way to lay them by their brethren. <br>
+<i>[The tomb is opened]</i><br>
+There greet in silence, as the dead are wont,<br>
+And sleep in peace, slain in your country's wars!<br>
+O sacred receptacle of my joys,<br>
+Sweet cell of virtue and nobility, <br>
+How many sons of mine hast thou in store,<br>
+That thou wilt never render to me more! 
+      </div>
+    </span>
+
+  
+

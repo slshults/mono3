@@ -1,0 +1,41 @@
+"ü
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_386">
+      Ajax goes up and down the field, asking for himself.<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_386', '/monologues/preview?monologue_id=386', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('3fa8SH3TLIQTNYY17yUJdrmYXy3yf/J1Og2xBBglUyM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Thersites.</b> Ajax goes up and down the field, asking for himself. <br>
+<br>
+<del><b>Achilles.</b> How so?</del> <br>
+<br>
+<b>Thersites.</b> He must fight singly to-morrow with Hector, and is so<br>
+ prophetically proud of an heroical cudgelling that he<br>
+ raves in saying nothing. <br>
+<br>
+<del><b>Achilles.</b> How can that be? </del><br>
+<br>
+<b>Thersites.</b> Why, he stalks up and down like a peacock,â€”a stride<br>
+ and a stand: ruminates like an hostess that hath no<br>
+ arithmetic but her brain to set down her reckoning:<br>
+ bites his lip with a politic regard, as who should<br>
+ say 'There were wit in this head, an 'twould out;'<br>
+ and so there is, but it lies as coldly in him as fire<br>
+ in a flint, which will not show without knocking.<br>
+ The man's undone forever; for if Hector break not his<br>
+ neck i' the combat, he'll break 't himself in<br>
+ vain-glory. He knows not me: I said 'Good morrow,<br>
+ Ajax;' and he replies 'Thanks, Agamemnon.' What think <br>
+ you of this man that takes me for the general? He's<br>
+ grown a very land-fish, language-less, a monster.<br>
+ A plague of opinion! a man may wear it on both<br>
+ sides, like a leather jerkin. 
+      </div>
+    </span>
+
+  
+

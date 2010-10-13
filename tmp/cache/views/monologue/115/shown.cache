@@ -1,0 +1,10 @@
+"—
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_115">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_115', '/monologues/preview/115', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Nbc+4XQlBP0yCxx/IZsnCwPXYfB039roIewpNxCw0sI=')}); return false;">Who? thy lord? that is my lord, Leonatus!</a>
+    </span>
+  
+

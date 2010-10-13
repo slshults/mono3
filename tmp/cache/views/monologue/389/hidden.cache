@@ -1,0 +1,34 @@
+"¶
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_389">
+      I have, thou gallant Trojan, see thee oft,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_389', '/monologues/preview?monologue_id=389', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('3fa8SH3TLIQTNYY17yUJdrmYXy3yf/J1Og2xBBglUyM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          I have, thou gallant Trojan, seen thee oft<br>
+Labouring for destiny make cruel way<br>
+Through ranks of Greekish youth, and I have seen thee,<br>
+As hot as Perseus, spur thy Phrygian steed,<br>
+Despising many forfeits and subduements,<br>
+When thou hast hung thy advanced sword i' the air,<br>
+Not letting it decline on the declined,<br>
+That I have said to some my standers by<br>
+'Lo, Jupiter is yonder, dealing life!' <br>
+And I have seen thee pause and take thy breath,<br>
+When that a ring of Greeks have hemm'd thee in,<br>
+Like an Olympian wrestling: this have I seen;<br>
+But this thy countenance, still lock'd in steel,<br>
+I never saw till now. I knew thy grandsire, <br>
+And once fought with him: he was a soldier good;<br>
+But, by great Mars, the captain of us all,<br>
+Never saw like thee. Let an old man embrace thee;<br>
+And, worthy warrior, welcome to our tents. 
+      </div>
+    </span>
+
+  
+

@@ -1,0 +1,11 @@
+"£
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_785">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_785', '/monologues/preview/785', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('oJ0kdXsbqMGLari15sAdaRfxb2OJzTJFCKyDI7peiPs=')}); return false;">My lord, my lord, 
+I am a simple woman, much too weak</a>
+    </span>
+  
+

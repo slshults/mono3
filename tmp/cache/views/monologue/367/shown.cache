@@ -1,0 +1,10 @@
+"
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_367">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_367', '/monologues/preview/367', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('dTQ3fE1bXvq8FCCYAbvgX02cXi/Ky6WSF7oq8uon7n0=')}); return false;">O Pandarus! I tell thee, Pandarus</a>
+    </span>
+  
+

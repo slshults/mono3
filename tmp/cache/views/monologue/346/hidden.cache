@@ -1,0 +1,34 @@
+"ê
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_346">
+      In Antiochus and his daughter you have heard<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_346', '/monologues/preview?monologue_id=346', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('oi8Jx33bxj2Ndvs3dNqMhcuAT4SE891UL9V/n2Rspw8=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          In Antiochus and his daughter you have heard<br>
+Of monstrous lust the due and just reward:<br>
+In Pericles, his queen and daughter, seen,<br>
+Although assail'd with fortune fierce and keen, <br>
+Virtue preserved from fell destruction's blast,<br>
+Led on by heaven, and crown'd with joy at last:<br>
+In Helicanus may you well descry<br>
+A figure of truth, of faith, of loyalty:<br>
+In reverend Cerimon there well appears <br>
+The worth that learned charity aye wears:<br>
+For wicked Cleon and his wife, when fame<br>
+Had spread their cursed deed, and honour'd name<br>
+Of Pericles, to rage the city turn,<br>
+That him and his they in his palace burn; <br>
+The gods for murder seemed so content<br>
+To punish them; although not done, but meant.<br>
+So, on your patience evermore attending,<br>
+New joy wait on you! Here our play has ending. 
+      </div>
+    </span>
+
+  
+

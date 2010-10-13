@@ -1,0 +1,56 @@
+"	
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_8">
+      Though yet of Hamlet our dear brother's death<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_8', '/monologues/preview?monologue_id=8', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('FeJHCGZE5R6VDBHXMUYIyi+SAbQqW9D8C1FgLP+cWWM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Though yet of Hamlet our dear brother's death<br>
+The memory be green, and that it us befitted<br>
+To bear our hearts in grief, and our whole kingdom<br>
+To be contracted in one brow of woe,<br>
+Yet so far hath discretion fought with nature<br>
+That we with wisest sorrow think on him<br>
+Together with remembrance of ourselves.<br>
+Therefore our sometime sister, now our queen,<br>
+Th' imperial jointress to this warlike state,<br>
+Have we, as 'twere with a defeated joy, <br>
+With an auspicious, and a dropping eye,<br>
+With mirth in funeral, and with dirge in marriage,<br>
+In equal scale weighing delight and dole,<br>
+Taken to wife; nor have we herein barr'd<br>
+Your better wisdoms, which have freely gone <br>
+With this affair along. For all, our thanks.<br>
+Now follows, that you know, young Fortinbras,<br>
+Holding a weak supposal of our worth,<br>
+Or thinking by our late dear brother's death<br>
+Our state to be disjoint and out of frame, <br>
+Colleagued with this dream of his advantage,<br>
+He hath not fail'd to pester us with message<br>
+Importing the surrender of those lands<br>
+Lost by his father, with all bands of law,<br>
+To our most valiant brother. So much for him. <br>
+Now for ourself and for this time of meeting.<br>
+Thus much the business is: we have here writ<br>
+To Norway, uncle of young Fortinbras,<br>
+Who, impotent and bedrid, scarcely hears<br>
+Of this his nephew's purpose, to suppress <br>
+His further gait herein, in that the levies,<br>
+The lists, and full proportions are all made<br>
+Out of his subject; and we here dispatch<br>
+You, good Cornelius, and you, Voltemand,<br>
+For bearers of this greeting to old Norway, <br>
+Giving to you no further personal power<br>
+To business with the King, more than the scope<br>
+Of These dilated articles allow. [<i>Gives a paper.</i>]
+Farewell, and let your haste commend your duty. <br>
+
+      </div>
+    </span>
+
+  
+

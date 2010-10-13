@@ -1,0 +1,10 @@
+"Ÿ
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_407">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_407', '/monologues/preview/407', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('oi8Jx33bxj2Ndvs3dNqMhcuAT4SE891UL9V/n2Rspw8=')}); return false;">I am but a fool, look you; and yet I have the wit</a>
+    </span>
+  
+

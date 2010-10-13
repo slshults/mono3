@@ -1,0 +1,10 @@
+"—
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_385">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_385', '/monologues/preview/385', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('3fa8SH3TLIQTNYY17yUJdrmYXy3yf/J1Og2xBBglUyM=')}); return false;">The providence that's in a watchful state</a>
+    </span>
+  
+

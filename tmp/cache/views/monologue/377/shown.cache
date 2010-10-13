@@ -1,0 +1,10 @@
+"’
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_377">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_377', '/monologues/preview/377', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('NbrFBWt28QmJRaUbUKoQVFoszoycvpRnLqKnYfwkHyA=')}); return false;">I take today a wife, and my election</a>
+    </span>
+  
+

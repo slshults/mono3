@@ -1,0 +1,13 @@
+"˜
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_158">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_158', '/monologues/preview/158', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('BT6qq+hPtM0St22Ts0AGT9k8pSE4tp9lGEqL9YXlNvI=')}); return false;">
+Away then!   I am lock'd in one of them
+
+</a>
+    </span>
+  
+

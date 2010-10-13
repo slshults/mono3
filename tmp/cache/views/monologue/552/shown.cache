@@ -1,0 +1,10 @@
+"•
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_552">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_552', '/monologues/preview/552', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('kn/bxnTUsPyiYgcy8aUI7d61uYCHzARQP0zBsYRpuTQ=')}); return false;">Have I not hideous death within my view</a>
+    </span>
+  
+

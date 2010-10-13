@@ -1,0 +1,10 @@
+"™
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_680">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_680', '/monologues/preview/680', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Wqs+5vKZfqIhn5S6LXECSNVPmus7EuBMtaPz7sU+biM=')}); return false;">Thou art a slave, whom Fortune's tender arm</a>
+    </span>
+  
+

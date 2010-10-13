@@ -1,0 +1,11 @@
+"®
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_19">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_19', '/monologues/preview/19', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('SLgGMdfhmiC4L3YIr3H9ARMzPOA8LcEcGLXGrvOdZSA=')}); return false;">Anon, he finds him
+Striking too short at Greeks; his antique sword,</a>
+    </span>
+  
+

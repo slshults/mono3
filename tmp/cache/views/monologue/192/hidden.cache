@@ -1,0 +1,42 @@
+"¶
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_192">
+      Even as a flatt'ring dream or worthless fancy<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_192', '/monologues/preview?monologue_id=192', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('V0vMTYMQjgOX68R9UtQgyKNlWf9/6J7mMpYrkZ+1mvM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Even as a flatt'ring dream or worthless fancy.<br>
+Then take him up, and manage well the jest:<br>
+Carry him gently to my fairest chamber,<br>
+And hang it round with all my wanton pictures;<br>
+Balm his foul head in warm distilled waters,<br>
+And burn sweet wood to make the lodging sweet; <br>
+Procure me music ready when he wakes,<br>
+To make a dulcet and a heavenly sound;<br>
+And if he chance to speak, be ready straight,<br>
+And with a low submissive reverence<br>
+Say 'What is it your honour will command?' <br>
+Let one attend him with a silver basin<br>
+Full of rose-water and bestrew'd with flowers;<br>
+Another bear the ewer, the third a diaper,<br>
+And say 'Will't please your lordship cool your hands?'<br>
+Some one be ready with a costly suit, <br>
+And ask him what apparel he will wear;<br>
+Another tell him of his hounds and horse,<br>
+And that his lady mourns at his disease;<br>
+Persuade him that he hath been lunatic,<br>
+And, when he says he is, say that he dreams, <br>
+For he is nothing but a mighty lord.<br>
+This do, and do it kindly, gentle sirs;<br>
+It will be pastime passing excellent,<br>
+If it be husbanded with modesty. 
+
+      </div>
+    </span>
+
+  
+

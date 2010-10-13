@@ -1,0 +1,10 @@
+"™
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_201">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_201', '/monologues/preview/201', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('mLF4EP0lpqIzqhpCzk2I3Mhztfw8a4a9snM4uSecIbY=')}); return false;">They shall go forward, Kate, at thy command</a>
+    </span>
+  
+

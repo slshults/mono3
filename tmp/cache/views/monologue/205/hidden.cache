@@ -1,0 +1,35 @@
+"&
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_205">
+      
+
+
+'What is your parentage?'
+'Above my fortunes, yet my state is well
+
+<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_205', '/monologues/preview?monologue_id=205', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('V5LTOiNo9qg1ZrVB6ucYDeetFcGw7tWHFRRFs7ezylk=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          'What is your parentage?'<br>
+'Above my fortunes, yet my state is well:<br>
+I am a gentleman.' I'll be sworn thou art;<br>
+Thy tongue, thy face, thy limbs, actions and spirit,<br>
+Do give thee five-fold blazon: not too fast:<br>
+soft, soft!<br>
+Unless the master were the man. How now!<br>
+Even so quickly may one catch the plague? <br>
+Methinks I feel this youth's perfections<br>
+
+With an invisible and subtle stealth<br>
+To creep in at mine eyes. Well, let it be. 
+
+      </div>
+    </span>
+
+  
+

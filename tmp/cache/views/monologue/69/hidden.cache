@@ -1,0 +1,65 @@
+"
+
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_69">
+      
+
+Doubtful it stood;
+As two spent swimmers, that do cling together
+
+ <br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_69', '/monologues/preview?monologue_id=69', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('KmR49GV+pAEidIux/xAiNhFlHkRHhyB6gGsdu18JJTI=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Sergeant.</b><div align='right'>Doubtful it stood;</div>
+      As two spent swimmers, that do cling together<br>
+      And choke their art. The merciless Macdonwald.<br>
+      Worthy to be a rebel, for to that<br>
+      The multiplying villanies of nature<br>
+      Do swarm upon him.from the western isles<br>
+      Of kerns and gallowglasses is supplied;<br>
+      And fortune, on his damned quarrel smiling,<br>
+      Show'd like a rebel's whore: but all's too weak:<br>
+      For brave Macbeth--well he deserves that name. <br>
+      Disdaining fortune, with his brandish'd steel,<br>
+      Which smoked with bloody execution,<br>
+      Like valour's minion carved out his passage<br>
+      Till he faced the slave;<br>
+      Which ne'er shook hands, nor bade farewell to him,<br>
+      Till he unseam'd him from the nave to the chaps,<br>
+      And fix'd his head upon our battlements. <br><br>
+
+<del><b>Duncan.</b> O valiant cousin! worthy gentleman! </del><br><br>
+
+<b>Sergeant.</b> As whence the sun 'gins his reflection<br>
+      Shipwrecking storms and direful thunders break,<br>
+      So from that spring whence comfort seem'd to come<br>
+      Discomfort swells. Mark, king of Scotland, mark:<br>
+      No sooner justice had with valour arm'd<br>
+      Compell'd these skipping kerns to trust their heels,<br>
+      But the Norweyan lord surveying vantage,<br>
+      With furbish'd arms and new supplies of men<br>
+      Began a fresh assault. <br><br>
+
+<del><b>Duncan.</b> Dismay'd not this<br>
+      Our captains, Macbeth and Banquo? </del><br><br>
+
+<b>Sergeant.</b> <del>Yes;</del><br>
+      As sparrows eagles, or the hare the lion.<br>
+      If I say sooth, I must report they were<br>
+      As cannons overcharged with double cracks, so they<br>
+      Doubly redoubled strokes upon the foe:<br>
+      Except they meant to bathe in reeking wounds,<br>
+      Or memorise another Golgotha,<br>
+      I cannot tell.<br>
+      But I am faint, my gashes cry for help. 
+
+      </div>
+    </span>
+
+  
+

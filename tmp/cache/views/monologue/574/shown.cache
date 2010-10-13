@@ -1,0 +1,10 @@
+"¡
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_574">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_574', '/monologues/preview/574', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('QzCHhAIukmAvNxvSMcDwiCYx97hBx+VLQ6WoBkTXf4A=')}); return false;">Those eyes of thine from mine have drawn salt tears</a>
+    </span>
+  
+

@@ -1,0 +1,10 @@
+"›
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_404">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_404', '/monologues/preview/404', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('F0S7Ulr+rSbO0FmcMG7rBxyPNZOfsFtUX+09v86pmtg=')}); return false;">And why not death rather than living torment?</a>
+    </span>
+  
+

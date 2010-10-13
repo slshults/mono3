@@ -1,0 +1,46 @@
+">
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_724">
+      Most strange but yet most truly will I speak<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_724', '/monologues/preview?monologue_id=724', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('bvmdPs1XbWERz9ZNbXQe45pUHD1AWxZ4eVsC9Z5EspA=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Isabella.</b> Most strange, but yet most truly, will I speak:<br>
+ That Angelo's forsworn; is it not strange?<br>
+ That Angelo's a murderer; is 't not strange?<br>
+ That Angelo is an adulterous thief, <br>
+ An hypocrite, a virgin-violator;<br>
+ Is it not strange and strange? <br>
+<br>
+<del><b>Vincentio.</b> Nay, it is ten times strange. </del><br>
+<br>
+<b>Isabella.</b> It is not truer he is Angelo<br>
+ Than this is all as true as it is strange: <br>
+ Nay, it is ten times true; for truth is truth<br>
+ To the end of reckoning. <br>
+<br>
+<del><b>Vincentio.</b> Away with her! Poor soul,<br>
+ She speaks this in the infirmity of sense. </del><br>
+<br>
+<B>Isabella.</b> O prince, I conjure thee, as thou believest <br>
+ There is another comfort than this world,<br>
+ That thou neglect me not, with that opinion<br>
+ That I am touch'd with madness! Make not impossible<br>
+ That which but seems unlike: 'tis not impossible<br>
+ But one, the wicked'st caitiff on the ground, <br>
+ May seem as shy, as grave, as just, as absolute<br>
+ As Angelo; even so may Angelo,<br>
+ In all his dressings, characts, titles, forms,<br>
+ Be an arch-villain; believe it, royal prince:<br>
+ If he be less, he's nothing; but he's more,<br>
+ Had I more name for badness. <br>
+
+      </div>
+    </span>
+
+  
+

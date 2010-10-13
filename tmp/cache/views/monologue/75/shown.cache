@@ -1,0 +1,15 @@
+"²
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_75">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_75', '/monologues/preview/75', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('ryNoXVw57bntbiNXoUWviiwuBWrgUWP3hySqPHcr73g=')}); return false;">
+
+Macduff, this noble passion,
+Child of integrity, hath from my soul 
+
+</a>
+    </span>
+  
+

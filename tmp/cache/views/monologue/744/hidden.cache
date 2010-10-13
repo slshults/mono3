@@ -1,0 +1,31 @@
+"­
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_744">
+      I am a maid, My lord, that ne'er before invited eyes<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_744', '/monologues/preview?monologue_id=744', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('DauvSK3OV4Ba0hIQ3QihrlHc5CsSEkJReaBv8nmJLok=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <div align="right">I am a maid,</div>
+My lord, that ne'er before invited eyes,<br>
+But have been gazed on like a comet: she speaks,<br>
+My lord, that, may be, hath endured a grief<br>
+Might equal yours, if both were justly weigh'd.<br>
+Though wayward fortune did malign my state,<br>
+My derivation was from ancestors<br>
+Who stood equivalent with mighty kings:<br>
+But time hath rooted out my parentage,<br>
+And to the world and awkward casualties<br>
+Bound me in servitude.<br>
+[Aside]<br>
+I will desist;<br>
+But there is something glows upon my cheek,<br>
+And whispers in mine ear, 'Go not till he speak.' 
+      </div>
+    </span>
+
+  
+

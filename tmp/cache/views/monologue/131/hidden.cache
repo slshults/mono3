@@ -1,0 +1,44 @@
+"D
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_131">
+      Most welcome, bondage! for thou art away<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_131', '/monologues/preview?monologue_id=131', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('0Z/t13+LSIkFnadcmEeJ14FwmAymRQGteFB0zBkdVaE=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Most welcome, bondage! for thou art away,<br>
+think, to liberty: yet am I better<br>
+Than one that's sick o' the gout; since he had rather<br>
+Groan so in perpetuity than be cured<br>
+By the sure physician, death, who is the key<br>
+To unbar these locks. My conscience, thou art fetter'd <br>
+More than my shanks and wrists: you good gods, give me<br>
+The penitent instrument to pick that bolt,<br>
+Then, free for ever! Is't enough I am sorry?<br>
+So children temporal fathers do appease;<br>
+Gods are more full of mercy. Must I repent? <br>
+I cannot do it better than in gyves,<br>
+Desired more than constrain'd: to satisfy,<br>
+If of my freedom 'tis the main part, take<br>
+No stricter render of me than my all.<br>
+I know you are more clement than vile men,<br>
+Who of their broken debtors take a third,<br>
+A sixth, a tenth, letting them thrive again<br>
+On their abatement: that's not my desire:<br>
+For Imogen's dear life take mine; and though<br>
+'Tis not so dear, yet 'tis a life; you coin'd it:<br>
+'Tween man and man they weigh not every stamp;<br>
+Though light, take pieces for the figure's sake:<br>
+You rather mine, being yours: and so, great powers,<br>
+If you will take this audit, take this life,<br>
+And cancel these cold bonds. O Imogen! <br>
+I'll speak to thee in silence. <br>
+
+      </div>
+    </span>
+
+  
+

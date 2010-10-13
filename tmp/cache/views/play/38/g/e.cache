@@ -1,0 +1,488 @@
+I"�d  
+    <div>
+    <h2>Monologues in Shakespeare</h2>
+    <h2>Julius Caesar</h2>
+      <span>
+        <form action="javascript:void(0);" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=" /></div>
+          <b>Search:</b> <input type="text" id="search" size="40"/>
+          <img alt="Ajax-loader" id="spinner" src="/images/ajax-loader.gif?1278779332" style="display: none;" />
+        </form>
+        <div class="search_links">
+          <a href="/plays/38?g=3">Search Men</a> &nbsp;|&nbsp;
+          <a href="/plays/38?g=2">Search Women</a> &nbsp;|&nbsp;
+          <a href="/plays">Search All Plays</a> &nbsp;|&nbsp;
+          
+            <a href="/plays/38?expand=1">Expand All</a>
+          
+        </div>
+      </span>
+    </div>
+    <script type="text/javascript">
+//<![CDATA[
+new Form.Element.Observer('search', 1.25, function(element, value) {Element.show('spinner'); new Ajax.Updater('ajaxResults', 'http://shakespeare-monologues.org/monologues/search', {asynchronous:true, evalScripts:true, onComplete:function(request){Element.hide('spinner')}, parameters:'p=38&search=' + encodeURIComponent(value) + '&authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')})})
+//]]>
+</script>
+
+  
+    <div id='ajaxResults'>
+      
+
+  
+
+      
+<div>
+  <table id='monologue_list'>
+    <tr>
+      <th>Character</th>
+      <th>First Line</th>
+      <th>Act & Sc</th>
+      <th>pdf</th>
+    </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Marullus</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/38">Julius Caesar</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_612'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_612', '/monologues/preview/612', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">Wherefore rejoice?  What conquest brings he home?</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=juliuscaesar&Act=1&Scene=1&Scope=scene&LineHighlight=33#22' target='_blank'>I i 24</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/jc-1-1-33-marullus.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Cassius</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/38">Julius Caesar</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_613'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_613', '/monologues/preview/613', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">I know that virtue to be in you, Brutus</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=juliuscaesar&Act=1&Scene=2&Scope=scene&LineHighlight=180#170' target='_blank'>I ii 98</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/jc-1-2-90-cassius.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Cassius</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/38">Julius Caesar</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_614'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_614', '/monologues/preview/614', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">Why, man, he doth bestride the narrow world</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=juliuscaesar&Act=1&Scene=2&Scope=scene&LineHighlight=226#222' target='_blank'>I ii 143</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/jc-1-2-143-cassius.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Casca</div>
+  <div class='monologue_detail'>
+  Prose  <br/>
+  <a href="/plays/38">Julius Caesar</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_615'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_615', '/monologues/preview/615', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">I can as well be hanged as tell the manner of it</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=juliuscaesar&Act=1&Scene=2&Scope=scene&LineHighlight=327#320' target='_blank'>I ii 240</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/jc-1-2-240-casca.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Cassius</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/38">Julius Caesar</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_616'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_616', '/monologues/preview/616', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">Well Brutus thou art noble yet I see</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=juliuscaesar&Act=1&Scene=2&Scope=scene&LineHighlight=402#390' target='_blank'>I ii 271</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/jc-1-2-271-cassius.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Casca</div>
+  <div class='monologue_detail'>
+  Verse - intercut <br/>
+  <a href="/plays/38">Julius Caesar</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_617'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_617', '/monologues/preview/617', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">Are not you mov'd, when all the sway of earth</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=juliuscaesar&Act=1&Scene=3&Scope=scene&LineHighlight=424' target='_blank'>I iii 5</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/jc-1-3-3-casca.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Cassius</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/38">Julius Caesar</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_618'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_618', '/monologues/preview/618', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">You are dull, Casca, and those sparks of life</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=juliuscaesar&Act=1&Scene=3&Scope=scene&LineHighlight=483#479' target='_blank'>I iii 63</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/jc-1-3-63-cassius.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Brutus</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/38">Julius Caesar</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_619'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_619', '/monologues/preview/619', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">It must be by his death; and for my part</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=juliuscaesar&Act=2&Scene=1&Scope=scene&LineHighlight=611#605' target='_blank'>II i 13</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/jc-2-1-20-brutus.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Brutus</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/38">Julius Caesar</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_620'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_620', '/monologues/preview/620', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">No, not an oath: if not the face of men,</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=juliuscaesar&Act=2&Scene=1&Scope=scene&LineHighlight=732#730' target='_blank'>II i 127</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/jc-2-1-127-brutus.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Brutus</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/38">Julius Caesar</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_621'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_621', '/monologues/preview/621', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">Our course will seem too bloody, Caius Cassius,</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=juliuscaesar&Act=2&Scene=1&Scope=scene&LineHighlight=782#774' target='_blank'>II i 177</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/jc-2-1-177-brutus.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Antony</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/38">Julius Caesar</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_622'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_622', '/monologues/preview/622', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">O mighty Caesar! dost thou lie so low?</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=juliuscaesar&Act=3&Scene=1&Scope=scene&LineHighlight=1369#1361' target='_blank'>III i 167</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/jc-3-1-167-antony.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Antony</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/38">Julius Caesar</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_623'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_623', '/monologues/preview/623', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">My credit now stands on such slippery ground,</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=juliuscaesar&Act=3&Scene=1&Scope=scene&LineHighlight=1405#1398' target='_blank'>III i 211</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/jc-3-1-211-antony.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Antony</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/38">Julius Caesar</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_624'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_624', '/monologues/preview/624', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">O, pardon me, thou bleeding piece of earth</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=juliuscaesar&Act=3&Scene=1&Scope=scene&LineHighlight=1483#1479' target='_blank'>III i 279</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/jc-3-1-254-marcantony.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Brutus</div>
+  <div class='monologue_detail'>
+  Prose - intercut <br/>
+  <a href="/plays/38">Julius Caesar</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_625'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_625', '/monologues/preview/625', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">Romans, countrymen, and lovers! hear me for my cause</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=juliuscaesar&Act=3&Scene=2&Scope=scene&LineHighlight=1545#1539' target='_blank'>III ii 16</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/jc-3-2-16-brutus.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Antony</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/38">Julius Caesar</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_626'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_626', '/monologues/preview/626', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">Friends, Romans, countrymen, lend me your ears</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=juliuscaesar&Act=3&Scene=2&Scope=scene&LineHighlight=1617#1611' target='_blank'>III ii 52</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/jc-3-2-74-marcantony.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Antony</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/38">Julius Caesar</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_627'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_627', '/monologues/preview/627', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">But yesterday the word of Caesar might</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=juliuscaesar&Act=3&Scene=2&Scope=scene&LineHighlight=1663#1660' target='_blank'>III ii 98</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/jc-3-2-98-antony.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Antony</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/38">Julius Caesar</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_628'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_628', '/monologues/preview/628', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">If you have tears, prepare to shed them now</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=juliuscaesar&Act=3&Scene=2&Scope=scene&LineHighlight=1714#1710' target='_blank'>III ii 148</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/jc-3-2-169-antony.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Antony</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/38">Julius Caesar</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_629'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_629', '/monologues/preview/629', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">Good friends, sweet friends, let me not stir you up</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=juliuscaesar&Act=3&Scene=2&Scope=scene&LineHighlight=1754#1749' target='_blank'>III ii 188</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/jc-3-2-188-antony.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Brutus</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/38">Julius Caesar</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_630'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_630', '/monologues/preview/630', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">You have done that you should be sorry for.</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=juliuscaesar&Act=4&Scene=3&Scope=scene&LineHighlight=2050#2046' target='_blank'>IV iii 74</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/jc-4-3-74-brutus.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Cassius</div>
+  <div class='monologue_detail'>
+  Verse - intercut <br/>
+  <a href="/plays/38">Julius Caesar</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_631'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_631', '/monologues/preview/631', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">This is my birth-day: as this very day</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=juliuscaesar&Act=5&Scene=1&Scope=scene&LineHighlight=2427#2425' target='_blank'>V i 84</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/jc-5-1-84-cassius.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Portia</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/38">Julius Caesar</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_810'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_810', '/monologues/preview/810', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">Nor for yours neither. You've ungently, Brutus,</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=juliuscaesar&Act=2&Scene=1&Scope=scene&LineHighlight=864#859' target='_blank'>II i 257</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/jc-2-1-237-portia.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Portia</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/38">Julius Caesar</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_811'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_811', '/monologues/preview/811', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">Is Brutus sick? and is it physical     </a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=juliuscaesar&Act=2&Scene=1&Scope=scene&LineHighlight=888#884' target='_blank'>II i</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/jc-2-1-237-portia.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Calpurnia</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/38">Julius Caesar</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_812'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_812', '/monologues/preview/812', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OaMZuKms/nGBrmW1YT7ujDCTA9HOSdAmor7YoEObCZE=')}); return false;">Caesar, I never stood on ceremonies     </a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=juliuscaesar&Act=2&Scene=2&Scope=scene&LineHighlight=988#982' target='_blank'>II ii 13</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/jc-2-2-11-calpurnia.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+</table></div>
+
+
+  
+
+
+
+
+    </div>
+:@_rails_html_safeF

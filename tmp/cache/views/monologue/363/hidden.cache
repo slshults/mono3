@@ -1,0 +1,30 @@
+"
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_363">
+      I told you, sir, they were red-hot with drinking<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_363', '/monologues/preview?monologue_id=363', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('DmE9X4FxdxSfLxZwIKD+27hU+Y2LGTMfYCeIgtmJuAE=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+           I told you, sir, they were red-hot with drinking;<br>
+So fun of valour that they smote the air<br>
+For breathing in their faces; beat the ground<br>
+For kissing of their feet; yet always bending<br>
+Towards their project. Then I beat my tabour; <br>
+At which, like unback'd colts, they prick'd their ears,<br>
+Advanced their eyelids, lifted up their noses<br>
+As they smelt music: so I charm'd their ears<br>
+That calf-like they my lowing follow'd through<br>
+Tooth'd briers, sharp furzes, pricking goss and thorns,<br>
+Which entered their frail shins: at last I left them<br>
+I' the filthy-mantled pool beyond your cell,<br>
+There dancing up to the chins, that the foul lake<br>
+O'erstunk their feet. 
+      </div>
+    </span>
+
+  
+

@@ -1,0 +1,39 @@
+"$
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_268">
+      God's bread, it makes me mad!<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_268', '/monologues/preview?monologue_id=268', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('SWrm12q98qcqqWOfCDvRVkpsMwWeEiEPs6BsRJzpqSo=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <div align='right'>God's bread! it makes me mad:</div>
+Day, night, hour, tide, time, work, play,<br>
+Alone, in company, still my care hath been <br>
+To have her match'd: and having now provided<br>
+A gentleman of noble parentage,<br>
+Of fair demesnes, youthful, and nobly train'd,<br>
+Stuff'd, as they say, with honourable parts,<br>
+Proportion'd as one's thought would wish a man; <br>
+And then to have a wretched puling fool,<br>
+A whining mammet, in her fortune's tender,<br>
+To answer 'I'll not wed; I cannot love,<br>
+I am too young; I pray you, pardon me.'<br>
+But, as you will not wed, I'll pardon you: <br>
+Graze where you will you shall not house with me:<br>
+Look to't, think on't, I do not use to jest.<br>
+Thursday is near; lay hand on heart, advise:<br>
+An you be mine, I'll give you to my friend;<br>
+And you be not, hang, beg, starve, die in 
+the streets,<br>
+For, by my soul, I'll ne'er acknowledge thee,<br>
+Nor what is mine shall never do thee good:<br>
+Trust to't, bethink you; I'll not be forsworn. 
+
+      </div>
+    </span>
+
+  
+

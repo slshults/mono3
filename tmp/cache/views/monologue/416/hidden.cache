@@ -1,0 +1,39 @@
+"œ
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_416">
+      'Tis more than time: and, my most noble lord,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_416', '/monologues/preview?monologue_id=416', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Co9XXBjgxqeaQxpWItZOKmOYVdrEpvEdndKXXdpe0BU=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+           'Tis more than time. And, my most noble lord, <br>
+I hear for certain, and dare speak the truth:<br>
+The gentle Archbishop of York is up<br>
+With well-appointed pow'rs. He is a man<br>
+Who with a double surety binds his followers.<br>
+My lord your son had only but the corpse, <br>
+But shadows and the shows of men, to fight;<br>
+For that same word 'rebellion' did divide<br>
+The action of their bodies from their souls;<br>
+And they did fight with queasiness, constrain'd,<br>
+As men drink potions; that their weapons only<br>
+Seem'd on our side, but for their spirits and souls<br>
+This word 'rebellion'â€”it had froze them up,<br>
+As fish are in a pond. But now the Bishop<br>
+Turns insurrection to religion.<br>
+Suppos'd sincere and holy in his thoughts, <br>
+He's follow'd both with body and with mind;<br>
+And doth enlarge his rising with the blood<br>
+Of fair King Richard, scrap'd from Pomfret stones;<br>
+Derives from heaven his quarrel and his cause;<br>
+Tells them he doth bestride a bleeding land,<br>
+Gasping for life under great Bolingbroke;<br>
+And more and less do flock to follow him.
+      </div>
+    </span>
+
+  
+

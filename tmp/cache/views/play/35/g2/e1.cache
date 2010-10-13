@@ -1,0 +1,661 @@
+I"
+t  
+    <div>
+      <h2>Women's Monologues in Shakespeare</h2>
+      <h2>Romeo and Juliet</h2>
+      <span>
+        <form action="javascript:void(0);" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="lcTR5/tmwCtOJRqrgln3NrKMvPBmTy6PZRreJjCwnZs=" /></div>
+          <b>Search:</b> <input type="text" id="search" size="40"/>
+          <img alt="Ajax-loader" id="spinner" src="/images/ajax-loader.gif?1278779332" style="display: none;" />
+        </form>
+        <div class="search_links">
+          <a href="/plays/35?g=3">Search Men</a> &nbsp;|&nbsp;
+          <a href="/plays/35">Search Romeo and Juliet</a> &nbsp;|&nbsp;
+          <a href="/plays">Search All Plays</a> &nbsp;|&nbsp;
+          
+            <a href="/plays/35?g=2">Collapse All</a>
+          
+        </div>
+      </span>
+    </div>
+    <script type="text/javascript">
+//<![CDATA[
+new Form.Element.Observer('search', 1.25, function(element, value) {Element.show('spinner'); new Ajax.Updater('ajaxResults', 'http://shakespeare-monologues.org/monologues/search', {asynchronous:true, evalScripts:true, onComplete:function(request){Element.hide('spinner')}, parameters:'g=2&p=35&search=' + encodeURIComponent(value) + '&authenticity_token=' + encodeURIComponent('lcTR5/tmwCtOJRqrgln3NrKMvPBmTy6PZRreJjCwnZs=')})})
+//]]>
+</script>
+  
+    <div id='ajaxResults'>
+      
+
+  
+
+      
+<div>
+  <table id='monologue_list'>
+    <tr>
+      <th>Character</th>
+      <th>First Line</th>
+      <th>Act & Sc</th>
+      <th>pdf</th>
+    </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Nurse</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/35">Romeo and Juliet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_248'>
+  
+    <span id="preview_mono_248">
+      Even or odd, of all days in the year<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_248', '/monologues/preview?monologue_id=248', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('lcTR5/tmwCtOJRqrgln3NrKMvPBmTy6PZRreJjCwnZs=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Even or odd, of all days in the year,<br>
+Come Lammas-eve at night shall she be fourteen.<br>
+Susan and she.God rest all Christian souls!.<br>
+Were of an age: well, Susan is with God;<br>
+She was too good for me: but, as I said, <br>
+On Lammas-eve at night shall she be fourteen;<br>
+That shall she, marry; I remember it well.<br>
+'Tis since the earthquake now eleven years;<br>
+And she was wean'd,.I never shall forget it,.<br>
+Of all the days of the year, upon that day: <br>
+For I had then laid wormwood to my dug,<br>
+Sitting in the sun under the dove-house wall;<br>
+My lord and you were then at Mantua:.<br>
+Nay, I do bear a brain:.but, as I said,<br>
+When it did taste the wormwood on the nipple<br>
+Of my dug and felt it bitter, pretty fool,<br>
+To see it tetchy and fall out with the dug!<br>
+Shake quoth the dove-house: 'twas no need, I trow,<br>
+To bid me trudge:<br>
+And since that time it is eleven years;<br>
+For then she could stand alone; nay, by the rood,<br>
+She could have run and waddled all about;<br>
+For even the day before, she broke her brow:<br>
+And then my husband.God be with his soul!<br>
+A' was a merry man.took up the child: <br>
+'Yea,' quoth he, 'dost thou fall upon thy face?<br>
+Thou wilt fall backward when thou hast more wit;<br>
+Wilt thou not, Jule?' and, by my holidame,<br>
+The pretty wretch left crying and said 'Ay.'<br>
+To see, now, how a jest shall come about! <br>
+I warrant, an I should live a thousand years,<br>
+I never should forget it: 'Wilt thou not, Jule?' quoth he;<br>
+And, pretty fool, it stinted and said 'Ay.' 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=romeojuliet&Act=1&Scene=3&Scope=scene&LineHighlight=401#390' target='_blank'>I iii 23</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/raj-1-3-16-nurse.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Lady Capulet</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/35">Romeo and Juliet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_249'>
+  
+    <span id="preview_mono_249">
+      What say you, can you love the gentleman?<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_249', '/monologues/preview?monologue_id=249', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('lcTR5/tmwCtOJRqrgln3NrKMvPBmTy6PZRreJjCwnZs=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          What say you? can you love the gentleman?<br>
+This night you shall behold him at our feast;<br>
+Read o'er the volume of young Paris' face,<br>
+And find delight writ there with beauty's pen;<br>
+Examine every married lineament,<br>
+And see how one another lends content<br>
+And what obscured in this fair volume lies<br>
+Find written in the margent of his eyes.<br>
+This precious book of love, this unbound lover,<br>
+To beautify him, only lacks a cover:<br>
+The fish lives in the sea, and 'tis much pride<br>
+For fair without the fair within to hide: <br>
+That book in many's eyes doth share the glory,<br>
+That in gold clasps locks in the golden story;<br>
+So shall you share all that he doth possess,<br>
+By having him, making yourself no less. 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=romeojuliet&Act=1&Scene=3&Scope=scene&LineHighlight=464#460' target='_blank'>I iii 86</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/raj-1-3-25-ladycapulet.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Juliet</div>
+  <div class='monologue_detail'>
+  Verse - intercut <br/>
+  <a href="/plays/35">Romeo and Juliet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_250'>
+  
+    <span id="preview_mono_250">
+      O Romeo, Romeo, wherefore art thou<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_250', '/monologues/preview?monologue_id=250', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('lcTR5/tmwCtOJRqrgln3NrKMvPBmTy6PZRreJjCwnZs=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Juliet.</b> O Romeo, Romeo! wherefore art thou Romeo? <br>
+      Deny thy father and refuse thy name;<br>
+      Or, if thou wilt not, be but sworn my love,<br>
+      And I'll no longer be a Capulet. <br><br>
+
+<del><b>Romeo.</b> <i>[Aside]</i> Shall I hear more, or shall I speak at this?</del> <br><br>
+
+<b>Juliet.</b> 'Tis but thy name that is my enemy;<br>
+      Thou art thyself, though not a Montague.<br>
+      What's Montague? it is nor hand, nor foot,<br>
+      Nor arm, nor face, nor any other part<br>
+      Belonging to a man. O, be some other name!<br>
+      What's in a name? that which we call a rose <br>
+      By any other name would smell as sweet;<br>
+      So Romeo would, were he not Romeo call'd,<br>
+      Retain that dear perfection which he owes<br>
+      Without that title. Romeo, doff thy name,<br>
+      And for that name which is no part of thee<br>
+      Take all myself. 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=romeojuliet&Act=2&Scene=2&Scope=scene&LineHighlight=880#871' target='_blank'>II ii 32</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/raj-2-2-32-juliet.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Juliet</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/35">Romeo and Juliet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_251'>
+  
+    <span id="preview_mono_251">
+      O serpent heart, hid with a flowering face!<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_251', '/monologues/preview?monologue_id=251', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('lcTR5/tmwCtOJRqrgln3NrKMvPBmTy6PZRreJjCwnZs=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          O serpent heart, hid with a flowering face!<br>
+Did ever dragon keep so fair a cave?<br>
+Beautiful tyrant! fiend angelical!<br>
+Dove-feather'd raven! wolvish-ravening lamb!<br>
+Despised substance of divinest show!<br>
+Just opposite to what thou justly seem'st,<br>
+A damned saint, an honourable villain!<br>
+O nature, what hadst thou to do in hell,<br>
+When thou didst bower the spirit of a fiend<br>
+In moral paradise of such sweet flesh?<br>
+Was ever book containing such vile matter <br>
+So fairly bound? O that deceit should dwell<br>
+In such a gorgeous palace! 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=romeojuliet&Act=3&Scene=2&Scope=scene&LineHighlight=1795#1791' target='_blank'>III ii 78</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/raj-3-2-78-juliet.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Juliet</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/35">Romeo and Juliet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_252'>
+  
+    <span id="preview_mono_252">
+      Thou knowest the mask of night is on my face<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_252', '/monologues/preview?monologue_id=252', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('lcTR5/tmwCtOJRqrgln3NrKMvPBmTy6PZRreJjCwnZs=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Thou know'st the mask of night is on my face,<br>
+Else would a maiden blush bepaint my cheek <br>
+For that which thou hast heard me speak to-night<br>
+Fain would I dwell on form, fain, fain deny<br>
+What I have spoke: but farewell compliment!<br>
+Dost thou love me? I know thou wilt say 'Ay,'<br>
+And I will take thy word: yet if thou swear'st, <br>
+Thou mayst prove false; at lovers' perjuries<br>
+Then say, Jove laughs. O gentle Romeo,<br>
+If thou dost love, pronounce it faithfully:<br>
+Or if thou think'st I am too quickly won,<br>
+I'll frown and be perverse an say thee nay, <br>
+So thou wilt woo; but else, not for the world.<br>
+In truth, fair Montague, I am too fond,<br>
+And therefore thou mayst think my 'havior light:<br>
+But trust me, gentleman, I'll prove more true<br>
+Than those that have more cunning to be strange. <br>
+I should have been more strange, I must confess,<br>
+But that thou overheard'st, ere I was ware,<br>
+My true love's passion: therefore pardon me,<br>
+And not impute this yielding to light love,<br>
+Which the dark night hath so discovered. 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=romeojuliet&Act=2&Scene=2&Scope=scene&LineHighlight=934#928' target='_blank'>II ii 85</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/raj-2-2-85-juliet.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Juliet</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/35">Romeo and Juliet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_253'>
+  
+    <span id="preview_mono_253">
+      The clock strook nine when I did send the nurse<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_253', '/monologues/preview?monologue_id=253', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('lcTR5/tmwCtOJRqrgln3NrKMvPBmTy6PZRreJjCwnZs=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          The clock struck nine when I did send the nurse;<br>
+In half an hour she promised to return.<br>
+Perchance she cannot meet him: that's not so.<br>
+O, she is lame! love's heralds should be thoughts,<br>
+Which ten times faster glide than the sun's beams,<br>
+Driving back shadows over louring hills: <br>
+Therefore do nimble-pinion'd doves draw love,<br>
+And therefore hath the wind-swift Cupid wings.<br>
+Now is the sun upon the highmost hill<br>
+Of this day's journey, and from nine till twelve<br>
+Is three long hours, yet she is not come. <br>
+Had she affections and warm youthful blood,<br>
+She would be as swift in motion as a ball;<br>
+My words would bandy her to my sweet love,<br>
+And his to me:<br>
+But old folks, many feign as they were dead; <br>
+Unwieldy, slow, heavy and pale as lead.<br>
+O God, she comes! 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=romeojuliet&Act=2&Scene=5&Scope=scene&LineHighlight=1375' target='_blank'>II v 1</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/raj-2--5-1-juliet.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Juliet</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/35">Romeo and Juliet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_254'>
+  
+    <span id="preview_mono_254">
+      Gallop apace, you fiery-footed steeds<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_254', '/monologues/preview?monologue_id=254', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('lcTR5/tmwCtOJRqrgln3NrKMvPBmTy6PZRreJjCwnZs=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Gallop apace, you fiery-footed steeds,<br>
+Towards Phoebus' lodging: such a wagoner<br>
+As Phaethon would whip you to the west,<br>
+And bring in cloudy night immediately.<br>
+Spread thy close curtain, love-performing night,<br>
+That runaway's eyes may wink and Romeo<br>
+Leap to these arms, untalk'd of and unseen.<br>
+Lovers can see to do their amorous rites<br>
+By their own beauties; or, if love be blind,<br>
+It best agrees with night. Come, civil night,<br>
+Thou sober-suited matron, all in black,<br>
+And learn me how to lose a winning match,<br>
+Play'd for a pair of stainless maidenhoods:<br>
+Hood my unmann'd blood, bating in my cheeks,<br>
+With thy black mantle; till strange love, grown bold,<br>
+Think true love acted simple modesty.<br>
+Come, night; come, Romeo; come, thou day in night;<br>
+For thou wilt lie upon the wings of night<br>
+Whiter than new snow on a raven's back.<br>
+Come, gentle night, come, loving, black-brow'd night,<br>
+Give me my Romeo; and, when he shall die,<br>
+Take him and cut him out in little stars, <br>
+And he will make the face of heaven so fine<br>
+That all the world will be in love with night<br>
+And pay no worship to the garish sun.<br>
+O, I have bought the mansion of a love,<br>
+But not possess'd it, and, though I am sold,<br>
+Not yet enjoy'd: so tedious is this day<br>
+As is the night before some festival<br>
+To an impatient child that hath new robes<br>
+And may not wear them. O, here comes my nurse,<br>
+And she brings news; and every tongue that speaks<br>
+But Romeo's name speaks heavenly eloquence. 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=romeojuliet&Act=3&Scene=2&Scope=scene&LineHighlight=1719' target='_blank'>III ii 1</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/raj-3-2-1-juliet.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Juliet</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/35">Romeo and Juliet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_255'>
+  
+    <span id="preview_mono_255">
+      Shall I speak ill of him that is my husband?<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_255', '/monologues/preview?monologue_id=255', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('lcTR5/tmwCtOJRqrgln3NrKMvPBmTy6PZRreJjCwnZs=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Shall I speak ill of him that is my husband?<br>
+Ah, poor my lord, what tongue shall smooth thy name,<br>
+When I, thy three-hours wife, have mangled it?<br>
+But, wherefore, villain, didst thou kill my cousin?<br>
+That villain cousin would have kill'd my husband:<br>
+Back, foolish tears, back to your native spring;<br>
+Your tributary drops belong to woe,<br>
+Which you, mistaking, offer up to joy.<br>
+My husband lives, that Tybalt would have slain;<br>
+And Tybalt's dead, that would have slain my husband:<br>
+All this is comfort; wherefore weep I then?<br>
+Some word there was, worser than Tybalt's death,<br>
+That murder'd me: I would forget it fain;<br>
+But, O, it presses to my memory,<br>
+Like damned guilty deeds to sinners' minds:<br>
+'Tybalt is dead, and Romeo.banished;'<br>
+That 'banished,' that one word 'banished,'<br>
+Hath slain ten thousand Tybalts. Tybalt's death<br>
+Was woe enough, if it had ended there:<br>
+Or, if sour woe delights in fellowship <br>
+And needly will be rank'd with other griefs,<br>
+Why follow'd not, when she said 'Tybalt's dead,'<br>
+Thy father, or thy mother, nay, or both,<br>
+Which modern lamentations might have moved?<br>
+But with a rear-ward following Tybalt's death, <br>
+'Romeo is banished,' to speak that word,<br>
+Is father, mother, Tybalt, Romeo, Juliet,<br>
+All slain, all dead. 'Romeo is banished!'<br>
+There is no end, no limit, measure, bound,<br>
+In that word's death; no words can that woe sound.
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=romeojuliet&Act=3&Scene=2&Scope=scene&LineHighlight=1821#1814' target='_blank'>III ii 104</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/raj-3-2-100-juliet.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Juliet</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/35">Romeo and Juliet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_256'>
+  
+    <span id="preview_mono_256">
+      Is there no pity sitting in the clouds<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_256', '/monologues/preview?monologue_id=256', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('lcTR5/tmwCtOJRqrgln3NrKMvPBmTy6PZRreJjCwnZs=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Juliet.</b> Is there no pity sitting in the clouds,<br>
+      That sees into the bottom of my grief?<br>
+      O, sweet my mother, cast me not away!<br>
+      Delay this marriage for a month, a week;<br>
+      Or, if you do not, make the bridal bed <br>
+      In that dim monument where Tybalt lies. <br><br>
+
+<del><b>Lady Capulet.</b> Talk not to me, for I'll not speak a word:<br>
+      Do as thou wilt, for I have done with thee. <br><br>
+
+[Exit]</del><br><br>
+
+<b>Juliet.</b> O God!.O nurse, how shall this be prevented?<br>
+      My husband is on earth, my faith in heaven;<br>
+      How shall that faith return again to earth,<br>
+      Unless that husband send it me from heaven<br>
+      By leaving earth? comfort me, counsel me.<br>
+      Alack, alack, that heaven should practise stratagems<br>
+      Upon so soft a subject as myself!<br>
+      What say'st thou? hast thou not a word of joy?<br>
+      Some comfort, nurse. 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=romeojuliet&Act=3&Scene=5&Scope=scene&LineHighlight=2311#2311' target='_blank'>III v 211</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/raj-3-5-196-juliet.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Nurse</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/35">Romeo and Juliet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_257'>
+  
+    <span id="preview_mono_257">
+      Faith, here it is,
+Romeo is banish'd; and all the world to nothing<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_257', '/monologues/preview?monologue_id=257', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('lcTR5/tmwCtOJRqrgln3NrKMvPBmTy6PZRreJjCwnZs=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <div align='right'>Faith, here it is.</div>
+Romeo is banish'd; and all the world to nothing,<br>
+That he dares ne'er come back to challenge you;<br>
+Or, if he do, it needs must be by stealth.<br>
+Then, since the case so stands as now it doth,<br>
+I think it best you married with the county.<br>
+O, he's a lovely gentleman! <br>
+Romeo's a dishclout to him: an eagle, madam,<br>
+Hath not so green, so quick, so fair an eye<br>
+As Paris hath. Beshrew my very heart,<br>
+I think you are happy in this second match,<br>
+For it excels your first: or if it did not,<br>
+Your first is dead; or 'twere as good he were,<br>
+As living here and you no use of him. 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=romeojuliet&Act=3&Scene=5&Scope=scene&LineHighlight=2329#2319' target='_blank'>III v 228</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/raj-3-5-228-nurse.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Juliet</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/35">Romeo and Juliet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_258'>
+  
+    <span id="preview_mono_258">
+      Tell me not, friar, that thou hearest of this<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_258', '/monologues/preview?monologue_id=258', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('lcTR5/tmwCtOJRqrgln3NrKMvPBmTy6PZRreJjCwnZs=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Tell me not, friar, that thou hear'st of this,<br>
+Unless thou tell me how I may prevent it:<br>
+If, in thy wisdom, thou canst give no help,<br>
+Do thou but call my resolution wise,<br>
+And with this knife I'll help it presently.<br>
+God join'd my heart and Romeo's, thou our hands;<br>
+And ere this hand, by thee to Romeo seal'd,<br>
+Shall be the label to another deed,<br>
+Or my true heart with treacherous revolt<br>
+Turn to another, this shall slay them both: <br>
+Therefore, out of thy long-experienced time,<br>
+Give me some present counsel, or, behold,<br>
+'Twixt my extremes and me this bloody knife<br>
+Shall play the umpire, arbitrating that<br>
+Which the commission of thy years and art<br>
+Could to no issue of true honour bring.<br>
+Be not so long to speak; I long to die,<br>
+If what thou speak'st speak not of remedy. 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=romeojuliet&Act=4&Scene=1&Scope=scene&LineHighlight=2416#2410' target='_blank'>IV i 54</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/raj-4-1-49-juliet.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Juliet</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/35">Romeo and Juliet</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_259'>
+  
+    <span id="preview_mono_259">
+      Farewell! God knows when we shall meet again.<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_259', '/monologues/preview?monologue_id=259', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('lcTR5/tmwCtOJRqrgln3NrKMvPBmTy6PZRreJjCwnZs=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Farewell! God knows when we shall meet again. <br>
+      I have a faint cold fear thrills through my veins,<br>
+      That almost freezes up the heat of life:<br>
+      I'll call them back again to comfort me:<br>
+      Nurse! What should she do here?<br>
+      My dismal scene I needs must act alone.<br>
+      Come, vial.<br>
+      What if this mixture do not work at all?<br>
+      Shall I be married then to-morrow morning?<br>
+      No, no: this shall forbid it: lie thou there.<br>
+      <i>[Laying down her dagger]</i><br> 
+      What if it be a poison, which the friar<br>
+      Subtly hath minister'd to have me dead,<br>
+      Lest in this marriage he should be dishonour'd,<br>
+      Because he married me before to Romeo?<br>
+      I fear it is: and yet, methinks, it should not,<br>
+      For he hath still been tried a holy man.<br>
+      How if, when I am laid into the tomb,<br>
+      I wake before the time that Romeo<br>
+      Come to redeem me? there's a fearful point!<br>
+      Shall I not, then, be stifled in the vault,<br>
+      To whose foul mouth no healthsome air breathes in,<br>
+      And there die strangled ere my Romeo comes?<br>
+      Or, if I live, is it not very like,<br>
+      The horrible conceit of death and night,<br>
+      Together with the terror of the place,. <br>
+      As in a vault, an ancient receptacle,<br>
+      Where, for these many hundred years, the bones<br>
+      Of all my buried ancestors are packed:<br>
+      Where bloody Tybalt, yet but green in earth,<br>
+      Lies festering in his shroud; where, as they say,<br>
+      At some hours in the night spirits resort;.<br>
+      Alack, alack, is it not like that I,<br>
+      So early waking, what with loathsome smells,<br>
+      And shrieks like mandrakes' torn out of the earth,<br>
+      That living mortals, hearing them, run mad:. <br>
+      O, if I wake, shall I not be distraught,<br>
+      Environed with all these hideous fears?<br>
+      And madly play with my forefather's joints?<br>
+      And pluck the mangled Tybalt from his shroud?<br>
+      And, in this rage, with some great kinsman's bone,<br>
+      As with a club, dash out my desperate brains?<br>
+      O, look! methinks I see my cousin's ghost<br>
+      Seeking out Romeo, that did spit his body<br>
+      Upon a rapier's point: stay, Tybalt, stay!<br>
+      Romeo, I come! this do I drink to thee.<br><br>
+
+<i>[She falls upon her bed, within the curtains] </i>
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=romeojuliet&Act=4&Scene=3&Scope=scene&LineHighlight=2565#2555' target='_blank'>IV iii 18</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/raj-4-3-15-juliet.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+</table></div>
+
+
+  
+
+
+
+
+    </div>
+:@_rails_html_safeF

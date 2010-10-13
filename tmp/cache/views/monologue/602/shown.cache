@@ -1,0 +1,10 @@
+"–
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_602">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_602', '/monologues/preview/602', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('y+ttzZQbrZXrUkxAFxUWk5RVk6vaM7oAt9UoDqoM4iY=')}); return false;">All places yield to him ere he sits down</a>
+    </span>
+  
+

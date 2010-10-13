@@ -1,0 +1,10 @@
+"“
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_260">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_260', '/monologues/preview/260', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('n4t+igTL/oz+RkuvRO8d0++GeyU7aO5+uYZoaHFSzPw=')}); return false;">Rebellious subjects, enemies to peace</a>
+    </span>
+  
+

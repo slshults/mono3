@@ -1,0 +1,37 @@
+"2
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_392">
+      You understand me not that tell me so.<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_392', '/monologues/preview?monologue_id=392', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('3fa8SH3TLIQTNYY17yUJdrmYXy3yf/J1Og2xBBglUyM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          You understand me not that tell me so:<br>
+I do not speak of flight, of fear, of death, <br>
+But dare all imminence that gods and men<br>
+Address their dangers in. Hector is gone:<br>
+Who shall tell Priam so, or Hecuba?<br>
+Let him that will a screech-owl aye be call'd,<br>
+Go in to Troy, and say there, Hector's dead: <br>
+There is a word will Priam turn to stone;<br>
+Make wells and Niobes of the maids and wives,<br>
+Cold statues of the youth, and, in a word,<br>
+Scare Troy out of itself. But, march away:<br>
+Hector is dead; there is no more to say. <br>
+Stay yet. You vile abominable tents,<br>
+Thus proudly pight upon our Phrygian plains,<br>
+Let Titan rise as early as he dare,<br>
+I'll through and through you! and, thou great-sized coward,<br>
+No space of earth shall sunder our two hates: <br>
+I'll haunt thee like a wicked conscience still,<br>
+That mouldeth goblins swift as frenzy's thoughts.<br>
+Strike a free march to Troy! with comfort go:<br>
+Hope of revenge shall hide our inward woe. 
+      </div>
+    </span>
+
+  
+

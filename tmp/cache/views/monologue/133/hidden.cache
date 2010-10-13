@@ -1,0 +1,42 @@
+";
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_133">
+      
+Good Lord Boyet, my beauty, though but mean,
+
+<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_133', '/monologues/preview?monologue_id=133', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('gpUJlvFqNDGiAjTvH+heB/HEMht0oiMsEcxXh38X/9o=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Good Lord Boyet, my beauty, though but mean,<br>
+Needs not the painted flourish of your praise:<br>
+Beauty is bought by judgement of the eye,<br>
+Not utter'd by base sale of chapmen's tongues:<br>
+I am less proud to hear you tell my worth<br>
+Than you much willing to be counted wise<br>
+In spending your wit in the praise of mine.<br>
+But now to task the tasker: good Boyet,<br>
+You are not ignorant, all-telling fame <br>
+Doth noise abroad, Navarre hath made a vow,<br>
+Till painful study shall outwear three years,<br>
+No woman may approach his silent court:<br>
+Therefore to's seemeth it a needful course,<br>
+Before we enter his forbidden gates, <br>
+To know his pleasure; and in that behalf,<br>
+Bold of your worthiness, we single you<br>
+As our best-moving fair solicitor.<br>
+Tell him, the daughter of the King of France,<br>
+On serious business, craving quick dispatch, <br>
+Importunes personal conference with his grace:<br>
+Haste, signify so much; while we attend,<br>
+Like humble-visaged suitors, his high will. 
+
+      </div>
+    </span>
+
+  
+

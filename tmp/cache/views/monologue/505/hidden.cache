@@ -1,0 +1,17 @@
+".
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_505">
+      Ay, Edward will use women honorably<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_505', '/monologues/preview?monologue_id=505', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('4N/WBe80eh5Lfky0rVyFmOmemtG37c2G4zoju71KrpQ=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+
+  
+

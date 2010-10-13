@@ -1,0 +1,364 @@
+I"÷;  
+    <div>
+      <h2>Women's Monologues in Shakespeare</h2>
+      <h2>The Merchant of Venice</h2>
+      <span>
+        <form action="javascript:void(0);" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="lcTR5/tmwCtOJRqrgln3NrKMvPBmTy6PZRreJjCwnZs=" /></div>
+          <b>Search:</b> <input type="text" id="search" size="40"/>
+          <img alt="Ajax-loader" id="spinner" src="/images/ajax-loader.gif?1278779332" style="display: none;" />
+        </form>
+        <div class="search_links">
+          <a href="/plays/5?g=3">Search Men</a> &nbsp;|&nbsp;
+          <a href="/plays/5">Search The Merchant of Venice</a> &nbsp;|&nbsp;
+          <a href="/plays">Search All Plays</a> &nbsp;|&nbsp;
+          
+            <a href="/plays/5?g=2">Collapse All</a>
+          
+        </div>
+      </span>
+    </div>
+    <script type="text/javascript">
+//<![CDATA[
+new Form.Element.Observer('search', 1.25, function(element, value) {Element.show('spinner'); new Ajax.Updater('ajaxResults', 'http://shakespeare-monologues.org/monologues/search', {asynchronous:true, evalScripts:true, onComplete:function(request){Element.hide('spinner')}, parameters:'g=2&p=5&search=' + encodeURIComponent(value) + '&authenticity_token=' + encodeURIComponent('lcTR5/tmwCtOJRqrgln3NrKMvPBmTy6PZRreJjCwnZs=')})})
+//]]>
+</script>
+  
+    <div id='ajaxResults'>
+      
+
+  
+
+      
+<div>
+  <table id='monologue_list'>
+    <tr>
+      <th>Character</th>
+      <th>First Line</th>
+      <th>Act & Sc</th>
+      <th>pdf</th>
+    </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Portia</div>
+  <div class='monologue_detail'>
+  Prose  <br/>
+  <a href="/plays/5">The Merchant of Venice</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_156'>
+  
+    <span id="preview_mono_156">
+      
+If to do were as easy as to know
+
+<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_156', '/monologues/preview?monologue_id=156', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('lcTR5/tmwCtOJRqrgln3NrKMvPBmTy6PZRreJjCwnZs=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          If to do were as easy as to know what were good to
+do, chapels had been churches and poor men's
+cottages princes' palaces. It is a good divine that
+follows his own instructions: I can easier teach
+twenty what were good to be done, than be one of the
+twenty to follow mine own teaching. The brain may
+devise laws for the blood, but a hot temper leaps
+o'er a cold decree: such a hare is madness the
+youth, to skip o'er the meshes of good counsel the
+cripple. But this reasoning is not in the fashion to
+choose me a husband. O me, the word 'choose!' I may
+neither choose whom I would nor refuse whom I
+dislike; so is the will of a living daughter curbed
+by the will of a dead father. Is it not hard,
+Nerissa, that I cannot choose one nor refuse none? 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=merchantvenice&Act=1&Scene=2&Scope=scene&LineHighlight=206#197' target='_blank'>I ii 7</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/tmov-1-2-12-portia.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Portia</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/5">The Merchant of Venice</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_157'>
+  
+    <span id="preview_mono_157">
+      
+I pray you, tarry: pause a day or two
+
+<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_157', '/monologues/preview?monologue_id=157', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('lcTR5/tmwCtOJRqrgln3NrKMvPBmTy6PZRreJjCwnZs=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          I pray you, tarry: pause a day or two<br>
+Before you hazard; for, in choosing wrong,<br>
+I lose your company: therefore forbear awhile.<br>
+There's something tells me, but it is not love,<br>
+I would not lose you; and you know yourself,<br>
+Hate counsels not in such a quality.<br>
+But lest you should not understand me well,--<br>
+And yet a maiden hath no tongue but thought,--<br>
+I would detain you here some month or two<br>
+Before you venture for me. I could teach you<br>
+How to choose right, but I am then forsworn;<br>
+So will I never be: so may you miss me; <br>
+But if you do, you'll make me wish a sin,<br>
+That I had been forsworn. Beshrew your eyes,<br>
+They have o'erlook'd me and divided me;<br>
+One half of me is yours, the other half yours,<br>
+Mine own, I would say; but if mine, then yours, <br>
+And so all yours. O, these naughty times<br>
+Put bars between the owners and their rights!<br>
+And so, though yours, not yours. Prove it so,<br>
+Let fortune go to hell for it, not I.<br>
+I speak too long; but 'tis to peize the time,<br>
+To eke it and to draw it out in length,<br>
+To stay you from election. <br>
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=merchantvenice&Act=3&Scene=2&Scope=scene&LineHighlight=1364' target='_blank'>III ii 1</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/tmov-3-2-1-portia.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Portia</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/5">The Merchant of Venice</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_158'>
+  
+    <span id="preview_mono_158">
+      
+Away then!   I am lock'd in one of them
+
+<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_158', '/monologues/preview?monologue_id=158', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('lcTR5/tmwCtOJRqrgln3NrKMvPBmTy6PZRreJjCwnZs=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Away, then! I am lock'd in one of them:<br>
+If you do love me, you will find me out.<br>
+Nerissa and the rest, stand all aloof.<br>
+Let music sound while he doth make his choice;<br>
+Then, if he lose, he makes a swan-like end,<br>
+Fading in music: that the comparison<br>
+May stand more proper, my eye shall be the stream<br>
+And watery death-bed for him. He may win;<br>
+And what is music then? Then music is<br>
+Even as the flourish when true subjects bow<br>
+To a new-crowned monarch: such it is<br>
+As are those dulcet sounds in break of day<br>
+That creep into the dreaming bridegroom's ear,<br>
+And summon him to marriage. Now he goes,<br>
+With no less presence, but with much more love,<br>
+Than young Alcides, when he did redeem<br>
+The virgin tribute paid by howling Troy<br>
+To the sea-monster: I stand for sacrifice<br>
+The rest aloof are the Dardanian wives,<br>
+With bleared visages, come forth to view<br>
+The issue of the exploit. Go, Hercules!<br>
+Live thou, I live: with much, much more dismay<br>
+I view the fight than thou that makest the fray.<br>
+<i>[Music, whilst BASSANIO comments on the caskets to himself]</i>
+SONG.<br>
+Tell me where is fancy bred,<br>
+Or in the heart, or in the head?<br>
+How begot, how nourished?<br>
+Reply, reply.<br>
+It is engender'd in the eyes,<br>
+With gazing fed; and fancy dies<br>
+In the cradle where it lies.<br>
+Let us all ring fancy's knell<br>
+I'll begin it,.Ding, dong, bell. <br>
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=merchantvenice&Act=3&Scene=2&Scope=scene&LineHighlight=1405#1400' target='_blank'>III ii 44</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/tmov-3-2-40-portia.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Portia</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/5">The Merchant of Venice</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_159'>
+  
+    <span id="preview_mono_159">
+      
+You see me, Lord Bassanio, where I stand
+
+<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_159', '/monologues/preview?monologue_id=159', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('lcTR5/tmwCtOJRqrgln3NrKMvPBmTy6PZRreJjCwnZs=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          You see me, Lord Bassanio, where I stand,<br>
+Such as I am: though for myself alone<br>
+I would not be ambitious in my wish,<br>
+To wish myself much better; yet, for you<br>
+I would be trebled twenty times myself;<br>
+A thousand times more fair, ten thousand times more rich;<br>
+That only to stand high in your account, <br>
+I might in virtue, beauties, livings, friends,<br>
+Exceed account; but the full sum of me<br>
+Is sum of something, which, to term in gross,<br>
+Is an unlesson'd girl, unschool'd, unpractised;<br>
+Happy in this, she is not yet so old<br>
+But she may learn; happier than this,<br>
+She is not bred so dull but she can learn;<br>
+Happiest of all is that her gentle spirit<br>
+Commits itself to yours to be directed,<br>
+As from her lord, her governor, her king.<br>
+Myself and what is mine to you and yours<br>
+Is now converted: but now I was the lord<br>
+Of this fair mansion, master of my servants,<br>
+Queen o'er myself: and even now, but now,<br>
+This house, these servants and this same myself<br>
+Are yours, my lord: I give them with this ring;<br>
+Which when you part from, lose, or give away,<br>
+Let it presage the ruin of your love<br>
+And be my vantage to exclaim on you. <br>
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=merchantvenice&Act=3&Scene=2&Scope=scene&LineHighlight=1519#1519' target='_blank'>III ii 136</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/tmov-3-2-149-portia.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Portia</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/5">The Merchant of Venice</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_160'>
+  
+    <span id="preview_mono_160">
+      
+They shall, Nerissa; but in such a habit
+
+<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_160', '/monologues/preview?monologue_id=160', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('lcTR5/tmwCtOJRqrgln3NrKMvPBmTy6PZRreJjCwnZs=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          They shall, Nerissa; but in such a habit,<br>
+That they shall think we are accomplished<br>
+With that we lack. I'll hold thee any wager,<br>
+When we are both accoutred like young men,<br>
+I'll prove the prettier fellow of the two,<br>
+And wear my dagger with the braver grace,<br>
+And speak between the change of man and boy<br>
+With a reed voice, and turn two mincing steps<br>
+Into a manly stride, and speak of frays<br>
+Like a fine bragging youth, and tell quaint lies,<br>
+How honourable ladies sought my love,<br>
+Which I denying, they fell sick and died;<br>
+I could not do withal; then I'll repent,<br>
+And wish for all that, that I had not killed them;<br>
+And twenty of these puny lies I'll tell,<br>
+That men shall swear I have discontinued school<br>
+Above a twelvemonth. I have within my mind<br>
+A thousand raw tricks of these bragging Jacks,<br>
+Which I will practise. <br>
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=merchantvenice&Act=3&Scene=4&Scope=scene&LineHighlight=1813#1808' target='_blank'>III iv 64</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/tmov-3-4-57-portia.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Portia</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/5">The Merchant of Venice</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_161'>
+  
+    <span id="preview_mono_161">
+      
+The quality of mercy is not strain'd,
+
+<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_161', '/monologues/preview?monologue_id=161', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('lcTR5/tmwCtOJRqrgln3NrKMvPBmTy6PZRreJjCwnZs=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          The quality of mercy is not strain'd,<br>
+It droppeth as the gentle rain from heaven<br>
+Upon the place beneath: it is twice blest;<br>
+It blesseth him that gives and him that takes:<br>
+'Tis mightiest in the mightiest: it becomes<br>
+The throned monarch better than his crown; <br>
+His sceptre shows the force of temporal power,<br>
+The attribute to awe and majesty,<br>
+Wherein doth sit the dread and fear of kings;<br>
+But mercy is above this sceptred sway;<br>
+It is enthroned in the hearts of kings,<br>
+It is an attribute to God himself;<br>
+And earthly power doth then show likest God's<br>
+When mercy seasons justice. Therefore, Jew,<br>
+Though justice be thy plea, consider this,<br>
+That, in the course of justice, none of us<br>
+Should see salvation: we do pray for mercy;<br>
+And that same prayer doth teach us all to render<br>
+The deeds of mercy. I have spoke thus much<br>
+To mitigate the justice of thy plea;<br>
+Which if thou follow, this strict court of Venice<br>
+Must needs give sentence 'gainst the merchant there. <br>
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=merchantvenice&Act=4&Scene=1&Scope=scene&LineHighlight=2125#2115' target='_blank'>IV i 179</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/tmov-4-1-182-portia.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+</table></div>
+
+
+  
+
+
+
+
+    </div>
+:@_rails_html_safeF

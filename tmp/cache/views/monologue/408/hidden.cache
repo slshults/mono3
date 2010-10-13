@@ -1,0 +1,31 @@
+"	
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_408">
+      Say that upon the altar of her beauty<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_408', '/monologues/preview?monologue_id=408', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('OqGdnYP76gzNVava4otYdqifWZgeqtfoqdq1DRfq9bw=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Say that upon the altar of her beauty <br>
+You sacrifice your tears, your sighs, your heart:<br>
+Write till your ink be dry, and with your tears<br>
+Moist it again, and frame some feeling line<br>
+That may discover such integrity:<br>
+For Orpheus' lute was strung with poets' sinews, <br>
+Whose golden touch could soften steel and stones,<br>
+Make tigers tame and huge leviathans<br>
+Forsake unsounded deeps to dance on sands.<br>
+After your dire-lamenting elegies,<br>
+Visit by night your lady's chamber-window <br>
+With some sweet concert; to their instruments<br>
+Tune a deploring dump: the night's dead silence<br>
+Will well become such sweet-complaining grievance.<br>
+This, or else nothing, will inherit her. 
+      </div>
+    </span>
+
+  
+

@@ -1,0 +1,37 @@
+"@
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_285">
+      So sure as you your father's. I, old Morgan,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_285', '/monologues/preview?monologue_id=285', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('3fa8SH3TLIQTNYY17yUJdrmYXy3yf/J1Og2xBBglUyM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          So sure as you your father's. I, old Morgan,<br>
+Am that Belarius whom you sometime banish'd:<br>
+Your pleasure was my mere offence, my punishment<br>
+Itself, and all my treason; that I suffer'd<br>
+Was all the harm I did. These gentle princes— <br>
+For such and so they are—these twenty years<br>
+Have I train'd up: those arts they have as I<br>
+Could put into them; my breeding was, sir, as<br>
+Your highness knows. Their nurse, Euriphile,<br>
+Whom for the theft I wedded, stole these children <br>
+Upon my banishment: I moved her to't,<br>
+Having received the punishment before,<br>
+For that which I did then: beaten for loyalty<br>
+Excited me to treason: their dear loss,<br>
+The more of you 'twas felt, the more it shaped <br>
+Unto my end of stealing them. But, gracious sir,<br>
+Here are your sons again; and I must lose<br>
+Two of the sweet'st companions in the world.<br>
+The benediction of these covering heavens<br>
+Fall on their heads like dew! for they are worthy <br>
+To inlay heaven with stars. 
+      </div>
+    </span>
+
+  
+

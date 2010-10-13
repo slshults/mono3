@@ -1,0 +1,13 @@
+"™
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_159">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_159', '/monologues/preview/159', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('BT6qq+hPtM0St22Ts0AGT9k8pSE4tp9lGEqL9YXlNvI=')}); return false;">
+You see me, Lord Bassanio, where I stand
+
+</a>
+    </span>
+  
+

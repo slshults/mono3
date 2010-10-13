@@ -1,0 +1,44 @@
+"
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_146">
+      On a day - Alack the day!<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_146', '/monologues/preview?monologue_id=146', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('0Z/t13+LSIkFnadcmEeJ14FwmAymRQGteFB0zBkdVaE=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <i>[Reads]</i><br>
+On a day--alack the day!--<br>
+Love, whose month is ever May,<br>
+Spied a blossom passing fair<br>
+Playing in the wanton air:<br>
+Through the velvet leaves the wind,<br>
+All unseen, can passage find; <br>
+That the lover, sick to death,<br>
+Wish himself the heaven's breath.<br>
+Air, quoth he, thy cheeks may blow;<br>
+Air, would I might triumph so!<br>
+But, alack, my hand is sworn <br>
+Ne'er to pluck thee from thy thorn;<br>
+Vow, alack, for youth unmeet,<br>
+Youth so apt to pluck a sweet!<br>
+Do not call it sin in me,<br>
+That I am forsworn for thee; <br>
+Thou for whom Jove would swear<br>
+Juno but an Ethiope were;<br>
+And deny himself for Jove,<br>
+Turning mortal for thy love.<br>
+This will I send, and something else more plain,<br>
+That shall express my true love's fasting pain.<br>
+O, would the king, Biron, and Longaville,<br>
+Were lovers too! Ill, to example ill,<br>
+Would from my forehead wipe a perjured note;<br>
+For none offend where all alike do dote. 
+
+      </div>
+    </span>
+
+  
+

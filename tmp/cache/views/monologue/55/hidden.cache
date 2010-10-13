@@ -1,0 +1,41 @@
+"–
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_55">
+      Thou seest these lovers seek a place to fight<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_55', '/monologues/preview?monologue_id=55', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('HzfDvhxYVdzuUqy6/ELOucnzKRXZatawy3/gxdrfKig=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Thou see'st these lovers seek a place to fight:<br>
+Hie therefore, Robin, overcast the night;<br>
+The starry welkin cover thou anon<br>
+With drooping fog as black as Acheron,<br>
+And lead these testy rivals so astray<br>
+As one come not within another's way.<br>
+Like to Lysander sometime frame thy tongue,<br>
+Then stir Demetrius up with bitter wrong;<br>
+And sometime rail thou like Demetrius;<br>
+And from each other look thou lead them thus, <br>
+Till o'er their brows death-counterfeiting sleep<br>
+With leaden legs and batty wings doth creep:<br>
+Then crush this herb into Lysander's eye;<br>
+Whose liquor hath this virtuous property,<br>
+To take from thence all error with his might,<br>
+And make his eyeballs roll with wonted sight.<br>
+When they next wake, all this derision<br>
+Shall seem a dream and fruitless vision,<br>
+And back to Athens shall the lovers wend,<br>
+With league whose date till death shall never end. <br>
+Whiles I in this affair do thee employ,<br>
+I'll to my queen and beg her Indian boy;<br>
+And then I will her charmed eye release<br>
+From monster's view, and all things shall be peace. 
+
+      </div>
+    </span>
+
+  
+

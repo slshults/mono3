@@ -1,0 +1,10 @@
+"ù
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_658">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_658', '/monologues/preview/658', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('hlciT9xVQ+JDociH8q2a4HaSJEoLoM2+qmQDfyNjp2U=')}); return false;">Had it pleas'd heaven To try me with affliction</a>
+    </span>
+  
+

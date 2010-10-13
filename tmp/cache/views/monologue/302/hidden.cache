@@ -1,0 +1,33 @@
+"?
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_302">
+      Who will believe thee, Isabel?<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_302', '/monologues/preview?monologue_id=302', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('GOnfRTm94RlUU1X/IAwgeo8z/4Ae6ytdSGueytks7DE=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Who will believe thee, Isabel?<br>
+My unsoil'd name, the austereness of my life,<br>
+My vouch against you, and my place i' the state,<br>
+Will so your accusation overweigh,<br>
+That you shall stifle in your own report<br>
+And smell of calumny. I have begun,<br>
+And now I give my sensual race the rein:<br>
+Fit thy consent to my sharp appetite;<br>
+Lay by all nicety and prolixious blushes,<br>
+That banish what they sue for; redeem thy brother<br>
+By yielding up thy body to my will;<br>
+Or else he must not only die the death,<br>
+But thy unkindness shall his death draw out<br>
+To lingering sufferance. Answer me to-morrow,<br>
+Or, by the affection that now guides me most,<br>
+I'll prove a tyrant to him. As for you,<br>
+Say what you can, my false o'erweighs your true. 
+      </div>
+    </span>
+
+  
+

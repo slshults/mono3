@@ -1,0 +1,33 @@
+"j
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_379">
+      Paris and Troilus, you have both said well;<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_379', '/monologues/preview?monologue_id=379', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('fZUf7XLA7ho6RcEQYy+FYUb5XjZTF4Nu/a1DqpOfARo=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Though no man lesser fears the Greeks than I<br>
+As far as toucheth my particular, Yet, dread Priam,<br>
+There is no lady of more softer bowels, <br>
+More spongy to suck in the sense of fear,<br>
+More ready to cry out 'Who knows what follows?'<br>
+Than Hector is: the wound of peace is surety,<br>
+Surety secure; but modest doubt is call'd<br>
+The beacon of the wise, the tent that searches <br>
+To the bottom of the worst. Let Helen go:<br>
+Since the first sword was drawn about this question,<br>
+Every tithe soul, 'mongst many thousand dismes,<br>
+Hath been as dear as Helen; I mean, of ours:<br>
+If we have lost so many tenths of ours, <br>
+To guard a thing not ours nor worth to us,<br>
+Had it our name, the value of one ten,<br>
+What merit's in that reason which denies<br>
+The yielding of her up? 
+      </div>
+    </span>
+
+  
+

@@ -1,0 +1,10 @@
+"•
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_777">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_777', '/monologues/preview/777', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('H/u1SVLsN0UkOhvN3gwRQumlSoyRYHDo9fSeBDQG0xg=')}); return false;">Be woe for me, more wretched than he is</a>
+    </span>
+  
+

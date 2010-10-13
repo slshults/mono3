@@ -1,0 +1,17 @@
+"0
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_540">
+      Mad world, mad kings, mad composition<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_540', '/monologues/preview?monologue_id=540', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('7JRYQenap4X0tvDRBGp1D34pKeT3oRufzdTuVeFhzRo=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+
+  
+

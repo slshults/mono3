@@ -1,0 +1,10 @@
+"’
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_558">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_558', '/monologues/preview/558', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('TGj+VBcfVQsfj/o9H6e6V3v95THBDYYNc+wojwah8QM=')}); return false;">Methinks I am a prophet new inspir'd</a>
+    </span>
+  
+

@@ -1,0 +1,43 @@
+"ø
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_264">
+      But soft, what light through yonder window breaks?<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_264', '/monologues/preview?monologue_id=264', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('1feUldcPYh8+55WCvim71mNPmoOywt3v3xKQ/w5r8XQ=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          He jests at scars that never felt a wound.<br>
+<i>[JULIET appears above at a window]</i><br>
+But, soft! what light through yonder window breaks?<br>
+It is the east, and Juliet is the sun.<br>
+Arise, fair sun, and kill the envious moon,<br>
+Who is already sick and pale with grief, <br>
+That thou her maid art far more fair than she:<br>
+Be not her maid, since she is envious;<br>
+Her vestal livery is but sick and green<br>
+And none but fools do wear it; cast it off.<br>
+It is my lady, O, it is my love! <br>
+O, that she knew she were!<br>
+She speaks yet she says nothing: what of that?<br>
+Her eye discourses; I will answer it.<br>
+I am too bold, 'tis not to me she speaks:<br>
+Two of the fairest stars in all the heaven, <br>
+Having some business, do entreat her eyes<br>
+To twinkle in their spheres till they return.<br>
+What if her eyes were there, they in her head?<br>
+The brightness of her cheek would shame those stars,<br>
+As daylight doth a lamp; her eyes in heaven <br>
+Would through the airy region stream so bright<br>
+That birds would sing and think it were not night.<br>
+See, how she leans her cheek upon her hand!<br>
+O, that I were a glove upon that hand,<br>
+That I might touch that cheek! 
+
+      </div>
+    </span>
+
+  
+

@@ -1,0 +1,31 @@
+"Ê
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_304">
+      Aye, but to die and go we know not where<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_304', '/monologues/preview?monologue_id=304', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Usli2rnYmjdGg7C7v9YkP4+Sj9ty7VnIpQXs7zU28sE=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Ay, but to die, and go we know not where;<br>
+To lie in cold obstruction and to rot;<br>
+This sensible warm motion to become<br>
+A kneaded clod; and the delighted spirit<br>
+To bathe in fiery floods, or to reside<br>
+In thrilling region of thick-ribbed ice;<br>
+To be imprison'd in the viewless winds,<br>
+And blown with restless violence round about<br>
+The pendent world; or to be worse than worst<br>
+Of those that lawless and incertain thought<br>
+Imagine howling: 'tis too horrible!<br>
+The weariest and most loathed worldly life<br>
+That age, ache, penury and imprisonment<br>
+Can lay on nature is a paradise<br>
+To what we fear of death. <br>
+      </div>
+    </span>
+
+  
+

@@ -1,0 +1,50 @@
+"j
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_435">
+      O for a Muse of fire, that would ascend<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_435', '/monologues/preview?monologue_id=435', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Wl2MkQ+qLTDB7FvvUFrbPllM5lwJa01bUaQpvjuK0Hs=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+           O for a Muse of fire, that would ascend<br>
+The brightest heaven of invention,<br>
+A kingdom for a stage, princes to act<br>
+And monarchs to behold the swelling scene!<br>
+Then should the warlike Harry, like himself,<br>
+Assume the port of Mars; and at his heels,<br>
+Leash'd in like hounds, should famine, sword and fire<br>
+Crouch for employment. But pardon, and gentles all,<br>
+The flat unraised spirits that have dared <br>
+On this unworthy scaffold to bring forth<br>
+So great an object: can this cockpit hold<br>
+The vasty fields of France? or may we cram<br>
+Within this wooden O the very casques<br>
+That did affright the air at Agincourt? <br>
+O, pardon! since a crooked figure may<br>
+Attest in little place a million;<br>
+And let us, ciphers to this great accompt,<br>
+On your imaginary forces work.<br>
+Suppose within the girdle of these walls<br>
+Are now confined two mighty monarchies,<br>
+Whose high upreared and abutting fronts<br>
+The perilous narrow ocean parts asunder:<br>
+Piece out our imperfections with your thoughts;<br>
+Into a thousand parts divide on man, <br>
+And make imaginary puissance;<br>
+Think when we talk of horses, that you see them<br>
+Printing their proud hoofs i' the receiving earth;<br>
+For 'tis your thoughts that now must deck our kings,<br>
+Carry them here and there; jumping o'er times, <br>
+Turning the accomplishment of many years<br>
+Into an hour-glass: for the which supply,<br>
+Admit me Chorus to this history;<br>
+Who prologue-like your humble patience pray,<br>
+Gently to hear, kindly to judge, our play. 
+      </div>
+    </span>
+
+  
+

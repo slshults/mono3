@@ -1,0 +1,10 @@
+"–
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_145">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_145', '/monologues/preview/145', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('7/vHkqkr9sWBlkfBZzYAN7rdWZIvWUThrCEH22K8dbQ=')}); return false;">So sweet a kiss the golden sun gives not</a>
+    </span>
+  
+

@@ -1,0 +1,27 @@
+"
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_135">
+      They are worse fools to purchase mocking so<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_135', '/monologues/preview?monologue_id=135', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('NuashGpg/YiqgepbgK9fXE3l9w4YQ5HL53gVAjksAWg=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          They are worse fools to purchase mocking so.<br>
+That same Biron I'll torture ere I go:<br>
+O that I knew he were but in by the week!<br>
+How I would make him fawn and beg and seek<br>
+And wait the season and observe the times <br>
+And spend his prodigal wits in bootless rhymes<br>
+And shape his service wholly to my hests<br>
+And make him proud to make me proud that jests!<br>
+So perttaunt-like would I o'ersway his state<br>
+That he should be my fool and I his fate. 
+
+      </div>
+    </span>
+
+  
+

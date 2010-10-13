@@ -1,0 +1,10 @@
+"›
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_259">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_259', '/monologues/preview/259', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('JSBkPa8kvIB11owLOysTHl4oTQ3kpAnXFbnQI4F3Hps=')}); return false;">Farewell! God knows when we shall meet again.</a>
+    </span>
+  
+

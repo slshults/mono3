@@ -1,0 +1,38 @@
+"C
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_632">
+      Thou, Nature, art my goddess, to thy law<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_632', '/monologues/preview?monologue_id=632', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('QnKCPtInl3PpwqGh3vhC+Bl4gZBY5lSRhEoO7pgaA4U=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Thou, Nature, art my goddess; to thy law<br>
+My services are bound. Wherefore should I <br>
+Stand in the plague of custom, and permit<br>
+The curiosity of nations to deprive me,<br>
+For that I am some twelve or fourteen moonshines<br>
+Lag of a brother? Why bastard? wherefore base?<br>
+When my dimensions are as well compact, <br>
+My mind as generous, and my shape as true,<br>
+As honest madam's issue? Why brand they us<br>
+With base? with baseness? bastardy? base, base?<br>
+Who, in the lusty stealth of nature, take<br>
+More composition and fierce quality <br>
+Than doth, within a dull, stale, tired bed,<br>
+Go to th' creating a whole tribe of fops<br>
+Got 'tween asleep and wake? Well then,<br>
+Legitimate Edgar, I must have your land.<br>
+Our father's love is to the bastard Edmund <br>
+As to th' legitimate. Fine word- 'legitimate'!<br>
+Well, my legitimate, if this letter speed,<br>
+And my invention thrive, Edmund the base<br>
+Shall top th' legitimate. I grow; I prosper.<br>
+Now, gods, stand up for bastards! 
+      </div>
+    </span>
+
+  
+

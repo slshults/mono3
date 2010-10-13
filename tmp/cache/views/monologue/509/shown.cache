@@ -1,0 +1,10 @@
+"–
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_509">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_509', '/monologues/preview/509', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('10YQQqXtoYQ8y5JtcthpVXYBF564gXjLN3Aqh4LdN84=')}); return false;">I, that have neither pity, love nor fear</a>
+    </span>
+  
+

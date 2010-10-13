@@ -1,0 +1,53 @@
+"–
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_29">
+      How all occasions do inform against me<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_29', '/monologues/preview?monologue_id=29', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('SLgGMdfhmiC4L3YIr3H9ARMzPOA8LcEcGLXGrvOdZSA=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          How all occasions do inform against me<br>
+And spur my dull revenge! What is a man,<br>
+If his chief good and market of his time<br>
+Be but to sleep and feed? A beast, no more.<br>
+Sure he that made us with such large discourse,<br>
+Looking before and after, gave us not<br>
+That capability and godlike reason<br>
+To fust in us unus'd. Now, whether it be<br>
+Bestial oblivion, or some craven scruple<br>
+Of thinking too precisely on th' event,- <br>
+A thought which, quarter'd, hath but one part wisdom<br>
+And ever three parts coward,- I do not know<br>
+Why yet I live to say 'This thing's to do,'<br>
+Sith I have cause, and will, and strength, and means<br>
+To do't. Examples gross as earth exhort me. <br>
+Witness this army of such mass and charge,<br>
+Led by a delicate and tender prince,<br>
+Whose spirit, with divine ambition puff'd,<br>
+Makes mouths at the invisible event,<br>
+Exposing what is mortal and unsure <br>
+To all that fortune, death, and danger dare,<br>
+Even for an eggshell. Rightly to be great<br>
+Is not to stir without great argument,<br>
+But greatly to find quarrel in a straw<br>
+When honour's at the stake. How stand I then,<br>
+That have a father kill'd, a mother stain'd,<br>
+Excitements of my reason and my blood,<br>
+And let all sleep, while to my shame I see<br>
+The imminent death of twenty thousand men<br>
+That for a fantasy and trick of fame <br>
+Go to their graves like beds, fight for a plot<br>
+Whereon the numbers cannot try the cause,<br>
+Which is not tomb enough and continent<br>
+To hide the slain? O, from this time forth,<br>
+My thoughts be bloody, or be nothing worth! <br><br>
+[<i>Exit.</i>] 
+
+      </div>
+    </span>
+
+  
+

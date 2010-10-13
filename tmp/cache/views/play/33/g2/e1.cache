@@ -1,0 +1,224 @@
+I"$  
+    <div>
+      <h2>Women's Monologues in Shakespeare</h2>
+      <h2>Macbeth</h2>
+      <span>
+        <form action="javascript:void(0);" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="lcTR5/tmwCtOJRqrgln3NrKMvPBmTy6PZRreJjCwnZs=" /></div>
+          <b>Search:</b> <input type="text" id="search" size="40"/>
+          <img alt="Ajax-loader" id="spinner" src="/images/ajax-loader.gif?1278779332" style="display: none;" />
+        </form>
+        <div class="search_links">
+          <a href="/plays/33?g=3">Search Men</a> &nbsp;|&nbsp;
+          <a href="/plays/33">Search Macbeth</a> &nbsp;|&nbsp;
+          <a href="/plays">Search All Plays</a> &nbsp;|&nbsp;
+          
+            <a href="/plays/33?g=2">Collapse All</a>
+          
+        </div>
+      </span>
+    </div>
+    <script type="text/javascript">
+//<![CDATA[
+new Form.Element.Observer('search', 1.25, function(element, value) {Element.show('spinner'); new Ajax.Updater('ajaxResults', 'http://shakespeare-monologues.org/monologues/search', {asynchronous:true, evalScripts:true, onComplete:function(request){Element.hide('spinner')}, parameters:'g=2&p=33&search=' + encodeURIComponent(value) + '&authenticity_token=' + encodeURIComponent('lcTR5/tmwCtOJRqrgln3NrKMvPBmTy6PZRreJjCwnZs=')})})
+//]]>
+</script>
+  
+    <div id='ajaxResults'>
+      
+
+  
+
+      
+<div>
+  <table id='monologue_list'>
+    <tr>
+      <th>Character</th>
+      <th>First Line</th>
+      <th>Act & Sc</th>
+      <th>pdf</th>
+    </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Lady Macbeth</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/33">Macbeth</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_66'>
+  
+    <span id="preview_mono_66">
+      
+
+
+They met me in the day of success
+
+<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_66', '/monologues/preview?monologue_id=66', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('lcTR5/tmwCtOJRqrgln3NrKMvPBmTy6PZRreJjCwnZs=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <i>[Enter LADY MACBETH, reading a letter]</i><p>
+
+'They met me in the day of success: and I have <br>
+      learned by the perfectest report, they have more in<br>
+      them than mortal knowledge. When I burned in desire<br>
+      to question them further, they made themselves air,<br>
+      into which they vanished. Whiles I stood rapt in<br>
+      the wonder of it, came missives from the king, who <br>
+      all-hailed me 'Thane of Cawdor;' by which title,<br>
+      before, these weird sisters saluted me, and referred<br>
+      me to the coming on of time, with 'Hail, king that<br>
+      shalt be!' This have I thought good to deliver<br>
+      thee, my dearest partner of greatness, that thou<br>
+      mightst not lose the dues of rejoicing, by being<br>
+      ignorant of what greatness is promised thee. Lay it<br>
+      to thy heart, and farewell.'<br>
+      Glamis thou art, and Cawdor; and shalt be<br>
+      What thou art promised: yet do I fear thy nature;<br>
+      It is too full o' the milk of human kindness<br>
+      To catch the nearest way: thou wouldst be great;<br>
+      Art not without ambition, but without<br>
+      The illness should attend it: what thou wouldst highly,<br>
+      That wouldst thou holily; wouldst not play false, <br>
+      And yet wouldst wrongly win: thou'ldst have, great Glamis,<br>
+      That which cries 'Thus thou must do, if thou have it;<br>
+      And that which rather thou dost fear to do<br>
+      Than wishest should be undone.' Hie thee hither,<br>
+      That I may pour my spirits in thine ear; <br>
+      And chastise with the valour of my tongue<br>
+      All that impedes thee from the golden round,<br>
+      Which fate and metaphysical aid doth seem<br>
+      To have thee crown'd withal. 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=macbeth&Act=1&Scene=5&Scope=scene&LineHighlight=345' target='_blank'>I v 1</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/m-1-5-1-ladymacbeth.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Lady Macbeth</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/33">Macbeth</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_67'>
+  
+    <span id="preview_mono_67">
+      
+
+
+The raven himself is hoarse
+That croaks the fatal entrance of Duncan
+
+<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_67', '/monologues/preview?monologue_id=67', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('lcTR5/tmwCtOJRqrgln3NrKMvPBmTy6PZRreJjCwnZs=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <div align='right'>The raven himself is hoarse</div>
+That croaks the fatal entrance of Duncan<br>
+Under my battlements. Come, you spirits <br>
+That tend on mortal thoughts, unsex me here,<br>
+And fill me from the crown to the toe top-full<br>
+Of direst cruelty! make thick my blood;<br>
+Stop up the access and passage to remorse,<br>
+That no compunctious visitings of nature<br>
+Shake my fell purpose, nor keep peace between<br>
+The effect and it! Come to my woman's breasts,<br>
+And take my milk for gall, you murdering ministers,<br>
+Wherever in your sightless substances<br>
+You wait on nature's mischief! Come, thick night,<br>
+And pall thee in the dunnest smoke of hell,<br>
+That my keen knife see not the wound it makes,<br>
+Nor heaven peep through the blanket of the dark,<br>
+To cry 'Hold, hold!'
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=macbeth&Act=1&Scene=5&Scope=scene&LineHighlight=385#381' target='_blank'>I v 31</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/m-1-5-31-ladymacbeth.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Lady Macbeth</div>
+  <div class='monologue_detail'>
+  Verse - intercut <br/>
+  <a href="/plays/33">Macbeth</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_68'>
+  
+    <span id="preview_mono_68">
+      
+
+Was the hope drunk 
+wherein you dress'd yourself? Hath it slept since?
+<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_68', '/monologues/preview?monologue_id=68', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('lcTR5/tmwCtOJRqrgln3NrKMvPBmTy6PZRreJjCwnZs=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Lady Macbeth.</b><div align='right'> Was the hope drunk</div>
+      Wherein you dress'd yourself? hath it slept since?<br>
+      And wakes it now, to look so green and pale<br>
+      At what it did so freely? From this time <br>
+      Such I account thy love. Art thou afeard<br>
+      To be the same in thine own act and valour<br>
+      As thou art in desire? Wouldst thou have that<br>
+      Which thou esteem'st the ornament of life,<br>
+      And live a coward in thine own esteem,<br>
+      Letting 'I dare not' wait upon 'I would,'<br>
+      Like the poor cat i' the adage? <br><br>
+
+<del><b>Macbeth.</b> Prithee, peace:<br>
+      I dare do all that may become a man;<br>
+      Who dares do more is none. </del><br><br>
+
+<b>Lady Macbeth.</b> What beast was't, then,<br>
+      That made you break this enterprise to me?<br>
+      When you durst do it, then you were a man;<br>
+      And, to be more than what you were, you would<br>
+      Be so much more the man. Nor time nor place <br>
+      Did then adhere, and yet you would make both:<br>
+      They have made themselves, and that their fitness now<br>
+      Does unmake you. I have given suck, and know<br>
+      How tender 'tis to love the babe that milks me:<br>
+      I would, while it was smiling in my face, <br>
+      Have pluck'd my nipple from his boneless gums,<br>
+      And dash'd the brains out, had I so sworn as you<br>
+      Have done to this. 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=macbeth&Act=1&Scene=7&Scope=scene&LineHighlight=512#504' target='_blank'>I vii 41</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/m-1-7-35-ladymacbeth.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+</table></div>
+
+
+  
+
+
+
+
+    </div>
+:@_rails_html_safeF

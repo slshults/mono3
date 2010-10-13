@@ -1,0 +1,10 @@
+"š
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_167">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_167', '/monologues/preview/167', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('0Z/t13+LSIkFnadcmEeJ14FwmAymRQGteFB0zBkdVaE=')}); return false;">Certainly my conscience will serve me to run</a>
+    </span>
+  
+

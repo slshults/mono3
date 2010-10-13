@@ -1,0 +1,10 @@
+"™
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_698">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_698', '/monologues/preview/698', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('a4B/yZjMkNLDdA+PN8U18QP+SlHyhKKPrQjnq1vaCeQ=')}); return false;">Shall she live to betray this guilt of ours</a>
+    </span>
+  
+

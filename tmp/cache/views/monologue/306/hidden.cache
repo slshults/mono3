@@ -1,0 +1,38 @@
+"x
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_306">
+      He who the sword of heaven will bear<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_306', '/monologues/preview?monologue_id=306', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Y4FGe3y5fkQgPcXZYZaB0c5jqYL/oW58xP640MERguM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          He who the sword of heaven will bear 1770<br>
+Should be as holy as severe;<br>
+Pattern in himself to know,<br>
+Grace to stand, and virtue go;<br>
+More nor less to others paying<br>
+Than by self-offences weighing.<br>
+Shame to him whose cruel striking<br>
+Kills for faults of his own liking!<br>
+Twice treble shame on Angelo,<br>
+To weed my vice and let his grow!<br>
+O, what may man within him hide,<br>
+Though angel on the outward side!<br>
+How may likeness made in crimes,<br>
+Making practise on the times,<br>
+To draw with idle spiders' strings<br>
+Most ponderous and substantial things!<br>
+Craft against vice I must apply:<br>
+With Angelo to-night shall lie<br>
+His old betrothed but despised;<br>
+So disguise shall, by the disguised,<br>
+Pay with falsehood false exacting, <br>
+And perform an old contracting. <br>
+      </div>
+    </span>
+
+  
+

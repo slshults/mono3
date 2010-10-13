@@ -1,0 +1,10 @@
+"œ
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_443">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_443', '/monologues/preview/443', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('eSGrm0pbUbImE5q4M0lR0xOskKGMemE3bQmy7yJk/Wk=')}); return false;">God quit you in his mercy! Hear your sentence.</a>
+    </span>
+  
+

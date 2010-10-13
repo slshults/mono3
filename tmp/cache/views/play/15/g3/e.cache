@@ -1,0 +1,563 @@
+I"‡u  
+    <div>
+      <h2>Men's Monologues in Shakespeare</h2>
+      <h2>Troilus and Cressida</h2>
+      <span>
+        <form action="javascript:void(0);" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="WbPf1G/70O3PLI3YRbZZWUzIa1nwg2oYRuRpF74bsu8=" /></div>
+          <b>Search:</b> <input type="text" id="search" size="40"/>
+          <img alt="Ajax-loader" id="spinner" src="/images/ajax-loader.gif?1278779332" style="display: none;" />
+        </form>
+        <div class="search_links">
+          <a href="/plays/15?g=2">Search Women</a> &nbsp;|&nbsp;
+          <a href="/plays/15">Search Troilus and Cressida</a> &nbsp;|&nbsp;
+          <a href="/plays">Search All Plays</a> &nbsp;|&nbsp;
+          
+            <a href="/plays/15?expand=1&amp;g=3">Expand All</a>
+          
+        </div>
+      </span>
+    </div>
+    <script type="text/javascript">
+//<![CDATA[
+new Form.Element.Observer('search', 1.25, function(element, value) {Element.show('spinner'); new Ajax.Updater('ajaxResults', 'http://shakespeare-monologues.org/monologues/search', {asynchronous:true, evalScripts:true, onComplete:function(request){Element.hide('spinner')}, parameters:'g=3&p=15&search=' + encodeURIComponent(value) + '&authenticity_token=' + encodeURIComponent('WbPf1G/70O3PLI3YRbZZWUzIa1nwg2oYRuRpF74bsu8=')})})
+//]]>
+</script>
+  
+    <div id='ajaxResults'>
+      
+
+  
+
+      
+<div>
+  <table id='monologue_list'>
+    <tr>
+      <th>Character</th>
+      <th>First Line</th>
+      <th>Act & Sc</th>
+      <th>pdf</th>
+    </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Troilus</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/15">Troilus and Cressida</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_367'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_367', '/monologues/preview/367', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('WbPf1G/70O3PLI3YRbZZWUzIa1nwg2oYRuRpF74bsu8=')}); return false;">O Pandarus! I tell thee, Pandarus</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=troilus&Act=1&Scene=1&Scope=scene&LineHighlight=78#72' target='_blank'>I i 36</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tac-1-1-36-troilus.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Troilus</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/15">Troilus and Cressida</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_368'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_368', '/monologues/preview/368', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('WbPf1G/70O3PLI3YRbZZWUzIa1nwg2oYRuRpF74bsu8=')}); return false;">Peace, you ungracious clamours! peace, rude sounds!</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=troilus&Act=1&Scene=1&Scope=scene&LineHighlight=119#113' target='_blank'>I i 66</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tac-1-1-66-troilus.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Agamemnon</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/15">Troilus and Cressida</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_369'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_369', '/monologues/preview/369', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('WbPf1G/70O3PLI3YRbZZWUzIa1nwg2oYRuRpF74bsu8=')}); return false;">Princes,  What grief hath set the jaundice on your cheeks?</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=troilus&Act=1&Scene=3&Scope=scene&LineHighlight=451' target='_blank'>I iii 1</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tac-1-3-1-troilus.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Nestor</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/15">Troilus and Cressida</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_370'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_370', '/monologues/preview/370', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('WbPf1G/70O3PLI3YRbZZWUzIa1nwg2oYRuRpF74bsu8=')}); return false;">With due observance of thy god-like seat,</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=troilus&Act=1&Scene=3&Scope=scene&LineHighlight=481#481' target='_blank'>I iii 33</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tac-1-3-341-nestor.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Ulysses</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/15">Troilus and Cressida</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_371'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_371', '/monologues/preview/371', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('WbPf1G/70O3PLI3YRbZZWUzIa1nwg2oYRuRpF74bsu8=')}); return false;">Troy, yet upon his basis, had been down,</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=troilus&Act=1&Scene=3&Scope=scene&LineHighlight=528#523' target='_blank'>I iii 78</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tac-1-3-78-ulysses.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Aeneas</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/15">Troilus and Cressida</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_372'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_372', '/monologues/preview/372', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('WbPf1G/70O3PLI3YRbZZWUzIa1nwg2oYRuRpF74bsu8=')}); return false;">Trumpet, blow aloud,  Send thy brass voice through all these lazy tents;</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=troilus&Act=1&Scene=3&Scope=scene&LineHighlight=716#712' target='_blank'>I iii 263</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tac-1-3-263-aeneas.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Nestor</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/15">Troilus and Cressida</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_373'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_373', '/monologues/preview/373', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('WbPf1G/70O3PLI3YRbZZWUzIa1nwg2oYRuRpF74bsu8=')}); return false;">Yes, 'tis most meet: whom may you else oppose,</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=troilus&Act=1&Scene=3&Scope=scene&LineHighlight=796#787' target='_blank'>I iii 341</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tac-1-3-341-nestor.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Ulysses</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/15">Troilus and Cressida</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_374'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_374', '/monologues/preview/374', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('WbPf1G/70O3PLI3YRbZZWUzIa1nwg2oYRuRpF74bsu8=')}); return false;">What glory our Achilles shares from Hector</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=troilus&Act=1&Scene=3&Scope=scene&LineHighlight=830#820' target='_blank'>I iii 376</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tac-1-3-376-ulysses.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Hector</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/15">Troilus and Cressida</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_375'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_375', '/monologues/preview/375', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('WbPf1G/70O3PLI3YRbZZWUzIa1nwg2oYRuRpF74bsu8=')}); return false;">Though no man lesser fears the Greeks than I,</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=troilus&Act=2&Scene=2&Scope=scene&LineHighlight=997' target='_blank'>II ii 10</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tac-2-2-10-hector.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Hector</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/15">Troilus and Cressida</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_376'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_376', '/monologues/preview/376', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('WbPf1G/70O3PLI3YRbZZWUzIa1nwg2oYRuRpF74bsu8=')}); return false;">You are for dreams and slumbers, brother priest;</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=troilus&Act=2&Scene=2&Scope=scene&LineHighlight=1027#1023' target='_blank'>II ii 40</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tac-2-2-40-hector.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Troilus</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/15">Troilus and Cressida</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_377'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_377', '/monologues/preview/377', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('WbPf1G/70O3PLI3YRbZZWUzIa1nwg2oYRuRpF74bsu8=')}); return false;">I take today a wife, and my election</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=troilus&Act=2&Scene=2&Scope=scene&LineHighlight=1054#1045' target='_blank'>II ii 65</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tac-2-2-62-troilus.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Paris</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/15">Troilus and Cressida</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_378'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_378', '/monologues/preview/378', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('WbPf1G/70O3PLI3YRbZZWUzIa1nwg2oYRuRpF74bsu8=')}); return false;">Sir, I propose not merely to myself</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=troilus&Act=2&Scene=2&Scope=scene&LineHighlight=1144#1140' target='_blank'>II ii 154</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tac-2-2-154-paris.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Hector</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/15">Troilus and Cressida</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_379'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_379', '/monologues/preview/379', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('WbPf1G/70O3PLI3YRbZZWUzIa1nwg2oYRuRpF74bsu8=')}); return false;">Paris and Troilus, you have both said well;</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=troilus&Act=2&Scene=2&Scope=scene&LineHighlight=1161#1144' target='_blank'>II ii 171</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tac-2-2-171-hector.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Thersites</div>
+  <div class='monologue_detail'>
+  Prose  <br/>
+  <a href="/plays/15">Troilus and Cressida</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_380'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_380', '/monologues/preview/380', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('WbPf1G/70O3PLI3YRbZZWUzIa1nwg2oYRuRpF74bsu8=')}); return false;">How now, Thersites! what, lost in the labyrinth</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=troilus&Act=2&Scene=3&Scope=scene&LineHighlight=1215#1214' target='_blank'>II iii 1</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tac-2-3-1-thersites.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Agamemnon</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/15">Troilus and Cressida</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_381'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_381', '/monologues/preview/381', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('WbPf1G/70O3PLI3YRbZZWUzIa1nwg2oYRuRpF74bsu8=')}); return false;">Hear you, Patroclus We are too well acquainted with these answers:</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=troilus&Act=2&Scene=3&Scope=scene&LineHighlight=1330#1320' target='_blank'>II iii 59</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tac-2-3-59-agamemnon.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Ulysses</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/15">Troilus and Cressida</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_382'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_382', '/monologues/preview/382', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('WbPf1G/70O3PLI3YRbZZWUzIa1nwg2oYRuRpF74bsu8=')}); return false;">O Agamemnon! let it not be so.</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=troilus&Act=2&Scene=3&Scope=scene&LineHighlight=1404#1389' target='_blank'>II iii 122</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tac-2-3-122-ulysses.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Achilles</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/15">Troilus and Cressida</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_383'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_383', '/monologues/preview/383', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('WbPf1G/70O3PLI3YRbZZWUzIa1nwg2oYRuRpF74bsu8=')}); return false;">What! am I poor of late?</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=troilus&Act=3&Scene=3&Scope=scene&LineHighlight=1946#1942' target='_blank'>III iii 79</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tac-3-3-79-achilles.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Ulysses</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/15">Troilus and Cressida</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_384'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_384', '/monologues/preview/384', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('WbPf1G/70O3PLI3YRbZZWUzIa1nwg2oYRuRpF74bsu8=')}); return false;">I do not strain at the position</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=troilus&Act=3&Scene=3&Scope=scene&LineHighlight=1987#1977' target='_blank'>III iii 121</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tac-3-3-121-ulysses.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Ulysses</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/15">Troilus and Cressida</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_385'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_385', '/monologues/preview/385', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('WbPf1G/70O3PLI3YRbZZWUzIa1nwg2oYRuRpF74bsu8=')}); return false;">The providence that's in a watchful state</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=troilus&Act=3&Scene=3&Scope=scene&LineHighlight=2075#2068' target='_blank'>III iii 208</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tac-3-3-208-ulysses.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Thersites</div>
+  <div class='monologue_detail'>
+  Verse - intercut <br/>
+  <a href="/plays/15">Troilus and Cressida</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_386'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_386', '/monologues/preview/386', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('WbPf1G/70O3PLI3YRbZZWUzIa1nwg2oYRuRpF74bsu8=')}); return false;">Ajax goes up and down the field, asking for himself.</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=troilus&Act=3&Scene=3&Scope=scene&LineHighlight=2129#2127' target='_blank'>III iii 259</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tac-3-3-259-thersites.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Troilus</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/15">Troilus and Cressida</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_387'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_387', '/monologues/preview/387', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('WbPf1G/70O3PLI3YRbZZWUzIa1nwg2oYRuRpF74bsu8=')}); return false;">And suddenly; where injury of chance</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=troilus&Act=4&Scene=4&Scope=scene&LineHighlight=2463#2458' target='_blank'>IV iv 30</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tac-4-4-30-troilus.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Hector</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/15">Troilus and Cressida</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_388'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_388', '/monologues/preview/388', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('WbPf1G/70O3PLI3YRbZZWUzIa1nwg2oYRuRpF74bsu8=')}); return false;">Thou art, great lord, my father's sister's son,</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=troilus&Act=4&Scene=5&Scope=scene&LineHighlight=2739#2735' target='_blank'>IV v 140</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tac-4-5-140-hector.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Nestor</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/15">Troilus and Cressida</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_389'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_389', '/monologues/preview/389', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('WbPf1G/70O3PLI3YRbZZWUzIa1nwg2oYRuRpF74bsu8=')}); return false;">I have, thou gallant Trojan, see thee oft,</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=troilus&Act=4&Scene=5&Scope=scene&LineHighlight=2807#2801' target='_blank'>IV v 206</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tac-4-5-206-nestor.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Thersites</div>
+  <div class='monologue_detail'>
+  Prose  <br/>
+  <a href="/plays/15">Troilus and Cressida</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_390'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_390', '/monologues/preview/390', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('WbPf1G/70O3PLI3YRbZZWUzIa1nwg2oYRuRpF74bsu8=')}); return false;">With too much blood and too little brain</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=troilus&Act=5&Scene=1&Scope=scene&LineHighlight=2979#2967' target='_blank'>V i 36</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tac-5-1-36-thersites.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Troilus</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/15">Troilus and Cressida</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_391'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_391', '/monologues/preview/391', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('WbPf1G/70O3PLI3YRbZZWUzIa1nwg2oYRuRpF74bsu8=')}); return false;">This she? no, this is Diomed's Cressida</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=troilus&Act=5&Scene=2&Scope=scene&LineHighlight=3211#3208' target='_blank'>V ii 163</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tac-5-2-163-troilus.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Troilus</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/15">Troilus and Cressida</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_392'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_392', '/monologues/preview/392', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('WbPf1G/70O3PLI3YRbZZWUzIa1nwg2oYRuRpF74bsu8=')}); return false;">You understand me not that tell me so.</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=troilus&Act=5&Scene=10&Scope=scene&LineHighlight=3644#3634' target='_blank'>V x 15</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tac-5-10-15-troilus.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Chorus</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/15">Troilus and Cressida</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_752'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_752', '/monologues/preview/752', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('WbPf1G/70O3PLI3YRbZZWUzIa1nwg2oYRuRpF74bsu8=')}); return false;">In Troy there lies the scene. From isles of Greece</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=troilus&Act=1&Scene=0&Scope=scene&LineHighlight=1' target='_blank'>Prologue</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/tac-1-prologue.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+</table></div>
+
+
+  
+
+
+
+
+    </div>
+:@_rails_html_safeF

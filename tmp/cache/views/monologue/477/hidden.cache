@@ -1,0 +1,17 @@
+"5
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_477">
+      Whether it be through force of your report<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_477', '/monologues/preview?monologue_id=477', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('NXrvPJYxL3di02lzN2X+jZm1Kt9c37lj/nf8wSyMRbk=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+
+  
+

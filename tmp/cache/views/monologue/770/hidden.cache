@@ -1,0 +1,17 @@
+"6
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_770">
+      The regent conquers, and the Frenchmen fly.<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_770', '/monologues/preview?monologue_id=770', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('6V7pLF9cqlGumXMSv2FUDDFqxTPNJXwx68XaXT0RojQ=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+
+  
+

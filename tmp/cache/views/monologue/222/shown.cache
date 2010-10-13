@@ -1,0 +1,10 @@
+"š
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_222">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_222', '/monologues/preview/222', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('JLrAo7KSKk9Eee1+7kngYDRWyu6DgC9BtTtoPCjw58I=')}); return false;">I am accursed to rob in that thief's company</a>
+    </span>
+  
+

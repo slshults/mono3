@@ -1,0 +1,65 @@
+<% if @ajax_search.nil? or @ajax_search.empty? %>
+
+  <% if @play_id %>
+
+      <%= render :partial => 'shared/monologues', :locals => { :monologues => @monologues } %>
+
+  <% else %>
+
+    <% cache "play/_search/gender_#{@gender ? @gender.name.downcase : 'both '}" do %>
+
+      <table id="categories_list" border="1">
+        <tr>
+          <th>Comedies</th>
+          <th>Histories</th>
+          <th>Tragedies</th>
+        </tr>
+        <tr>
+          <td>
+            <% @comedies.sort{|a,b| a.title <=> b.title }.each do |comedy| %>
+                <% path = @gender ? play_path(comedy, :g => @gender.id) : play_path(comedy) %>
+                <%= link_to comedy.title, path %><br/>
+              <% end %>
+          </td>
+          <td>
+              <% @histories.sort{|a,b| a.title <=> b.title }.each do |history| %>
+                <% path = @gender ? play_path(history, :g => @gender.id) : play_path(history) %>
+                <%= link_to history.title, path %><br/>
+              <% end %>
+          </td>
+          <td>
+              <% @tragedies.sort{|a,b| a.title <=> b.title }.each do |tragedy| %>
+                <% path = @gender ? play_path(tragedy, :g => @gender.id) : play_path(tragedy) %>
+                <%= link_to tragedy.title, path %><br/>
+              <% end %>
+          </td>
+        </tr>
+      </table>
+
+    <% end %>
+
+  <% end %>
+
+<% else %>
+  <% if @monologues.empty? %>
+
+    <p><br/>Alas, no monologues match your search</p>
+  <% else %>
+
+    <% if params[:search] %>
+
+      <% if @monologues.size == 1 %>
+        <p>Behold! Your monologue.</p>
+      <% else %>
+        <p><%= @monologues.size.to_s %> monologues match your search!</p>
+      <% end %>
+
+    <% else %>
+      <p><div>First 20 monologues</div></p>
+    <% end %>
+
+    <%= render :partial => 'shared/monologues', :locals => { :monologues => @monologues } %>
+
+  <% end %>
+<% end %>
+

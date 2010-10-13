@@ -1,0 +1,10 @@
+"•
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_454">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_454', '/monologues/preview/454', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('u4cq6yqwR6NtGtDGAit3BwL7cy/SFjeAXOr738ZX0Y0=')}); return false;">So, if a son that is by his father sent</a>
+    </span>
+  
+

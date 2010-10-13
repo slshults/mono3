@@ -1,0 +1,276 @@
+I"‚.  
+    <div>
+      <h2>Women's Monologues in Shakespeare</h2>
+      <h2>Antony &amp; Cleopatra</h2>
+      <span>
+        <form action="javascript:void(0);" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="RV17fwaD8k3FjPOJOCGtIowpFYcy3xHXrjraD7qoOYQ=" /></div>
+          <b>Search:</b> <input type="text" id="search" size="40"/>
+          <img alt="Ajax-loader" id="spinner" src="/images/ajax-loader.gif?1278779332" style="display: none;" />
+        </form>
+        <div class="search_links">
+          <a href="/plays/29?g=3">Search Men</a> &nbsp;|&nbsp;
+          <a href="/plays/29">Search Antony & Cleopatra</a> &nbsp;|&nbsp;
+          <a href="/plays">Search All Plays</a> &nbsp;|&nbsp;
+          
+            <a href="/plays/29?g=2">Collapse All</a>
+          
+        </div>
+      </span>
+    </div>
+    <script type="text/javascript">
+//<![CDATA[
+new Form.Element.Observer('search', 1.25, function(element, value) {Element.show('spinner'); new Ajax.Updater('ajaxResults', 'http://www.shakespeare-monologues.org/monologues/search', {asynchronous:true, evalScripts:true, onComplete:function(request){Element.hide('spinner')}, parameters:'g=2&p=29&search=' + encodeURIComponent(value) + '&authenticity_token=' + encodeURIComponent('RV17fwaD8k3FjPOJOCGtIowpFYcy3xHXrjraD7qoOYQ=')})})
+//]]>
+</script>
+  
+    <div id='ajaxResults'>
+      
+
+  
+
+      
+<div>
+  <table id='monologue_list'>
+    <tr>
+      <th>Character</th>
+      <th>First Line</th>
+      <th>Act & Sc</th>
+      <th>pdf</th>
+    </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Cleopatra</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/29">Antony &amp; Cleopatra</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_236'>
+  
+    <span id="preview_mono_236">
+      Where think'st thou he is now? Stands he, or sits he?<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_236', '/monologues/preview?monologue_id=236', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('RV17fwaD8k3FjPOJOCGtIowpFYcy3xHXrjraD7qoOYQ=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <div align='right'>O Charmian,</div>
+Where think'st thou he is now? Stands he, or sits he?<br>
+Or does he walk? or is he on his horse? <br>
+O happy horse, to bear the weight of Antony!<br>
+Do bravely, horse! for wot'st thou whom thou movest?<br>
+The demi-Atlas of this earth, the arm<br>
+And burgonet of men. He's speaking now,<br>
+Or murmuring 'Where's my serpent of old Nile?'<br>
+For so he calls me: now I feed myself<br>
+With most delicious poison. Think on me,<br>
+That am with Phoebus' amorous pinches black,<br>
+And wrinkled deep in time? Broad-fronted Caesar,<br>
+When thou wast here above the ground, I was <br>
+A morsel for a monarch: and great Pompey<br>
+Would stand and make his eyes grow in my brow;<br>
+There would he anchor his aspect and die<br>
+With looking on his life. 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=antonycleo&Act=1&Scene=5&Scope=scene&LineHighlight=543#533' target='_blank'>I v 26</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/aac-1-5-26-cleopatra.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Cleopatra</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/29">Antony &amp; Cleopatra</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_237'>
+  
+    <span id="preview_mono_237">
+      No more, but e'en a woman, and commanded<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_237', '/monologues/preview?monologue_id=237', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('RV17fwaD8k3FjPOJOCGtIowpFYcy3xHXrjraD7qoOYQ=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          No more, but e'en a woman, and commanded <br>
+      By such poor passion as the maid that milks<br>
+      And does the meanest chares. It were for me<br>
+      To throw my sceptre at the injurious gods;<br>
+      To tell them that this world did equal theirs<br>
+      Till they had stol'n our jewel. All's but naught; <br>
+      Patience is scottish, and impatience does<br>
+      Become a dog that's mad: then is it sin<br>
+      To rush into the secret house of death,<br>
+      Ere death dare come to us? How do you, women?<br>
+      What, what! good cheer! Why, how now, Charmian! <br>
+      My noble girls! Ah, women, women, look,<br>
+      Our lamp is spent, it's out! Good sirs, take heart:<br>
+      We'll bury him; and then, what's brave, what's noble,
+      Let's do it after the high Roman fashion,<br>
+      And make death proud to take us. Come, away:<br>
+      This case of that huge spirit now is cold:<br>
+      Ah, women, women! come; we have no friend<br>
+      But resolution, and the briefest end. <br><br>
+
+[Exeunt; those above bearing off MARK ANTONY's body] 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=antonycleo&Act=4&Scene=15&Scope=scene&LineHighlight=3255#3255' target='_blank'>IV xiii 91</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/aac-4-15-107-cleopatra.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Cleopatra</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/29">Antony &amp; Cleopatra</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_238'>
+  
+    <span id="preview_mono_238">
+      Sir, I will eat no meat, I'll not drink, sir<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_238', '/monologues/preview?monologue_id=238', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('RV17fwaD8k3FjPOJOCGtIowpFYcy3xHXrjraD7qoOYQ=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Sir, I will eat no meat, I'll not drink, sir;<br>
+If idle talk will once be necessary,<br>
+I'll not sleep neither: this mortal house I'll ruin,<br>
+Do Caesar what he can. Know, sir, that I<br>
+Will not wait pinion'd at your master's court;<br>
+Nor once be chastised with the sober eye <br>
+Of dull Octavia. Shall they hoist me up<br>
+And show me to the shouting varletry<br>
+Of censuring Rome? Rather a ditch in Egypt<br>
+Be gentle grave unto me! rather on Nilus' mud<br>
+Lay me stark naked, and let the water-flies <br>
+Blow me into abhorring! rather make<br>
+My country's high pyramides my gibbet,<br>
+And hang me up in chains! 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=antonycleo&Act=5&Scene=2&Scope=scene&LineHighlight=3445#3434' target='_blank'>V ii 194</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/aac-5-2-49-cleopatra.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Cleopatra</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/29">Antony &amp; Cleopatra</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_239'>
+  
+    <span id="preview_mono_239">
+      O Caesar what a wounding shame is this<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_239', '/monologues/preview?monologue_id=239', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('RV17fwaD8k3FjPOJOCGtIowpFYcy3xHXrjraD7qoOYQ=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          O Caesar, what a wounding shame is this,<br>
+That thou, vouchsafing here to visit me,<br>
+Doing the honour of thy lordliness <br>
+To one so meek, that mine own servant should<br>
+Parcel the sum of my disgraces by<br>
+Addition of his envy! Say, good Caesar,<br>
+That I some lady trifles have reserved,<br>
+Immoment toys, things of such dignity<br>
+As we greet modern friends withal; and say,<br>
+Some nobler token I have kept apart<br>
+For Livia and Octavia, to induce<br>
+Their mediation; must I be unfolded<br>
+With one that I have bred? The gods! it smites me<br>
+Beneath the fall I have.<br>
+[To SELEUCUS]<br>
+Prithee, go hence;<br>
+Or I shall show the cinders of my spirits<br>
+Through the ashes of my chance: wert thou a man,<br>
+Thou wouldst have mercy on me. 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=antonycleo&Act=5&Scene=2&Scope=scene&LineHighlight=3583#3573' target='_blank'>V ii 194</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/aac-5-2-194-cleopatra.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Cleopatra</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/29">Antony &amp; Cleopatra</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_240'>
+  
+    <span id="preview_mono_240">
+      Give me my robe, put on my crown; I have<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_240', '/monologues/preview?monologue_id=240', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('RV17fwaD8k3FjPOJOCGtIowpFYcy3xHXrjraD7qoOYQ=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Give me my robe, put on my crown; I have<br>
+Immortal longings in me: now no more<br>
+The juice of Egypt's grape shall moist this lip:<br>
+Yare, yare, good Iras; quick. Methinks I hear<br>
+Antony call; I see him rouse himself<br>
+To praise my noble act; I hear him mock<br>
+The luck of Caesar, which the gods give men<br>
+To excuse their after wrath: husband, I come:<br>
+Now to that name my courage prove my title!<br>
+I am fire and air; my other elements<br>
+I give to baser life. So; have you done?<br>
+Come then, and take the last warmth of my lips.<br>
+Farewell, kind Charmian; Iras, long farewell. <br>
+[Kisses them. IRAS falls and dies]<br>
+Have I the aspic in my lips? Dost fall?<br>
+If thou and nature can so gently part,<br>
+The stroke of death is as a lover's pinch,<br>
+Which hurts, and is desired. Dost thou lie still?<br>
+If thus thou vanishest, thou tell'st the world<br>
+It is not worth leave-taking. 
+
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=antonycleo&Act=5&Scene=2&Scope=scene&LineHighlight=3738#3725' target='_blank'>V ii 315</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/aac-5-2-279-cleopatra.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+</table></div>
+
+
+  
+
+
+
+
+    </div>
+:@_rails_html_safeF

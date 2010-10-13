@@ -1,0 +1,10 @@
+"•
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_435">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_435', '/monologues/preview/435', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('oi8Jx33bxj2Ndvs3dNqMhcuAT4SE891UL9V/n2Rspw8=')}); return false;">O for a Muse of fire, that would ascend</a>
+    </span>
+  
+

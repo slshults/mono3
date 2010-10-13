@@ -1,0 +1,34 @@
+"¿
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_415">
+      Sweet earl, divorce not wisdom from your honour.<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_415', '/monologues/preview?monologue_id=415', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Co9XXBjgxqeaQxpWItZOKmOYVdrEpvEdndKXXdpe0BU=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Sweet Earl, divorce not wisdom from your honour. <br>
+The lives of all your loving complices<br>
+Lean on your health; the which, if you give o'er<br>
+To stormy passion, must perforce decay.<br>
+You cast th' event of war, my noble lord,<br>
+And summ'd the account of chance before you said <br>
+'Let us make head.' It was your pre-surmise<br>
+That in the dole of blows your son might drop.<br>
+You knew he walk'd o'er perils on an edge,<br>
+More likely to fall in than to get o'er;<br>
+You were advis'd his flesh was capable <br>
+Of wounds and scars, and that his forward spirit<br>
+Would lift him where most trade of danger rang'd;<br>
+Yet did you say 'Go forth'; and none of this,<br>
+Though strongly apprehended, could restrain<br>
+The stiff-borne action. What hath then befall'n, <br>
+Or what hath this bold enterprise brought forth<br>
+More than that being which was like to be? 
+      </div>
+    </span>
+
+  
+

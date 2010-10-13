@@ -1,0 +1,10 @@
+"ù
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_261">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_261', '/monologues/preview/261', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('SWrm12q98qcqqWOfCDvRVkpsMwWeEiEPs6BsRJzpqSo=')}); return false;">The grey-ey'd morn smiles on the frowning night</a>
+    </span>
+  
+

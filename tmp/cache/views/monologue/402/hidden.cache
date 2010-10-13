@@ -1,0 +1,29 @@
+"¹
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_402">
+      A woman sometime scorns what best contents her.<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_402', '/monologues/preview?monologue_id=402', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('F0S7Ulr+rSbO0FmcMG7rBxyPNZOfsFtUX+09v86pmtg=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          A woman sometimes scorns what best contents her.<br>
+Send her another; never give her o'er;<br>
+For scorn at first makes after-love the more. <br>
+If she do frown, 'tis not in hate of you,<br>
+But rather to beget more love in you:<br>
+If she do chide, 'tis not to have you gone;<br>
+For why, the fools are mad, if left alone.<br>
+Take no repulse, whatever she doth say; <br>
+For 'get you gone,' she doth not mean 'away!'<br>
+Flatter and praise, commend, extol their graces;<br>
+Though ne'er so black, say they have angels' faces.<br>
+That man that hath a tongue, I say, is no man,<br>
+If with his tongue he cannot win a woman. 
+      </div>
+    </span>
+
+  
+

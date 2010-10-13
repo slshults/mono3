@@ -1,0 +1,17 @@
+",
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_790">
+      A wicked day, and not a holy day!<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_790', '/monologues/preview?monologue_id=790', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('ib3OVue6V6ohCGvekTNfqxzoVz2AVXmglRuyd72ZKmA=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+
+  
+

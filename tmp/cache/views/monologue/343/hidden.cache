@@ -1,0 +1,34 @@
+"©
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_343">
+      But see what heaven can do by this our change<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_343', '/monologues/preview?monologue_id=343', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('3fa8SH3TLIQTNYY17yUJdrmYXy3yf/J1Og2xBBglUyM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          But see what heaven can do! By this our change,<br>
+These mouths, who but of late, earth, sea, and air,<br>
+Were all too little to content and please,<br>
+Although they gave their creatures in abundance,<br>
+As houses are defiled for want of use,<br>
+They are now starved for want of exercise:<br>
+Those palates who, not yet two summers younger, <br>
+Must have inventions to delight the taste,<br>
+Would now be glad of bread, and beg for it:<br>
+Those mothers who, to nousle up their babes,<br>
+Thought nought too curious, are ready now<br>
+To eat those little darlings whom they loved. <br>
+So sharp are hunger's teeth, that man and wife<br>
+Draw lots who first shall die to lengthen life:<br>
+Here stands a lord, and there a lady weeping;<br>
+Here many sink, yet those which see them fall<br>
+Have scarce strength left to give them burial.<br>
+Is not this true? 
+      </div>
+    </span>
+
+  
+

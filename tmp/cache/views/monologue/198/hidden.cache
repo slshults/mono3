@@ -1,0 +1,32 @@
+"
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_198">
+      No, not a whit: I find you passing gentle.<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_198', '/monologues/preview?monologue_id=198', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('7qVMRDMhGtflte2bVxqsaTmd+kYn997ETvzejghtyKw=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          No, not a whit; I find you passing gentle.<br>
+'Twas told me you were rough, and coy, and sullen,<br>
+And now I find report a very liar;<br>
+For thou art pleasant, gamesome, passing courteous,<br>
+But slow in speech, yet sweet as springtime flowers.<br>
+Thou canst not frown, thou canst not look askance,<br>
+Nor bite the lip, as angry wenches will,<br>
+Nor hast thou pleasure to be cross in talk;<br>
+But thou with mildness entertain'st thy wooers;<br>
+With gentle conference, soft and affable.<br>
+Why does the world report that Kate doth limp?<br>
+O sland'rous world! Kate like the hazel-twig<br>
+Is straight and slender, and as brown in hue<br>
+As hazel-nuts, and sweeter than the kernels. <br>
+O, let me see thee walk. Thou dost not halt. 
+
+      </div>
+    </span>
+
+  
+

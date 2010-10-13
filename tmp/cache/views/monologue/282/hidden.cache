@@ -1,0 +1,35 @@
+"Ž
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_282">
+      Consider, sir, the chance of war, the day<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_282', '/monologues/preview?monologue_id=282', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('3fa8SH3TLIQTNYY17yUJdrmYXy3yf/J1Og2xBBglUyM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Consider, sir, the chance of war: the day<br>
+Was yours by accident; had it gone with us,<br>
+We should not, when the blood was cool, 
+have threaten'd<br>
+Our prisoners with the sword. But since the gods<br>
+Will have it thus, that nothing but our lives<br>
+May be call'd ransom, let it come: sufficeth<br>
+A Roman with a Roman's heart can suffer: <br>
+Augustus lives to think on't: and so much<br>
+For my peculiar care. This one thing only<br>
+I will entreat; my boy, a Briton born,<br>
+Let him be ransom'd: never master had<br>
+A page so kind, so duteous, diligent,<br>
+So tender over his occasions, true,<br>
+So feat, so nurse-like: let his virtue join<br>
+With my request, which I make bold your highness<br>
+Cannot deny; he hath done no Briton harm,<br>
+Though he have served a Roman: save him, sir,<br>
+And spare no blood beside. <br>
+      </div>
+    </span>
+
+  
+

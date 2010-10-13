@@ -1,0 +1,42 @@
+"n
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_683">
+      Nor on the beasts themselves<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_683', '/monologues/preview?monologue_id=683', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('0FbVkXMHuj/InqrU/2LfSVmquSs77sICK5m2QsMzipQ=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Nor on the beasts themselves, the birds, and fishes;<br>
+You must eat men. Yet thanks I must you con<br>
+That you are thieves profess'd, that you work not<br>
+In holier shapes: for there is boundless theft <br>
+In limited professions. Rascal thieves,<br>
+Here's gold. Go, suck the subtle blood o' the grape,<br>
+Till the high fever seethe your blood to froth,<br>
+And so 'scape hanging: trust not the physician;<br>
+His antidotes are poison, and he slays <br>
+Moe than you rob: take wealth and lives together;<br>
+Do villany, do, since you protest to do't,<br>
+Like workmen. I'll example you with thievery.<br>
+The sun's a thief, and with his great attraction<br>
+Robs the vast sea: the moon's an arrant thief, <br>
+And her pale fire she snatches from the sun:<br>
+The sea's a thief, whose liquid surge resolves<br>
+The moon into salt tears: the earth's a thief,<br>
+That feeds and breeds by a composture stolen<br>
+From general excrement: each thing's a thief: <br>
+The laws, your curb and whip, in their rough power<br>
+Have uncheque'd theft. Love not yourselves: away,<br>
+Rob one another. There's more gold. Cut throats:<br>
+All that you meet are thieves: to Athens go,<br>
+Break open shops; nothing can you steal, <br>
+But thieves do lose it: steal no less for this<br>
+I give you; and gold confound you howsoe'er! Amen. 
+      </div>
+    </span>
+
+  
+

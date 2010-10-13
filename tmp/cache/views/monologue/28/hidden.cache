@@ -1,0 +1,53 @@
+"²
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_28">
+      Look here, upon this picture, and on this<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_28', '/monologues/preview?monologue_id=28', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('SLgGMdfhmiC4L3YIr3H9ARMzPOA8LcEcGLXGrvOdZSA=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Look here upon th's picture, and on this, <br>
+The counterfeit presentment of two brothers.<br>
+See what a grace was seated on this brow;<br>
+Hyperion's curls; the front of Jove himself;<br>
+An eye like Mars, to threaten and command;<br>
+A station like the herald Mercury <br>
+New lighted on a heaven-kissing hill:<br>
+A combination and a form indeed<br>
+Where every god did seem to set his seal<br>
+To give the world assurance of a man.<br>
+This was your husband. Look you now what follows.<br>
+Here is your husband, like a mildew'd ear<br>
+Blasting his wholesome brother. Have you eyes?<br>
+Could you on this fair mountain leave to feed,<br>
+And batten on this moor? Ha! have you eyes<br>
+You cannot call it love; for at your age<br>
+The heyday in the blood is tame, it's humble,<br>
+And waits upon the judgment; and what judgment<br>
+Would step from this to this? Sense sure you have,<br>
+Else could you not have motion; but sure that sense<br>
+Is apoplex'd; for madness would not err, <br>
+Nor sense to ecstacy was ne'er so thrall'd<br>
+But it reserv'd some quantity of choice<br>
+To serve in such a difference. What devil was't<br>
+That thus hath cozen'd you at hoodman-blind?<br>
+Eyes without feeling, feeling without sight, <br>
+Ears without hands or eyes, smelling sans all,<br>
+Or but a sickly part of one true sense<br>
+Could not so mope.<br>
+O shame! where is thy blush? Rebellious hell,<br>
+If thou canst mutine in a matron's bones, <br>
+To flaming youth let virtue be as wax<br>
+And melt in her own fire. Proclaim no shame<br>
+When the compulsive ardour gives the charge,<br>
+Since frost itself as actively doth burn,<br>
+And reason panders will. <br>
+
+      </div>
+    </span>
+
+  
+

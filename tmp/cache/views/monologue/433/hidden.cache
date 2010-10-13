@@ -1,0 +1,42 @@
+"
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_433">
+      I know thee not, old man: fall to thy prayers;<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_433', '/monologues/preview?monologue_id=433', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('3fa8SH3TLIQTNYY17yUJdrmYXy3yf/J1Og2xBBglUyM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          I know thee not, old man. Fall to thy prayers.<br>
+How ill white hairs become a fool and jester!<br>
+I have long dreamt of such a kind of man,<br>
+So surfeit-swell'd, so old, and so profane;<br>
+But being awak'd, I do despise my dream.<br>
+Make less thy body hence, and more thy grace; <br>
+Leave gormandizing; know the grave doth gape<br>
+For thee thrice wider than for other men—<br>
+Reply not to me with a fool-born jest;<br>
+Presume not that I am the thing I was,<br>
+For God doth know, so shall the world perceive,<br>
+That I have turn'd away my former self;<br>
+So will I those that kept me company.<br>
+When thou dost hear I am as I have been,<br>
+Approach me, and thou shalt be as thou wast,<br>
+The tutor and the feeder of my riots. <br>
+Till then I banish thee, on pain of death,<br>
+As I have done the rest of my misleaders,<br>
+Not to come near our person by ten mile.<br>
+For competence of life I will allow you,<br>
+That lack of means enforce you not to evils; <br>
+And, as we hear you do reform yourselves,<br>
+We will, according to your strengths and qualities,<br>
+Give you advancement. Be it your charge, my lord,<br>
+To see perform'd the tenour of our word.<br>
+Set on. <i>[Exeunt the KING and his train]</i>
+      </div>
+    </span>
+
+  
+

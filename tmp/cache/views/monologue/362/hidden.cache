@@ -1,0 +1,34 @@
+"o
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_362">
+      You do look, my son, in a mov'd sort<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_362', '/monologues/preview?monologue_id=362', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('oi8Jx33bxj2Ndvs3dNqMhcuAT4SE891UL9V/n2Rspw8=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          You do look, my son, in a moved sort,<br>
+As if you were dismay'd: be cheerful, sir.<br>
+Our revels now are ended. These our actors,<br>
+As I foretold you, were all spirits and <br>
+Are melted into air, into thin air:<br>
+And, like the baseless fabric of this vision,<br>
+The cloud-capp'd towers, the gorgeous palaces,<br>
+The solemn temples, the great globe itself,<br>
+Ye all which it inherit, shall dissolve 1885<br>
+And, like this insubstantial pageant faded,<br>
+Leave not a rack behind. We are such stuff<br>
+As dreams are made on, and our little life<br>
+Is rounded with a sleep. Sir, I am vex'd;<br>
+Bear with my weakness; my, brain is troubled: <br>
+Be not disturb'd with my infirmity:<br>
+If you be pleased, retire into my cell<br>
+And there repose: a turn or two I'll walk,<br>
+To still my beating mind. 
+      </div>
+    </span>
+
+  
+

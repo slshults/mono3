@@ -1,0 +1,10 @@
+"˜
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_653">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_653', '/monologues/preview/653', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('0oQ9PC5R8ckL5vP5fMr7ZNYvrFYmxiMkMl2qbZ/jUa8=')}); return false;">That Cassio loves her, I do well believe't</a>
+    </span>
+  
+

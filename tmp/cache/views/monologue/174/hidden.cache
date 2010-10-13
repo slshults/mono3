@@ -1,0 +1,45 @@
+"2
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_174">
+      
+
+
+O sweet Portia
+
+Here are a few of the unpleasant'st words
+
+<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_174', '/monologues/preview?monologue_id=174', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('11VBv7M49F33k8JqfQd/nZ/4Wb6OJoEBeo9rfdm88aQ=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <div align=right>O sweet Portia,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+Here are a few of the unpleasant'st words<br>
+That ever blotted paper! Gentle lady,<br>
+When I did first impart my love to you,<br>
+I freely told you, all the wealth I had<br>
+Ran in my veins, I was a gentleman;<br>
+And then I told you true: and yet, dear lady,<br>
+Rating myself at nothing, you shall see<br>
+How much I was a braggart. When I told you<br>
+My state was nothing, I should then have told you <br>
+That I was worse than nothing; for, indeed,<br>
+I have engaged myself to a dear friend,<br>
+Engaged my friend to his mere enemy,<br>
+To feed my means. Here is a letter, lady;<br>
+The paper as the body of my friend, <br>
+And every word in it a gaping wound,<br>
+Issuing life-blood. But is it true, Salerio?<br>
+Have all his ventures fail'd? What, not one hit?<br>
+From Tripolis, from Mexico and England,<br>
+From Lisbon, Barbary and India? <br>
+And not one vessel 'scape the dreadful touch<br>
+Of merchant-marring rocks? 
+      </div>
+    </span>
+
+  
+

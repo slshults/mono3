@@ -1,0 +1,49 @@
+"3
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_104">
+      May it please your grace, Antipholus, my husband,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_104', '/monologues/preview?monologue_id=104', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('7XPKKdT2I0/XsKx1gZUpJl111pTPAkAR++SwVB3vItM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          May it please your Grace, Antipholus, my husband, <br>
+Whom I made lord of me and all I had,  <br>
+At your important letters, this ill day <br>
+A most outrageous fit of madness took him, <br>
+That desperately he hurried through the street,.<br>
+With him his bondman, all as mad as he,. <br>
+Doing displeasure to the citizens <br>
+By rushing in their houses, bearing thence<br> 
+Rings, jewels, anything his rage did like. <br>
+Once did I get him bound and sent him home,  <br>
+Whilst to take order for the wrongs I went <br>
+That here and there his fury had committed. <br>
+Anon, I wot not by what strong escape,<br>
+He broke from those that had the guard of him,<br> 
+And with his mad attendant and himself, <br>
+Each one with ireful passion, with drawn swords <br>
+Met us again, and, madly bent on us <br>
+Chas.d us away, till, raising of more aid<br> 
+We came again to bind them. Then they fled <br>
+Into this abbey, whither we pursu.d them; <br>
+And here the abbess shuts the gates on us,<br>
+And will not suffer us to fetch him out, <br>
+Nor send him forth that we may bear him hence.<br> 
+Therefore, most gracious duke, with thy command <br>
+Let him be brought forth, and borne hence for help.<br>
+  Duke.  Long since thy husband serv.d me in my wars, <br>
+And I to thee engag.d a prince.s word,  <br>
+When thou didst make him master of thy bed, <br>
+To do him all the grace and good I could.<br>
+Go, some of you, knock at the abbey gate <br>
+And bid the lady abbess come to me.  <br>
+I will determine this before I stir.
+
+      </div>
+    </span>
+
+  
+

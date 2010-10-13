@@ -1,0 +1,37 @@
+"
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_697">
+      Thou map of woe, that thus dost talk in signs<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_697', '/monologues/preview?monologue_id=697', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('a4B/yZjMkNLDdA+PN8U18QP+SlHyhKKPrQjnq1vaCeQ=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          So, so; now sit: and look you eat no more <br>
+Than will preserve just so much strength in us<br>
+As will revenge these bitter woes of ours.<br>
+Marcus, unknit that sorrow-wreathen knot:<br>
+Thy niece and I, poor creatures, want our hands,<br>
+And cannot passionate our tenfold grief <br>
+With folded arms. This poor right hand of mine<br>
+Is left to tyrannize upon my breast;<br>
+Who, when my heart, all mad with misery,<br>
+Beats in this hollow prison of my flesh,<br>
+Then thus I thump it down. <br>
+<i>[To LAVINIA]</i><br>
+Thou map of woe, that thus dost talk in signs!<br>
+When thy poor heart beats with outrageous beating,<br>
+Thou canst not strike it thus to make it still.<br>
+Wound it with sighing, girl, kill it with groans; 1460<br>
+Or get some little knife between thy teeth,<br>
+And just against thy heart make thou a hole;<br>
+That all the tears that thy poor eyes let fall<br>
+May run into that sink, and soaking in<br>
+Drown the lamenting fool in sea-salt tears. 
+      </div>
+    </span>
+
+  
+

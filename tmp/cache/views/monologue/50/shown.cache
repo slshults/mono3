@@ -1,0 +1,10 @@
+"‡
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_50">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_50', '/monologues/preview/50', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('hsrVr5JVCA2OnGuxWu4EfN75Nq/meUVvF3wfIJ8AwCk=')}); return false;">If we shadows have offended,</a>
+    </span>
+  
+

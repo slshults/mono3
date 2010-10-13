@@ -1,0 +1,30 @@
+"Û
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_356">
+      All the infections that the sun sucks up<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_356', '/monologues/preview?monologue_id=356', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('lcTR5/tmwCtOJRqrgln3NrKMvPBmTy6PZRreJjCwnZs=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          All the infections that the sun sucks up<br>
+From bogs, fens, flats, on Prosper fall and make him<br>
+By inch-meal a disease! His spirits hear me<br>
+And yet I needs must curse. But they'll nor pinch, <br>
+Fright me with urchinâ€”shows, pitch me i' the mire,<br>
+Nor lead me, like a firebrand, in the dark<br>
+Out of my way, unless he bid 'em; but<br>
+For every trifle are they set upon me;<br>
+Sometime like apes that mow and chatter at me <br>
+And after bite me, then like hedgehogs which<br>
+Lie tumbling in my barefoot way and mount<br>
+Their pricks at my footfall; sometime am I<br>
+All wound with adders who with cloven tongues<br>
+Do hiss me into madness. <br>
+      </div>
+    </span>
+
+  
+

@@ -1,0 +1,58 @@
+"¡	
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_272">
+      I will be brief, for my short date of breath<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_272', '/monologues/preview?monologue_id=272', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('w73Mme8a/82FdfmcO8pG7R8YPpSKiP5jr7SYpIAD388=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          I will be brief, for my short date of breath<br>
+Is not so long as is a tedious tale. <br>
+Romeo, there dead, was husband to that Juliet;<br>
+And she, there dead, that Romeo's faithful wife:<br>
+I married them; and their stol'n marriage-day<br>
+Was Tybalt's dooms-day, whose untimely death<br>
+Banish'd the new-made bridegroom from the city, <br>
+For whom, and not for Tybalt, Juliet pined.<br>
+You, to remove that siege of grief from her,<br>
+Betroth'd and would have married her perforce<br>
+To County Paris: then comes she to me,<br>
+And, with wild looks, bid me devise some mean<br>
+To rid her from this second marriage,<br>
+Or in my cell there would she kill herself.<br>
+Then gave I her, so tutor'd by my art,<br>
+A sleeping potion; which so took effect<br>
+As I intended, for it wrought on her <br>
+The form of death: meantime I writ to Romeo,<br>
+That he should hither come as this dire night,<br>
+To help to take her from her borrow'd grave,<br>
+Being the time the potion's force should cease.<br>
+But he which bore my letter, Friar John, <br>
+Was stay'd by accident, and yesternight<br>
+Return'd my letter back. Then all alone<br>
+At the prefixed hour of her waking,<br>
+Came I to take her from her kindred's vault;<br>
+Meaning to keep her closely at my cell, <br>
+Till I conveniently could send to Romeo:<br>
+But when I came, some minute ere the time<br>
+Of her awaking, here untimely lay<br>
+The noble Paris and true Romeo dead.<br>
+She wakes; and I entreated her come forth,<br>
+And bear this work of heaven with patience:<br>
+But then a noise did scare me from the tomb;<br>
+And she, too desperate, would not go with me,<br>
+But, as it seems, did violence on herself.<br>
+All this I know; and to the marriage <br>
+Her nurse is privy: and, if aught in this<br>
+Miscarried by my fault, let my old life<br>
+Be sacrificed, some hour before his time,<br>
+Unto the rigour of severest law. 
+
+      </div>
+    </span>
+
+  
+

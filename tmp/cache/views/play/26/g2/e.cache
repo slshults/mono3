@@ -1,0 +1,183 @@
+I"t   
+    <div>
+      <h2>Women's Monologues in Shakespeare</h2>
+      <h2>King John</h2>
+      <span>
+        <form action="javascript:void(0);" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="7XPKKdT2I0/XsKx1gZUpJl111pTPAkAR++SwVB3vItM=" /></div>
+          <b>Search:</b> <input type="text" id="search" size="40"/>
+          <img alt="Ajax-loader" id="spinner" src="/images/ajax-loader.gif?1278779332" style="display: none;" />
+        </form>
+        <div class="search_links">
+          <a href="/plays/26?g=3">Search Men</a> &nbsp;|&nbsp;
+          <a href="/plays/26">Search King John</a> &nbsp;|&nbsp;
+          <a href="/plays">Search All Plays</a> &nbsp;|&nbsp;
+          
+            <a href="/plays/26?expand=1&amp;g=2">Expand All</a>
+          
+        </div>
+      </span>
+    </div>
+    <script type="text/javascript">
+//<![CDATA[
+new Form.Element.Observer('search', 1.25, function(element, value) {Element.show('spinner'); new Ajax.Updater('ajaxResults', 'http://www.shakespeare-monologues.org/monologues/search', {asynchronous:true, evalScripts:true, onComplete:function(request){Element.hide('spinner')}, parameters:'g=2&p=26&search=' + encodeURIComponent(value) + '&authenticity_token=' + encodeURIComponent('7XPKKdT2I0/XsKx1gZUpJl111pTPAkAR++SwVB3vItM=')})})
+//]]>
+</script>
+  
+    <div id='ajaxResults'>
+      
+
+  
+
+      
+<div>
+  <table id='monologue_list'>
+    <tr>
+      <th>Character</th>
+      <th>First Line</th>
+      <th>Act & Sc</th>
+      <th>pdf</th>
+    </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Constance</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/26">King John</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_787'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_787', '/monologues/preview/787', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('7XPKKdT2I0/XsKx1gZUpJl111pTPAkAR++SwVB3vItM=')}); return false;">Thou monstrous injurer of heaven and earth!</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.bartleby.com/70/3421.html#180' target='_blank'>II i 182</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/kj-2-1-182-constance.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Constance</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/26">King John</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_788'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_788', '/monologues/preview/788', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('7XPKKdT2I0/XsKx1gZUpJl111pTPAkAR++SwVB3vItM=')}); return false;">Gone to be married! gone to swear a peace!</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.bartleby.com/70/2531.html#1' target='_blank'>III i 1</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/kj-3-1-1-constance.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Constance</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/26">King John</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_789'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_789', '/monologues/preview/789', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('7XPKKdT2I0/XsKx1gZUpJl111pTPAkAR++SwVB3vItM=')}); return false;">If thou, that bid'st me be content, wert grim</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.bartleby.com/70/2531.html#44' target='_blank'>III i 45</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/kj-3-1-43-constance.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Constance</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/26">King John</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_790'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_790', '/monologues/preview/790', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('7XPKKdT2I0/XsKx1gZUpJl111pTPAkAR++SwVB3vItM=')}); return false;">A wicked day, and not a holy day!</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.bartleby.com/70/2531.html#77' target='_blank'>III i 87</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/kj-3-1-97-constance.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Constanceintercut</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/26">King John</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_791'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_791', '/monologues/preview/791', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('7XPKKdT2I0/XsKx1gZUpJl111pTPAkAR++SwVB3vItM=')}); return false;">No, I defy all counsel, all redress</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.bartleby.com/70/2534.html#24' target='_blank'>III iv 26</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/kj-3-4-26-constance.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Constance</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/26">King John</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_792'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_792', '/monologues/preview/792', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('7XPKKdT2I0/XsKx1gZUpJl111pTPAkAR++SwVB3vItM=')}); return false;">I tore them from their bonds and cried aloud</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.bartleby.com/70/2534.html#72' target='_blank'>III iv 75</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/kj-3-4-70-constance.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Constance</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/26">King John</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_793'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_793', '/monologues/preview/793', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('7XPKKdT2I0/XsKx1gZUpJl111pTPAkAR++SwVB3vItM=')}); return false;">Grief fills the room up of my absent child</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.bartleby.com/70/2534.html#96' target='_blank'>III iv 98</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/kj-3-4-98-constance.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+</table></div>
+
+
+  
+
+
+
+
+    </div>
+:@_rails_html_safeF

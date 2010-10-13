@@ -1,0 +1,17 @@
+".
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_801">
+      Accursed and unquiet wrangling days<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_801', '/monologues/preview?monologue_id=801', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('oY279iwkMwFY8s4h/o8+qy8dpQgfndLEd1xdh9jqVMo=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+
+  
+

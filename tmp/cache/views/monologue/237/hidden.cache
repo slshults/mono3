@@ -1,0 +1,38 @@
+"n
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_237">
+      No more, but e'en a woman, and commanded<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_237', '/monologues/preview?monologue_id=237', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('1tDaBGEM2sPegQlDJN7wyGpZGWAbPE8b8kvasvDOBoI=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          No more, but e'en a woman, and commanded <br>
+      By such poor passion as the maid that milks<br>
+      And does the meanest chares. It were for me<br>
+      To throw my sceptre at the injurious gods;<br>
+      To tell them that this world did equal theirs<br>
+      Till they had stol'n our jewel. All's but naught; <br>
+      Patience is scottish, and impatience does<br>
+      Become a dog that's mad: then is it sin<br>
+      To rush into the secret house of death,<br>
+      Ere death dare come to us? How do you, women?<br>
+      What, what! good cheer! Why, how now, Charmian! <br>
+      My noble girls! Ah, women, women, look,<br>
+      Our lamp is spent, it's out! Good sirs, take heart:<br>
+      We'll bury him; and then, what's brave, what's noble,
+      Let's do it after the high Roman fashion,<br>
+      And make death proud to take us. Come, away:<br>
+      This case of that huge spirit now is cold:<br>
+      Ah, women, women! come; we have no friend<br>
+      But resolution, and the briefest end. <br><br>
+
+[Exeunt; those above bearing off MARK ANTONY's body] 
+
+      </div>
+    </span>
+
+  
+

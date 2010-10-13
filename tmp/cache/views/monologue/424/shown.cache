@@ -1,0 +1,10 @@
+"š
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_424">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_424', '/monologues/preview/424', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Xk6z2gHxfITXVdu6+vZ+P4ixbWqPWyKBQ5o6ERd60JQ=')}); return false;">Wherefore do I this? so the question stands.</a>
+    </span>
+  
+

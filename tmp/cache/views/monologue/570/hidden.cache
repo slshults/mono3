@@ -1,0 +1,18 @@
+"G
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_570">
+      Marry, God forbid! 
+Worst in this royal presence may I speak<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_570', '/monologues/preview?monologue_id=570', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('t9yZA9u3fMGbTtESOqLwJ1+5UuX3/PBRbGJeCQyR0UU=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          
+      </div>
+    </span>
+
+  
+

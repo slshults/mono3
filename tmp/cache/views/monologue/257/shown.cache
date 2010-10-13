@@ -1,0 +1,11 @@
+"°
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_257">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_257', '/monologues/preview/257', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('XepXdRF0+B2Q904t5astrG8Pc6zNNiVGQpajlQW/Ecw=')}); return false;">Faith, here it is,
+Romeo is banish'd; and all the world to nothing</a>
+    </span>
+  
+

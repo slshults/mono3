@@ -1,0 +1,29 @@
+"¢
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_834">
+      King, be thy thoughts imperious, like thy name<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_834', '/monologues/preview?monologue_id=834', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('2L1dBc5w8urEiztZEBe4fMVsxI94W+2RJ1SAvSXmmFE=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+           King, be thy thoughts imperious, like thy name. <br>
+Is the sun dimm'd, that gnats do fly in it?<br>
+The eagle suffers little birds to sing,<br>
+And is not careful what they mean thereby,<br>
+Knowing that with the shadow of his wings<br>
+He can at pleasure stint their melody: <br>
+Even so mayst thou the giddy men of Rome.<br>
+Then cheer thy spirit : for know, thou emperor,<br>
+I will enchant the old Andronicus<br>
+With words more sweet, and yet more dangerous,<br>
+Than baits to fish, or honey-stalks to sheep, <br>
+When as the one is wounded with the bait,<br>
+The other rotted with delicious feed. 
+      </div>
+    </span>
+
+  
+

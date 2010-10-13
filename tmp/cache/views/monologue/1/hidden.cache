@@ -1,0 +1,50 @@
+"
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_1">
+      O my lord, my lord, I have been so affrighted!<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_1', '/monologues/preview?monologue_id=1', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('XepXdRF0+B2Q904t5astrG8Pc6zNNiVGQpajlQW/Ecw=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Ophelia.</b> O my lord, my lord, I have been so affrighted!<br><br> 
+
+<del><b>Polonius.</b> With what, i' th' name of God?<br><br></del> 
+
+<b>Ophelia.</b> My lord, as I was sewing in my closet,<br>
+      Lord Hamlet, with his doublet all unbrac'd,<br>
+      No hat upon his head, his stockings foul'd,<br>
+      Ungart'red, and down-gyved to his ankle;<br>
+      Pale as his shirt, his knees knocking each other,<br>
+      And with a look so piteous in purport<br>
+      As if he had been loosed out of hell <br>
+      To speak of horrors- he comes before me. <br><br>
+
+<del><b>Polonius.</b>Mad for thy love?</del><br><br>
+
+<b>Ophelia.</b> My lord, I do not know,<br>
+      But truly I do fear it. <br><br>
+
+<del><b>Polonius.</b> What said he?</del><br><br>
+
+<b>Ophelia.</b> He took me by the wrist and held me hard;<br>
+      Then goes he to the length of all his arm,<br>
+      And, with his other hand thus o'er his brow,<br>
+      He falls to such perusal of my face<br>
+      As he would draw it. Long stay'd he so.<br>
+      At last, a little shaking of mine arm,<br>
+      And thrice his head thus waving up and down,<br>
+      He rais'd a sigh so piteous and profound<br>
+      As it did seem to shatter all his bulk<br>
+      And end his being. That done, he lets me go,<br>
+      And with his head over his shoulder turn'd<br>
+      He seem'd to find his way without his eyes,<br>
+      For out o' doors he went without their help<br>
+      And to the last bended their light on me. 
+      </div>
+    </span>
+
+  
+

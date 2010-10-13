@@ -1,0 +1,53 @@
+"-	
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_600">
+      My name is Caius Martius, who hath done<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_600', '/monologues/preview?monologue_id=600', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('2Qj9BFqDVajqgGSisY1xHV/Wv01sW+Fdp4nTGcYzNjI=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          My name is Caius Martius, who hath done <br>
+To thee particularly and to all the Volsces<br>
+Great hurt and mischief; thereto witness may<br>
+My surname, Coriolanus: the painful service,<br>
+The extreme dangers and the drops of blood<br>
+Shed for my thankless country are requited <br>
+But with that surname; a good memory,<br>
+And witness of the malice and displeasure<br>
+Which thou shouldst bear me: only that name remains;<br>
+The cruelty and envy of the people,<br>
+Permitted by our dastard nobles, who <br>
+Have all forsook me, hath devour'd the rest;<br>
+And suffer'd me by the voice of slaves to be<br>
+Whoop'd out of Rome. Now this extremity<br>
+Hath brought me to thy hearth; not out of hope—<br>
+Mistake me not—to save my life, for if <br>
+I had fear'd death, of all the men i' the world<br>
+I would have 'voided thee, but in mere spite,<br>
+To be full quit of those my banishers,<br>
+Stand I before thee here. Then if thou hast<br>
+A heart of wreak in thee, that wilt revenge <br>
+Thine own particular wrongs and stop those maims<br>
+Of shame seen through thy country, speed thee straight,<br>
+And make my misery serve thy turn: so use it<br>
+That my revengeful services may prove <br>
+As benefits to thee, for I will fight<br>
+Against my canker'd country with the spleen<br>
+Of all the under fiends. But if so be<br>
+Thou darest not this and that to prove more fortunes<br>
+Thou'rt tired, then, in a word, I also am <br>
+Longer to live most weary, and present<br>
+My throat to thee and to thy ancient malice;<br>
+Which not to cut would show thee but a fool,<br>
+Since I have ever follow'd thee with hate,<br>
+Drawn tuns of blood out of thy country's breast, <br>
+And cannot live but to thy shame, unless<br>
+It be to do thee service. 
+      </div>
+    </span>
+
+  
+

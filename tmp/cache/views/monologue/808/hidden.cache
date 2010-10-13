@@ -1,0 +1,68 @@
+"
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_808">
+      Nay, go not from us thus<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_808', '/monologues/preview?monologue_id=808', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('7XPKKdT2I0/XsKx1gZUpJl111pTPAkAR++SwVB3vItM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Nay, go not from us thus.<br>
+If it were so that our request did tend<br>
+To save the Romans, thereby to destroy<br>
+The Volsces whom you serve, you might condemn us,<br>
+As poisonous of your honour: no; our suit<br>
+Is that you reconcile them: while the Volsces<br>
+May say 'This mercy we have show'd;' the Romans,<br>
+'This we received;' and each in either side<br>
+Give the all-hail to thee and cry 'Be blest <br>
+For making up this peace!' Thou know'st, great son,<br>
+The end of war's uncertain, but this certain,<br>
+That, if thou conquer Rome, the benefit<br>
+Which thou shalt thereby reap is such a name,<br>
+Whose repetition will be dogg'd with curses;<br>
+Whose chronicle thus writ: 'The man was noble,<br>
+But with his last attempt he wiped it out;<br>
+Destroy'd his country, and his name remains<br>
+To the ensuing age abhorr'd.' Speak to me, son:<br>
+Thou hast affected the fine strains of honour,<br>
+To imitate the graces of the gods;<br>
+To tear with thunder the wide cheeks o' the air,<br>
+And yet to charge thy sulphur with a bolt<br>
+That should but rive an oak. Why dost not speak?<br>
+Think'st thou it honourable for a noble man<br>
+Still to remember wrongs? Daughter, speak you:<br>
+He cares not for your weeping. Speak thou, boy:<br>
+Perhaps thy childishness will move him more<br>
+Than can our reasons. There's no man in the world<br>
+More bound to 's mother; yet here he lets me prate<br>
+Like one i' the stocks. Thou hast never in thy life<br>
+Show'd thy dear mother any courtesy,<br>
+When she, poor hen, fond of no second brood,<br>
+Has cluck'd thee to the wars and safely home,<br>
+Loaden with honour. Say my request's unjust,<br>
+And spurn me back: but if it be not so,<br>
+Thou art not honest; and the gods will plague thee,<br>
+That thou restrain'st from me the duty which<br>
+To a mother's part belongs. He turns away:<br>
+Down, ladies; let us shame him with our knees.<br>
+To his surname Coriolanus 'longs more pride<br>
+Than pity to our prayers. Down: an end;<br>
+This is the last: so we will home to Rome,<br>
+And die among our neighbours. Nay, behold 's:<br>
+This boy, that cannot tell what he would have<br>
+But kneels and holds up bands for fellowship,<br>
+Does reason our petition with more strength<br>
+Than thou hast to deny 't. Come, let us go:<br>
+This fellow had a Volscian to his mother;<br>
+His wife is in Corioli and his child<br>
+Like him by chance. Yet give us our dispatch:<br>
+I am hush'd until our city be a-fire,<br>
+And then I'll speak a little. 
+      </div>
+    </span>
+
+  
+

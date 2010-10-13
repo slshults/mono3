@@ -1,0 +1,133 @@
+"^
+
+      <table id="categories_list" border="1">
+        <tr>
+          <th>Comedies</th>
+          <th>Histories</th>
+          <th>Tragedies</th>
+        </tr>
+        <tr>
+          <td>
+            
+                
+                <a href="/plays/13?g=2">A Midsummer Night's Dream</a><br/>
+              
+                
+                <a href="/plays/9?g=2">All's Well That Ends Well</a><br/>
+              
+                
+                <a href="/plays/1?g=2">As You Like It</a><br/>
+              
+                
+                <a href="/plays/3?g=2">Cymbeline</a><br/>
+              
+                
+                <a href="/plays/4?g=2">Love's Labour's Lost</a><br/>
+              
+                
+                <a href="/plays/10?g=2">Measure for Measure</a><br/>
+              
+                
+                <a href="/plays/11?g=2">Merry Wives of Windsor</a><br/>
+              
+                
+                <a href="/plays/6?g=2">Much Ado About Nothing</a><br/>
+              
+                
+                <a href="/plays/18?g=2">Pericles, Prince of Tyre</a><br/>
+              
+                
+                <a href="/plays/2?g=2">The Comedy of Errors</a><br/>
+              
+                
+                <a href="/plays/5?g=2">The Merchant of Venice</a><br/>
+              
+                
+                <a href="/plays/7?g=2">The Taming of the Shrew</a><br/>
+              
+                
+                <a href="/plays/14?g=2">The Tempest</a><br/>
+              
+                
+                <a href="/plays/17?g=2">The Winter's Tale</a><br/>
+              
+                
+                <a href="/plays/15?g=2">Troilus and Cressida</a><br/>
+              
+                
+                <a href="/plays/8?g=2">Twelfth Night, Or What You Will</a><br/>
+              
+                
+                <a href="/plays/16?g=2">Two Gentlemen of Verona</a><br/>
+              
+          </td>
+          <td>
+              
+                
+                <a href="/plays/19?g=2">Henry IV i</a><br/>
+              
+                
+                <a href="/plays/20?g=2">Henry IV ii</a><br/>
+              
+                
+                <a href="/plays/21?g=2">Henry V</a><br/>
+              
+                
+                <a href="/plays/22?g=2">Henry VI i</a><br/>
+              
+                
+                <a href="/plays/23?g=2">Henry VI ii</a><br/>
+              
+                
+                <a href="/plays/24?g=2">Henry VI iii</a><br/>
+              
+                
+                <a href="/plays/25?g=2">Henry VIII</a><br/>
+              
+                
+                <a href="/plays/26?g=2">King John</a><br/>
+              
+                
+                <a href="/plays/27?g=2">Richard II</a><br/>
+              
+                
+                <a href="/plays/28?g=2">Richard III</a><br/>
+              
+          </td>
+          <td>
+              
+                
+                <a href="/plays/29?g=2">Antony & Cleopatra</a><br/>
+              
+                
+                <a href="/plays/30?g=2">Coriolanus</a><br/>
+              
+                
+                <a href="/plays/31?g=2">Hamlet</a><br/>
+              
+                
+                <a href="/plays/38?g=2">Julius Caesar</a><br/>
+              
+                
+                <a href="/plays/32?g=2">King Lear</a><br/>
+              
+                
+                <a href="/plays/33?g=2">Macbeth</a><br/>
+              
+                
+                <a href="/plays/34?g=2">Othello</a><br/>
+              
+                
+                <a href="/plays/35?g=2">Romeo and Juliet</a><br/>
+              
+                
+                <a href="/plays/36?g=2">Timon of Athens</a><br/>
+              
+                
+                <a href="/plays/37?g=2">Titus Andronicus</a><br/>
+              
+          </td>
+        </tr>
+      </table>
+
+    

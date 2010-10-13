@@ -1,0 +1,10 @@
+"—
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_134">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_134', '/monologues/preview/134', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('cxEPNZgWF2NKrUqgs2GY47NxYJJgoR+PySmvfnAgKuU=')}); return false;">See, see my beauty will be sav'd by merit</a>
+    </span>
+  
+

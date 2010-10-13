@@ -1,0 +1,10 @@
+"¤
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_647">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_647', '/monologues/preview/647', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('mfVCrm10+tqZc5Xf1oKT+NBi4n/jqHvSU3af9lXytIc=')}); return false;">O thou foul thief! where hast thou stow'd my daughter?</a>
+    </span>
+  
+

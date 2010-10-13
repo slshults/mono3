@@ -1,0 +1,52 @@
+"T	
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_459">
+      I pray thee, bear my former answer back<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_459', '/monologues/preview?monologue_id=459', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('nQ7aZ1EJTNoYmbMqjWNbPM1pCT7vliZJtDnZpbZerBI=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          I pray thee, bear my former answer back:<br>
+Bid them achieve me and then sell my bones.<br>
+Good God! why should they mock poor fellows thus? <br>
+The man that once did sell the lion's skin<br>
+While the beast lived, was killed with hunting him.<br>
+A many of our bodies shall no doubt<br>
+Find native graves; upon the which, I trust,<br>
+Shall witness live in brass of this day's work: <br>
+And those that leave their valiant bones in France,<br>
+Dying like men, though buried in your dunghills,<br>
+They shall be famed; for there the sun shall greet them,<br>
+And draw their honours reeking up to heaven;<br>
+Leaving their earthly parts to choke your clime,<br>
+The smell whereof shall breed a plague in France.<br>
+Mark then abounding valour in our English,<br>
+That being dead, like to the bullet's grazing,<br>
+Break out into a second course of mischief,<br>
+Killing in relapse of mortality. <br>
+Let me speak proudly: tell the constable<br>
+We are but warriors for the working-day;<br>
+Our gayness and our gilt are all besmirch'd<br>
+With rainy marching in the painful field;<br>
+There's not a piece of feather in our host— <br>
+Good argument, I hope, we will not fly—<br>
+And time hath worn us into slovenry:<br>
+But, by the mass, our hearts are in the trim;<br>
+And my poor soldiers tell me, yet ere night<br>
+They'll be in fresher robes, or they will pluck <br>
+The gay new coats o'er the French soldiers' heads<br>
+And turn them out of service. If they do this,—<br>
+As, if God please, they shall,—my ransom then<br>
+Will soon be levied. Herald, save thou thy labour;<br>
+Come thou no more for ransom, gentle herald: <br>
+They shall have none, I swear, but these my joints;<br>
+Which if they have as I will leave 'em them,<br>
+Shall yield them little, tell the constable. 
+      </div>
+    </span>
+
+  
+

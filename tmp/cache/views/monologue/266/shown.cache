@@ -1,0 +1,10 @@
+"™
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_266">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_266', '/monologues/preview/266', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('QXi9ImUyFJhjdBHUjX5vv3VLcTp73PXRQ4yKBA9K2qU=')}); return false;">'Tis torture, and not mercy: heaven is here</a>
+    </span>
+  
+

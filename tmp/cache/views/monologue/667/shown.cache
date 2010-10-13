@@ -1,0 +1,10 @@
+"ê
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_667">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_667', '/monologues/preview/667', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('hlSYaCIQpgpFn9dyqET+ufsp4ur0i1BbQ0f/WOLAJQY=')}); return false;">I scorn thy meat; 'twould choke me</a>
+    </span>
+  
+

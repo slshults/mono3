@@ -1,0 +1,230 @@
+I"Q(  
+    <div>
+      <h2>Women's Monologues in Shakespeare</h2>
+      <h2>Merry Wives of Windsor</h2>
+      <span>
+        <form action="javascript:void(0);" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="/MPGKWUg3arPdEKKlVJH9nV9ZmO6gdRAsls/j52NxCA=" /></div>
+          <b>Search:</b> <input type="text" id="search" size="40"/>
+          <img alt="Ajax-loader" id="spinner" src="/images/ajax-loader.gif?1278779332" style="display: none;" />
+        </form>
+        <div class="search_links">
+          <a href="/plays/11?g=3">Search Men</a> &nbsp;|&nbsp;
+          <a href="/plays/11">Search Merry Wives of Windsor</a> &nbsp;|&nbsp;
+          <a href="/plays">Search All Plays</a> &nbsp;|&nbsp;
+          
+            <a href="/plays/11?g=2">Collapse All</a>
+          
+        </div>
+      </span>
+    </div>
+    <script type="text/javascript">
+//<![CDATA[
+new Form.Element.Observer('search', 1.25, function(element, value) {Element.show('spinner'); new Ajax.Updater('ajaxResults', 'http://www.shakespeare-monologues.org/monologues/search', {asynchronous:true, evalScripts:true, onComplete:function(request){Element.hide('spinner')}, parameters:'g=2&p=11&search=' + encodeURIComponent(value) + '&authenticity_token=' + encodeURIComponent('/MPGKWUg3arPdEKKlVJH9nV9ZmO6gdRAsls/j52NxCA=')})})
+//]]>
+</script>
+  
+    <div id='ajaxResults'>
+      
+
+  
+
+      
+<div>
+  <table id='monologue_list'>
+    <tr>
+      <th>Character</th>
+      <th>First Line</th>
+      <th>Act & Sc</th>
+      <th>pdf</th>
+    </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Mistress Page</div>
+  <div class='monologue_detail'>
+  Prose  <br/>
+  <a href="/plays/11">Merry Wives of Windsor</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_726'>
+  
+    <span id="preview_mono_726">
+      What, have I scaped love-letters in the holiday-time of my beauty,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_726', '/monologues/preview?monologue_id=726', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('/MPGKWUg3arPdEKKlVJH9nV9ZmO6gdRAsls/j52NxCA=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          What, have I scaped love-letters in the holiday-<br>
+time of my beauty, and am I now a subject for them?<br>
+Let me see.<br>
+[Reads]<br>
+'Ask me no reason why I love you; for though<br>
+Love use Reason for his physician, he admits him<br>
+not for his counsellor. You are not young, no more<br>
+am I; go to then, there's sympathy: you are merry, <br>
+so am I; ha, ha! then there's more sympathy: you<br>
+love sack, and so do I; would you desire better<br>
+sympathy? Let it suffice thee, Mistress Page,—at<br>
+the least, if the love of soldier can suffice,—<br>
+that I love thee. I will not say, pity me; 'tis <br>
+not a soldier-like phrase: but I say, love me. By me,<br>
+Thine own true knight,<br>
+By day or night,<br>
+Or any kind of light,<br>
+With all his might <br>
+For thee to fight, JOHN FALSTAFF'<br>
+What a Herod of Jewry is this! O wicked<br>
+world! One that is well-nigh worn to pieces with<br>
+age to show himself a young gallant! What an<br>
+unweighed behavior hath this Flemish drunkard<br>
+picked—with the devil's name!—out of my<br>
+conversation, that he dares in this manner assay me?<br>
+Why, he hath not been thrice in my company! What<br>
+should I say to him? I was then frugal of my<br>
+mirth: Heaven forgive me! Why, I'll exhibit a bill<br>
+in the parliament for the putting down of men. How<br>
+shall I be revenged on him? for revenged I will be,<br>
+as sure as his guts are made of puddings. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=merrywives&Act=2&Scene=1&Scope=scene&LineHighlight=568' target='_blank'>II i 1</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/tmwow-2-1-1-mistresspage.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Mistress Ford</div>
+  <div class='monologue_detail'>
+  Prose  <br/>
+  <a href="/plays/11">Merry Wives of Windsor</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_727'>
+  
+    <span id="preview_mono_727">
+      We burn Daylight. Here, Read, read; percieve how I might be knighted<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_727', '/monologues/preview?monologue_id=727', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('/MPGKWUg3arPdEKKlVJH9nV9ZmO6gdRAsls/j52NxCA=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          We burn daylight: here, read, read; perceive how I
+might be knighted. I shall think the worse of fat
+men, as long as I have an eye to make difference of
+men's liking: and yet he would not swear; praised 
+women's modesty; and gave such orderly and
+well-behaved reproof to all uncomeliness, that I
+would have sworn his disposition would have gone to
+the truth of his words; but they do no more adhere
+and keep place together than the Hundredth Psalm to
+the tune of 'Green Sleeves.' What tempest, I trow,
+threw this whale, with so many tuns of oil in his
+belly, ashore at Windsor? How shall I be revenged
+on him? I think the best way were to entertain him
+with hope, till the wicked fire of lust have melted
+him in his own grease. Did you ever hear the like? 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=merrywives&Act=2&Scene=1&Scope=scene&LineHighlight=617#610' target='_blank'>II i 15</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/tmwow-2-1-54-mistressford.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Mistress Quickly</div>
+  <div class='monologue_detail'>
+  Prose  <br/>
+  <a href="/plays/11">Merry Wives of Windsor</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_728'>
+  
+    <span id="preview_mono_728">
+      Marry, this is the short and the long of it<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_728', '/monologues/preview?monologue_id=728', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('/MPGKWUg3arPdEKKlVJH9nV9ZmO6gdRAsls/j52NxCA=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Marry, this is the short and the long of it; you
+have brought her into such a canaries as 'tis
+wonderful. The best courtier of them all, when the 
+court lay at Windsor, could never have brought her
+to such a canary. Yet there has been knights, and
+lords, and gentlemen, with their coaches, I warrant
+you, coach after coach, letter after letter, gift
+after gift; smelling so sweetly, all musk, and so 
+rushling, I warrant you, in silk and gold; and in
+such alligant terms; and in such wine and sugar of
+the best and the fairest, that would have won any
+woman's heart; and, I warrant you, they could never
+get an eye-wink of her: I had myself twenty angels
+given me this morning; but I defy all angels, in
+any such sort, as they say, but in the way of
+honesty: and, I warrant you, they could never get
+her so much as sip on a cup with the proudest of
+them all: and yet there has been earls, nay, which 
+is more, pensioners; but, I warrant you, all is one with her. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=merrywives&Act=2&Scene=2&Scope=scene&LineHighlight=853#845' target='_blank'>II i 32</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/tmwow-2-2-59-mistressquickly.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Mistress Page</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/11">Merry Wives of Windsor</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_729'>
+  
+    <span id="preview_mono_729">
+      There is an old tale goes that Herne the hunter<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_729', '/monologues/preview?monologue_id=729', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('/MPGKWUg3arPdEKKlVJH9nV9ZmO6gdRAsls/j52NxCA=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          There is an old tale goes that Herne the hunter,<br>
+Sometime a keeper here in Windsor forest,<br>
+Doth all the winter-time, at still midnight,<br>
+Walk round about an oak, with great ragg'd horns;<br>
+And there he blasts the tree and takes the cattle<br>
+And makes milch-kine yield blood and shakes a chain<br>
+In a most hideous and dreadful manner:<br>
+You have heard of such a spirit, and well you know<br>
+The superstitious idle-headed eld<br>
+Received and did deliver to our age<br>
+This tale of Herne the hunter for a truth. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=merrywives&Act=4&Scene=4&Scope=scene&LineHighlight=2223#2215' target='_blank'>IV iv 24</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/tmwow-4-4-170-mistresspage.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+</table></div>
+
+
+  
+
+
+
+
+    </div>
+:@_rails_html_safeF

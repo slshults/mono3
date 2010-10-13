@@ -1,0 +1,294 @@
+I"�2  
+    <div>
+      <h2>Women's Monologues in Shakespeare</h2>
+      <h2>Two Gentlemen of Verona</h2>
+      <span>
+        <form action="javascript:void(0);" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="YP5Lm3FBW2c6Io/cALwanSI+WIoqmGgx+mFUq3utM8M=" /></div>
+          <b>Search:</b> <input type="text" id="search" size="40"/>
+          <img alt="Ajax-loader" id="spinner" src="/images/ajax-loader.gif?1278779332" style="display: none;" />
+        </form>
+        <div class="search_links">
+          <a href="/plays/16?g=3">Search Men</a> &nbsp;|&nbsp;
+          <a href="/plays/16">Search Two Gentlemen of Verona</a> &nbsp;|&nbsp;
+          <a href="/plays">Search All Plays</a> &nbsp;|&nbsp;
+          
+            <a href="/plays/16?g=2">Collapse All</a>
+          
+        </div>
+      </span>
+    </div>
+    <script type="text/javascript">
+//<![CDATA[
+new Form.Element.Observer('search', 1.25, function(element, value) {Element.show('spinner'); new Ajax.Updater('ajaxResults', 'http://mono.freeinternet.org/monologues/search', {asynchronous:true, evalScripts:true, onComplete:function(request){Element.hide('spinner')}, parameters:'g=2&p=16&search=' + encodeURIComponent(value) + '&authenticity_token=' + encodeURIComponent('YP5Lm3FBW2c6Io/cALwanSI+WIoqmGgx+mFUq3utM8M=')})})
+//]]>
+</script>
+  
+    <div id='ajaxResults'>
+      
+
+  
+
+      
+<div>
+  <table id='monologue_list'>
+    <tr>
+      <th>Character</th>
+      <th>First Line</th>
+      <th>Act & Sc</th>
+      <th>pdf</th>
+    </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Julia</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/16">Two Gentlemen of Verona</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_756'>
+  
+    <span id="preview_mono_756">
+      O hateful hands, to tear such loving words!<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_756', '/monologues/preview?monologue_id=756', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('YP5Lm3FBW2c6Io/cALwanSI+WIoqmGgx+mFUq3utM8M=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          O hateful hands, to tear such loving words!<br>
+Injurious wasps, to feed on such sweet honey <br>
+And kill the bees that yield it with your stings!<br>
+I'll kiss each several paper for amends.<br>
+Look, here is writ 'kind Julia.' Unkind Julia!<br>
+As in revenge of thy ingratitude,<br>
+I throw thy name against the bruising stones,<br>
+Trampling contemptuously on thy disdain.<br>
+And here is writ 'love-wounded Proteus.'<br>
+Poor wounded name! my bosom as a bed<br>
+Shall lodge thee till thy wound be thoroughly heal'd;<br>
+And thus I search it with a sovereign kiss. <br>
+But twice or thrice was 'Proteus' written down.<br>
+Be calm, good wind, blow not a word away<br>
+Till I have found each letter in the letter,<br>
+Except mine own name: that some whirlwind bear<br>
+Unto a ragged fearful-hanging rock <br>
+And throw it thence into the raging sea!<br>
+Lo, here in one line is his name twice writ,<br>
+'Poor forlorn Proteus, passionate Proteus,<br>
+To the sweet Julia:' that I'll tear away.<br>
+And yet I will not, sith so prettily <br>
+He couples it to his complaining names.<br>
+Thus will I fold them one on another:<br>
+Now kiss, embrace, contend, do what you will. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=twogents&Act=1&Scene=2&Scope=scene&LineHighlight=263#255' target='_blank'>I ii 115</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/ttgov-1-2-106-julia.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Julia</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/16">Two Gentlemen of Verona</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_757'>
+  
+    <span id="preview_mono_757">
+      The more thou damm'st it up, the more it burns<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_757', '/monologues/preview?monologue_id=757', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('YP5Lm3FBW2c6Io/cALwanSI+WIoqmGgx+mFUq3utM8M=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          The more thou damm'st it up, the more it burns.<br>
+The current that with gentle murmur glides,<br>
+Thou know'st, being stopp'd, impatiently doth rage;<br>
+But when his fair course is not hindered,<br>
+He makes sweet music with the enamell'ed stones,<br>
+Giving a gentle kiss to every sedge<br>
+He overtaketh in his pilgrimage, <br>
+And so by many winding nooks he strays<br>
+With willing sport to the wild ocean.<br>
+Then let me go and hinder not my course<br>
+I'll be as patient as a gentle stream<br>
+And make a pastime of each weary step, <br>
+Till the last step have brought me to my love;<br>
+And there I'll rest, as after much turmoil<br>
+A blessed soul doth in Elysium. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=twogents&Act=2&Scene=7&Scope=scene&LineHighlight=999#996' target='_blank'>II vii 26</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/ttgov-2-7-26-julia.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Silvia</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/16">Two Gentlemen of Verona</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_758'>
+  
+    <span id="preview_mono_758">
+      O Eglamour, thou art a gentleman<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_758', '/monologues/preview?monologue_id=758', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('YP5Lm3FBW2c6Io/cALwanSI+WIoqmGgx+mFUq3utM8M=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          O Eglamour, thou art a gentleman—<br>
+Think not I flatter, for I swear I do not—<br>
+Valiant, wise, remorseful, well accomplish'd:<br>
+Thou art not ignorant what dear good will<br>
+I bear unto the banish'd Valentine,<br>
+Nor how my father would enforce me marry<br>
+Vain Thurio, whom my very soul abhors. <br>
+Thyself hast loved; and I have heard thee say<br>
+No grief did ever come so near thy heart<br>
+As when thy lady and thy true love died,<br>
+Upon whose grave thou vow'dst pure chastity.<br>
+Sir Eglamour, I would to Valentine, <br>
+To Mantua, where I hear he makes abode;<br>
+And, for the ways are dangerous to pass,<br>
+I do desire thy worthy company,<br>
+Upon whose faith and honour I repose.<br>
+Urge not my father's anger, Eglamour, <br>
+But think upon my grief, a lady's grief,<br>
+And on the justice of my flying hence,<br>
+To keep me from a most unholy match,<br>
+Which heaven and fortune still rewards with plagues.<br>
+I do desire thee, even from a heart <br>
+As full of sorrows as the sea of sands,<br>
+To bear me company and go with me:<br>
+If not, to hide what I have said to thee,<br>
+That I may venture to depart alone. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=twogents&Act=4&Scene=3&Scope=scene&LineHighlight=1794#1790' target='_blank'>IV iii 16</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/ttgov-4-3-16-silvia.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Julia</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/16">Two Gentlemen of Verona</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_759'>
+  
+    <span id="preview_mono_759">
+      How many women would do such a message?<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_759', '/monologues/preview?monologue_id=759', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('YP5Lm3FBW2c6Io/cALwanSI+WIoqmGgx+mFUq3utM8M=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          How many women would do such a message?<br>
+Alas, poor Proteus! thou hast entertain'd<br>
+A fox to be the shepherd of thy lambs.<br>
+Alas, poor fool! why do I pity him<br>
+That with his very heart despiseth me?<br>
+Because he loves her, he despiseth me;<br>
+Because I love him I must pity him. <br>
+This ring I gave him when he parted from me,<br>
+To bind him to remember my good will;<br>
+And now am I, unhappy messenger,<br>
+To plead for that which I would not obtain,<br>
+To carry that which I would have refused, <br>
+To praise his faith which I would have dispraised.<br>
+I am my master's true-confirmed love;<br>
+But cannot be true servant to my master,<br>
+Unless I prove false traitor to myself.<br>
+Yet will I woo for him, but yet so coldly <br>
+As, heaven it knows, I would not have him speed.<br>
+<i>[Enter SILVIA, attended]</i><br>
+Gentlewoman, good day! I pray you, be my mean<br>
+To bring me where to speak with Madam Silvia. 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=twogents&Act=4&Scene=4&Scope=scene&LineHighlight=1929#1923' target='_blank'>IV iv 51</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/ttgov-4-4-106-julia.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Julia</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/16">Two Gentlemen of Verona</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_760'>
+  
+    <span id="preview_mono_760">
+      A virtuous gentlewoman, mild and beautiful<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_760', '/monologues/preview?monologue_id=760', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('YP5Lm3FBW2c6Io/cALwanSI+WIoqmGgx+mFUq3utM8M=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          And she shall thank you for't, if e'er you know her. <br>
+A virtuous gentlewoman, mild and beautiful<br>
+I hope my master's suit will be but cold,<br>
+Since she respects my mistress' love so much.<br>
+Alas, how love can trifle with itself!<br>
+Here is her picture: let me see; I think, <br>
+If I had such a tire, this face of mine<br>
+Were full as lovely as is this of hers:<br>
+And yet the painter flatter'd her a little,<br>
+Unless I flatter with myself too much.<br>
+Her hair is auburn, mine is perfect yellow:<br>
+If that be all the difference in his love,<br>
+I'll get me such a colour'd periwig.<br>
+Her eyes are grey as glass, and so are mine:<br>
+Ay, but her forehead's low, and mine's as high.<br>
+What should it be that he respects in her <br>
+But I can make respective in myself,<br>
+If this fond Love were not a blinded god?<br>
+Come, shadow, come and take this shadow up,<br>
+For 'tis thy rival. O thou senseless form,<br>
+Thou shalt be worshipp'd, kiss'd, loved and adored! <br>
+And, were there sense in his idolatry,<br>
+My substance should be statue in thy stead.<br>
+I'll use thee kindly for thy mistress' sake,<br>
+That used me so; or else, by Jove I vow,<br>
+I should have scratch'd out your unseeing eyes <br>
+To make my master out of love with thee! 
+      </div>
+    </span>
+  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=twogents&Act=4&Scene=4&Scope=scene&LineHighlight=2020#2013' target='_blank'>IV iv 142</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/female/ttgov-4-4-142-julia.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+</table></div>
+
+
+  
+
+
+
+
+    </div>
+:@_rails_html_safeF

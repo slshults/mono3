@@ -1,0 +1,30 @@
+"¹
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_32">
+      Call you me fair? That fair again unsay<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_32', '/monologues/preview?monologue_id=32', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('esoVgkXBlDkWe+oTE0y0DDP9ZAMRv8ohRcp8ZFhrA6k=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Call you me fair? that fair again unsay..<br>
+Demetrius loves your fair: O happy fair! <br>
+Your eyes are lode-stars; and your tongue's sweet air<br>
+More tuneable than lark to shepherd's ear,<br>
+When wheat is green, when hawthorn buds appear.<br>
+Sickness is catching: O, were favour so,<br>
+Yours would I catch, fair Hermia, ere I go; <br>
+My ear should catch your voice, my eye your eye,<br>
+My tongue should catch your tongue's sweet melody.<br>
+Were the world mine, Demetrius being bated,<br>
+The rest I'd give to be to you translated.<br>
+O, teach me how you look, and with what art <br>
+You sway the motion of Demetrius' heart. 
+
+      </div>
+    </span>
+
+  
+

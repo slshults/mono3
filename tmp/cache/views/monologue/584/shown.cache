@@ -1,0 +1,10 @@
+"—
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_584">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_584', '/monologues/preview/584', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('NjwiGyocmaO0L4nGhr7yH2g9NKQfGVslHiiXp9nlmQM=')}); return false;">More than I have said, loving countrymen,</a>
+    </span>
+  
+

@@ -1,0 +1,31 @@
+"ä
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_77">
+      Our remedies oft in ourselves do lie,<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_77', '/monologues/preview?monologue_id=77', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('5oFsED4E7GVSqKCmOZzDqDS9K9+qkwMZ0pyyH+dpjiw=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          Our remedies oft in ourselves do lie<br>	 
+Which we ascribe to heaven: the fated sky<br> 
+Gives us free scope; only doth backward pull <br>
+Our slow designs when we ourselves are dull. <br>
+What power is it which mounts my love so high; <br>
+That makes me see, and cannot feed mine eye? <br>
+The mightiest space in fortune nature brings  <br>
+To join like likes, and kiss like native things. <br>
+Impossible be strange attempts to those <br>
+That weigh their pains in sense, and do suppose <br>
+What hath been cannot be: who ever strove <br>
+To show her merit, that did miss her love?<br>
+The king's disease, --my project may deceive me, <br>
+But my intents are fix'd and will not leave me.<br>
+
+      </div>
+    </span>
+
+  
+

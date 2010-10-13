@@ -1,0 +1,55 @@
+"Ô	
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_440">
+      We are glad the Dauphin is so pleasant with us<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_440', '/monologues/preview?monologue_id=440', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('+bS4JM56wNovXHoM5ayJX4nSaCUnVuiTD4oaRMeb4do=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          We are glad the Dauphin is so pleasant with us;<br>
+His present and your pains we thank you for: <br>
+When we have march'd our rackets to these balls,<br>
+We will, in France, by God's grace, play a set<br>
+Shall strike his father's crown into the hazard.<br>
+Tell him he hath made a match with such a wrangler<br>
+That all the courts of France will be disturb'd <br>
+With chaces. And we understand him well,<br>
+How he comes o'er us with our wilder days,<br>
+Not measuring what use we made of them.<br>
+We never valued this poor seat of England;<br>
+And therefore, living hence, did give ourself <br>
+To barbarous licence; as 'tis ever common<br>
+That men are merriest when they are from home.<br>
+But tell the Dauphin I will keep my state,<br>
+Be like a king and show my sail of greatness<br>
+When I do rouse me in my throne of France: <br>
+For that I have laid by my majesty<br>
+And plodded like a man for working-days,<br>
+But I will rise there with so full a glory<br>
+That I will dazzle all the eyes of France,<br>
+Yea, strike the Dauphin blind to look on us. <br>
+And tell the pleasant prince this mock of his<br>
+Hath turn'd his balls to gun-stones; and his soul<br>
+Shall stand sore charged for the wasteful vengeance<br>
+That shall fly with them: for many a thousand widows<br>
+Shall this his mock mock out of their dear husbands; <br>
+Mock mothers from their sons, mock castles down;<br>
+And some are yet ungotten and unborn<br>
+That shall have cause to curse the Dauphin's scorn.<br>
+But this lies all within the will of God,<br>
+To whom I do appeal; and in whose name <br>
+Tell you the Dauphin I am coming on,<br>
+To venge me as I may and to put forth<br>
+My rightful hand in a well-hallow'd cause.<br>
+So get you hence in peace; and tell the Dauphin<br>
+His jest will savour but of shallow wit,<br>
+When thousands weep more than did laugh at it.<br>
+Convey them with safe conduct. Fare you well. 
+      </div>
+    </span>
+
+  
+

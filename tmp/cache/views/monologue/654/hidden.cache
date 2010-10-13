@@ -1,0 +1,43 @@
+"L
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_654">
+      I had rather have this tongue cut from my mouth<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_654', '/monologues/preview?monologue_id=654', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Lh/FJ9C9fDWUJ3b/pMnquZyaQ5C91jo5oTyF4UCqcTI=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <div align=right>Touch me not so near:</div>
+I had rather have this tongue cut from my mouth <br>
+Than it should do offence to Michael Cassio;<br>
+Yet, I persuade myself, to speak the truth<br>
+Shall nothing wrong him. Thus it is, general.<br>
+Montano and myself being in speech,<br>
+There comes a fellow crying out for help:<br>
+And Cassio following him with determined sword,<br>
+To execute upon him. Sir, this gentleman<br>
+Steps in to Cassio, and entreats his pause:<br>
+Myself the crying fellow did pursue,<br>
+Lest by his clamour—as it so fell out— <br>
+The town might fall in fright: he, swift of foot,<br>
+Outran my purpose; and I return'd the rather<br>
+For that I heard the clink and fall of swords,<br>
+And Cassio high in oath; which till to-night<br>
+I ne'er might say before. When I came back— <br>
+For this was brief—I found them close together,<br>
+At blow and thrust; even as again they were<br>
+When you yourself did part them.<br>
+More of this matter cannot I report:<br>
+But men are men; the best sometimes forget:<br>
+Though Cassio did some little wrong to him,<br>
+As men in rage strike those that wish them best,<br>
+Yet surely Cassio, I believe, received<br>
+From him that fled some strange indignity,<br>
+Which patience could not pass. <br>
+      </div>
+    </span>
+
+  
+

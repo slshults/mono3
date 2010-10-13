@@ -1,0 +1,11 @@
+"¨
+
+  
+    
+    <!-- Rendered when monologue has been hidden -->
+    <span id="preview_mono_79">
+      <a href="#" onclick="new Ajax.Updater('preview_mono_79', '/monologues/preview/79', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('UKBne7aHAWKNbEJsvIQQx5K4tAN2VR6b9NbBZNVU4cE=')}); return false;">Then, I confess, 
+Here on my knee, before high heaven and you</a>
+    </span>
+  
+

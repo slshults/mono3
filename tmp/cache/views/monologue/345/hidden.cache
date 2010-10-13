@@ -1,0 +1,29 @@
+"‰
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_345">
+      O Helicanus, strike me honored sir<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_345', '/monologues/preview?monologue_id=345', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('oi8Jx33bxj2Ndvs3dNqMhcuAT4SE891UL9V/n2Rspw8=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          O Helicanus, strike me, honour'd sir;<br>
+Give me a gash, put me to present pain;<br>
+Lest this great sea of joys rushing upon me<br>
+O'erbear the shores of my mortality,<br>
+And drown me with their sweetness. O, come hither, <br>
+Thou that beget'st him that did thee beget;<br>
+Thou that wast born at sea, buried at Tarsus,<br>
+And found at sea again! O Helicanus,<br>
+Down on thy knees, thank the holy gods as loud<br>
+As thunder threatens us: this is Marina. <br>
+What was thy mother's name? tell me but that,<br>
+For truth can never be confirm'd enough,<br>
+Though doubts did ever sleep. 
+      </div>
+    </span>
+
+  
+

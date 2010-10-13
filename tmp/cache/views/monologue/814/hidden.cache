@@ -1,0 +1,39 @@
+"4
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_814">
+      By day and night he wrongs me, every hour<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_814', '/monologues/preview?monologue_id=814', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('hlSYaCIQpgpFn9dyqET+ufsp4ur0i1BbQ0f/WOLAJQY=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <b>Goneril.</b> By day and night, he wrongs me! Every hour<br>
+ He flashes into one gross crime or other<br>
+ That sets us all at odds. I'll not endure it.<br>
+ His knights grow riotous, and himself upbraids us <br>
+ On every trifle. When he returns from hunting,<br>
+ I will not speak with him. Say I am sick.<br>
+ If you come slack of former services,<br>
+ You shall do well; the fault of it I'll answer. <br>
+<br>
+<i>[Horns within.]</i><br>
+<br>
+<del><b>Oswald.</b> He's coming, madam; I hear him. </del><br>
+<br>
+<b>Goneril.<b> Put on what weary negligence you please,<br>
+ You and your fellows. I'd have it come to question.<br>
+ If he distaste it, let him to our sister,<br>
+ Whose mind and mine I know in that are one, <br>
+ Not to be overrul'd. Idle old man,<br>
+ That still would manage those authorities<br>
+ That he hath given away! Now, by my life,<br>
+ Old fools are babes again, and must be us'd<br>
+ With checks as flatteries, when they are seen abus'd. <br>
+ Remember what I have said. 
+      </div>
+    </span>
+
+  
+

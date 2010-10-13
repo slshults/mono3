@@ -1,0 +1,53 @@
+"µ
+
+  
+
+    <!-- Rendered when monologue body is rendered -->
+    <!-- Contains link to hide monologue body -->
+    <span id="preview_mono_72">
+      Here's a knocking, indeed!<br/> <br/>
+      <a href="#" onclick="new Ajax.Updater('preview_mono_72', '/monologues/preview?monologue_id=72', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('FeJHCGZE5R6VDBHXMUYIyi+SAbQqW9D8C1FgLP+cWWM=')}); return false;">hide</a>
+      <br/>
+      <div class="monologue_preview">
+          <i>[Knocking within. Enter a Porter]</i><br><br>
+<b>Porter.</b> Here's a knocking indeed! If a
+      man were porter of hell-gate, he should have
+      old turning the key.<br>
+      <i>[Knocking within]</i><br>
+      Knock,
+      knock, knock! Who's there, i' the name of
+      Beelzebub? Here's a farmer, that hanged
+      himself on the expectation of plenty: come in
+      time; have napkins enow about you; here
+      you'll sweat for't.<br>
+      <i>[Knocking within]</i><br>
+      Knock,
+      knock! Who's there, in the other devil's
+      name? Faith, here's an equivocator, that could 
+      swear in both the scales against either scale;
+      who committed treason enough for God's sake,
+      yet could not equivocate to heaven: O, come
+      in, equivocator.<br>
+      <i>[Knocking within]</i> <br>
+      Knock,
+      knock, knock! Who's there? Faith, here's an
+      English tailor come hither, for stealing out of
+      a French hose: come in, tailor; here you may
+      roast your goose. <br>
+      <i>[Knocking within]</i><br>
+      Knock,
+      knock; never at quiet! What are you? But
+      this place is too cold for hell. I'll devil-porter
+      it no further: I had thought to have let in 
+      some of all professions that go the primrose
+      way to the everlasting bonfire.<br>
+      <i>[Knocking within]</i><br>
+      Anon, anon! I pray you, remember the porter. <br><br>
+
+<i>[Opens the gate]</i> 
+
+      </div>
+    </span>
+
+  
+
