@@ -284,3 +284,21 @@ Rendering template within layouts/application
 Rendered shared/_tip_jar (0.0ms)
 Filter chain halted as [#<ActionController::Filters::AroundFilter:0x8b9e438 @kind=:filter, @identifier=nil, @method=#<Proc:0x053331f0@C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/caching/actions.rb:64>, @options={:if=>nil, :unless=>nil, :only=>#<Set: {"show"}>}>] did_not_yield.
 Completed in 26ms (View: 20, DB: 2) | 200 OK [http://localhost/plays/16?g=3]
+  [4;36;1mGender Load (1.0ms)[0m   [0;1mSELECT * FROM "genders" [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "genders" [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM "genders" [0m
+
+
+Processing GendersController#women (for 127.0.0.1 at 2011-01-02 14:48:54) [GET]
+  Parameters: {"id"=>2}
+  [4;35;1mGender Load (0.0ms)[0m   [0mSELECT * FROM "genders" WHERE ("genders"."name" = 'Men') LIMIT 1[0m
+  [4;36;1mPlay Load (3.0ms)[0m   [0;1mSELECT * FROM "plays" WHERE ("plays"."classification" = 'Comedy') [0m
+  [4;35;1mPlay Load (2.0ms)[0m   [0mSELECT * FROM "plays" WHERE ("plays"."classification" = 'History') [0m
+  [4;36;1mPlay Load (1.0ms)[0m   [0;1mSELECT * FROM "plays" WHERE ("plays"."classification" = 'Tragedy') [0m
+Rendering template within layouts/application
+Rendering genders/show
+Cached fragment hit: views/play/_search/gender_women (0.0ms)
+Cached fragment miss: views/play/_search/gender_women (7.0ms)
+Rendered shared/_search (29.0ms)
+Rendered shared/_tip_jar (0.0ms)
+Completed in 5299ms (View: 52, DB: 7) | 200 OK [http://localhost/women/]
