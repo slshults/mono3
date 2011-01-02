@@ -1,0 +1,316 @@
+I"8@  
+    <div>
+      <h2>Men's Monologues in Shakespeare</h2>
+      <h2>Two Gentlemen of Verona</h2>
+      <span>
+        <form action="javascript:void(0);" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="Psw9lUDTtLdmCHxYnUtoigPiXwPppKfZ52pniPZHit8=" /></div>
+          <b>Search:</b> <input type="text" id="search" size="40"/>
+          <img alt="Ajax-loader" id="spinner" src="/images/ajax-loader.gif?1293737120" style="display: none;" />
+        </form>
+        <div class="search_links">
+          <a href="/plays/16?g=2">Search Women</a> &nbsp;|&nbsp;
+          <a href="/plays/16">Search Two Gentlemen of Verona</a> &nbsp;|&nbsp;
+          <a href="/plays">Search All Plays</a> &nbsp;|&nbsp;
+          
+            <a href="/plays/16?expand=1&amp;g=3">Expand All</a>
+          
+        </div>
+      </span>
+    </div>
+    <script type="text/javascript">
+//<![CDATA[
+new Form.Element.Observer('search', 1.25, function(element, value) {Element.show('spinner'); new Ajax.Updater('ajaxResults', 'http://localhost:3000/monologues/search', {asynchronous:true, evalScripts:true, onComplete:function(request){Element.hide('spinner')}, parameters:'g=3&p=16&search=' + encodeURIComponent(value) + '&authenticity_token=' + encodeURIComponent('Psw9lUDTtLdmCHxYnUtoigPiXwPppKfZ52pniPZHit8=')})})
+//]]>
+</script>
+  
+    <div id='ajaxResults'>
+      
+
+  
+
+      
+<div>
+  <table id='monologue_list'>
+    <tr>
+      <th>Character</th>
+      <th>First Line</th>
+      <th>Act & Sc</th>
+      <th>pdf</th>
+    </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Launce</div>
+  <div class='monologue_detail'>
+  Prose  <br/>
+  <a href="/plays/16">Two Gentlemen of Verona</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_396'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_396', '/monologues/preview/396', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Psw9lUDTtLdmCHxYnUtoigPiXwPppKfZ52pniPZHit8=')}); return false;">Nay, 'twill be this hour ere I have done weeping</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=twogents&Act=2&Scene=3&Scope=scene&LineHighlight=593' target='_blank'>II iii 1-32</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/tgov-2-3-1-launce.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Valentine</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/16">Two Gentlemen of Verona</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_397'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_397', '/monologues/preview/397', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Psw9lUDTtLdmCHxYnUtoigPiXwPppKfZ52pniPZHit8=')}); return false;">Ay, Proteus, but that life is alter'd now</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=twogents&Act=2&Scene=4&Scope=scene&LineHighlight=785#780' target='_blank'>II iv 123</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/ttgov-2-4-123-valentine.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Proteus</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/16">Two Gentlemen of Verona</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_398'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_398', '/monologues/preview/398', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Psw9lUDTtLdmCHxYnUtoigPiXwPppKfZ52pniPZHit8=')}); return false;">Even as one heat another heat expels</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=twogents&Act=2&Scene=4&Scope=scene&LineHighlight=852#852' target='_blank'>II iv 190</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/ttgov-2-4-106-proteus.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Proteus</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/16">Two Gentlemen of Verona</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_399'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_399', '/monologues/preview/399', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Psw9lUDTtLdmCHxYnUtoigPiXwPppKfZ52pniPZHit8=')}); return false;">To leave my Julia, shall I be forsworn;</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=twogents&Act=2&Scene=6&Scope=scene&LineHighlight=931' target='_blank'>II vi 1</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/ttgov-2-6-1-proteus.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Proteus</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/16">Two Gentlemen of Verona</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_400'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_400', '/monologues/preview/400', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Psw9lUDTtLdmCHxYnUtoigPiXwPppKfZ52pniPZHit8=')}); return false;">My gracious lord, that which I would discover</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=twogents&Act=3&Scene=1&Scope=scene&LineHighlight=1072' target='_blank'>III i 6</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/ttgov-3-1-6-proteus.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Duke</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/16">Two Gentlemen of Verona</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_401'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_401', '/monologues/preview/401', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Psw9lUDTtLdmCHxYnUtoigPiXwPppKfZ52pniPZHit8=')}); return false;">Proteus, I thank thee for thine honest care,</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=twogents&Act=3&Scene=1&Scope=scene&LineHighlight=1090#1090' target='_blank'>III i 24</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/ttgov-3-1-24-duke.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Valentine</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/16">Two Gentlemen of Verona</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_402'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_402', '/monologues/preview/402', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Psw9lUDTtLdmCHxYnUtoigPiXwPppKfZ52pniPZHit8=')}); return false;">A woman sometime scorns what best contents her.</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=twogents&Act=3&Scene=1&Scope=scene&LineHighlight=1163#1159' target='_blank'>III i 96</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/ttgov-3-1-96-valentine.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Duke</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/16">Two Gentlemen of Verona</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_403'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_403', '/monologues/preview/403', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Psw9lUDTtLdmCHxYnUtoigPiXwPppKfZ52pniPZHit8=')}); return false;">What letter is this same? What's here? To Silvia!</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=twogents&Act=3&Scene=1&Scope=scene&LineHighlight=1206#1199' target='_blank'>III i 141</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/ttgov-3-1-141-duke.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Valentine</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/16">Two Gentlemen of Verona</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_404'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_404', '/monologues/preview/404', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Psw9lUDTtLdmCHxYnUtoigPiXwPppKfZ52pniPZHit8=')}); return false;">And why not death rather than living torment?</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=twogents&Act=3&Scene=1&Scope=scene&LineHighlight=1296#1290' target='_blank'>III i 163</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/ttgov-3-1-163-valentine.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Proteus</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/16">Two Gentlemen of Verona</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_405'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_405', '/monologues/preview/405', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Psw9lUDTtLdmCHxYnUtoigPiXwPppKfZ52pniPZHit8=')}); return false;">Ay, ay; and she hath offer'd to the doom</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=twogents&Act=3&Scene=1&Scope=scene&LineHighlight=1296#1290' target='_blank'>III i 215</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/ttgov-3-1-215-proteus.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Proteus</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/16">Two Gentlemen of Verona</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_406'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_406', '/monologues/preview/406', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Psw9lUDTtLdmCHxYnUtoigPiXwPppKfZ52pniPZHit8=')}); return false;">Cease to lament for that thou canst not help,</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=twogents&Act=3&Scene=1&Scope=scene&LineHighlight=1315#1311' target='_blank'>III i 234</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/ttgov-3-1-234-proteus.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Launce</div>
+  <div class='monologue_detail'>
+  Prose  <br/>
+  <a href="/plays/16">Two Gentlemen of Verona</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_407'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_407', '/monologues/preview/407', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Psw9lUDTtLdmCHxYnUtoigPiXwPppKfZ52pniPZHit8=')}); return false;">I am but a fool, look you; and yet I have the wit</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=twogents&Act=3&Scene=1&Scope=scene&LineHighlight=1336#1331' target='_blank'>III i 254</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/ttgov-3-1-254-launce.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='odd-row'>
+  <td><div class='monologue_character'>Proteus</div>
+  <div class='monologue_detail'>
+  Verse  <br/>
+  <a href="/plays/16">Two Gentlemen of Verona</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_408'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_408', '/monologues/preview/408', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Psw9lUDTtLdmCHxYnUtoigPiXwPppKfZ52pniPZHit8=')}); return false;">Say that upon the altar of her beauty</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=twogents&Act=3&Scene=2&Scope=scene&LineHighlight=1525#1518' target='_blank'>III ii 76</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/ttgov-3-2-76-proteus.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+  <tr class='monologue_listing' id='even-row'>
+  <td><div class='monologue_character'>Launce</div>
+  <div class='monologue_detail'>
+  Prose  <br/>
+  <a href="/plays/16">Two Gentlemen of Verona</a>    
+  </div>
+  </td>
+  <td class='monologue_firstline'>
+  <div id='preview_mono_409'>
+  
+    <a href="#" onclick="new Ajax.Updater('preview_mono_409', '/monologues/preview/409', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('Psw9lUDTtLdmCHxYnUtoigPiXwPppKfZ52pniPZHit8=')}); return false;">When a man's servant shall play the cur with him</a>  
+  </div>
+  </td>
+  <td class='monologue_actscene'>
+  <a href='http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=twogents&Act=4&Scene=4&Scope=scene&LineHighlight=1834' target='_blank'>IV iv 1</a>  </td>
+  <td  class='monologue_pdflink'>
+  <a href='http://www.mirroruptonature.com/shakespeare-monologues/male/ttgov-4-4-1-launce.pdf' target='_blank')><img title='pdf' alt='pdf' valign='middle' src='/images/print.gif' border='0' /></a>  </td>
+  </tr>
+
+</table></div>
+
+
+  
+
+
+
+
+    </div>
+:@_rails_html_safeF
