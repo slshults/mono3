@@ -22,7 +22,7 @@
                   :before => "Element.show('spinner')",
                   :complete => "Element.hide('spinner')",
                   :url => {:action => 'search', :only_path => false},
-                  :with => "'search=' + encodeURIComponent(value)" %>
+                  :with => "'monologues=' + encodeURIComponent(value)" %>
   <div id='ajaxResults'>
     <%= render :partial => "shared/search" %>
   </div>
