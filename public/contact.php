@@ -1,7 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
 <html>
 <head>
-<TITLE>404 - File Not Found on Shakespeare's Monologues Site - Redirecting back home<
+<TITLE>Contact Shakespeare's Monologues<
 /TITLE>
 <style fprolloverstyle>A:hover {color: #5E2612; text-decoration: underline; font
 -weight: bold}
