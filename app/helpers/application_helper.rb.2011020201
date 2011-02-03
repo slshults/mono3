@@ -57,7 +57,8 @@ module ApplicationHelper
     <input type='hidden' name='tax' value='0'/>
     <input type='hidden' name='lc' value='US'/>
     <input type='hidden' name='bn' value='PP-DonationsBF'/>
-    <input type='image' src='https://www.paypal.com/en_US/i/btn/x-click-but04.gif' border='0' name='submit' alt='Donate via PayPal'/>
+    <input type='image' src='https://www.paypal.com/en_US/i/btn/x-click-but04.gif' border='0' name='submit' alt='Make payments
+    with PayPal - it's fast, free and secure!'/>
     <img alt='Tip Jar' border='0' src='https://www.paypal.com/en_US/i/scr/pixel.gif' width='1' height='1'/></form>^
   end
 end
