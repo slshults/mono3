@@ -49,9 +49,9 @@
     <% if params[:search] %>
 
       <% if @monologues.size == 1 %>
-        <p>Herein, your monologue</p>
+        <p>Behold! Your monologue.</p>
       <% else %>
-        <p><%= @monologues.size.to_s %> monologues contain the word(s) you entered</p>
+        <p><%= @monologues.size.to_s %> monologues match your search!</p>
       <% end %>
 
     <% else %>

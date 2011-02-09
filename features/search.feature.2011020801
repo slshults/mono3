@@ -16,7 +16,7 @@ Feature: Search
     When I search for "tree"
     Then I should see
       """
-      16 monologues match your search
+      16 monologues match your search!
       """
 
   Scenario: Find all Hamlet monologues that mention tree
@@ -24,7 +24,7 @@ Feature: Search
     When I search for "tree"
     Then I should see
       """
-      2 monologues match your search
+      2 monologues match your search!
       """
 
   Scenario: Find that no monologues mention Zebra
