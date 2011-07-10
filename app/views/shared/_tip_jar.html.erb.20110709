@@ -7,18 +7,13 @@
   <font face=verdana size='-2'>
     Other ways to help:<br/>
     Click a few ads here<br/>
-    Buy books <a href="http://www.shakespeare-monologues.org/store/index.html" target="_blank">here</a><br>Send people back here</font>
-</span>
-<span class="small">
-<br><br>
-<!-- +1 Button BEGIN -->
-&nbsp;&nbsp&nbsp;<g:plusone size="small"></g:plusone>
-<!-- +1 Button END -->
-</span>
+    Buy books <a href="http://www.shakespeare-monologues.org/store/index.html" target="_blank">here</a><br>Send people back here</font><br>
+<br></span>
+
 <!-- AddThis Button BEGIN -->
 <style>
      center{text-align: center;}
-</style>
+     </style>
 <div class="addthis_toolbox addthis_default_style center">
 <!--[if IE]><div>
 <img src="/img/spacer.png" align="left" height="15" width="90" border="0" />
@@ -31,7 +26,6 @@
 <a class="addthis_button_compact"></a>
 </div>
 <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=ShakespearesMonologues"></script>
-
 <!-- AddThis Button END -->
 
 <span class="small">

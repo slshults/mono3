@@ -47,12 +47,6 @@
       );
     }) ( jQuery );
   </script>
-<!-- Start G+ +1 button stuff -->
-<link rel="canonical" href="http://www.shakespeare-monologues.org/" />
-    <script type="text/javascript" src="https://apis.google.com/js/plusone.js">
-    </script>
-<!-- End G+ +1 button stuff -->
-
 </head>
 
 <body id="main">
