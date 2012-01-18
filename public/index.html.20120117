@@ -1,12 +1,4 @@
-<html>
-<script>
-var today = new Date();
-if((today.getDate() == 18) && (today.getMonth() == 0) && (today.getFullYear() == 2012))
- {
-      window.location = "http://protestsopa.org";
- }
-</script>
-<head>
+<html><head>
 <title> Shakespeare's Monologues </title> 
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <!-- BASE href="http://www.shakespeare-monologues.org/" target="_top" -->
