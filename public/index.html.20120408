@@ -28,9 +28,7 @@ content="43Tfyc84pBq4LxJ6S3NHue3NJt2M+oKCcoiN41SEKB8=">
 </style>
 <style>A {text-decoration: none; color: #696969; font-style: italic  }
 </style>
-<meta property="og:title" content="Shakespeare's Monologues" />
-<meta property="og:description" content="Making it easier to find monologues since 1997. Built for actors. Used by everyone." />
-<meta property="og:image" content="http://www.shakespeare-monologues.org/images/foliocover.gif" />
+
 </HEAD>
 <BODY BGCOLOR="#F9F9DF" background="images/parchment.jpg">
 
@@ -94,7 +92,7 @@ This site provides a complete list of Shakespeare's plays categorized alphabetic
 <table align="right">
 <tr>
 <td  align="left" valign="bottom" width="200">
-<br><br>
+<p>
 <font style="font-size:60%">The texts of Shakespeare's plays is public domain.  Contact linked sites regarding intellectual property rights of those sites.</font><br>
 <br>
 <!-- Creative Commons Info -->
