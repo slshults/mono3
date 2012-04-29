@@ -53,7 +53,7 @@
     </script>
 <!-- End G+ +1 button stuff -->
 <meta property="og:title" content="Shakespeare's Monologues" />
-<meta property="og:description" content="Making it easier to find monologues since 1997. 
+<meta property="og:description" content="Making it easier to find monologues since 1997.<br> 
 Built for actors. Used by everyone." />
 <meta property="og:image" content="http://www.shakespeare-monologues.org/images/foliocover.gif" />
 </head>
@@ -116,6 +116,8 @@ Built for actors. Used by everyone." />
       <%= link_to '[The Women]', '/women' %>&nbsp;
        <%= link_to '[Search All]', '/plays' %>&nbsp;
 <br/>
+      <a href="http://shakespeare-monologues.org/mensmonos.old.shtml#other">[Other Works]</a>
+<br/>
       <a HREF="http://shakespeare-monologues.org/store/index.html">[Books]</a>&nbsp;
       <a HREF="http://twitter.com/ShakesMonos" target="_blank">[Twitter]</a>&nbsp;
       <a href="http://www.facebook.com/pages/Shakespeares-Monologues/108569596643" target="_blank">[FB]</a>&nbsp;
@@ -172,20 +174,17 @@ Built for actors. Used by everyone." />
   </script>
   <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
   </p>
-
-<script type="text/javascript"><!--
-google_ad_client = "ca-pub-5236095389905910";
-/* rightcoltext */
-google_ad_slot = "9566106364";
-google_ad_width = 120;
-google_ad_height = 600;
-//-->
-</script>
-<script type="text/javascript"
-src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-
-
+  <script type="text/javascript"><!--
+  amazon_ad_tag="shakessmonolo-20";
+  amazon_ad_width="120";
+  amazon_ad_height="600";
+  amazon_color_background="F9F9D1";
+  amazon_color_border="F9F9D1";
+  amazon_color_logo="0A0909";
+  amazon_color_link="A43907";
+  amazon_ad_logo="hide";
+  amazon_ad_title="Shakespeare's Monologues' Bookshelves"; //--></script>
+  <script type="text/javascript" src="http://www.assoc-amazon.com/s/asw.js"></script>
 </td>
 <!-- end right column -->
 
