@@ -9,8 +9,21 @@
   </script>
   
   <meta NAME="KEYWORDS"
-  CONTENT="
-William Shakespeare, shakespeare, monologues, shakespeare's monologues, shakespearean, monologue, database, find, search, browse, index, quotes, quotations, Comedies, Histories, Tragedies, A Midsummer Night's Dream, All's Well That Ends Well, As You Like It, Cymbeline, Love's Labour's Lost, Measure for Measure, Merry Wives of Windsor, Much Ado About Nothing, Pericles, Prince of Tyre, The Comedy of Errors, The Merchant of Venice, The Taming of the Shrew, The Tempest, The Winter's Tale, Troilus and Cressida, Twelfth Night Or What You Will, 12th Night, TWelfth Night, Two Gentlemen of Verona, Henry IV i, Henry IV ii, Henry V, Henry VI i, Henry VI ii, Henry VI iii, Henry VIII, King John, Richard II, Richard III, Antony & Cleopatra, Coriolanus, Hamlet, Julius Caesar, King Lear, Macbeth, Othello, Romeo and Juliet, Timon of Athens, Titus Andronicus"/>
+  CONTENT="shakespeare, monologue, shakespeare's, monologues,
+  shakespearean, discussion, monologue, shakespeare's, monologues,
+  shakespearean, discussion, theatre, resource, actor, resource, acting,
+  resource, online, forum, shakespeare shakespeare's monologues
+  shakespearean discussion shakespeare monologue monologues
+  shakespearean discussion shakespeare monologue shakespeare's
+  theatre resource acting resource acting resources forum online
+  shakespearean, discussion, shakespeare, monologue, shakespeare's,
+  monologues, discussion, shakespeare, monologue, shakespeare's monologues, shakespearean, find, locate, search, index
+  , All's Well That Ends Well, As You Like It, The Comedy of Errors, Cymbeline, Love's Labours Lost
+  , Measure for Measure, The Merry Wives of Windsor, The Merchant of Venice, A Midsummer Night's Dream
+  , Much Ado About Nothing, Pericles, Prince of Tyre, Taming of the Shrew, The Tempest, Troilus and Cressida
+  , Twelfth Night, Two Gentlemen of Verona, Winter's Tale, Henry IV, part 1, Henry IV, part 2, Henry V
+  , Henry VI, part 1, Henry VI, part 2, Henry VI, part 3, Henry VIII, King John, Richard II, Richard III
+  "/>
 
   <script type="text/javascript">
     // set focus on search box
@@ -54,7 +67,7 @@ Built for actors. Used by everyone." />
     <%= link_to '[The Men]', '/men' %> <%= link_to '[The Women]', '/women' %> <%= link_to '[Both]', '/plays' %> <br/>
     <a HREF="http://shakespeare-monologues.org/store/index.html">[Books]</a>
     <a HREF="http://twitter.com/ShakesMonos" target="_blank">[Twitter]</a>
-    <a href="https://www.facebook.com/ShakespearesMonologues" target="_blank">[FB]</a>
+    <a href="http://www.facebook.com/pages/Shakespeares-Monologues/108569596643" target="_blank">[FB]</a>
   </div>
 
   <!-- left column ads -->

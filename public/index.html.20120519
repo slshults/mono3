@@ -11,8 +11,17 @@ if((today.getDate() == 18) && (today.getMonth() == 0) && (today.getFullYear() ==
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <!-- BASE href="http://www.shakespeare-monologues.org/" target="_top" -->
   
-<meta name="KEYWORDS" content="William Shakespeare, shakespeare, monologues, shakespeare's monologues, shakespearean, monologue, database, find, search, browse, index, quotes, quotations, Comedies, Histories, Tragedies, A Midsummer Night's Dream, All's Well That Ends Well, As You Like It, Cymbeline, Love's Labour's Lost, Measure for Measure, Merry Wives of Windsor, Much Ado About Nothing, Pericles, Prince of Tyre, The Comedy of Errors, The Merchant of Venice, The Taming of the Shrew, The Tempest, The Winter's Tale, Troilus and Cressida, Twelfth Night Or What You Will, 12th Night, TWelfth Night, Two Gentlemen of Verona, Henry IV i, Henry IV ii, Henry V, Henry VI i, Henry VI ii, Henry VI iii, Henry VIII, King John, Richard II, Richard III, Antony & Cleopatra, Coriolanus, Hamlet, Julius Caesar, King Lear, Macbeth, Othello, Romeo and Juliet, Timon of Athens, Titus Andronicus">
-
+<meta name="KEYWORDS" content="shakespeare, monologue, shakespeare's, 
+monologues,
+shakespearean, monologue, shakespeare's, monologues,
+shakespearean, theatre, theater, stage, resource, actor, resource, acting, 
+resource, online, forum, shakespeare shakespeare's monologues
+shakespearean shakespeare monologue monologues
+shakespearean shakespeare monologue shakespeare's
+theatre theater stage resource acting resource acting resources online 
+shakespearean, discussion, shakespeare, monologue, shakespeare's,
+monologues, shakespeare, monologue, shakespeare's
+monologues, shakespearean, find, locate, search, index">
 <meta name="verify-v1" 
 content="43Tfyc84pBq4LxJ6S3NHue3NJt2M+oKCcoiN41SEKB8=">
 <style fprolloverstyle="">A:hover {color: #5E2612; text-decoration: underline; font-weight: bold}
@@ -22,7 +31,7 @@ content="43Tfyc84pBq4LxJ6S3NHue3NJt2M+oKCcoiN41SEKB8=">
 <meta property="og:title" content="Shakespeare's Monologues" />
 <meta property="og:description" content="Making it easier to find monologues since 1997.
 Built for actors. Used by everyone." />
-<meta property="og:image" content="http://www.shakespeare-monologues.org/images/foliocover.old.gif" />
+<meta property="og:image" content="http://www.shakespeare-monologues.org/images/foliocover.gif" />
 </HEAD>
 <BODY BGCOLOR="#F9F9DF" background="images/parchment.jpg">
 
@@ -38,29 +47,29 @@ Built for actors. Used by everyone." />
     <b><font face="verdana" size="+3">Shakespeare's Monologues</font><b><br>
 		                      
          <font face="verdana" size="-1"><i>Making it easier to find monologues since 1997</i>
-    </font>              
-<br><br>
-<font face="arial" size="6px">
-<a href="http://www.shakespeare-monologues.org/men/" font style="text-decoration: none;">The Men</a><br>
-		  
-<a href="http://www.shakespeare-monologues.org/women/" font style="text-decoration: none;">The Women</a></font><br><br>
-                  <center><a href="plays/"><img src="images/foliocover.gif" width="304" height="371" border="0" title="Portrait from cover of First Folio" alt="Portrait from cover of First Folio" /></a></center>
+    </font>              <br><br>
+                  <center><img src="images/foliocover.gif"></center>
 <b>                                      <br> 
          <font face="verdana" size="+1">Built for actors. <br> Used by 
 everyone. </font>
 <br><br>
+<font face="arial" size="6px">
+<a href="http://www.shakespeare-monologues.org/men/" font style="text-decoration: none;">The Men</a><br>
+		  
+<a href="http://www.shakespeare-monologues.org/women/" font style="text-decoration: none;">The Women</a></font>
 </b></b></td>
 </tr>
-<tr><td width="530">
-<font color="827259">The links above lead to a complete list of Shakespeare's Monologues. All of them. The monologues are organized by play, categorized by comedy, history and tragedy. You can browse and/or search. Each monologue entry includes the character's name, the first line of the speech, whether it is verse or prose, and shows the act, scene & line number.  Each entry provides a link to the full text of the scene. You can download each monologue for printing, already double-spaced for scansion and transcription. The PDFs are provided courtesy <i>The Inexplicable Dumb Show</i> (formerly <i>The Mirror Up To Nature.</i>)
+<tr><td width="500">
+<font color="#F9F9DF">The links above lead to a complete list of the plays categorized alphabetically by comedy, history and tragedy.  
+This site provides a complete list of Shakespeare's plays categorized alphabetically by comedy, history and tragedy.  Each monologue entry includes the character's name, the first line of the speech, is marked as verse or prose and gives the location within the play where the monologue is found.  Each entry provides a link to the full text of the scene as well as a link to a PDF file, double-spaced for scansion and transcription. The PDFs are provided courtesy The Inexplicable Dumb Show (formerly "The Mirror Up To Nature.")
 </font>
 </td></tr>
 </table>
 
-<table align="center" valign="bottom" height="50" width="80%">
+<table align="center" valign="bottom" height="90" width="80%">
 
 <tr>
-<td align="center" valign="bottom" height="50" width="100%">
+<td align="center" valign="bottom" height="90" width="100%">
 
 <font face="verdana" size="1px">
 
@@ -72,7 +81,7 @@ everyone. </font>
 
 <a href="http://twitter.com/ShakesMonos/" target="_blank">[Twitter]</a>
 
-<a href="https://www.facebook.com/ShakespearesMonologues">[FB]</a>
+<a href="http://www.facebook.com/pages/Shakespeares-Monologues/108569596643">[FB]</a>
 
 <A href="http://www.shakespeare-monologues.org/faq.html">[FAQ]</a>
 
