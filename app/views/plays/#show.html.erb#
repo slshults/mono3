@@ -10,7 +10,7 @@
                 :style => "display: none;" %>
         <% end %>
         <div class="search_links">
-         <%= link_to "Search #{@other_gender.name}", play_path(@play, :g => @other_gender.id) %> &nbsp;|&nbsp;
+          <%= link_to "Search #{@other_gender.name}", play_path(@play, :g => @other_gender.id) %> &nbsp;|&nbsp;
           <%= link_to "Search #{@play.title}", play_path(@play) %> &nbsp;|&nbsp;
           <%= link_to "Search All Plays", plays_path  %> &nbsp;|&nbsp;
           <% if params[:expand] %>

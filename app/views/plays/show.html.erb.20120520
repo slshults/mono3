@@ -1,6 +1,6 @@
   <% if @gender %>
     <div>
-      <h2><%=h @gender.name %>'s Monologues in Shakespeare's</h2>
+      <h2><%=h @gender.name %>'s Monologues in Shakespeare</h2>
       <h2><%=h @play.title %></h2>
       <span>
         <% form_tag('javascript:void(0);') do %>
@@ -10,7 +10,7 @@
                 :style => "display: none;" %>
         <% end %>
         <div class="search_links">
-         <%= link_to "Search #{@other_gender.name}", play_path(@play, :g => @other_gender.id) %> &nbsp;|&nbsp;
+          <%= link_to "Search #{@other_gender.name}", play_path(@play, :g => @other_gender.id) %> &nbsp;|&nbsp;
           <%= link_to "Search #{@play.title}", play_path(@play) %> &nbsp;|&nbsp;
           <%= link_to "Search All Plays", plays_path  %> &nbsp;|&nbsp;
           <% if params[:expand] %>
