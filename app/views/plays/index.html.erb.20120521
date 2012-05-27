@@ -1,0 +1,25 @@
+<div>
+  <h2>Shakespeare's Monologues</h2>
+  <span>
+    <% form_tag('javascript:void(0)') do %>
+      <b>Search:</b> <input type="text" id="search" size="30" style="font-size: 140%;"/>
+      <%= image_tag '/images/ajax-loader.gif',
+            :id => 'spinner',
+            :style => "display: none;" %>
+    <% end %>
+  </span>
+</div>
+
+<%=  observe_field :search,
+                  :frequency => 1.25,
+                  :update => 'ajaxResults',
+                  :before => "Element.show('spinner')",
+                  :complete => "Element.hide('spinner')",
+                  :url => {:controller => 'monologues', :action => 'search', :only_path => false},
+                  :with => "'search=' + encodeURIComponent(value)" %>
+
+  <div id='ajaxResults'>
+    <%= render :controller => 'monologues', :partial => "shared/search" %>
+  </div>
+
+
