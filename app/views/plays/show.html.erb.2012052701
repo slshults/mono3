@@ -30,7 +30,7 @@
                       :url => {:controller => 'monologues', :action => 'search', :only_path => false},
                       :with => "'g=#{@gender.id}&p=#{@play.id}&search=' + encodeURIComponent(value)" %>
   <% else %>
-<% title "Monologues in Shakespeare's #{@play.title}" %>
+<% title @play.title %>
     <div>
     <h2>Monologues in Shakespeare's</h2>
     <h2><%=h @play.title %></h2>

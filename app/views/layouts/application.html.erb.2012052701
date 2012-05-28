@@ -4,10 +4,7 @@
 <head>
   <meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
 
-
-
-<title> <%= yield (:title) || "Shakespeare's Monologues" %> 
-</title>
+<title> <%= @content_for_title %> - Shakespeare's Monologues</title>
 
 
   <%= stylesheet_link_tag "monologues" %>

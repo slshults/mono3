@@ -48,8 +48,6 @@
 
     <% if params[:search] %>
 
-
-
       <% if @monologues.size == 1 %>
         <p>Herein, your monologue</p>
       <% else %>
