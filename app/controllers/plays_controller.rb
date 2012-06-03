@@ -1,7 +1,7 @@
 class PlaysController < ApplicationController
 
-  caches_action :show, :cache_path => Proc.new {|c| "play/#{c.params[:id]}/g#{c.params[:g]}/e#{c.params[:expand]}" }, :layout => false
-  caches_action :index, :cache_path => Proc.new {|c| "play/index" }, :layout => false
+  caches_action :show, :cache_path => Proc.new {|c| "play/#{c.params[:id]}/g#{c.params[:g]}/e#{c.params[:expand]}" }
+  caches_action :index, :cache_path => Proc.new {|c| "play/index" }
   
 
   # GET /plays

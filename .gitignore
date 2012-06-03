@@ -1,3 +1,22 @@
-tmp
-log
+db/development.sqlite*
+db/test.sqlite*
+log/*
+nbproject/**/*
+nbproject/*
+*~
+*.2010*
+*.2011*
+*.2012*
+#*#
+#.*#
+screenshot-*.png
+results.htm
+rerun.txt
+tmp/*
+tmp/**/*
+public/plays.html
+public/plays/*
+public/monologues.html
+public/monologues/*
+
 
