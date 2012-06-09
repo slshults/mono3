@@ -35,6 +35,7 @@ ActionController::Routing::Routes.draw do |map|
   map.connect '/womensmonosold.htm', :controller => :genders, :action => 'women', :id => women.id
   map.connect '/mensmonosold.shtml', :controller => :genders, :action => 'men', :id => men.id
   map.connect '/womensmonos.htm', :controller => :genders, :action => 'women', :id => women.id
+  map.connect '/mensmonos.htm', :controller => :genders, :action => 'men', :id => men.id
 
   # Hamlet
   play_id = 31
