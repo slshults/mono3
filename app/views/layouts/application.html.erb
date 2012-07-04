@@ -1,9 +1,9 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 
-<html>
+<html itemscope itemtype="http://schema.org/CollectionPage">
 <head>
   <meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
-<title> <%= yield (:title) || "Shakespeare's Monologues" %> </title>
+<title itemprop="name"> <%= yield (:title) || "Shakespeare's Monologues" %> </title>
 
 
   <%= stylesheet_link_tag "monologues" %>
@@ -14,7 +14,7 @@
 
 
 
-<meta NAME="Description" CONTENT="A complete database of Shakespeare's Monologues. The monologues are organized by play, then categorized by comedy, history and tragedy. You can browse and/or search so you can find a monologue whether you know which one you want, or you're looking for monologue ideas. Each monologue entry includes the character's name, the first line of the speech, whether it is verse or prose, and shows the act, scene & line number. Each entry provides a link to the full text of the scene. You can download each monologue for printing, already double-spaced for scansion and transcription."> 
+<meta NAME="Description" itemprop="description" CONTENT="A complete database of Shakespeare's Monologues. The monologues are organized by play, then categorized by comedy, history and tragedy. You can browse and/or search so you can find a monologue whether you know which one you want, or you're looking for monologue ideas. Each monologue entry includes the character's name, the first line of the speech, whether it is verse or prose, and shows the act, scene & line number. Each entry provides a link to the full text of the scene. You can download each monologue for printing, already double-spaced for scansion and transcription."> 
 
 <META NAME="verify-v1" CONTENT="43Tfyc84pBq4LxJ6S3NHue3NJt2M+oKCcoiN41SEKB8="/>
 
@@ -32,13 +32,22 @@
   </script>
 <!-- Start G+ +1 button stuff -->
 <link rel="canonical" href="http://www.shakespeare-monologues.org/" />
-    <script type="text/javascript" src="https://apis.google.com/js/plusone.js">
-    </script>
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
 <!-- End G+ +1 button stuff -->
+
+<!-- Start Facebook Open Graph stuff -->
 <meta property="og:title" content="Shakespeare's Monologues" />
 <meta property="og:description" content="Making it easier to find monologues since 1997. 
 Built for actors. Used by everyone." />
 <meta property="og:image" content="http://www.shakespeare-monologues.org/images/foliocover.gif" />
+<!-- End Facebook Open Graph stuff -->
+<!-- Start Google Analytics stuff -->
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -52,7 +61,7 @@ Built for actors. Used by everyone." />
   })();
 
 </script>
-
+<!-- End Google Analytics stuff -->
 </head>
 
 <body id="main">
@@ -65,7 +74,7 @@ Built for actors. Used by everyone." />
     <a HREF="http://shakespeare-monologues.org/store/index.html">[Books]</a>
     <a HREF="http://twitter.com/ShakesMonos" target="_blank">[Twitter]</a>
     <a href="https://www.facebook.com/ShakespearesMonologues" target="_blank">[FB]</a>
-    <a href="https://plus.google.com/106045313819632308693/posts" target="_blank">[G+]</a><br>
+    <a href="https://plus.google.com/106045313819632308693" rel="publisher" target="_blank">[G+]</a><br>
     <a href="/faq.html#Q0">[How To]</a>
   </div>
 
@@ -118,7 +127,7 @@ Built for actors. Used by everyone." />
       <a HREF="http://shakespeare-monologues.org/store/index.html">[Books]</a>&nbsp;
       <a HREF="http://twitter.com/ShakesMonos" target="_blank">[Twitter]</a>&nbsp;
 <a href="https://www.facebook.com/ShakespearesMonologues" target="_blank">[FB]</a>&nbsp;
-<a href="https://plus.google.com/106045313819632308693/posts" target="_blank">[G+]</a><br/>
+<a href="https://plus.google.com/106045313819632308693" rel="publisher" target="_blank">[G+]</a><br>
   <%= link_to '[FAQ]', '/faq.html' %>&nbsp;
       <%= link_to '[About]', '/about.html' %>
       <a HREF="http://shults.org/shakes/contact.php">[Contact]</a>
