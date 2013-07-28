@@ -178,18 +178,9 @@ Built for actors. Used by everyone." />
     google_color_url = "696969";
     //-->
   </script>
-  <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script></p>
+  <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+  </p>
 
-Help a fellow actor:<br/>
-<div style="width:240px;text-align:center"> 
-<script type="text/javascript" 
-src="https://www.giveforward.com/widget.js"></script>
-<script type="text/javascript">
-BuildWidget('3hn2'); 
-</script> 
-</div>
-
-<!-- this google adsense unit on hold until Tim's fundraiser is complete
 <script type="text/javascript"><!--
 google_ad_client = "ca-pub-5236095389905910";
 /* rightcoltext */
@@ -201,7 +192,6 @@ google_ad_height = 600;
 <script type="text/javascript"
 src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
-end comment to hide this google adsense unit -->
 
 
 </td>
