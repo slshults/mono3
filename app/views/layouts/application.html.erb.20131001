@@ -180,8 +180,14 @@ Built for actors. Used by everyone." />
   </script>
   <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script></p>
 
-<a href="http://www.helphopelive.org/find-a-patient/profile/index.cfm/patient/C93C62D2-0791-6021-5DF35CFDFEFDAD40"><img src="images/TowerAd.png" width="246" height="430" border="0" /></a>
-
+<font face="verdana" size="-2">Help a fellow actor:</font><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div style="width:240px;text-align:center"> 
+<script type="text/javascript" 
+src="https://www.giveforward.com/widget.js"></script>
+<script type="text/javascript">
+BuildWidget('3hn2'); 
+</script> 
+</div>
 
 <!-- this google adsense unit on hold until Tim's fundraiser is complete
 <!-- script type="text/javascript"><!--
