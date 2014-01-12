@@ -164,12 +164,7 @@ Built for actors. Used by everyone." />
   <br/>
 
   <p>
-
-<a href="http://shakespeareclass.org/Shakespeare_Class/U.K._Program.html" target="_blank"><img src="http://www.shakespeare-monologues.org/images/OSC300x250ad1.jpg" border="0" width="300" height="250" alt="Oxford Shakespeare Company" title="Oxford Shakespeare Company" /></a>
-
-  <!--Big google ad on hold while OSC ad is running. script type="text/javascript">
-
-<!--
+  <script type="text/javascript"><!--
     google_ad_client = "pub-5236095389905910";
     google_ad_width = 300;
     google_ad_height = 250;
@@ -182,10 +177,8 @@ Built for actors. Used by everyone." />
     google_color_text = "000000";
     google_color_url = "696969";
     //-->
-  </script -->
-  <<!--Big google ad on hold while OSC ad is running. script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script -->
-
-</p>
+  </script>
+  <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script></p>
 
 <script type="text/javascript"><!--
 google_ad_client = "ca-pub-5236095389905910";
