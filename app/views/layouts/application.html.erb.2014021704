@@ -158,31 +158,6 @@ Built for actors. Used by everyone." />
 <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
 
       <!-- End SiteSearch Google -->
-<!-- begin social media buttons -->
-     <!-- begin facebook button -->
-<div class="fb-like" data-href="http://www.facebook.com/ShakespearesMonologues" data-width="100" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
-     <!-- end facebook button -->
-     <!-- begin twitter follow button -->
-<a href="http://twitter.com/ShakesMonos" class="twitter-follow-button" data-show-count="false">Follow @ShakesMonos</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-     <!-- end twitter follow button -->
-     <!-- begin G+ button -->
-
-<!-- Place this tag where you want the widget to render. -->
-<div class="g-follow" data-annotation="bubble" data-height="15" data-href="//plus.google.com/106045313819632308693" data-rel="publisher"></div>
-
-<!-- Place this tag after the last widget tag. -->
-<script type="text/javascript">
-  (function() {
-    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-    po.src = 'https://apis.google.com/js/platform.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-  })();
-</script>
-
-     <!-- end G+ button -->
-</div>
-<!-- end social media buttons -->
 
 <font face="verdana" size="-2">Friends don't let friends use IE</font><br>
 <a href="http://www.spreadfirefox.com/?q=affiliates&amp;id=70961&amp;t=62" target="_blank"><img alt="Get Firefox!" title="Get Firefox!" src="http://sfx-images.mozilla.org/affiliates/Buttons/110x32/take.gif" border="0" align="top"></a>
