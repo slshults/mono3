@@ -1,6 +1,4 @@
-#Prevent clickjacking in modern browsers
-Header set X-Frame-Options SAMEORIGIN
-#demosites.conversionsupport.com displaying site under their URL via reverse proxy without permission or attribution
+#demosites.conversionsupport.com displaying site under their URL via reverse proxy without permission or attribution. No frames to bust out of, so hoping I can block them as a referrer
 RewriteEngine on
 # Options +FollowSymlinks
 RewriteCond %{HTTP_REFERER} ^http://(demosites\.)conversionsupport\.com [NC]
