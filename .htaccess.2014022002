@@ -1,0 +1,7 @@
+#demosites.conversionsupport.com displaying site under their URL via reverse proxy without permission or attribution. No frames to bust out of, so hoping I can block them as a referrer
+RewriteEngine on
+# Options +FollowSymlinks
+RewriteCond %{HTTP_REFERER} conversionsupport\.com [NC]
+RewriteRule .* - [F]
+
+
