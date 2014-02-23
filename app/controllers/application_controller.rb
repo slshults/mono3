@@ -5,9 +5,11 @@ class ApplicationController < ActionController::Base
   helper :all # include all helpers, all the time
   protect_from_forgery # See ActionController::RequestForgeryProtection for details
 
-
   before_filter :logged_in?
 
+    def set_x_frame_options
+      response.headers["X-Frame-Options"] = "SAMEORIGIN"
+    end
 
   # map gender name and id object
   GENDER = Hash.new
