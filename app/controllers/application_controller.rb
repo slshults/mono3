@@ -6,7 +6,7 @@ class ApplicationController < ActionController::Base
   protect_from_forgery # See ActionController::RequestForgeryProtection for details
 
 def set_x_frame_options
-  response.headers["X-Frame-Options"] = "ALLOW-FROM http://www.shakespeare-monologues.org"
+  response.headers["X-Frame-Options"] = "SAMEORIGIN"
 end
 
 
