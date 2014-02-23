@@ -7,9 +7,9 @@ class ApplicationController < ActionController::Base
 
   before_filter :logged_in?
 
-config.action_dispatch.default_headers = {
-    'X-Frame-Options' => 'SAMEORIGIN'
-}
+#config.action_dispatch.default_headers = {
+#    'X-Frame-Options' => 'SAMEORIGIN'
+#}
 
   # map gender name and id object
   GENDER = Hash.new
