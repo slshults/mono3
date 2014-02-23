@@ -6,7 +6,7 @@ class ApplicationController < ActionController::Base
   protect_from_forgery # See ActionController::RequestForgeryProtection for details
 
 config.action_dispatch.default_headers = {
-    'X-Frame-Options' => 'SAMEORIGIN'
+    'X-Frame-Options' => 'DENY'
 }
 
 
