@@ -5,10 +5,6 @@ class ApplicationController < ActionController::Base
   helper :all # include all helpers, all the time
   protect_from_forgery # See ActionController::RequestForgeryProtection for details
 
-def set_x_frame_options
-  response.headers["X-Frame-Options"] = "SAMEORIGIN"
-end
-
 
   before_filter :logged_in?
 
