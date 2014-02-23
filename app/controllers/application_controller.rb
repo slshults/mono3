@@ -6,6 +6,7 @@ class ApplicationController < ActionController::Base
   protect_from_forgery # See ActionController::RequestForgeryProtection for details
 
   before_filter :logged_in?
+  before_filter :default_headers
 
     def default_headers
       headers['X-Frame-Options'] = 'SAMEORIGIN'
