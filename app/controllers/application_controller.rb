@@ -7,8 +7,8 @@ class ApplicationController < ActionController::Base
 
   before_filter :logged_in?
 
-    def set_x_frame_options
-      response.headers["X-Frame-Options"] = "SAMEORIGIN"
+    def default_headers
+      headers['X-Frame-Options'] = 'SAMEORIGIN'
     end
 
   # map gender name and id object
