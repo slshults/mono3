@@ -1,32 +1,15 @@
-<html><head>
-
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
 <script language="JavaScript1.2" src="index2_files/main15.js" type="text/javascript"></script>
-<script language="JavaScript">
-function includeemail()
-{
-var f = document.PaypalForm;
-var name = "donations";
-var at = "@";
-var url = "shakespeare-monologues.org";
-f.business.value = name + at + url;
-return true;
-}
-</script>
+
 <title> Shakespeare's Monologues </title> 
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <!-- BASE href="http://www.shakespeare-monologues.org/" target="_top" -->
+
+<meta NAME="Description" CONTENT="A complete database of Shakespeare's Monologues. The monologues are organized by play, then categorized by comedy, history and tragedy. You can browse and/or search so you can find a monologue whether you know which one you want, or you're looking for monologue ideas. Each monologue entry includes the character's name, the first line of the speech, whether it is verse or prose, and shows the act, scene & line number. Each entry provides a link to the full text of the scene. You can download each monologue for printing, already double-spaced for scansion and transcription.">
   
-<meta name="KEYWORDS" content="shakespeare, monologue, shakespeare's, 
-monologues,
-shakespearean, monologue, shakespeare's, monologues,
-shakespearean, theatre, theater, stage, resource, actor, resource, acting, 
-resource, online, forum, shakespeare shakespeare's monologues
-shakespearean shakespeare monologue monologues
-shakespearean shakespeare monologue shakespeare's
-theatre theater stage resource acting resource acting resources online 
-shakespearean, discussion, shakespeare, monologue, shakespeare's,
-monologues, shakespeare, monologue, shakespeare's
-monologues, shakespearean, find, locate, search, index">
+<meta name="KEYWORDS" content="William Shakespeare, shakespeare, monologues, shakespeare monologues, shakespeare's monologues, shakespearean, monologue, speech, speeches, soliloquy, soliloquies, database, find, search, browse, index, quotes, quotations, Comedies, Histories, Tragedies, A Midsummer Night's Dream, All's Well That Ends Well, As You Like It, Cymbeline, Love's Labour's Lost, Measure for Measure, Merry Wives of Windsor, Much Ado About Nothing, Pericles, Prince of Tyre, The Comedy of Errors, The Merchant of Venice, The Taming of the Shrew, The Tempest, The Winter's Tale, Troilus and Cressida, Twelfth Night Or What You Will, 12th Night, TWelfth Night, Two Gentlemen of Verona, Henry IV i, Henry IV ii, Henry V, Henry VI i, Henry VI ii, Henry VI iii, Henry VIII, King John, Richard II, Richard III, Antony & Cleopatra, Coriolanus, Hamlet, Julius Caesar, King Lear, Macbeth, Othello, Romeo and Juliet, Timon of Athens, Titus Andronicus">
 <meta name="verify-v1" 
 content="43Tfyc84pBq4LxJ6S3NHue3NJt2M+oKCcoiN41SEKB8=">
 <style fprolloverstyle="">A:hover {color: #5E2612; text-decoration: underline; font-weight: bold}
@@ -53,9 +36,9 @@ src="images/foliocover.gif"></b></b></center>
 everyone. </font>
 <br><br>
 <font face="arial" size="6px">
-<a href="men/" font="" style="text-decoration: none;">The Men</a><br>
+<a href="http://www.shakespeare-monologues.org/men/" font="" style="text-decoration: none;">The Men</a><br>
 		  
-<a href="women/" font="" style="text-decoration: none;">The Women</a></font>
+<a href="http://www.shakespeare-monologues.org/women/" font="" style="text-decoration: none;">The Women</a></font>
 </b></b></td>
 
 <td cellpadding="0" cellspacing="0" align="center" valign="top" 
@@ -72,31 +55,11 @@ width="100%">
 <tbody><tr>
 <td cellpadding="0" cellspacing="0" align="center" valign="top" 
 width="150">
-<form name="PaypalForm" action="https://www.paypal.com/cgi-bin/webscr" 
-method="post" onsubmit="includeemail()">
-<font face="verdana" size="-2">Tip Jar</font><br>
-<input name="cmd" value="_xclick" type="hidden">
-<input name="business" value="" type="hidden">
-<input name="item_name" value="Shakespeare's Monologues Donations" 
-type="hidden">
-<input name="item_number" value="031806" type="hidden">
-<input name="no_shipping" value="1" type="hidden">
-<input name="return" 
-value="http://shakespeare-monologues.org/thanks.htm" type="hidden">
-<input name="cn" value="Include a note if you like:" type="hidden">
-<input name="currency_code" value="USD" type="hidden">
-<input name="tax" value="0" type="hidden">
-<input name="lc" value="US" type="hidden">
-<input name="bn" value="PP-DonationsBF" type="hidden">
-<input src="images/x-click-but04.gif" name="submit" alt="Make 
-payments 
-with PayPal - it's fast, free and secure!" border="0" type="image">
-<img alt="Donate to support this site" src="images/pixel.gif" 
-border="0" width="1" height="1"><br>
+<a href="https://www.wepay.com/donations/280791"  target="_blank" ><img src="/images/donate.jpg" alt="Donate via WePay" title="Donate via WePay" /></a>
 <font face="verdana" size="-2">
 Other ways to help:<br>
 Click a few ads<br>
-Buy books <a href="http://shakespeare-monologues.org/store/">here</a>
+Buy books <a href="http://www.shakespeare-monologues.org/store/index.html">here</a>
 <br>
 Tips this month:&nbsp;&nbsp;&nbsp; $1.00<br>
 From ads in Feb: $16.36
@@ -119,6 +82,11 @@ onmouseout="addthis_close()" onclick="return addthis_sendto()"><img
 src="images/button1-share.gif" alt="" title="" border="0" 
 width="125" height="16"></a><script type="text/javascript" src="index2_files/addthis_widget.js"></script>
 <!-- ADDTHIS BUTTON END -->
+<font face="verdana" size="-2">
+Other ways to get here:<br>
+<a href="http://market.android.com/details?id=appinventor.ai_stevenshults.ShakespearesMonologues_v001" target="_blank">Android App</a><br>
+<a href="https://chrome.google.com/webstore/detail/ejfdmafokffchogjkmfjdhalghlfemno" target="_blank">Chrome's New Tab page</a>
+</font>
 </p><p>              
 <!-- left column amazon ads -->
 
@@ -410,7 +378,7 @@ Monologues]</a>
 <a href="men/">[Men's
 Monologues]</a>
 
-<a href="http://shakespeare-monologues.org/store/">[Books]</a>
+<a href="http://shakespeare-monologues.org/store/index.html">[Books]</a>
 
 <a href="http://twitter.com/ShakesMonos/" target="_blank">[Twitter]</a>
 
@@ -427,44 +395,18 @@ Monologues]</a>
 <table bgcolor="#ffffdd" border="0" cellpadding="4" cellspacing="0" 
 width="100">
 <!-- SiteSearch Google -->
-<form method="get" action="http://www.google.com/custom" 
-target="google_window"></form>
-</table><table bgcolor="#f9f9df" border="0">
-<tbody><tr><td align="left" valign="top" height="32" nowrap="nowrap">
-<a href="http://www.google.com/">
-<img src="images/Logo_25wht.gif" alt="Google" border="0"></a>
-</td>
-<td nowrap="nowrap">
-<input name="domains" value="shakespeare-monologues.org" type="hidden">
-<input name="q" size="31" maxlength="255" type="text">
-<input name="sa" value="Search" type="submit">
-</td></tr>
-<tr>
-<td>&nbsp;</td>
-<td nowrap="nowrap">
-<table>
-<tbody><tr>
-<td>
-<input name="sitesearch" value="" type="radio">
-<font color="#000000" face="verdana" size="-1">Web</font>
-</td>
-<td>
-<input name="sitesearch" checked="checked" 
-value="shakespeare-monologues.org" type="radio">
-<font color="#000000" face="verdana" size="-1">shakespeare-monologues.org</font>
-</td>
-</tr>
-</tbody></table>
-<input name="client" value="pub-5236095389905910" type="hidden">
-<input name="forid" value="1" type="hidden">
-<input name="ie" value="ISO-8859-1" type="hidden">
-<input name="oe" value="ISO-8859-1" type="hidden">
-<input name="cof" 
-value="GALT:#333333;GL:1;DIV:#D5CA9D;VLC:000000;AH:center;BGC:F9F9DF;LBGC:F9F9DF;ALC:000000;LC:000000;T:44423A;GFNT:663333;GIMP:663333;LH:100;LW:100;L:http://shakespeare-monologues.org/foliocover.gif;S:http://shakespearesmonologues.com;LP:1;FORID:1;"
- type="hidden">
-<input name="hl" value="en" type="hidden">
+<form action="http://www.google.com/cse" id="cse-search-box" target="_blank">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-5236095389905910:0905950967" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" name="q" size="30" />
+    <input type="submit" name="sa" value="Search" />
+  </div>
+</form>
 
-</td></tr></tbody></table>
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+
+
 
 <!-- SiteSearch Google --><p>
 
@@ -498,88 +440,36 @@ type="hidden">
 
 <!-- Creative Commons License -->
 <a rel="license" 
-href="http://creativecommons.org/licenses/by-nc-sa/2.0/"><img 
+href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img 
 alt="Creative Commons License" src="images/somerights20.gif" 
 border="0"></a><br>
 This work is licensed under a <a rel="license" 
-href="http://creativecommons.org/licenses/by-nc-sa/2.0/">Creative 
+href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative 
 Commons License</a>.
 <!-- /Creative Commons License -->
 
 
-<!--
-
-<rdf:RDF xmlns="http://web.resource.org/cc/"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-<Work rdf:about="">
-   <dc:type rdf:resource="http://purl.org/dc/dcmitype/Interactive" />
-   <license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.0/" />
-</Work>
-
-<License rdf:about="http://creativecommons.org/licenses/by-nc-sa/2.0/">
-   <permits rdf:resource="http://web.resource.org/cc/Reproduction" />
-   <permits rdf:resource="http://web.resource.org/cc/Distribution" />
-   <requires rdf:resource="http://web.resource.org/cc/Notice" />
-   <requires rdf:resource="http://web.resource.org/cc/Attribution" />
-   <prohibits rdf:resource="http://web.resource.org/cc/CommercialUse" />
-   <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
-   <requires rdf:resource="http://web.resource.org/cc/ShareAlike" />
-</License>
-
-</rdf:RDF>
-
---> The texts
+The texts
 of Shakespeare's plays which I link to is, of
 course, public domain.  Contact site operators of other sites regarding 
 any intellectual property rights related to their websites.</font>
 </p><p></p><p>
 
 <table align="center" width="90%"><tbody><tr><td align="left">
-<div id="eXTReMe"><a 
-href="http://extremetracking.com/open?login=shakes2">
-<img src="images/i.gif" style="border: 0pt none;" id="EXim" 
-alt="eXTReMe Tracker" width="41" height="38"></a>
-<script type="text/javascript"><!--
-var EXlogin='shakes2' // Login
-var EXvsrv='s11' // VServer
-EXs=screen;EXw=EXs.width;navigator.appName!="Netscape"?
-EXb=EXs.colorDepth:EXb=EXs.pixelDepth;
-navigator.javaEnabled()==1?EXjv="y":EXjv="n";
-EXd=document;EXw?"":EXw="na";EXb?"":EXb="na";
-EXd.write("<img src=http://e2.extreme-dm.com",
-"/"+EXvsrv+".g?login="+EXlogin+"&amp;",
-"jv="+EXjv+"&amp;j=y&amp;srw="+EXw+"&amp;srb="+EXb+"&amp;",
-"l="+escape(EXd.referrer)+" height=1 width=1>");//-->
-</script><img src="images/s11.gif" width="1" height="1"><noscript><div id="neXTReMe"><img height="1" width="1" alt=""
-src="http://e2.extreme-dm.com/s11.g?login=shakes2&amp;j=n&amp;jv=n" />
-</div></noscript></div>
-
-
-<font face="verdana" size="-2">Click the image above<br> for site 
-traffic stats.</font>
-</td>
 
 <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
 <td colspan="3" align="right">
-<a 
-href="http://www.spreadfirefox.com/?q=affiliates&amp;id=70961&amp;t=62"><img
- alt="Get Firefox!" title="Get Firefox!" src="images/take.gif" 
-border="0"></a>
+<font face="verdana" size="-2">Friends don't let friends use IE</font><br>
+<a href="http://www.spreadfirefox.com/?q=affiliates&amp;id=70961&amp;t=62" target="_blank"><img alt="Get Firefox!" title="Get Firefox!" src="http://sfx-images.mozilla.org/affiliates/Buttons/110x32/take.gif" border="0" align="top"></a>
+&nbsp;&nbsp;
+<a href="http://www.google.com/chrome" target="_blank"><img src="images/chrome_logo.gif" alt="Download Chrome" title="Download Chrome" border="0" align="absmiddle"></a>
+
+
 </td></tr>
 </tbody></table>
 
-<script src="http://tweetboard.com/tb.js?v=1.0&amp;user=ShakesMonos" type="text/javascript"></script>
 
 
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="index2_files/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-600620-1");
-pageTracker._trackPageview();
-} catch(err) {}</script>
+
 
 </p></body></html>
