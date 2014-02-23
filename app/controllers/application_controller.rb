@@ -5,9 +5,9 @@ class ApplicationController < ActionController::Base
   helper :all # include all helpers, all the time
   protect_from_forgery # See ActionController::RequestForgeryProtection for details
 
-config.action_dispatch.default_headers = {
-    'X-Frame-Options' => 'DENY'
-}
+#config.action_dispatch.default_headers = {
+#    'X-Frame-Options' => 'DENY'
+#}
 
 
   before_filter :logged_in?
