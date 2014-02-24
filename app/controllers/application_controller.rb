@@ -5,7 +5,7 @@ class ApplicationController < ActionController::Base
   helper :all # include all helpers, all the time
   protect_from_forgery # See ActionController::RequestForgeryProtection for details
 
-config.middleware.insert 0, 'Rack::Rewrite' {} do
+config.middleware.insert 0, 'Rack::Rewrite' do
   r301 %r{.*}, 'http://canonical-domain.com$&',
   :if => Proc.new { |rack_env| rack_env['SERVER_NAME'] != 'www.shakespeare-monologues.org' }
 end
