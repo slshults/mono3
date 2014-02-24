@@ -1,5 +1,0 @@
-order allow,deny
-#demosites.conversionsupport.com mirroring without permission or attribution
-deny from 74.125.20.121
-deny from 2001:4860:400b:c01::79
-allow from all
