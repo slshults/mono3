@@ -5,11 +5,6 @@ class ApplicationController < ActionController::Base
   helper :all # include all helpers, all the time
   protect_from_forgery # See ActionController::RequestForgeryProtection for details
 
-config.middleware.insert 0, 'Rack::Rewrite'{} do
-  r301 %r{.*}, 'http://demosites.conversionsupport.com$&',
-  :if => Proc.new { |rack_env| rack_env['SERVER_NAME'] != 'www.shakespeare-monologues.org' }
-end
-
 
   before_filter :logged_in?
   before_filter :default_headers
