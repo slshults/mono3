@@ -10,13 +10,6 @@ config.action_controller.cache_store = [:file_store, "#{RAILS_ROOT}/tmp/cache"]
 config.action_controller.perform_caching             = true
 config.action_view.cache_template_loading            = true
 
-# Rack-rewrite rules here please
-
-config.middleware.insert 0, '::Rack::Rewrite' {}
-r301 %r{.*}, 'http://shakespeare-monologues.org$&',
-  :if => Proc.new { |rack_env| rack_env['SERVER_NAME'] != 'www.shakespeare-monologues.org' }
-end
-
 
 # config.cache_store = :mem_cache_store, Memcached::Rails.new
 
