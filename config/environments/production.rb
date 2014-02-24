@@ -11,7 +11,6 @@ config.action_controller.perform_caching             = true
 config.action_view.cache_template_loading            = true
 
 # Rack-rewrite rules here please
-config.gem 'rack-rewrite', '1.0.0'
 
 require 'rack/rewrite'
 
