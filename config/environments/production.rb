@@ -12,8 +12,6 @@ config.action_view.cache_template_loading            = true
 
 # Rack-rewrite rules here please
 
-require 'rack/rewrite'
-
 config.middleware.insert_before(::Rack::Lock, ::Rack::Rewrite)
 r301 %r{.*}, 'http://shakespeare-monologues.org$&',
   :if => Proc.new { |rack_env| rack_env['SERVER_NAME'] != 'www.shakespeare-monologues.org' }
