@@ -1,4 +1,4 @@
-Shakespeare Monologues::Application.configure do
+monologues::Application.configure do
 
   config.middleware.insert_before(Rack::Lock, Rack::Block) do
     ip_pattern '8.35.201.' do
