@@ -20,13 +20,6 @@ def check_uri
       headers['X-Frame-Options'] = 'SAMEORIGIN'
     end
 
-  use ::Rack::Block do
-      ip_pattern '8.35.201.' do
-      # expressions like '192.0.0.' also available
-        halt 404
-      end
-    end
-    run App.new  
 
   # map gender name and id object
   GENDER = Hash.new
