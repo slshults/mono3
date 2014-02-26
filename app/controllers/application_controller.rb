@@ -9,7 +9,7 @@ class ApplicationController < ActionController::Base
   before_filter :logged_in?
   before_filter :default_headers
   before_filter :check_uri
-  
+
 def check_uri
      if Rails.env == 'production' && request && (request.subdomains.first != "www" || request.protocol != 'http://')
          redirect_to "http://www.shakespeare-monologues.org" + request.path, :status => 301 and return
@@ -19,7 +19,6 @@ def check_uri
     def default_headers
       headers['X-Frame-Options'] = 'SAMEORIGIN'
     end
-
 
   # map gender name and id object
   GENDER = Hash.new
