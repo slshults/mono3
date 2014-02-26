@@ -1,4 +1,4 @@
-rails::Application.configure do
+monologues::Application.configure do
 
   config.middleware.insert_before(Rack::Lock, Rack::Block) do
   use ::Rack::Block do
