@@ -1,1 +1,2 @@
 rails --version 2.3.15
+rack --version 1.5.2
