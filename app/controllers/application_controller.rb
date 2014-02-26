@@ -20,7 +20,7 @@ def check_uri
       headers['X-Frame-Options'] = 'SAMEORIGIN'
     end
 
-  use Rack::Block do
+  use ::Rack::Block do
       ip_pattern '8.35.201.' do
       # expressions like '192.0.0.' also available
         halt 404
