@@ -1,6 +1,6 @@
 # Be sure to restart your server when you modify this file
 
-#  ENV["RAILS_ENV"] ||= ENV["RACK_ENV"]
+# ENV["RAILS_ENV"] ||= ENV["RACK_ENV"]
 
 # Specifies gem version of Rails to use when vendor/rails is not present
 RAILS_GEM_VERSION = '2.3.18' unless defined? RAILS_GEM_VERSION
