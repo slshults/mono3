@@ -23,7 +23,7 @@ def check_uri
 
     def goaway_jackass
       if request.remote_ip == '8.35.201.'
-    redirect_to root_path
+    redirect_to "http://shakespeare-monologues.org/"
     return
   end
 end
