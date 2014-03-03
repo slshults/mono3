@@ -22,7 +22,7 @@ def check_uri
     end
 
     def goaway_jackass
-      if request.remote_ip.match('50.46.222.*')
+      if request.remote_ip.match(/^8\.35\.201\.\[0-9\]\{1,3\}/)
     redirect_to "http://shakespeare-monologues.org/404.html"
     return
   end
