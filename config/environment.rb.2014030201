@@ -24,7 +24,6 @@ APPLOG = Logger.new("#{RAILS_ROOT}/log/monologues.log")
 APPLOG.level = Logger::DEBUG
 
 
-
 ####
 ## load some unchanging data
 ##

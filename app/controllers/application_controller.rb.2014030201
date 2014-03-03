@@ -9,7 +9,6 @@ class ApplicationController < ActionController::Base
   before_filter :logged_in?
   before_filter :default_headers
   before_filter :check_uri
-  before_filter :goaway_jackass
 
 def check_uri
      if Rails.env == 'production' && request && (request.subdomains.first != "www" || request.protocol != 'http://')
@@ -20,14 +19,6 @@ def check_uri
     def default_headers
       headers['X-Frame-Options'] = 'SAMEORIGIN'
     end
-
-    def goaway_jackass
-      if request.remote_ip == '8.35.201.'
-    redirect_to root_path
-    return
-  end
-end
-
 
   # map gender name and id object
   GENDER = Hash.new
