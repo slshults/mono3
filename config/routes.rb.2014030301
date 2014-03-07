@@ -1,5 +1,6 @@
 ActionController::Routing::Routes.draw do |map|
 
+
   map.resources :monologues
 
   map.resources :adminmono, :controller => 'admin/monologues'
@@ -134,5 +135,3 @@ ActionController::Routing::Routes.draw do |map|
   map.root :controller => 'monologues'
 
 end
-
-
