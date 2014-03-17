@@ -2,6 +2,7 @@
 # Likewise, all the methods added will be available for all controllers.
 
 class ApplicationController < ActionController::Base
+
   helper :all # include all helpers, all the time
   protect_from_forgery # See ActionController::RequestForgeryProtection for details
 
@@ -11,22 +12,22 @@ class ApplicationController < ActionController::Base
   before_filter :check_uri
   before_filter :goaway_jackass
 
-def check_uri
-     if Rails.env == 'production' && request && (request.subdomains.first != "www" || request.protocol != 'http://')
-         redirect_to "http://www.shakespeare-monologues.org" + request.path, :status => 301 and return
-       end
-     end
-
-    def default_headers
-      headers['X-Frame-Options'] = 'SAMEORIGIN'
+  def check_uri
+    if Rails.env == 'production' && request && (request.subdomains.first != "www" || request.protocol != 'http://')
+      redirect_to "http://www.shakespeare-monologues.org" + request.path, :status => 301 and return
     end
-
-    def goaway_jackass
-      if request.remote_ip.match('8.35.201.*')
-    redirect_to "http://shakespeare-monologues.org/503.html"
-    return
   end
-end
+
+  def default_headers
+    headers['X-Frame-Options'] = 'SAMEORIGIN'
+  end
+
+  def goaway_jackass
+    if request.remote_ip.match('8.35.201.*')
+      redirect_to "http://shakespeare-monologues.org/503.html"
+      return
+     end
+  end
 
 
   # map gender name and id object

@@ -127,7 +127,9 @@ ActionController::Routing::Routes.draw do |map|
   map.connect '/men/RandJ', :controller => 'plays', :action => 'show', :id => play_id, :g => men.id
   map.connect '/women/RandJ', :controller => 'plays', :action => 'show', :id => play_id, :g => women.id
 
-  
+  # route for static pages of joy
+  map.connect ':action', :controller => "static"  
+
   # Leave the following at the bottom of this file
   map.connect ':controller/:action/:id'
   map.connect ':controller/:action/:id.:format'
