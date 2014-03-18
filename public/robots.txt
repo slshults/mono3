@@ -1,6 +1,6 @@
 # robots.txt for http://www.shakespeare-monologues.org
 
 User-agent: *
-Disallow: /preview 
+Disallow: /monologues/preview 
 
 # No you stupid bot, you should not try to interact with ajax, regardless of the presence or absence of bangs and or hashes so just stop right there at slashPreview and get back to crawling stuff you can actually crawl, i.e. stop filling my logs with 404s where there are no actual dead links. also :-P
