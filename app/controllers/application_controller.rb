@@ -10,7 +10,8 @@ class ApplicationController < ActionController::Base
   before_filter :logged_in?
   before_filter :default_headers
   before_filter :check_uri
-  before_filter :goaway_jackass
+  before_filter :goaway_conversionsupportdotcom
+  before_filter :goaway_gkcddotcn
 
   def check_uri
     if Rails.env == 'production' && request && (request.subdomains.first != "www" || request.protocol != 'http://')
@@ -22,8 +23,16 @@ class ApplicationController < ActionController::Base
     headers['X-Frame-Options'] = 'SAMEORIGIN'
   end
 
-  def goaway_jackass
+  def goaway_conversionsupportdotcom
     if request.remote_ip.match('8.35.201.*')
+      redirect_to "http://shakespeare-monologues.org/503.html"
+      return
+     end
+  end
+
+
+  def goaway_gkcddotcn
+    if request.referer.match('gkcd.cn')
       redirect_to "http://shakespeare-monologues.org/503.html"
       return
      end

@@ -28,6 +28,7 @@ ActionController::Routing::Routes.draw do |map|
   map.connect '/men', :controller => :genders, :action => 'men', :id => men.id
   map.connect '/women', :controller => :genders, :action => 'women', :id => women.id
 
+
 # common entry pages from old site
   map.connect '/womenindex.shtml', :controller => :genders, :action => 'women', :id => women.id
   map.connect '/menindex.shtml', :controller => :genders, :action => 'men', :id => men.id
@@ -41,6 +42,12 @@ ActionController::Routing::Routes.draw do |map|
   map.connect '/hamlet', :controller => 'plays', :action => 'show', :id => play_id
   map.connect '/men/hamlet', :controller => 'plays', :action => 'show', :id => play_id, :g => men.id
   map.connect '/women/hamlet', :controller => 'plays', :action => 'show', :id => play_id, :g => women.id
+
+  # Lear
+  play_id = 32
+  map.connect '/kinglear', :controller => 'plays', :action => 'show', :id => play_id
+  map.connect '/men/kinglear', :controller => 'plays', :action => 'show', :id => play_id, :g => men.id
+  map.connect '/women/kinglear', :controller => 'plays', :action => 'show', :id => play_id, :g => women.id
 
   # A Midsummer Night's Dream
   play_id = 13
