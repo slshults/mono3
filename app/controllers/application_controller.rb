@@ -11,7 +11,7 @@ class ApplicationController < ActionController::Base
   before_filter :default_headers
   before_filter :check_uri
   before_filter :goaway_conversionsupportdotcom
-  before_filter :goaway_gkcddotcn
+  #before_filter :goaway_gkcddotcn
 
   def check_uri
     if Rails.env == 'production' && request && (request.subdomains.first != "www" || request.protocol != 'http://')
@@ -31,12 +31,12 @@ class ApplicationController < ActionController::Base
   end
 
 
-  def goaway_gkcddotcn
-    if request.referer.match('gkcd.cn')
-      redirect_to "http://shakespeare-monologues.org/503.html"
-      return
-     end
-  end
+  #def goaway_gkcddotcn
+  #  if request.referer.match('gkcd.cn')
+  #    redirect_to "http://shakespeare-monologues.org/503.html"
+  #    return
+  #   end
+  #end
 
 
   # map gender name and id object
