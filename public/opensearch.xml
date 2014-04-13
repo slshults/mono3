@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
+		       xmlns:moz="http://www.mozilla.org/2006/browser/search/">
   <ShortName>Monologue Search</ShortName>
   <Description>Search Shakespeare's Monologues</Description>
   <Url type="application/rss+xml" template="http://www.google.com/search?q=site:shakespeare-monologues.org {searchTerms}"/>
 <Url type="text/html" 
-     template="http://www.shakespeare-monologues.org/plays/13?search={searchTerms}"/>
+     template="http://www.shakespeare-monologues.org/plays/?search={searchTerms}"/>
   <LongName>Custom Google Search for Shakespeare's Monologues</LongName>
   <Image height="32" width="16" type="image/x-icon">http://www.shakespeare-monologues.org/favicon.ico</Image>
   <Image height="32" width="32" type="image/vnd.microsoft.icon">http://www.shakespeare-monologues.org/favicon.ico</Image>
@@ -16,4 +17,5 @@
 <Language>*</Language>
 <OutputEncoding>UTF-8</OutputEncoding>
 <InputEncoding>UTF-8</InputEncoding>
+<moz:SearchForm>http://www.shakespeare-monologues.org/plays/</moz:SearchForm>
 </OpenSearchDescription>
