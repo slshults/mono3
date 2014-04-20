@@ -12,7 +12,7 @@
   <Image height="32" width="32" type="image/png">http://www.shakespeare-monologues.org/favicon.ico</Image>
 <Query role="example" searchTerms="test"/>
 <Attribution>All Searched Content Copyright 1997-2014 Steven Shults and Brandon Faloona, Shakespeare's Monologues</Attribution>
-<SyndicationRight>limited</SyndicationRight>
+<SyndicationRight>open</SyndicationRight>
 <AdultContent>false</AdultContent>
 <Language>*</Language>
 <OutputEncoding>UTF-8</OutputEncoding>
