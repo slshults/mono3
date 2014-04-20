@@ -3,7 +3,7 @@
 		       xmlns:moz="http://www.mozilla.org/2006/browser/search/">
   <ShortName>Monologues</ShortName>
   <Description>Search Shakespeare's Monologues</Description>
-  <Url type="application/rss+xml" template="http://www.google.com/search?q=site:shakespeare-monologues.org {searchTerms}"/>
+  <Url method="get" type="text/html" template="http://www.google.com/search?q={searchTerms}+site%3Awww.shakespeare-monologues.org&amp;hl=en"/>
 /// work to do here still, because rails. >Url type="text/html" 
 ///     template="http://www.shakespeare-monologues.org/plays/?search={searchTerms}">
   <LongName>Custom Google Search for Shakespeare's Monologues</LongName>
