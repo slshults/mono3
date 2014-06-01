@@ -1,5 +1,7 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <meta NAME="Description" itemprop="description" CONTENT="A complete database of Shakespeare's Monologues. All of them. The monologues are organized by play, then categorized by comedy, history and tragedy. You can browse and/or search. Each monologue entry includes the character's name, the first line of the speech, whether it is verse or prose, and shows the act, scene & line number. Each entry provides a link to the full text of the scene. You can download each monologue for printing, already double-spaced for scansion and transcription.">
-<html itemscope itemtype="http://schema.org/CollectionPage">
+<html style="height:100%;" itemscope itemtype="http://schema.org/CollectionPage">
 <head>
 <title>Quiz: Which Shakespeare Monologue Are You?</title> 
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -53,7 +55,7 @@ content="43Tfyc84pBq4LxJ6S3NHue3NJt2M+oKCcoiN41SEKB8=">
 <!-- end open graph stuff -->
 
 </HEAD>
-<BODY BGCOLOR="#F9F9DF" background="images/parchment.jpg">
+<BODY style="height:100%;" BGCOLOR="#F9F9DF" background="images/parchment.jpg">
 <!-- Begin FB Like button script -->
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
@@ -65,7 +67,7 @@ content="43Tfyc84pBq4LxJ6S3NHue3NJt2M+oKCcoiN41SEKB8=">
 }(document, 'script', 'facebook-jssdk'));</script>
 <!-- End FB Like button script -->
 
-<table align="center" width="90%">
+<table align="center" width="100%">
 <tr>
 <td align="center" width="90%">
 
@@ -80,9 +82,9 @@ content="43Tfyc84pBq4LxJ6S3NHue3NJt2M+oKCcoiN41SEKB8=">
 </td>
 </tr>
 </table>
-<table align="center" valign="middle" height="" width="90%">
+<table align="center" valign="top" height="2095" width="90%">
 <tr>
-<td width="90%"><br>
+<td width="90%" height="70" valign="top"><br>
 <font face="verdana" size="-1">
 This quiz is not meant to help you <a href="http://www.shakespeare-monologues.org/plays" target="_blank">pick a monologue to perform.</a><br/><br/>
 It's just a fun way to kill two minutes.  Enjoy it, then share it:
@@ -91,9 +93,12 @@ It's just a fun way to kill two minutes.  Enjoy it, then share it:
 </tr>
 
 <tr>
-<td width="80%"><br>
-<link rel="stylesheet" type="text/css" https://www.tryinteract.com/css/interact.css>
-<iframe src="https://www.tryinteract.com/quiz/shakesmonos/1" width="100%" height="2045" frameborder="0"></iframe>
+<td width="80%" height="100%" valign="top"><br>
+<!-- link rel="stylesheet" type="text/css" https://www.tryinteract.com/css/interact.css / -->
+<div style="position:relative;padding-bottom: 56.25%;padding-top: 30px;height:100%;">
+<iframe src="https://www.tryinteract.com/quiz/shakesmonos/1" class="start-content"
+frameborder="0" style="position: absolute;top: 0;left: 0;width: 100%;height:100%;"></iframe>
+</div>
 <span style="float: left;" class="interact-p"><a href="https://www.tryinteract.com/blog/how-to-make-a-buzzfeed-style-quiz/" class="interact-link" target="_blank">Powered by Interact</a></span>
 <span style="float: right;"><a href="http://www.shakespeare-monologues.org/plays">Find a monologue</a></span>
 </td></tr>
