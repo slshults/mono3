@@ -1,6 +1,6 @@
-"^
+"S
 
-      <table id="categories_list" border="1">
+      <table id="categories_list">
         <tr>
           <th>Comedies</th>
           <th>Histories</th>
