@@ -113,7 +113,7 @@ td .monologue_firstline {
     text-align: left;
     font-size: 110%;
     line-height: 20px;
-    width: 405px;
+    width: 455px;
     border-collapse:collapse;
 }
 
@@ -125,7 +125,7 @@ div .monologue_preview {
     padding: 10px;
     font-size: 100%;
     line-height: 1.25;
-    width: 405px;
+    width: 455px;
     margin-top: 5px;
     margin-left: -5px;
     border: solid gray;
