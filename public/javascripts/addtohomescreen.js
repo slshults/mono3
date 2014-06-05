@@ -41,7 +41,7 @@ ath.intl = {
 	},
 
 	en_us: {
-		message: 'To add this web app to your home screen: tap %icon and then <strong>%action</strong>.',
+		message: 'To add this web app to your home screen:<br/> Go to our <a href="http://www.shakespeare-monologues.org/home/">homepage</a>, tap %icon menu, then tap<br/> <strong>%action</strong>.',
 		action: { ios: 'Add to Home Screen', android: 'Add to homescreen', windows: 'pin to start' }
 	},
 
