@@ -3,9 +3,7 @@
 <head>
 <title>About Shakespeare's Monologues </title> 
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-
 <!-- BASE href="http://www.shakespeare-monologues.org" target="_top" -->
-
 
 <!-- Mobile OS add to homescreen and web app goodies -->
 
@@ -30,10 +28,10 @@
 <script src="/javascripts/addtohomescreen.js"></script>
 <script>
 addToHomescreen({
-   skipFirstVisit: false,
    maxDisplayCount: 3,
-   lifespan: 20
-});
+   lifespan: 20,
+   });
+addToHomescreen.removeSession();
 </script>
 <!-- end Mobile OS add to homescreen and web app goodies -->
 
