@@ -50,9 +50,9 @@
 }
 
 .ath-ios.ath-phone {
-	bottom: 1.8em;
-	left: 50%;
-	margin-left: -9em;
+	top: 1.8em;
+	right: 50%;
+	margin-right: -9em;
 }
 
 .ath-ios7.ath-tablet {

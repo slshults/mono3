@@ -12,4 +12,8 @@ class StaticController < ApplicationController
      render :file => 'static/aboutus.html'
    end
 
+   def sandbox
+     render :file => 'static/sandbox.html'
+   end
+
 end
