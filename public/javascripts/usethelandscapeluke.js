@@ -41,8 +41,8 @@ ulm.intl = {
 	},
 
 	en_us: {
-		message: 'For the best experience, rotate your device to landscape mode. <br/>And remember, pinch-to-zoom is your friend<br/> %icon',
-		action: { ios: 'You will only see this reminder twice.', android: 'You will only see this reminder twice.', windows: 'You will only see this reminder twice.' }
+		message: '<span style="display:inline-block;height:20px;">For the best experience,rotate</span> <br/> <span style="display:inline-block;height:20px;"> your device to landscape mode.</span> <br/> %icon <br/> <span style="display:inline-block;height:20px;">Also, pinch-to-zoom is your friend.</span> <br/> %action',
+		action: { ios: '<sub>You will only see this reminder twice.</sub>', android: '<sub>You will only see this reminder twice.</sub>', windows: '<sub>You will only see this reminder twice.</sub>' }
 	},
 
 	es_es: {
@@ -349,9 +349,9 @@ ulm.Class.prototype = {
 		// try to get the highest resolution application icon
 		if ( !this.applicationIcon ) {
 			if ( ulm.OS == 'ios' ) {
-				this.applicationIcon = document.querySelector('head link[rel^=apple-touched-icon][sizes="196x196"]');
+				this.applicationIcon = document.querySelector('head link[rel^=apple-touched-icon][sizes="152x152"]');
 			} else {
-				this.applicationIcon = document.querySelector('head link[rel^="landscape icon"][sizes="196x196"],head link[rel^=apple-touched-icon]');
+				this.applicationIcon = document.querySelector('head link[rel^="landscape icon"][sizes="152x152"],head link[rel^=apple-touched-icon]');
 			}
 		}
 

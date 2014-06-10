@@ -41,7 +41,7 @@ ath.intl = {
 	},
 
 	en_us: {
-		message: 'To add this web app to your home screen:<br/> Go to our <a href="http://www.shakespeare-monologues.org/home/">homepage</a>, tap %icon menu, then tap<br/> <strong>%action</strong>.',
+		message: '<span style="display:inline-block;height:20px;">To add this web app</span> <br/> <span style="display:inline-block;height:20px;">to your home screen:</span> <br/> <span style="display:inline-block;height:20px;">Go to our <a href="http://www.shakespeare-monologues.org/home/">homepage</a>,</span> <br/> tap %icon menu,<br/> <span style="display:inline-block;height:20px;">then tap  <strong>%action</strong>.</span>',
 		action: { ios: 'Add to Home Screen', android: 'Add to homescreen', windows: 'pin to start' }
 	},
 
@@ -349,7 +349,7 @@ ath.Class.prototype = {
 		// try to get the highest resolution application icon
 		if ( !this.applicationIcon ) {
 			if ( ath.OS == 'ios' ) {
-				this.applicationIcon = document.querySelector('head link[rel^=apple-touch-icon][sizes="152x152"],head link[rel^=apple-touch-icon][sizes="144x144"],head link[rel^=apple-touch-icon][sizes="120x120"],head link[rel^=apple-touch-icon][sizes="114x114"],head link[rel^=apple-touch-icon]');
+				this.applicationIcon = document.querySelector('head link[rel^=apple-touch-icon][sizes="144x144"],head link[rel^=apple-touch-icon][sizes="120x120"],head link[rel^=apple-touch-icon][sizes="114x114"],head link[rel^=apple-touch-icon]');
 			} else {
 				this.applicationIcon = document.querySelector('head link[rel^="shortcut icon"][sizes="196x196"],head link[rel^=apple-touch-icon]');
 			}

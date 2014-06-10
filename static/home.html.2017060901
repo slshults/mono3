@@ -17,6 +17,7 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <link rel="shortcut icon" sizes="16x16" href="/img/icon-16x16.png">
 <link rel="icon" sizes="196x196" href="/img/icon.png">
+<!--link rel="apple-touch-icon-precomposed" sizes="152x152" href="/img/icon-152x152.png">
 <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/img/icon-144x144.png">
 <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/img/icon-120x120.png">
 <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/img/icon-114x114.png">
