@@ -9,17 +9,22 @@
 
 <meta name=viewport content="width=device-width, initial-scale=1.0">
 <meta name="mobile-web-app-capable" content="yes">
+<link rel="icon" href="favicon.ico" />
+<link rel="shortcut icon" href="favicon.ico" />
+<link rel="icon" sizes="196x196" href="/img/icon-196x196.png">
+<link rel="apple-touch-icon" sizes="196x196" href="/img/icon-196x196.png">
+<link rel="shortcut icon" sizes="196x196" href="/img/icon-196x196.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
 <meta name="apple-mobile-web-app-title" content="ShakesMonos">
 <meta name="msapplication-tap-highlight" content="no">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<link rel="icon" sizes="196x196" href="/img/icon.png">
 <link rel="apple-touch-icon" sizes="144x144" href="/img/icon-144x144.png">
 <link rel="apple-touch-icon" sizes="120x120" href="/img/icon-120x120.png">
 <link rel="apple-touch-icon" sizes="114x114" href="/img/icon-114x114.png">
 <link rel="apple-touch-icon" sizes="76x76" href="/img/icon-76x76.png">
 <link rel="apple-touch-icon" sizes="72x72" href="/img/icon-72x72.png">
+
     <!-- iPhone Splash Screen-->
     <link href="/img/apple-touch-startup-image-320x460.png" media="(device-width: 320px)" rel="apple-touch-startup-image">
     <!-- iPhone (Retina) Splash Screen-->
@@ -34,7 +39,18 @@
     <link href="/img/apple-touch-startup-image-1536x2008.png" media="(device-width: 1536px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image">
     <!-- iPad (Retina, landscape) Splash Screen-->
     <link href="/img/apple-touch-startup-image-2048x1496.png" media="(device-width: 1536px)  and (orientation: landscape) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image">
+<link rel="apple-touch-icon-precomposed" href="/img/icon-152x152.png">
 
+<!-- use landscape mode -->
+<link rel="stylesheet" type="text/css" href="/stylesheets/usethelandscapeluke.css">
+<script src="/javascripts/usethelandscapeluke.js"></script>
+<script>
+addToHomescreen.removeSession();
+  addToHomescreen({
+     maxDisplayCount: 2,
+     lifespan: 15,
+     });
+  </script>
 
 <!-- add to homescreen -->
 <link rel="stylesheet" type="text/css" href="/stylesheets/addtohomescreen.css">
@@ -47,22 +63,9 @@ addToHomescreen.removeSession();
      });
   </script>
 
-<!-- for the landscape tip -->
-     <link rel="apple-touched-icon" sizes="152x152" href="/img/landscape-icon-196x157.png">
-     <link rel="landscape icon" sizes="152x152" href="/img/landscape-icon-196x157.png">
-<!-- use landscape mode -->
-<link rel="stylesheet" type="text/css" href="/stylesheets/usethelandscapeluke.css">
-<script src="/javascripts/usethelandscapeluke.js"></script>
-<script>
-addToHomescreen.removeSession();
-  addToHomescreen({
-     maxDisplayCount: 2,
-     lifespan: 15,
-     });
-  </script>
-
-
-
+<link rel="icon" sizes="196x196" href="/img/icon-196x196.png">
+<link rel="apple-touch-icon" sizes="196x196" href="/img/icon-196x196.png">
+<link rel="shortcut icon" sizes="196x196" href="/img/icon-196x196.png">
 
 <!-- end Mobile OS add to homescreen and web app goodies -->
 
