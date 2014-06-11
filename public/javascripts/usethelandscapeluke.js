@@ -41,7 +41,7 @@ ulm.intl = {
 	},
 
 	en_us: {
-		message: '<span style="display:inline-block;height:20px;">For the best experience,rotate</span> <br/> <span style="display:inline-block;height:20px;"> your device to landscape mode.</span> <br/> %icon <br/> <span style="display:inline-block;height:20px;">Also, pinch-to-zoom is your friend.</span> <br/> %action',
+		message: '<span style="display:inline-block;height:20px;">For the best experience,rotate</span> <br/> <span style="display:inline-block;height:20px;"> your device to landscape mode.</span> <br/> %icon <br/> <span style="display:inline-block;height:20px;">Also, pinch-to-zoom is your friend.</span> <br/> <span style="display:inline-block;height:20px;">%action</span>',
 		action: { ios: '<sub>You will only see this reminder twice.</sub>', android: '<sub>You will only see this reminder twice.</sub>', windows: '<sub>You will only see this reminder twice.</sub>' }
 	},
 
