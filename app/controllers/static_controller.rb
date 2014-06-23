@@ -12,8 +12,12 @@ class StaticController < ApplicationController
      render :file => 'static/aboutus.html'
    end
 
+   def privacy
+     render :file => 'static/privacy.html'
+   end
+
    def sandbox
      render :file => 'static/sandbox.html'
-   end
+   end   
 
 end
