@@ -45,9 +45,10 @@
 <link rel="apple-touch-icon-precomposed" href="/img/icon-152x152.png">
 
 <!-- use landscape mode -->  
-<link rel="stylesheet" type="text/css" href="/stylesheets/usethelandscapeluke.css">
+<link rel="stylesheet" type="text/css" media="all and (orientation:portrait)" href="/stylesheets/usethelandscapeluke.css">
 <script src="/javascripts/usethelandscapeluke.js"></script>
 <script>
+  addToHomescreen.removeSession();
   addToHomescreen({
      maxDisplayCount: 2,
      lifespan: 15,
@@ -63,6 +64,7 @@
      maxDisplayCount: 3,
      lifespan: 20,
      });
+   addToHomescreen.removeSession();
   </script>
 
 
@@ -197,7 +199,7 @@ Feedback, suggestions, corrections and questions encouraged.  <a href="http://sh
 
 <a href="http://shults.org/shakes/contact.php">[Contact]</a> </font>
 <p>
-<a id="everbutton-693-1398040059-85" class="everbutton everbutton-693-1398040059-85 everbutton-blue" href="https://www.everbutton.com/donate/693">Donate</a>
+<a id="everbutton-693-1398040059-85" class="everbutton everbutton-693-1398040059-85 everbutton-blue" href="https://www.everbutton.com/donate/693" style="height:20px;width:49px;min-width:45px;padding:0px;">Donate</a>
 <div><script type="text/javascript">
 var EB = EB || {};
 EB.button_stack = EB.button_stack || [];

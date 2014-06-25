@@ -41,7 +41,7 @@ ulm.intl = {
 	},
 
 	en_us: {
-		message: '<span style="display:inline-block;height:20px;">For the best experience,rotate</span> <br/> <span style="display:inline-block;height:20px;"> your device to landscape mode.</span> <br/> %icon <br/> <span style="display:inline-block;height:20px;">Also, pinch-to-zoom is your friend.</span> <br/> <span style="display:inline-block;height:20px;">%action</span>',
+		message: '<span style="display:inline-block;height:20px;">For the best experience, rotate</span> <br/> <span style="display:inline-block;height:20px;"> your device to landscape mode.</span> <br/> %icon <br/> <span style="display:inline-block;height:20px;">Also, pinch-to-zoom is your friend.</span> <br/> <span style="display:inline-block;height:20px;">%action</span>',
 		action: { ios: '<sub>You will only see this reminder twice.</sub>', android: '<sub>You will only see this reminder twice.</sub>', windows: '<sub>You will only see this reminder twice.</sub>' }
 	},
 
@@ -104,7 +104,7 @@ _extend(ulm, {
 	isIDevice: (/iphone|ipod|ipad/i).test(_ua),
 	isMobileChrome: _ua.indexOf('Android') > -1 && (/Chrome\/[.0-9]*/).test(_ua),
 	isMobileIE: _ua.indexOf('Windows Phone') > -1,
-	language: _nav.language && _nav.language.toLowerCase().replace('-', '_') || ''
+        language: _nav.language && _nav.language.toLowerCase().replace('-', '_') || ''
 });
 
 // normalize language string so it always looks like aa_bb
@@ -211,6 +211,11 @@ ulm.Class = function (options) {
 	// user opted out, already added to the homescreen, not a valid location
 	if ( this.session.optedout || !isValidLocation ) {
 		return;
+	}
+
+        // don't show in landscape mode
+        if ( window.innerHeight < window.innerWidth ){
+	        return;
 	}
 
 	// check if the app is in stand alone mode
