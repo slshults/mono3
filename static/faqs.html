@@ -10,6 +10,11 @@
 
 <!-- BASE href="http://www.shakespeare-monologues.org" target="_top" -->
 
+<script src="/javascripts/jquery.js?1403660933" type="text/javascript"></script>
+<script type="text/javascript">
+    jQuery.noConflict()
+  </script>
+
 <!-- Mobile OS add to homescreen and web app goodies -->
 
 <meta name=viewport content="width=device-width, initial-scale=1.0">
@@ -99,33 +104,20 @@ content="43Tfyc84pBq4LxJ6S3NHue3NJt2M+oKCcoiN41SEKB8=">
   })();
 
 </script>
-<!-- begin G+ mobile content rec stuff -->
-<script type="text/javascript">
-  (function() {
-    var po = document.createElement("script"); po.type = "text/javascript"; po.async = true;
-    po.src = "https://apis.google.com/js/plusone.js?publisherid=106045313819632308693";
-    var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(po, s);
-  })();
-</script>
-<!-- end G+ mobile content rec stuff -->
-<link rel="search" type="application/opensearchdescription+xml" title="Search Shakespare's Monologues" href="http://www.shakespeare-monologues.org/opensearch.xml" />
-
-<!-- iOS - keep internal links in web app, don't break out to safari -->
-<script>(function(a,b,c){if(c in b&&b[c]){var d,e=a.location,f=/^(a|html)$/i;a.addEventListener("click",function(a){d=a.target;while(!f.test(d.nodeName))d=d.parentNode;"href"in d&&(d.href.indexOf("http")||~d.href.indexOf(e.host))&&(a.preventDefault(),e.href=d.href)},!1)}})(document,window.navigator,"standalone")</script>
+<!-- when the rest of the page has loaded, load the social.js-one-script-to-rule-them-all -->
+     <script>
+     (function($) {
+       $(window).bind("load", function() {
+       $.getScript('javascripts/social.js', function() {});
+       });
+     })(jQuery);
+     </script>
 
 </HEAD>
 <BODY BGCOLOR="#F9F9DF" background="images/parchment.jpg">
 
-<!-- Begin FB Like button script -->
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=38794938300";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-<!-- End FB Like button script -->
+
+
 <table align="center" width="100%">
 <tr>
 <td align="center" width="100%">
@@ -151,6 +143,7 @@ content="43Tfyc84pBq4LxJ6S3NHue3NJt2M+oKCcoiN41SEKB8=">
 <font face="arial" size="-1">
 <ol>
 <li><a href="#Q0">I don't get it. How do I use this site to find monologues?</a><br></li><br>
+<li><a href="#Q0.5">I don't get it. How do I use the Android app to find monologues?</a><br></li><br>
 <li><a href="#Q1">Why is the text of a monologue on this site a little different from the copy I have?</a><br></li><br>
 <li><a href="#Q2">Why are the line numbers on this site different from the line numbers in the copy I have?</a><br></li><br>
 <li><a href="#Q3">Why is the search tool not finding the monologue I'm searching for?</a><br></li><br>
@@ -180,6 +173,23 @@ Whether you're having trouble understanding how to use the site, or want to make
 <iframe width="640" height="480" src="http://www.youtube.com/embed/H6nn_wrTo9A?rel=0" frameborder="0" allowfullscreen></iframe>
 </td>
 </tr>
+<tr>
+<td width="60%"  ><br><a name="Q0.5"><br></a>
+<font face="arial">
+<b>
+I don't get it. How do I use the Android app to find monologues?
+</b></font><br>
+<font face="verdana" size="-1">
+The concepts are all the same as what you see in the video for the website (above) but using the touch interface, instead of the keyboard and mouse.  If you missed the demo/how to video in the Google Play Store, you can watch it here.<br/></br>
+If you're on your phone or tablet, now watch this version (lower quality, but includes the annotations which won't display on mobile devices in the HD version):<br/>
+<iframe width="640" height="360" src="//www.youtube.com/embed/vkP1OZpGZCc?rel=0" frameborder="0" allowfullscreen></iframe>
+<br/><br/>
+
+If you're on your laptop or desktop now, watch this HD version with annotations (annotation in this version are not visible on mobile devices):<br/>
+<iframe width="640" height="360" src="//www.youtube.com/embed/avRLTjaarm0?rel=0" frameborder="0" allowfullscreen></iframe>
+</td>
+</tr>
+
 
 <tr>
 <td width="60%"  ><br><a name="Q1"><br></a>
@@ -348,7 +358,7 @@ Please <a href="http://shults.org/shakes/contact.php">click here to send me emai
 <table align="center" valign="bottom" height="90" width="80%">
 <tr>
 <td align="center" valign="bottom" height="90" width="100%">
-<font face="verdana" size="1px"><br>
+<font face="verdana" size="2px"><br>
 <a href="http://www.shakespeare-monologues.org/">[Home]</a>
 
 <a href="http://www.shakespeare-monologues.org/women/">[Women's Monologues]</a>
@@ -368,59 +378,28 @@ Please <a href="http://shults.org/shakes/contact.php">click here to send me emai
 <a href="http://shults.org/shakes/contact.php">[Contact]</a> </font>
 <p>
 
+<!-- begin donation button -->
 <a id="everbutton-693-1398040059-85" class="everbutton everbutton-693-1398040059-85 everbutton-blue" href="https://www.everbutton.com/donate/693" style="height:20px;width:49px;min-width:45px;padding:0px;">Tip Jar</a>
-<div><script type="text/javascript">
-var EB = EB || {};
-EB.button_stack = EB.button_stack || [];
-EB.button_stack.push( {
-anchor_id: "everbutton-693-1398040059-85",
-button_id: 693,
-button_type: "donate",
-button_options: {
-donor_chooses: false,
-allow_cover_fee: false,
-enable_recurring: false,
-allow_anonymous: true,
-reference_id: "",
-redirect_uri: ""
-}
-});
-if (!EB.script) {
-EB.script = document.createElement('script');
-EB.script.type = 'text/javascript';
-EB.script.async = true;
-EB.script.src = 'https://www.everbutton.com/assets/everbutton.v1.js?button_id=693';
-var s = document.getElementsByTagName('script')[0];
-s.parentNode.insertBefore(EB.script, s);
-} else if (EB.load_buttons) {
-EB.load_buttons();
-}
-</script></div>
+<!-- end donation button -->
+<br/><br/>
+<!-- begin chrome and play store buttons -->
+<a href="https://play.google.com/store/apps/details?id=com.ShakespearesMonologues.app" target="_blank"><img alt="Android app on Google Play" src="img/en_app_rgb_wo_45.png" /></a>
 
+<a href="https://chrome.google.com/webstore/detail/ejfdmafokffchogjkmfjdhalghlfemno" target="_blank"><img alt="Available in the Chrome Web Store" src="img/ChromeWebStore_BadgeWBorder_v2_160x45.png" /></a>
+<!-- end chrome and play store buttons -->
+<br/>
 <!-- begin social media buttons -->
      <!-- begin facebook button -->
-<div class="fb-like" data-href="http://www.facebook.com/ShakespearesMonologues" data-width="100" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+     <div id="fb-root"></div>
+     <div class="fb-like" data-href="http://www.shakespeare-monologues.org/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="false"></div>
      <!-- end facebook button -->
      <!-- begin twitter follow button -->
 <a href="http://twitter.com/ShakesMonos" class="twitter-follow-button" data-show-count="false">Follow @ShakesMonos</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
      <!-- end twitter follow button -->
      <!-- begin G+ button -->
-
-<!-- Place this tag where you want the widget to render. -->
-<div class="g-follow" data-annotation="bubble" data-height="15" data-href="//plus.google.com/106045313819632308693" data-rel="publisher"></div>
-
-<!-- Place this tag after the last widget tag. -->
-<script type="text/javascript">
-  (function() {
-    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-    po.src = 'https://apis.google.com/js/platform.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-  })();
-</script>
-
+     <!-- Place this tag where you want the widget to render. -->
+     <div class="g-follow" data-annotation="bubble" data-height="15" data-href="//plus.google.com/106045313819632308693" data-rel="publisher"></div>
      <!-- end G+ button -->
-</div>
 <!-- end social media buttons -->
 
 

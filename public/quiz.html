@@ -6,6 +6,10 @@
 <meta name=viewport content="width=device-width, initial-scale=0.5">
 <title itemprop="name">Quiz: Which Shakespeare Monologue Are You?</title>
 
+<script src="/javascripts/jquery.js?1403660933" type="text/javascript"></script>
+<script type="text/javascript">
+    jQuery.noConflict()
+  </script>
 
   <link href="/stylesheets/monologues.css?1401594111" media="screen" rel="stylesheet" type="text/css" />
   <script src="/javascripts/prototype.js?1401594111" type="text/javascript"></script>
@@ -78,20 +82,19 @@
 </script>
 <!-- End Google Analytics stuff -->
 <link rel="search" type="application/opensearchdescription+xml" title="Search Shakespeare's Monologues" href="http://www.shakespeare-monologues.org/opensearch.xml" />
+
+<!-- when the rest of the page has loaded, load the social.js-one-script-to-rule-them-all -->
+     <script>
+     (function($) {
+       $(window).bind("load", function() {
+       $.getScript('javascripts/social.js', function() {});
+       });
+     })(jQuery);
+     </script>
+
 </head>
 
 <body id="main">
-<!-- Start FB link button html5 script -->
-
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=38794938300";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-<!-- Start FB link button html5 script -->
 
 <!-- left column starts here -->
 
@@ -106,6 +109,7 @@
     <a href="https://www.facebook.com/ShakespearesMonologues" target="_blank">[FB]</a>
     <a href="https://plus.google.com/106045313819632308693" rel="publisher" target="_blank">[G+]</a><br/><br/>
     <a href="/faq.html#Q0">[How To]</a>
+    <a href="/home">[Home]</a>
   </div>
 
   <!-- left column ads -->
@@ -201,31 +205,29 @@ It's just a fun way to kill two minutes.  Enjoy it, then share it:
 <a href="http://www.shakespeare-monologues.org/store/index.html"><img src="/images/Books1.png" border="1" width="355" height="86"/></a>
 </div>
 <br/>
+<!-- begin chrome and play store buttons -->
+<a href="https://play.google.com/store/apps/details?id=com.ShakespearesMonologues.app" target="_blank"><img alt="Android app on Google Play" src="img/en_app_rgb_wo_45.png" /></a>
+
+<a href="https://chrome.google.com/webstore/detail/ejfdmafokffchogjkmfjdhalghlfemno" target="_blank"><img alt="Available in the Chrome Web Store" src="img/ChromeWebStore_BadgeWBorder_v2_160x45.png" /></a>
+<!-- end chrome and play store buttons -->
+<br/><br/>
 <!-- begin social media buttons -->
      <!-- begin facebook button -->
-<div class="fb-like" data-href="http://www.facebook.com/ShakespearesMonologues" data-width="100" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+     <div id="fb-root"></div>
+     <div class="fb-like" data-href="http://www.shakespeare-monologues.org/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="false"></div>
      <!-- end facebook button -->
      <!-- begin twitter follow button -->
 <a href="http://twitter.com/ShakesMonos" class="twitter-follow-button" data-show-count="false">Follow @ShakesMonos</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
      <!-- end twitter follow button -->
      <!-- begin G+ button -->
-
-<!-- Place this tag where you want the widget to render. -->
-<div class="g-follow" data-annotation="bubble" data-height="15" data-href="//plus.google.com/106045313819632308693" data-rel="publisher"></div>
-
-<!-- Place this tag after the last widget tag. -->
-<script type="text/javascript">
-  (function() {
-    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-    po.src = 'https://apis.google.com/js/platform.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-  })();
-</script>
+     <!-- Place this tag where you want the widget to render. -->
+     <div class="g-follow" data-annotation="bubble" data-height="15" data-href="//plus.google.com/106045313819632308693" data-rel="publisher"></div>
+     <!-- end G+ button -->
+<!-- end social media buttons -->
 
      <!-- end G+ button -->
 <!-- end social media buttons -->
-<br>
+<br/><br/>
       <!-- SiteSearch Google -->
 <form action="http://www.google.com/cse" id="cse-search-box" target="_blank">
   <div>

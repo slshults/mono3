@@ -109,16 +109,6 @@
       );
     }) ( jQuery );
   </script>
-<!-- Start G+ +1 button stuff -->
-
-<script type="text/javascript">
-  (function() {
-    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-    po.src = "https://apis.google.com/js/plusone.js?publisherid=106045313819632308693";
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-  })();
-</script>
-<!-- End G+ +1 button stuff -->
 
 <!-- Start Facebook Open Graph stuff -->
 <meta property="og:title" content="Shakespeare's Monologues" />
@@ -142,21 +132,19 @@ Built for actors. Used by everyone." />
 </script>
 <!-- End Google Analytics stuff -->
 <link rel="search" type="application/opensearchdescription+xml" title="Search Shakespeare's Monologues" href="http://www.shakespeare-monologues.org/opensearch.xml" />
+
+<!-- when the rest of the page has loaded, load the social.js-one-script-to-rule-them-all -->
+     <script>
+     (function($) {
+       $(window).bind("load", function() {
+       $.getScript('/javascripts/social.js', function() {});
+       });
+     })(jQuery);
+     </script>
+
 </head>
 
 <body id="main">
-<!-- Start FB link button html5 script -->
-
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=38794938300";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-<!-- Start FB link button html5 script -->
-
 
 <table id="layout">
 <tr>
@@ -213,51 +201,46 @@ Built for actors. Used by everyone." />
 
   <div id="center_column_footer">
     <div id="menu_bottom_center">
-
+<font face="verdana" size="-1">
       <%= link_to '[The Men]', '/men' %>&nbsp;
       <%= link_to '[The Women]', '/women' %>&nbsp;
        <%= link_to '[Search All]', '/plays' %>&nbsp;
-<br/>
       <a HREF="http://shakespeare-monologues.org/store/index.html">[Books]</a>&nbsp;
       <a HREF="/quiz.html">[Quiz]</a>&nbsp;
       <a HREF="http://twitter.com/ShakesMonos" target="_blank">[Twitter]</a>&nbsp;
       <a href="https://www.facebook.com/ShakespearesMonologues" target="_blank">[FB]</a>&nbsp;
-      <a href="https://plus.google.com/106045313819632308693" rel="publisher" target="_blank">[G+]</a><br>
+      <a href="https://plus.google.com/106045313819632308693" rel="publisher" target="_blank">[G+]</a>
       <%= link_to '[Home]', '/home' %>&nbsp;
       <%= link_to '[FAQ]', '/faqs' %>&nbsp;
       <%= link_to '[About]', '/aboutus' %>
       <a HREF="http://shults.org/shakes/contact.php">[Contact]</a>
+</font>
     </div>
 <br/>
 <div id="bookstore_ad">
 <a href="http://shakespeare-monologues.org/store/index.html"><img src="/images/Books1.png" border="1" width="355" height="86"/></a>
 </div>
 <br/>
+<!-- begin chrome and play store buttons -->
+<a href="https://play.google.com/store/apps/details?id=com.ShakespearesMonologues.app" target="_blank"><img alt="Android app on Google Play" src="/img/en_app_rgb_wo_45.png" /></a>
+
+<a href="https://chrome.google.com/webstore/detail/ejfdmafokffchogjkmfjdhalghlfemno" target="_blank"><img alt="Available in the Chrome Web Store" src="/img/ChromeWebStore_BadgeWBorder_v2_160x45.png" /></a>
+<!-- end chrome and play store buttons -->
+<br/><br/>
 <!-- begin social media buttons -->
      <!-- begin facebook button -->
-<div class="fb-like" data-href="http://www.facebook.com/ShakespearesMonologues" data-width="100" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+     <div id="fb-root"></div>
+     <div class="fb-like" data-href="http://www.shakespeare-monologues.org/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="false"></div>
      <!-- end facebook button -->
      <!-- begin twitter follow button -->
 <a href="http://twitter.com/ShakesMonos" class="twitter-follow-button" data-show-count="false">Follow @ShakesMonos</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
      <!-- end twitter follow button -->
      <!-- begin G+ button -->
-
-<!-- Place this tag where you want the widget to render. -->
-<div class="g-follow" data-annotation="bubble" data-height="15" data-href="//plus.google.com/106045313819632308693" data-rel="publisher"></div>
-
-<!-- Place this tag after the last widget tag. -->
-<script type="text/javascript">
-  (function() {
-    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-    po.src = 'https://apis.google.com/js/platform.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-  })();
-</script>
-
+     <!-- Place this tag where you want the widget to render. -->
+     <div class="g-follow" data-annotation="bubble" data-height="15" data-href="//plus.google.com/106045313819632308693" data-rel="publisher"></div>
      <!-- end G+ button -->
 <!-- end social media buttons -->
-<br>
+<br/><br/>
       <!-- SiteSearch Google -->
 <form action="http://www.google.com/cse" id="cse-search-box" target="_blank">
   <div>

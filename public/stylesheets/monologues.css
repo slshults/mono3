@@ -25,7 +25,7 @@ div#login_banner {
 }
 
 div#menu_top_left {
-    font-size: 12px;
+    font-size: 14px;
     vertical-align: top;
     margin-top: 0px;
     white-space: nowrap;
@@ -217,7 +217,7 @@ no-link {
 }
 .small {
     font-family: verdana;
-    font-size: 8px;
+    font-size: 10px;
 }
 .fieldWithErrors {
     padding: 2px;
